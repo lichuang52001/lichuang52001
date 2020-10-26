@@ -1,39 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Statement</title>
-    <url>/2020/10/26/Statement/</url>
-    <content><![CDATA[<table><tr><td bgcolor=orange>IN TEST MODE</td></tr></table>]]></content>
-  </entry>
-  <entry>
-    <title>chuangli</title>
-    <url>/2020/10/24/chuangli/</url>
-    <content><![CDATA[<p>tomorrow is a better day.</p>
-<h1 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h1><p>who are you</p>
-<h2 id="THU"><a href="#THU" class="headerlink" title="THU"></a>THU</h2><p>hahaha</p>
-<h1 id="Nice"><a href="#Nice" class="headerlink" title="Nice"></a>Nice</h1><p>What are you</p>
+    <title>PhotoShop修改图片像素和DPI</title>
+    <url>/2020/10/26/PhotoShop%E4%BF%AE%E6%94%B9%E5%9B%BE%E7%89%87%E5%83%8F%E7%B4%A0%E5%92%8CDPI/</url>
+    <content><![CDATA[<p>目标：修改特定图片的分辨率和DPI</p>
+<p>方法：</p>
+<ol>
+<li>将图片拖入Photoshop；</li>
+<li>“图像” $\rightarrow$ “图像大小” $\rightarrow$ 调整宽度、高度与分辨率为目标值；</li>
+<li>“文件” $\rightarrow$ “存储”，保存为指定格式和大小，即可；</li>
+</ol>
 ]]></content>
+      <categories>
+        <category>software</category>
+      </categories>
       <tags>
-        <tag>THU</tag>
-        <tag>PKU</tag>
+        <tag>Photoshop</tag>
+        <tag>tutorial</tag>
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/10/24/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
+    <title>Statement</title>
+    <url>/2020/10/26/Statement/</url>
+    <content><![CDATA[<table><tr><td bgcolor=orange>IN TEST MODE</td></tr></table>]]></content>
   </entry>
 </search>
