@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Statement</title>
-    <url>/2020/10/26/Statement/</url>
-    <content><![CDATA[<table><tr><td bgcolor=orange>IN TEST MODE</td></tr></table>]]></content>
-  </entry>
-  <entry>
     <title>PhotoShop修改图片像素和DPI</title>
     <url>/2020/10/26/PhotoShop%E4%BF%AE%E6%94%B9%E5%9B%BE%E7%89%87%E5%83%8F%E7%B4%A0%E5%92%8CDPI/</url>
     <content><![CDATA[<p>目标：修改特定图片的分辨率和DPI</p>
@@ -23,6 +18,11 @@
         <tag>Photoshop</tag>
         <tag>tutorial</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Statement</title>
+    <url>/2020/10/26/Statement/</url>
+    <content><![CDATA[<table><tr><td bgcolor=orange>IN TEST MODE</td></tr></table>]]></content>
   </entry>
   <entry>
     <title>与科研中的挫败感和谐共处</title>
