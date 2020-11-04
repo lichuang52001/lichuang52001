@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hexo Manual</title>
-    <url>/2020/10/20/Hexo-Manual/</url>
+    <url>/posts/1b7a7665/</url>
     <content><![CDATA[<h1 id="Official-documentation"><a href="#Official-documentation" class="headerlink" title="Official documentation"></a>Official documentation</h1><p><a href="https://hexo.io/docs/">Documentation for Hexo</a></p>
 <h1 id="Function"><a href="#Function" class="headerlink" title="Function"></a>Function</h1><h2 id="Delete-a-post"><a href="#Delete-a-post" class="headerlink" title="Delete a post"></a>Delete a post</h2><p>There is no command to delete a post on Hexo, but follow this steps :</p>
 <ol>
@@ -11,6 +11,11 @@
 <li>Run <code>hexo generate</code> to generate the new blog without your deleted post</li>
 <li>Run <code>hexo deploy</code> to deploy your blog</li>
 </ol>
+<h1 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h1><ul>
+<li>字数 &amp; 阅读时间统计：<a href="https://github.com/theme-next/hexo-symbols-count-time">hexo-symbols-count-time</a> </li>
+<li>博客置顶 <a href="https://github.com/netcan/hexo-generator-index-pin-top">hexo-generator-index-pin-top</a> </li>
+<li></li>
+</ul>
 ]]></content>
       <categories>
         <category>Tool</category>
@@ -20,78 +25,8 @@
       </tags>
   </entry>
   <entry>
-    <title>PhotoShop修改图片像素和DPI</title>
-    <url>/2020/10/26/PhotoShop%E4%BF%AE%E6%94%B9%E5%9B%BE%E7%89%87%E5%83%8F%E7%B4%A0%E5%92%8CDPI/</url>
-    <content><![CDATA[<p>目标：修改特定图片的分辨率和DPI</p>
-<p>方法：</p>
-<ol>
-<li>将图片拖入Photoshop；</li>
-<li>“图像” $\rightarrow$ “图像大小” $\rightarrow$ 调整宽度、高度与分辨率为目标值；</li>
-<li>“文件” $\rightarrow$ “存储”，保存为指定格式和大小，即可；</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Software</category>
-      </categories>
-      <tags>
-        <tag>Photoshop</tag>
-        <tag>Tutorial</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>The illustrated guide to a Ph.D.</title>
-    <url>/2020/11/02/The-illustrated-guide-to-a-Ph-D/</url>
-    <content><![CDATA[<blockquote>
-<p>from <a href="http://matt.might.net/articles/phd-school-in-pictures/">Matt Might’s blog</a></p>
-</blockquote>
-<p>Imagine a circle that contains all of human knowledge:</p>
-<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.001.jpg' width='68%'>
-
-<p>By the time you finish elementary school, you know a little:</p>
-<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.002.jpg' width='68%'>
-
-<p>By the time you finish high school, you know a bit more:</p>
-<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.003.jpg' width='68%'>
-
-<p>With a bachelor’s degree, you gain a specialty:</p>
-<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.004.jpg' width='68%'>
-
-<p>A master’s degree deepens that specialty:</p>
-<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.005.jpg' width='68%'>
-
-<p>Reading research papers takes you to the edge of human knowledge:</p>
-<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.006.jpg' width='68%'>
-
-<p>Once you’re at the boundary, you focus:</p>
-<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.007.jpg' width='68%'>
-
-<p>You push at the boundary for a few years:</p>
-<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.008.jpg' width='68%'>
-
-<p>Until one day, the boundary gives way:</p>
-<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.009.jpg' width='68%'>
-
-<p>And, that dent you’ve made is called a Ph.D.:</p>
-<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.010.jpg' width='68%'>
-
-<p>Of course, the world looks different to you now:</p>
-<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.011.jpg' width='68%'>
-
-<p>So, don’t forget the bigger picture:</p>
-<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.012.jpg' width='68%'>
-
-<p>Keep pushing.</p>
-]]></content>
-      <categories>
-        <category>Research</category>
-      </categories>
-      <tags>
-        <tag>Study</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Tools</title>
-    <url>/2020/11/03/Tools/</url>
+    <url>/posts/2b3bf173/</url>
     <content><![CDATA[<h1 id="作图工具"><a href="#作图工具" class="headerlink" title="作图工具"></a>作图工具</h1><ul>
 <li>  <a href="http://www.zuohaotu.com/">做好图</a></li>
 <li><a href="https://inkscape.org/">INKSPACE</a><ul>
@@ -190,8 +125,59 @@
       </tags>
   </entry>
   <entry>
+    <title>The illustrated guide to a Ph.D.</title>
+    <url>/posts/a0e1b16e/</url>
+    <content><![CDATA[<blockquote>
+<p>from <a href="http://matt.might.net/articles/phd-school-in-pictures/">Matt Might’s blog</a></p>
+</blockquote>
+<p>Imagine a circle that contains all of human knowledge:</p>
+<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.001.jpg' width='68%'>
+
+<p>By the time you finish elementary school, you know a little:</p>
+<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.002.jpg' width='68%'>
+
+<p>By the time you finish high school, you know a bit more:</p>
+<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.003.jpg' width='68%'>
+
+<p>With a bachelor’s degree, you gain a specialty:</p>
+<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.004.jpg' width='68%'>
+
+<p>A master’s degree deepens that specialty:</p>
+<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.005.jpg' width='68%'>
+
+<p>Reading research papers takes you to the edge of human knowledge:</p>
+<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.006.jpg' width='68%'>
+
+<p>Once you’re at the boundary, you focus:</p>
+<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.007.jpg' width='68%'>
+
+<p>You push at the boundary for a few years:</p>
+<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.008.jpg' width='68%'>
+
+<p>Until one day, the boundary gives way:</p>
+<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.009.jpg' width='68%'>
+
+<p>And, that dent you’ve made is called a Ph.D.:</p>
+<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.010.jpg' width='68%'>
+
+<p>Of course, the world looks different to you now:</p>
+<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.011.jpg' width='68%'>
+
+<p>So, don’t forget the bigger picture:</p>
+<img src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.012.jpg' width='68%'>
+
+<p>Keep pushing.</p>
+]]></content>
+      <categories>
+        <category>Research</category>
+      </categories>
+      <tags>
+        <tag>Study</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【转载】学术上的老人与海</title>
-    <url>/2020/10/30/%E3%80%90%E8%BD%AC%E8%BD%BD%E3%80%91%E5%AD%A6%E6%9C%AF%E4%B8%8A%E7%9A%84%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7/</url>
+    <url>/posts/8f3e500e/</url>
     <content><![CDATA[<blockquote>
 <p>转载自<a href="http://blog.sina.com.cn/s/blog_47841af7010005mk.html">张五常教授的新浪博客</a> </p>
 </blockquote>
@@ -222,26 +208,26 @@
 ]]></content>
   </entry>
   <entry>
-    <title>与科研中的挫败感和谐共处</title>
-    <url>/2020/10/26/%E4%B8%8E%E7%A7%91%E7%A0%94%E4%B8%AD%E7%9A%84%E6%8C%AB%E8%B4%A5%E6%84%9F%E5%92%8C%E8%B0%90%E5%85%B1%E5%A4%84/</url>
-    <content><![CDATA[<h1 id="心态上"><a href="#心态上" class="headerlink" title="心态上"></a>心态上</h1><ol>
-<li>   认清、接纳自己的无知，科研本身是在探索未知的事物。</li>
-<li>   合理预期科研工作的难度，作科研难，做好的科研更难。</li>
-</ol>
-<h1 id="行为上"><a href="#行为上" class="headerlink" title="行为上"></a>行为上</h1><ol>
-<li>实现有效的“愚蠢”，从一次次的“愚蠢”中学习，获得进步。</li>
-</ol>
-<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ol>
-<li>SCHWARTZ M A. The Importance of Stupidity in Scientific Research[J]. Journal of Cell Science, 2008, 121(11): 1771–1771. DOI:<a href="https://doi.org/10.1242/jcs.033340">10.1242/jcs.033340</a>.</li>
-</ol>
-]]></content>
+    <title>痛苦+反思=进步</title>
+    <url>/posts/751ee5dc/</url>
+    <content><![CDATA[<blockquote>
+<p>强烈推荐 Ray Dalio 的书《原则》，下文摘自本书中。</p>
+</blockquote>
+<p>人避免不了痛苦，尤其是在追求雄心勃勃的目标时。不管你相信与否，如果以正确的态度对待痛苦，感到痛苦就是你的幸运，因为这是一个信号——你需要寻找解决方案以便继续前进。如果你能形成一种条件反射，面对精神痛苦时能够自动地反思痛苦，而不是躲避痛苦，你就能够快速地学习和进化。直面那些由问题、错误和弱点导致的痛苦现实，会大幅提高你的效率，我相信，只要你看到了这种做法的好处，就不会再想以其它方式行事了。你只需要养成这样做的习惯。</p>
+<p>大多数人在痛苦时不愿反思，而一旦痛苦消失，他们的注意力就会转移，所以他们难以通过反思得到教益。如果你在痛苦时就能好好反思（这个要求也许太高），这非常好。如果你能够记得在痛苦消失后进行反思，这也很有价值。</p>
+<p>你面临的挑战将会考验你，强化你。如果你没有经历过失败，就说明你没有努力突破极限，而如果你不努力突破极限，你就不能最大限度地挖掘自己的潜能。努力突破极限有时失败有时成功，但总能带来益处。虽然这种做法不一定适合所有人，但假如适合你，那将会是一种美妙的体验，令人沉迷。生活不可避免地会带给你这样的考验，而你愿不愿意不断去尝试，取决于你自己。</p>
+<p>如果你选择在这条常常很痛苦的个人进化之路上拼搏，你将自然而然地不断“更上一层楼”。当你越过包围你的事物，到达了更高一层的境界，你就会发现，其实那些事物并没有你近看时所以为的那么重要。生活中的大多数东西都不过是“同类情况的重演”。你的层次越高，就能更加有效地应对现实，塑造符合你目标的结果。而曾经看起来无比复杂的东西，也会变得简单。</p>
+<img src='https://github.com/lichuang52001/oss/blob/master/uPic/2020-10-30-progress.png?raw=true' width="50%">]]></content>
       <categories>
-        <category>Research</category>
+        <category>Principle</category>
       </categories>
+      <tags>
+        <tag>Principle</tag>
+      </tags>
   </entry>
   <entry>
     <title>【转载】你真的懂得如何学习吗？</title>
-    <url>/2020/10/29/%E4%BD%A0%E7%9C%9F%E7%9A%84%E6%87%82%E5%BE%97%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E5%90%97%EF%BC%9F/</url>
+    <url>/posts/f55e7ae1/</url>
     <content><![CDATA[<blockquote>
 <p>清华大学郑泉水院士关于大学学习方法的分享，转自<a href="https://mp.weixin.qq.com/s/Pojd2AuG1g1FLWb3t2ZN4Q">清华大学藤影荷声</a>。</p>
 </blockquote>
@@ -273,21 +259,40 @@
       </tags>
   </entry>
   <entry>
-    <title>痛苦+反思=进步</title>
-    <url>/2020/10/29/%E7%97%9B%E8%8B%A6%E5%8F%8D%E6%80%9D%E8%BF%9B%E6%AD%A5/</url>
-    <content><![CDATA[<blockquote>
-<p>强烈推荐 Ray Dalio 的书《原则》，下文摘自本书中。</p>
-</blockquote>
-<p>人避免不了痛苦，尤其是在追求雄心勃勃的目标时。不管你相信与否，如果以正确的态度对待痛苦，感到痛苦就是你的幸运，因为这是一个信号——你需要寻找解决方案以便继续前进。如果你能形成一种条件反射，面对精神痛苦时能够自动地反思痛苦，而不是躲避痛苦，你就能够快速地学习和进化。直面那些由问题、错误和弱点导致的痛苦现实，会大幅提高你的效率，我相信，只要你看到了这种做法的好处，就不会再想以其它方式行事了。你只需要养成这样做的习惯。</p>
-<p>大多数人在痛苦时不愿反思，而一旦痛苦消失，他们的注意力就会转移，所以他们难以通过反思得到教益。如果你在痛苦时就能好好反思（这个要求也许太高），这非常好。如果你能够记得在痛苦消失后进行反思，这也很有价值。</p>
-<p>你面临的挑战将会考验你，强化你。如果你没有经历过失败，就说明你没有努力突破极限，而如果你不努力突破极限，你就不能最大限度地挖掘自己的潜能。努力突破极限有时失败有时成功，但总能带来益处。虽然这种做法不一定适合所有人，但假如适合你，那将会是一种美妙的体验，令人沉迷。生活不可避免地会带给你这样的考验，而你愿不愿意不断去尝试，取决于你自己。</p>
-<p>如果你选择在这条常常很痛苦的个人进化之路上拼搏，你将自然而然地不断“更上一层楼”。当你越过包围你的事物，到达了更高一层的境界，你就会发现，其实那些事物并没有你近看时所以为的那么重要。生活中的大多数东西都不过是“同类情况的重演”。你的层次越高，就能更加有效地应对现实，塑造符合你目标的结果。而曾经看起来无比复杂的东西，也会变得简单。</p>
-<img src='https://github.com/lichuang52001/oss/blob/master/uPic/2020-10-30-progress.png?raw=true' width="50%">]]></content>
+    <title>与科研中的挫败感和谐共处</title>
+    <url>/posts/7e24545e/</url>
+    <content><![CDATA[<h1 id="心态上"><a href="#心态上" class="headerlink" title="心态上"></a>心态上</h1><ol>
+<li>   认清、接纳自己的无知，科研本身是在探索未知的事物。</li>
+<li>   合理预期科研工作的难度，作科研难，做好的科研更难。</li>
+</ol>
+<h1 id="行为上"><a href="#行为上" class="headerlink" title="行为上"></a>行为上</h1><ol>
+<li>实现有效的“愚蠢”，从一次次的“愚蠢”中学习，获得进步。</li>
+</ol>
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ol>
+<li>SCHWARTZ M A. The Importance of Stupidity in Scientific Research[J]. Journal of Cell Science, 2008, 121(11): 1771–1771. DOI:<a href="https://doi.org/10.1242/jcs.033340">10.1242/jcs.033340</a>.</li>
+</ol>
+]]></content>
       <categories>
-        <category>Principle</category>
+        <category>Research</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>PhotoShop修改图片像素和DPI</title>
+    <url>/posts/181ee94c/</url>
+    <content><![CDATA[<p>目标：修改特定图片的分辨率和DPI</p>
+<p>方法：</p>
+<ol>
+<li>将图片拖入Photoshop；</li>
+<li>“图像” $\rightarrow$ “图像大小” $\rightarrow$ 调整宽度、高度与分辨率为目标值；</li>
+<li>“文件” $\rightarrow$ “存储”，保存为指定格式和大小，即可；</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Software</category>
       </categories>
       <tags>
-        <tag>Principle</tag>
+        <tag>Photoshop</tag>
+        <tag>Tutorial</tag>
       </tags>
   </entry>
 </search>
