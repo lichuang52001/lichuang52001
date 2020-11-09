@@ -4,7 +4,7 @@
     <title>Hexo Manual</title>
     <url>/posts/1b7a7665/</url>
     <content><![CDATA[<h1 id="Official-documentation"><a href="#Official-documentation" class="headerlink" title="Official documentation"></a>Official documentation</h1><p><a href="https://hexo.io/docs/">Documentation for Hexo</a></p>
-<p><a href="https://theme-next.js.org/">hexo NexT theme</a> </p>
+<p><a href="https://theme-next.js.org/">Hexo NexT theme</a> </p>
 <h1 id="Function"><a href="#Function" class="headerlink" title="Function"></a>Function</h1><h2 id="Delete-a-post"><a href="#Delete-a-post" class="headerlink" title="Delete a post"></a>Delete a post</h2><p>There is no command to delete a post on Hexo, but follow this steps :</p>
 <ol>
 <li>Delete the post under <code>source/_post folder</code></li>
