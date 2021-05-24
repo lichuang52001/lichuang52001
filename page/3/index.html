@@ -686,7 +686,7 @@
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">Edited on</span>
-        <time title="Modified: 2020-11-26 10:55:11" itemprop="dateModified" datetime="2020-11-26T10:55:11+08:00">2020-11-26</time>
+        <time title="Modified: 2021-05-24 19:36:47" itemprop="dateModified" datetime="2021-05-24T19:36:47+08:00">2021-05-24</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -710,16 +710,30 @@
     <div class="post-body" itemprop="articleBody">
           <h1 id="Official-documentation"><a href="#Official-documentation" class="headerlink" title="Official documentation"></a>Official documentation</h1><p><span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">Documentation for Hexo<i class="fa fa-external-link-alt"></i></span></p>
 <p><span class="exturl" data-url="aHR0cHM6Ly90aGVtZS1uZXh0LmpzLm9yZy8=">Hexo NexT theme<i class="fa fa-external-link-alt"></i></span> </p>
-<h1 id="Function"><a href="#Function" class="headerlink" title="Function"></a>Function</h1><h2 id="Delete-a-post"><a href="#Delete-a-post" class="headerlink" title="Delete a post"></a>Delete a post</h2><p>There is no command to delete a post on Hexo, but follow this steps :</p>
+<h1 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h1><ol>
+<li>安装 <code>Git</code></li>
+<li>安装 <code>Node.js</code></li>
+<li>安装 <code>Hexo</code></li>
+</ol>
+<h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p>打开 <code>cmd</code></p>
+<p><code>hexo n &quot;我的博客&quot;</code> == hexo new “我的博客” #新建文章</p>
+<p><code>hexo g</code> == hexo generate #生成</p>
+<p><code>hexo s</code> == hexo server #启动服务预览</p>
+<p><code>hexo d</code> == hexo deploy #部署</p>
+<h2 id="删除"><a href="#删除" class="headerlink" title="删除"></a>删除</h2><p>There is no command to delete a post on Hexo, but follow this steps :</p>
 <ol>
 <li>Delete the post under <code>source/_post folder</code></li>
 <li>Run <code>hexo clean</code> to delete the database (db.json) and assets folder</li>
 <li>Run <code>hexo generate</code> to generate the new blog without your deleted post</li>
 <li>Run <code>hexo deploy</code> to deploy your blog</li>
 </ol>
-<h1 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h1><ul>
+<h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><p>使用 <code>hexo d</code> 部署到 <code>Github</code> 之前，因为国内网络问题，最好先通过如下代码设置代理：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">set</span> http_proxy=socks5://<span class="number">127.0</span><span class="number">.0</span><span class="number">.1</span>:<span class="number">10808</span></span><br><span class="line"><span class="built_in">set</span> https_proxy=socks5://<span class="number">127.0</span><span class="number">.0</span><span class="number">.1</span>:<span class="number">10808</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h2><ul>
 <li>字数 &amp; 阅读时间统计：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3RoZW1lLW5leHQvaGV4by1zeW1ib2xzLWNvdW50LXRpbWU=">hexo-symbols-count-time<i class="fa fa-external-link-alt"></i></span> </li>
-<li>博客置顶 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25ldGNhbi9oZXhvLWdlbmVyYXRvci1pbmRleC1waW4tdG9w">hexo-generator-index-pin-top<i class="fa fa-external-link-alt"></i></span> </li>
+<li>博客置顶：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25ldGNhbi9oZXhvLWdlbmVyYXRvci1pbmRleC1waW4tdG9w">hexo-generator-index-pin-top<i class="fa fa-external-link-alt"></i></span> </li>
+<li>鼠标点击烟花效果：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25leHQtdGhlbWUvaGV4by1uZXh0LWZpcmV3b3Jrcw==">hexo-next-fireworks<i class="fa fa-external-link-alt"></i></span> </li>
 </ul>
 
       
