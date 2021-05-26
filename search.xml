@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Principles</title>
-    <url>/posts/71d0cc31/</url>
-    <content><![CDATA[<center>实事求是</center>]]></content>
-      <categories>
-        <category>Principle</category>
-      </categories>
-      <tags>
-        <tag>Principle</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>How To Write A Scientific Paper</title>
     <url>/posts/44aa413a/</url>
     <content><![CDATA[<blockquote>
@@ -467,6 +456,17 @@
       </tags>
   </entry>
   <entry>
+    <title>Principles</title>
+    <url>/posts/71d0cc31/</url>
+    <content><![CDATA[<center>实事求是</center>]]></content>
+      <categories>
+        <category>Principle</category>
+      </categories>
+      <tags>
+        <tag>Principle</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>鸵鸟现象</title>
     <url>/posts/4a633a16/</url>
     <content><![CDATA[<p>鸵鸟现象，指一种遇到难题就逃避的现象。其名称源自于鸵鸟在遇到危险时，将头埋在沙坑里，以为躲避了危险但实则毫无用处的现象。</p>
@@ -890,6 +890,7 @@
 <p><code>hexo g</code> == hexo generate #生成</p>
 <p><code>hexo s</code> == hexo server #启动服务预览</p>
 <p><code>hexo d</code> == hexo deploy #部署</p>
+<h2 id="博客置顶"><a href="#博客置顶" class="headerlink" title="博客置顶"></a>博客置顶</h2><p>在YAML Front Matter中添加一行：<code>top: true</code> </p>
 <h2 id="删除"><a href="#删除" class="headerlink" title="删除"></a>删除</h2><p>There is no command to delete a post on Hexo, but follow this steps :</p>
 <ol>
 <li>Delete the post under <code>source/_post folder</code></li>
