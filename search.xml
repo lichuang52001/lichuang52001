@@ -54,6 +54,7 @@
     <url>/posts/1b7a7665/</url>
     <content><![CDATA[<h1 id="Official-documentation"><a href="#Official-documentation" class="headerlink" title="Official documentation"></a>Official documentation</h1><p><span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">Documentation for Hexo<i class="fa fa-external-link-alt"></i></span></p>
 <p><span class="exturl" data-url="aHR0cHM6Ly90aGVtZS1uZXh0LmpzLm9yZy8=">Hexo NexT theme<i class="fa fa-external-link-alt"></i></span> </p>
+<p><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25leHQtdGhlbWUvaGV4by10aGVtZS1uZXh0">Github hexo-theme-next<i class="fa fa-external-link-alt"></i></span>  </p>
 <h1 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h1><ol>
 <li>安装 <code>Git</code></li>
 <li>安装 <code>Node.js</code></li>
@@ -82,7 +83,18 @@
 <li>博客置顶：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25ldGNhbi9oZXhvLWdlbmVyYXRvci1pbmRleC1waW4tdG9w">hexo-generator-index-pin-top<i class="fa fa-external-link-alt"></i></span> </li>
 <li>鼠标点击烟花效果：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25leHQtdGhlbWUvaGV4by1uZXh0LWZpcmV3b3Jrcw==">hexo-next-fireworks<i class="fa fa-external-link-alt"></i></span> </li>
 </ul>
-<h2 id="升级"><a href="#升级" class="headerlink" title="升级"></a>升级</h2><h3 id="升级Hexo"><a href="#升级Hexo" class="headerlink" title="升级Hexo"></a>升级Hexo</h3><h3 id="升级NexT主题"><a href="#升级NexT主题" class="headerlink" title="升级NexT主题"></a>升级NexT主题</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd themes&#x2F;next</span><br><span class="line">git pull</span><br></pre></td></tr></table></figure>
+<h2 id="升级"><a href="#升级" class="headerlink" title="升级"></a>升级</h2><h3 id="升级Hexo"><a href="#升级Hexo" class="headerlink" title="升级Hexo"></a>升级Hexo</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 查看 Hexo 版本信息</span></span><br><span class="line">hexo v</span><br><span class="line"><span class="comment"># 全局升级 Hexo-cli</span></span><br><span class="line">npm install hexo-cli -g</span><br><span class="line"><span class="comment"># 查看系统插件，检查插件是否需要升级</span></span><br><span class="line">npm install -g npm-check</span><br><span class="line">npm-check</span><br><span class="line"><span class="comment"># 升级系统插件</span></span><br><span class="line">npm install -g npm-upgrade</span><br><span class="line">npm-upgrade</span><br><span class="line"><span class="comment"># 更新</span></span><br><span class="line">npm update -g</span><br><span class="line">npm update --save</span><br><span class="line"><span class="comment"># 再次查看 Hexo 版本信息</span></span><br><span class="line">hexo v</span><br></pre></td></tr></table></figure>
+
+<h3 id="升级NexT主题"><a href="#升级NexT主题" class="headerlink" title="升级NexT主题"></a>升级NexT主题</h3><ol>
+<li>Go to <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25leHQtdGhlbWUvaGV4by10aGVtZS1uZXh0">Github Page<i class="fa fa-external-link-alt"></i></span> of <code>hexo-theme-next</code> </li>
+<li>Go to <em>Release</em>, download the <em>Latest release version</em> </li>
+<li>copy &amp; replace contents in the folder <code>themes/next</code><ol>
+<li><em><strong>[CAUTION]</strong></em> Before replace, backup file <code>_config.yml</code> where some customized settings are saved.</li>
+</ol>
+</li>
+<li>re-configure file <code>_config.yml</code> </li>
+<li>enjoy…</li>
+</ol>
 ]]></content>
       <categories>
         <category>Tool</category>
