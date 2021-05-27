@@ -1,47 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hexo Manual</title>
-    <url>/posts/1b7a7665/</url>
-    <content><![CDATA[<h1 id="Official-documentation"><a href="#Official-documentation" class="headerlink" title="Official documentation"></a>Official documentation</h1><p><span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">Documentation for Hexo<i class="fa fa-external-link-alt"></i></span></p>
-<p><span class="exturl" data-url="aHR0cHM6Ly90aGVtZS1uZXh0LmpzLm9yZy8=">Hexo NexT theme<i class="fa fa-external-link-alt"></i></span> </p>
-<h1 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h1><ol>
-<li>安装 <code>Git</code></li>
-<li>安装 <code>Node.js</code></li>
-<li>安装 <code>Hexo</code></li>
-</ol>
-<a id="more"></a>
-
-<h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p>打开 <code>cmd</code></p>
-<p><code>hexo n &quot;我的博客&quot;</code> == hexo new “我的博客” #新建文章</p>
-<p><code>hexo g</code> == hexo generate #生成</p>
-<p><code>hexo s</code> == hexo server #启动服务预览</p>
-<p><code>hexo d</code> == hexo deploy #部署</p>
-<h2 id="博客置顶"><a href="#博客置顶" class="headerlink" title="博客置顶"></a>博客置顶</h2><p>在YAML Front Matter中添加一行：<code>top: true</code> </p>
-<h2 id="删除"><a href="#删除" class="headerlink" title="删除"></a>删除</h2><p>There is no command to delete a post on Hexo, but follow this steps :</p>
-<ol>
-<li>Delete the post under <code>source/_post folder</code></li>
-<li>Run <code>hexo clean</code> to delete the database (db.json) and assets folder</li>
-<li>Run <code>hexo generate</code> to generate the new blog without your deleted post</li>
-<li>Run <code>hexo deploy</code> to deploy your blog</li>
-</ol>
-<h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><p>使用 <code>hexo d</code> 部署到 <code>Github</code> 之前，因为国内网络问题，最好先通过如下代码设置代理：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">set</span> http_proxy=socks5://<span class="number">127.0</span><span class="number">.0</span><span class="number">.1</span>:<span class="number">10808</span></span><br><span class="line"><span class="built_in">set</span> https_proxy=socks5://<span class="number">127.0</span><span class="number">.0</span><span class="number">.1</span>:<span class="number">10808</span></span><br></pre></td></tr></table></figure>
-
-<h2 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h2><ul>
-<li>字数 &amp; 阅读时间统计：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3RoZW1lLW5leHQvaGV4by1zeW1ib2xzLWNvdW50LXRpbWU=">hexo-symbols-count-time<i class="fa fa-external-link-alt"></i></span> </li>
-<li>博客置顶：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25ldGNhbi9oZXhvLWdlbmVyYXRvci1pbmRleC1waW4tdG9w">hexo-generator-index-pin-top<i class="fa fa-external-link-alt"></i></span> </li>
-<li>鼠标点击烟花效果：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25leHQtdGhlbWUvaGV4by1uZXh0LWZpcmV3b3Jrcw==">hexo-next-fireworks<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-]]></content>
-      <categories>
-        <category>Tool</category>
-      </categories>
-      <tags>
-        <tag>Tool</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Getting Things Done</title>
     <url>/posts/7694439f/</url>
     <content><![CDATA[<p>Getting Things Done (GTD) is a time management method, described in the book of the same title by productivity consultant <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS9ndGRndXk=">David Allen<i class="fa fa-external-link-alt"></i></span>.</p>
@@ -65,7 +24,7 @@
     <title>Hawking Memorial article</title>
     <url>/posts/3dea12d7/</url>
     <content><![CDATA[<p><span class="exturl" data-url="aHR0cHM6Ly93d3cucG5hcy5vcmcvY29udGVudC8xMTUvMjEvNTMwOQ==">Stephen Hawking (1942–2018): Toward a complete understanding of the universe<i class="fa fa-external-link-alt"></i></span> by James Hartle, 2018.</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <p>2 works by Hawking stand out:</p>
 <ul>
@@ -91,11 +50,53 @@
       </tags>
   </entry>
   <entry>
+    <title>Hexo Manual</title>
+    <url>/posts/1b7a7665/</url>
+    <content><![CDATA[<h1 id="Official-documentation"><a href="#Official-documentation" class="headerlink" title="Official documentation"></a>Official documentation</h1><p><span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">Documentation for Hexo<i class="fa fa-external-link-alt"></i></span></p>
+<p><span class="exturl" data-url="aHR0cHM6Ly90aGVtZS1uZXh0LmpzLm9yZy8=">Hexo NexT theme<i class="fa fa-external-link-alt"></i></span> </p>
+<h1 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h1><ol>
+<li>安装 <code>Git</code></li>
+<li>安装 <code>Node.js</code></li>
+<li>安装 <code>Hexo</code></li>
+</ol>
+<span id="more"></span>
+
+<h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p>打开 <code>cmd</code></p>
+<p><code>hexo n &quot;我的博客&quot;</code> == hexo new “我的博客” #新建文章</p>
+<p><code>hexo g</code> == hexo generate #生成</p>
+<p><code>hexo s</code> == hexo server #启动服务预览</p>
+<p><code>hexo d</code> == hexo deploy #部署</p>
+<h2 id="博客置顶"><a href="#博客置顶" class="headerlink" title="博客置顶"></a>博客置顶</h2><p>在YAML Front Matter中添加一行：<code>top: true</code> </p>
+<h2 id="删除"><a href="#删除" class="headerlink" title="删除"></a>删除</h2><p>There is no command to delete a post on Hexo, but follow this steps :</p>
+<ol>
+<li>Delete the post under <code>source/_post folder</code></li>
+<li>Run <code>hexo clean</code> to delete the database (db.json) and assets folder</li>
+<li>Run <code>hexo generate</code> to generate the new blog without your deleted post</li>
+<li>Run <code>hexo deploy</code> to deploy your blog</li>
+</ol>
+<h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><p>使用 <code>hexo d</code> 部署到 <code>Github</code> 之前，因为国内网络问题，最好先通过如下代码设置代理：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">set</span> http_proxy=socks5://<span class="number">127.0</span><span class="number">.0</span><span class="number">.1</span>:<span class="number">10808</span></span><br><span class="line"><span class="built_in">set</span> https_proxy=socks5://<span class="number">127.0</span><span class="number">.0</span><span class="number">.1</span>:<span class="number">10808</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h2><ul>
+<li>字数 &amp; 阅读时间统计：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3RoZW1lLW5leHQvaGV4by1zeW1ib2xzLWNvdW50LXRpbWU=">hexo-symbols-count-time<i class="fa fa-external-link-alt"></i></span> </li>
+<li>博客置顶：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25ldGNhbi9oZXhvLWdlbmVyYXRvci1pbmRleC1waW4tdG9w">hexo-generator-index-pin-top<i class="fa fa-external-link-alt"></i></span> </li>
+<li>鼠标点击烟花效果：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25leHQtdGhlbWUvaGV4by1uZXh0LWZpcmV3b3Jrcw==">hexo-next-fireworks<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h2 id="升级"><a href="#升级" class="headerlink" title="升级"></a>升级</h2><h3 id="升级Hexo"><a href="#升级Hexo" class="headerlink" title="升级Hexo"></a>升级Hexo</h3><h3 id="升级NexT主题"><a href="#升级NexT主题" class="headerlink" title="升级NexT主题"></a>升级NexT主题</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd themes&#x2F;next</span><br><span class="line">git pull</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>Tool</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>鸵鸟现象</title>
     <url>/posts/4a633a16/</url>
     <content><![CDATA[<p>鸵鸟现象，指一种遇到难题就逃避的现象。其名称源自于鸵鸟在遇到危险时，将头埋在沙坑里，以为躲避了危险但实则毫无用处的现象。</p>
 <p>鸵鸟现象在生活中非常普遍，应对该现象的方法有：1. 给自己设定合适的缓冲时间，再着手解决问题；2. 勇敢面对难题，逐步、合理化解难题。</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <img data-src='https://miro.medium.com/max/16000/1*zSttG88z_KVYsKh8Cy03Gg.png' width='50%'>]]></content>
       <categories>
@@ -109,7 +110,7 @@
     <title>PhotoShop修改图片像素和DPI</title>
     <url>/posts/181ee94c/</url>
     <content><![CDATA[<p>目标：修改特定图片的分辨率和DPI</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <p>方法：</p>
 <ol>
@@ -132,7 +133,7 @@
     <content><![CDATA[<blockquote>
 <p>介绍：《破窑赋》，又名《劝世章》，是近代人们假托北宋大臣吕蒙正的作品，吕蒙正曾任当时太子（即位后为宋真宗）的太子太傅，这篇文章假托吕蒙正为了劝诫太子而创作的。作者以吕蒙正的语气自述从贫苦到富贵的经历，并列举了历史上诸多名人的起伏命运，来说明一种自然循环的人生思想。此文题材不是赋，文辞对仗近乎于元曲里面的俚语，与明清章回体小说的标题也很相似，与精通易理之人的命理对答词很相似，与明清时期成书的《增广贤文》里面的内容、形式都很接近，经后人考据《宋史》亦无相关记载。 吕蒙正（944-1011），字圣功，河南洛阳（今属河南省）人。生于后晋出帝开运三年，卒于宋真宗大中祥符四年。宋太宗太平兴国二年（977年）丁丑科状元。</p>
 </blockquote>
-<a id="more"></a>
+<span id="more"></span>
 
 <p>正文： 天有不测风云，人有旦夕祸福。蜈蚣百足，行不及蛇；雄鸡两翼，飞不过鸦，马有千里之程，无骑不能自往；人有冲天之志，非运不能自通。盖闻：人生在世，富贵不能淫，贫贱不能移。文章盖世，孔子困厄于陈邦；武略超群，太公钓于渭水。颜渊命短，殊非凶恶之徒；盗跖年长，岂是善良之辈。尧帝明圣，却生不肖之儿；瞽叟愚顽，反生大孝之子。张良原是布衣，萧何称谓县吏。晏子身无五尺，封为齐国宰相；孔明居卧草庐，能作蜀汉军师。楚王虽雄，难免乌江自刎；汉王虽弱，竟有万里江山。李广有射虎之威，到老无封；冯唐有乘龙之才，一生不遇。韩信未遇之时，无一日三餐，及至运行，腰悬三尺玉印，一旦时衰，死于阴人之手。</p>
 <p>有先贫而后富，有老壮而少衰。满腹文章，白发竟然不中；才疏学浅，少年及第登科。深院宫娥，运退反为妓妾；风流妓女，时来配作夫人。青春美女，却招愚蠢之夫；俊秀郎君，反配粗丑之妇。蛟龙未遇，潜水于鱼鳖之间；君子失时，拱手于小人之下。衣服虽破，常存仪礼之容；面带懮愁，每抱怀安之量。时遭不遇，只宜安贫守份；心若不欺，必然扬眉吐气。初贫君子，天然骨骼生成；乍富小人，不脱贫寒肌体。</p>
@@ -180,7 +181,7 @@
 <p>from <span class="exturl" data-url="aHR0cDovL21hdHQubWlnaHQubmV0L2FydGljbGVzL3BoZC1zY2hvb2wtaW4tcGljdHVyZXMv">Matt Might’s blog<i class="fa fa-external-link-alt"></i></span></p>
 </blockquote>
 <p>Imagine a circle that contains all of human knowledge:</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.001.jpg' width='68%'>
 
@@ -241,7 +242,7 @@
 </li>
 <li>  <span class="exturl" data-url="aHR0cHM6Ly9pbWFnZW1hZ2ljay5vcmcvaW5kZXgucGhw">ImageMagick<i class="fa fa-external-link-alt"></i></span> </li>
 </ul>
-<a id="more"></a>
+<span id="more"></span>
 
 <h1 id="PDF处理工具"><a href="#PDF处理工具" class="headerlink" title="PDF处理工具"></a>PDF处理工具</h1><ul>
 <li>  <span class="exturl" data-url="aHR0cHM6Ly9zbWFsbHBkZi5jb20v">SmallPDF<i class="fa fa-external-link-alt"></i></span> </li>
@@ -368,7 +369,7 @@
 <p>原文链接：<span class="exturl" data-url="aHR0cHM6Ly93d3cudWFiLmVkdS91bGxtYW5tdXNldW0v">https://www.uab.edu/ullmanmuseum/<i class="fa fa-external-link-alt"></i></span> Author: Samuel Ullman</p>
 </blockquote>
 <p>Youth is not a time of life; it is a state of mind; it is not a matter of rosy cheeks, red lips and supple knees; it is a matter of the will, a quality of the imagination, a vigor of the emotions; it is the freshness of the deep springs of life.</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <p>Youth means a temperamental predominance of courage over timidity, of the appetite for adventure over the love of ease. This often exists in a man of 60 more than a boy of 20. Nobody grows old merely by a number of years. We grow old by deserting our ideals.</p>
 <p>Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul. Worry, fear, self-distrust bows the heart and turns the spirit back to dust.</p>
@@ -387,7 +388,7 @@
     <url>/posts/1f972e30/</url>
     <content><![CDATA[<p>原文：<span class="exturl" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC90b3BpYy8xMDU0OTAyLw==">粟耀莹  从加州理工到高盛银行<i class="fa fa-external-link-alt"></i></span> </p>
 <p>粟耀莹的母亲是洪冬桂，台湾立法委员；父亲是粟明德，白崇禧义子，曾任蒋经国秘书；粟家与白家世交。</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <blockquote>
 <p>“我从来没有想要教书或作研究，我去加州理工，这个在世界上诺贝尔奖得主密度最大的地方，是为了接受其熏陶，以悟出如何得到诺贝尔奖的道理，并对我当年的偶象Feynman费因曼(著名的物理诺贝尔奖得主，著有Surely You’re Joking，Mr.Feynman 一书)生前待过最久的地方，进行模拜。“</p>
@@ -440,7 +441,7 @@
 </ul>
 </li>
 </ol>
-<a id="more"></a>
+<span id="more"></span>
 
 <hr>
 <h1 id="The-Standard-Structure-of-a-Scientific-Paper"><a href="#The-Standard-Structure-of-a-Scientific-Paper" class="headerlink" title="The Standard Structure of a Scientific Paper"></a>The Standard Structure of a Scientific Paper</h1><blockquote>
@@ -484,7 +485,7 @@
 <p>答：因为世界上同类物质中彼此差异最大的，是不同人的心。 </p>
 <p>问：那么什么是人的本质呢？ </p>
 <p>答：品格，品格是人的本质。 </p>
-<a id="more"></a>
+<span id="more"></span>
 
 <p>问：人们常说人分好人和坏人，什么样的人才算是好人呢？ </p>
 <p>答：好人应该是有责任心、有是非感和有爱心的人。他们的言行能让别人快乐，能使社会增色。 </p>
@@ -627,7 +628,7 @@
 <li><span class="exturl" data-url="aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw==">LinkedIn<i class="fa fa-external-link-alt"></i></span> </li>
 <li>BOSS 直聘</li>
 </ul>
-<a id="more"></a>
+<span id="more"></span>
 
 <h2 id="Salary"><a href="#Salary" class="headerlink" title="Salary"></a>Salary</h2><ul>
 <li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9PamFLN25tQ1lDbw==">如何談薪水 Like A Pro<i class="fa fa-external-link-alt"></i></span> </li>
@@ -658,7 +659,7 @@
     <content><![CDATA[<p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS8xcTgydHdyZHIwVQ==">电影《悲惨世界》Les Misérables | Do You Hear the People Sing?<i class="fa fa-external-link-alt"></i></span> </p>
 <p><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMTVBNDExajdSbT9zaGFyZV9zb3VyY2U9Y29weV93ZWI=">《国际歌》| 风儿中-<i class="fa fa-external-link-alt"></i></span> </p>
 <p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9nbjY0TTE2Z2wyRQ==">《阿婆说》| 陈一发<i class="fa fa-external-link-alt"></i></span> </p>
-<a id="more"></a>
+<span id="more"></span>
 
 ]]></content>
       <categories>
@@ -697,6 +698,8 @@
     <title>Win10 OS Tutorials</title>
     <url>/posts/3e6fcc87/</url>
     <content><![CDATA[<h1 id="bat-file"><a href="#bat-file" class="headerlink" title=".bat file"></a>.bat file</h1><p>一些情况下，执行完<code>.bat</code>文件之后窗口直接退出，无法在窗口中看到运行结果，带来了许多不便。这里给出两种方法可以解决上述问题：</p>
+<span id="more"></span>
+
 <ol>
 <li><p>在<code>.bat</code>文件最后加上一行<code>pause</code>，示例如下：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ipconfig &#x2F;all</span><br><span class="line">pause</span><br></pre></td></tr></table></figure></li>
@@ -718,7 +721,7 @@
     <content><![CDATA[<blockquote>
 <p>《增广贤文》又名《昔时贤文》、《古今贤文》。书名最早见之于明代万历年间的戏曲《牡丹亭》，据此可推知此书最迟写成于万历年间。后经明、清两代文人不断增补，才成现在这个模样，称《增广昔时贤文》，通称《增广贤文》。作者未见任何书载，只知清同治年间儒生周希陶曾进行过重订。</p>
 </blockquote>
-<a id="more"></a>
+<span id="more"></span>
 
 <p>昔时贤文，诲汝谆谆，集韵增广，多见多闻。<br>观今宜鉴古，无古不成今。<br>知己知彼，将心比心。<br>酒逢知己饮，诗向会人吟。<br>相识满天下，知心能几人。<br>相逢好似初相识，到老终无怨恨心。<br>近水知鱼性，近山识鸟音。<br>易涨易退山溪水，易反易覆小人心。<br>运去金成铁，时来铁似金，读书须用意，一字值千金。<br>逢人且说三分话，未可全抛一片心。<br>有意栽花花不发，无心插柳柳成阴。<br>画虎画皮难画骨，知人知面不知心。<br>钱财如粪土，仁义值千金。<br>流水下滩非有意，白云出岫本无心。<br>当时若不登高望，谁信东流海洋深。<br>路遥知马力，事久见人心。<br>两人一般心，无钱堪买金，一人一般心，有钱难买针。<br>相见易得好，久住难为人。<br>马行无力皆因瘦，人不风流只为贫。<br>饶人不是痴汉，痴汉不会饶人。<br>是亲不是亲，非亲却是亲。<br>美不美，乡中水，亲不亲，故乡人。<br>莺花犹怕春光老，岂可教人枉度春。<br>相逢不饮空归去，洞口桃花也笑人。<br>红粉佳人休使老，风流浪子莫教贫。<br>在家不会迎宾客，出外方知少主人。<br>黄芩无假，阿魏无真。<br>客来主不顾，应恐是痴人。<br>贫居闹市无人问，富在深山有远亲。<br>谁人背后无人说，哪个人前不说人。<br>有钱道真语，无钱语不真。<br>不信但看筵中酒，杯杯先劝有钱人。<br>闹里有钱，静处安身。<br>来如风雨，去似微尘。<br>长江后浪推前浪，世上新人赶旧人。<br>近水楼台先得月，向阳花木早逢春。<br>莫道君行早，更有早行人。<br>莫信直中直，须防仁不仁。<br>山中有直树，世上无直人。<br>自恨枝无叶，莫怨太阳偏。<br>大家都是命，半点不由人。<br>一年之计在于春，一日之计在于晨，一家之计在于和，一生之计在于勤。<br>责人之心责己，恕己之心恕人。<br>守口如瓶，防意如城。<br>宁可人负我，切莫我负人。<br>再三须慎意，第一莫欺心。<br>虎生犹可近，人熟不堪亲。<br>来说是非者，便是是非人。<br>远水难救近火，远亲不如近邻。<br>有茶有酒多兄弟，急难何曾见一人。<br>人情似纸张张薄，世事如棋局局新。<br>山中也有千年树，世上难逢百岁人。<br>力微休负重，言轻莫劝人。<br>无钱休入众，遭难莫寻亲。<br>平生莫作皱眉事，世上应无切齿人。<br>士者国之宝，儒为席上珍。<br>若要断酒法，醒眼看醉人。<br>求人须求大丈夫，济人须济急时无。<br>渴时一滴如甘露，醉后添杯不如无。<br>久住令人贱，频来亲也疏。<br>酒中不语真君子，财上分明大丈夫。<br>出家如初，成佛有馀。<br>积金千两，不如明解经书。<br>养子不教如养驴，养女不教如养猪。<br>有田不耕仓廪虚，有书不读子孙愚。<br>仓廪虚兮岁月乏，子孙愚兮礼义疏。<br>听君一席话，胜读十年书。<br>人不通今古，马牛如襟裾。<br>茫茫四海人无数，哪个男儿是丈夫。<br>白酒酿成缘好客，黄金散尽为收书。<br>救人一命，胜造七级浮屠。<br>城门失火，殃及池鱼。<br>庭前生瑞草，好事不如无。<br>欲求生富贵，须下死工夫。<br>百年成之不足，一旦败之有馀。<br>人心似铁，官法如炉。<br>善化不足，恶化有馀。<br>水太清则无鱼，人至察则无徒。<br>知者减半，省者全无。<br>在家由父，出家从夫。<br>痴人畏妇，贤女敬夫。<br>是非终日有，不听自然无。<br>宁可正而不足，不可邪而有馀。<br>宁可信其有，不可信其无。<br>竹篱茅舍风光好，道院僧堂终不如。<br>命里有时终须有，命里无时莫强求。<br>道院迎仙客，书堂隐相儒。<br>庭栽栖凤竹，池养化龙鱼。<br>结交须胜己，似我不如无。<br>但看三五日，相见不如初。<br>人情似水分高下，世事如云任卷舒。<br>会说说都是，不会说无礼。<br>磨刀恨不利，刀利伤人指。<br>求财恨不得，财多害自己。<br>知足常足，终身不辱。<br>知止常止，终身不耻。<br>有福伤财，无福伤己。<br>差之毫厘，失之千里。<br>若登高必自卑，若涉远必自迩。<br>三思而行，再思可矣。<br>使口不如自走，求人不如求己。<br>小时是兄弟，长大各乡里。<br>妒财莫妒食，怨生莫怨死。<br>人见白头嗔，我见白头喜。<br>多少少年亡，不到白头死。<br>墙有缝，壁有耳。<br>好事不出门，恶事传千里。<br>贼是小人，知过君子。<br>君子固穷，小人穷斯滥也。<br>贫穷自在，富贵多忧。<br>不以我为德，反以我为仇。<br>宁向直中取，不可曲中求。<br>人无远虑，必有近忧。<br>知我者谓我心忧，不知我者谓我何求。<br>晴天不肯去，只待雨淋头。<br>成事莫说，覆水难收。<br>是非只为多开口，烦恼皆因强出头。<br>忍得一时之气，免得百日之忧。<br>近来学得乌龟法，得缩头时且缩头。<br>惧法朝朝乐，欺公日日忧。<br>人生一世，草生一春。<br>黑发不知勤学早，白首方悔读书迟。<br>月到十五光明少，人到中年万事休。<br>儿孙自有儿孙福，莫为儿孙作马牛。<br>人生不满百，常怀千岁忧。<br>今朝有酒今朝醉，明日愁来明日忧。<br>路逢险处难回避，事到头来不自由。<br>药能医假病，酒不解真愁。<br>人贫不语，水平不流。<br>一家有女百家求，一马不行百马忧。<br>有花方酌酒，无月不登楼。<br>三杯通大道，一醉解千愁。<br>深山毕竟藏猛虎，大海终须纳细流。<br>惜花须检点，爱月不梳头。<br>大抵选他肌骨好，不擦红粉也风流。<br>受恩深处宜先退，得意浓时便可休。<br>莫待是非来入耳，从前恩爱反为仇。<br>留得五湖明月在，不愁无处下金钩。<br>休别有鱼处，莫恋浅滩头。<br>去时终须去，再三留不住。<br>忍一句，息一怒，饶一着，退一步。<br>三十不豪，四十不富，五十将来寻死路。<br>生不论魂，死不认尸。<br>父母恩深终有别，夫妻义重也分离。<br>人生似鸟同林宿，大限来时各自飞。<br>人善被人欺，马善被人骑。<br>人无横财不富，马无野草不肥。<br>人恶人怕天不怕，人善人欺天不欺。<br>善恶到头终有报，只争来早与来迟。<br>黄河尚有澄清日，岂可人无得运时。<br>得宠思辱，安居虑危。<br>念念有如临敌日，心心常似过桥时。<br>英雄行险道，富贵似花枝。<br>人情莫道春光好，只怕秋来有冷时。<br>送君千里，终须一别。<br>但将冷眼看螃蟹，看你横行到几时。<br>见事莫说，问事不知。<br>闲事休管，无事早归。<br>假缎染就真红色，也被旁人说是非。<br>善事可作，恶事莫为。<br>许人一物，千金不移。<br>龙生龙子，虎生豹儿。<br>龙游浅水遭虾戏，虎落平阳被犬欺。<br>一举首登龙虎榜，十年身到凤凰池。<br>十年窗下无人问，一举成名天下知。<br>酒债寻常行处有，人生七十古来稀。<br>养儿待老，积谷防饥。<br>鸡豚狗彘之畜，无失其时。<br>数家之口，可以无饥矣。<br>常将有日思无日，莫把无时当有时。<br>时来风送滕王阁，运去雷轰荐福碑。<br>入门休问荣枯事，观看容颜便得知。<br>官清书吏瘦，神灵庙祝肥。<br>息却雷霆之怒，罢却虎狼之威。<br>饶人算人之本，输人算人之机。<br>好言难得，恶语易施。<br>一言既出，驷马难追。<br>道吾好者是吾贼，道吾恶者是吾师。<br>路逢侠客须呈剑，不是才人莫献诗。<br>三人同行，必有我师，择其善者而从之，其不善者而改之。<br>少壮不努力，老大徒悲伤。<br>人有善愿，天必佑之。<br>莫饮卯时酒，昏昏醉到酉。<br>莫骂酉时妻，一夜受孤凄。<br>种麻得麻，种豆得豆。<br>天眼恢恢，疏而不漏。<br>见官莫向前，做客莫在后。<br>宁添一斗，莫添一口。<br>螳螂捕蝉，岂知黄雀在后。<br>不求金玉重重贵，但愿儿孙个个贤。<br>一日夫妻，百世姻缘。<br>百世修来同船渡，千世修来共枕眠。<br>杀人一万，自损三千。<br>伤人一语，利如刀割。<br>枯木逢春犹再发，人无两度再少年。<br>未晚先投宿，鸡鸣早看天。<br>将相胸前堪走马，公候肚里好撑船。<br>富人思来年，穷人思眼前。<br>世上若要人情好，赊去物件莫取钱。<br>死生有命，富贵在天。<br>击石原有火，不击乃无烟。<br>为学始知道，不学亦徒然。<br>莫笑他人老，终须还到老。<br>但能依本分，终须无烦恼。<br>君子爱财，取之有道。<br>贞妇爱色，纳之以礼。<br>善有善报，恶有恶报。<br>不是不报，日子不到。<br>人而无信，不知其可也。<br>一人道好，千人传实。<br>凡事要好，须问三老。<br>若争小可，便失大道。<br>年年防饥，夜夜防盗。<br>学者如禾如稻，不学者如蒿如草。<br>遇饮酒时须饮酒，得高歌处且高歌。<br>因风吹火，用力不多。<br>不因渔父引，怎得见波涛。<br>无求到处人情好，不饮从他酒价高。<br>知事少时烦恼少，识人多处是非多。<br>入山不怕伤人虎，只怕人情两面刀。<br>强中更有强中手，恶人须用恶人磨。<br>会使不在家豪富，风流不用着衣多。<br>光阴似箭，日月如梭。<br>天时不如地利，地利不如人和。<br>黄金未为贵，安乐值钱多。<br>世上万般皆下品，思量唯有读书高。<br>世间好语书说尽，天下名山僧占多。<br>为善最乐，为恶难逃。<br>羊有跪乳之恩，鸦有反哺之义。<br>你急他未急，人闲心不闲。<br>隐恶扬善，执其两端。<br>妻贤夫祸少，子孝父心宽。<br>既坠釜甑，反顾无益。<br>翻覆之水，收之实难。<br>人生知足何时足，人老偷闲且是闲。<br>但有绿杨堪系马，处处有路透长安。<br>见者易，学者难。<br>莫将容易得，便作等闲看。<br>用心计较般般错，退步思量事事难。<br>道路各别，养家一般。<br>从俭入奢易，从奢入俭难。<br>知音说与知音听，不是知音莫与弹。<br>点石化为金，人心犹未足。<br>信了肚，卖了屋。<br>他人观花，不涉你目。<br>他人碌碌，不涉你足。<br>谁人不爱子孙贤，谁人不爱千钟粟。<br>莫把真心空计较，五行不是这题目。<br>与人不和，劝人养鹅。<br>与人不睦，劝人架屋。<br>但行好事，莫问前程。<br>河狭水急，人急计生。<br>明知山有虎，莫向虎山行。<br>路不行不到，事不为不成。<br>人不劝不善，钟不打不鸣。<br>无钱方断酒，临老始看经。<br>点塔七层，不如暗处一灯。<br>万事劝人休瞒昧，举头三尺有神明。<br>但存方寸土，留与子孙耕。<br>灭却心头火，剔起佛前灯。<br>惺惺常不足，懵懵作公卿。<br>众星朗朗，不如孤月独明。<br>兄弟相害，不如自生。<br>合理可作，小利莫争。<br>牡丹花好空入目，枣花虽小结实成。<br>欺老莫欺小，欺人心不明。<br>随分耕锄收地利，他时饱满谢苍天。<br>得忍且忍，得耐且耐。<br>不忍不耐，小事成大。<br>相论逞英雄，家计渐渐退。<br>贤妇令夫贵，恶妇令夫败。<br>一人有庆，兆民咸赖。<br>人老心未老，人穷志莫穷。<br>人无千日好，花无百日红。<br>杀人可恕，情理难容。<br>乍富不知新受用，乍贫难改旧家风。<br>座上客常满，樽中酒不空。<br>屋漏更遭连年雨，行船又遇打头风。<br>笋因落箨方成竹，鱼为奔波始化龙。<br>记得少年骑竹马，看看又是白头翁。<br>礼义生于富足，盗贼出于贫穷。<br>天上众星皆拱北，世间无水不朝东。<br>君子安贫，达人知命。<br>忠言逆耳利于行，良药苦口利于病。<br>顺天者存，逆天者亡。<br>人为财死，鸟为食亡。<br>夫妻相合好，琴瑟与笙簧。<br>有儿贫不久，无子富不长。<br>善必寿老，恶必早亡。<br>爽口食多偏作药，快心事过恐生殃。<br>富贵定要安本分，贫穷不必枉思量。<br>画水无风空作浪，绣花虽好不闻香。<br>贪他一斗米，失却半年粮。<br>争他一脚豚，反失一肘羊。<br>龙归晚洞云犹湿，麝过春山草木香。<br>平生只会量人短，何不回头把自量。<br>见善如不及，见恶如探汤。<br>人贫志短，马瘦毛长。<br>自家心里急，他人未知忙。<br>贫无达士将金赠，病有高人说药方。<br>触来莫与说，事过心清凉。<br>秋至满山多秀色，春来无处不花香。<br>凡人不可貌相，海水不可斗量。<br>清清之水，为土所妨。<br>济济之士，为酒所伤。<br>蒿草之下，或有兰香。<br>茅茨之屋，或有侯王。<br>无限朱门生饿殍，几多白屋出卿相。<br>醉后乾坤大，壶中日月长。<br>万事皆已定，浮生空白茫。<br>千里送毫毛，礼轻仁义重。<br>一人传虚，百人传实。<br>世事明如镜，前程暗似漆。<br>光阴黄金难买，一世如驹过隙。<br>良田万顷，日食一升。<br>大厦千间，夜眠八尺。<br>千经万典，孝义为先。<br>一字入公门，九牛拖不出。<br>衙门八字开，有理无钱莫进来。<br>富从升合起，贫因不算来。<br>家中无才子，官从何处来。<br>万事不由人计较，一生都是命安排。<br>急行慢行，前程只有多少路。<br>人间私语，天闻若雷。<br>暗室亏心，神目如电。<br>一毫之恶，劝人莫作。<br>一毫之善，与人方便。<br>欺人是祸，饶人是福。<br>天眼恢恢，报应甚速。<br>圣贤言语，神钦鬼伏。<br>人各有心，心各有见。<br>口说不如身逢，耳闻不如目见。<br>养军千日，用在一朝。<br>国清才子贵，家富小儿骄。<br>利刀割体痕易合，恶语伤人恨不消。<br>公道世间唯白发，贵人头上不曾饶。<br>有钱堪出众，无衣懒出门。<br>为官须作相，及第必争先。<br>苗从地发，树向枝分。<br>父子和而家不退，兄弟和而家不分。<br>官有正条，民有和约。<br>闲时不烧香，急时抱佛脚。<br>幸生太平无事日，恐逢年老不多时。<br>国乱思良将，家贫思贤妻。<br>池塘积水须防旱，田地勤耕足养家。<br>根深不怕风摇动，树正无愁月影斜。<br>奉劝君子，各宜守己。<br>只此呈示，万无一失。</p>
 ]]></content>
@@ -736,7 +739,7 @@
 <p>转载自<span class="exturl" data-url="aHR0cDovL2Jsb2cuc2luYS5jb20uY24vcy9ibG9nXzQ3ODQxYWY3MDEwMDA1bWsuaHRtbA==">张五常教授的新浪博客<i class="fa fa-external-link-alt"></i></span> </p>
 </blockquote>
 <p>学术文章有大小之分。大的不一定长，小的不一定短。大的重于泰山，不可或缺；小的轻于鸿毛，有等于无。大的凤毛麟角，小的多如海上沙。其他的学术我不大了了，但就我所知的经济学来说，如果百分之九十九以上的文章从来没有出现过，人类的知识什么损失也没有。</p>
-<a id="more"></a>
+<span id="more"></span>
 
 <p>大文不一定是在大名鼎鼎的学报刊物发表的。德高望重的学报，投稿者较多，取录远为严谨，所以能获大文的机会较大，但也大不了多少。</p>
 <p>半个多世纪前，芝加哥大学的名教授Jacob Viner的《成本曲线》一文，遍投美国名学报不获取录，不得已用德语在欧洲发表。后来该文英译重印，知名天下。苏联一位不见经传、无师自通的经济学者，死后一篇文章被译成英语发表，石破天惊–我作学生时拜读该文，五体投地。史德拉对该文的评价：其美与力，无与伦比！</p>
@@ -773,7 +776,7 @@
 <h1 id="行为上"><a href="#行为上" class="headerlink" title="行为上"></a>行为上</h1><ol>
 <li>实现有效的“愚蠢”，从一次次的“愚蠢”中学习，获得进步。</li>
 </ol>
-<a id="more"></a>
+<span id="more"></span>
 
 
 
@@ -793,7 +796,7 @@
 </blockquote>
 <p>原文如下：</p>
 <p>我想跟大家分享一下与学习相关的一些经历和认识。大学学习显然跟中学不一样，在中学就是应付高考的那几门课，大学课程则有很多，这种情况下怎么适应学习呢？首先，不能学太多，否则后果严重。钱班（清华大学钱学森力学实验班）的一个学生去了哈佛大学读研究生，一个学期的课程，就3门。这在美国私立大学很典型：研究生3门，本科生4门。我们的学生每个学期选多少课？10多门？为什么上一大堆课？我认为有多方面的原因。有院系方面的原因：学校希望减少，但是院系有动力要求学生学很多课。学生方面的原因则是多种多样？如：多学一点，反正每门课的负担也不重、“水”课很多；想学的课没列上，不想学的课一大堆；同学都选了，我不选会不会吃亏？等等。成本恐怕也是一个原因。美国的不少学校，超过规定的学分，每修一门课增交好多钱。</p>
-<a id="more"></a>
+<span id="more"></span>
 
 
 <p>上面列了许多原因，但关键还是同学们的认识问题。如钱班要求的课不多，其中有不少选修，但同学一般都全选，选下来以后说：“老师，课负太重了！”产生这个问题的原因，一方面是我和钱班的管理者与学生的沟通不到位、缺乏恰当的管理手段，另一方面则是学生自主性不够。我们需要在两方面都改进。同学们问：“多学一点，总是有用的吧”。其实学一大堆，经常是反作用，因为你做成了“夹生饭”，以后再想去煮熟，这个米已经煮不好了，故还不如不学。</p>
@@ -827,7 +830,7 @@
     <content><![CDATA[<blockquote>
 <p>张至顺（1912年—2015年），原海南省<span class="exturl" data-url="aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTklODElOTMlRTYlOTUlOTklRTUlOEQlOEYlRTQlQkMlOUE=">道教协会<i class="fa fa-external-link-alt"></i></span>名誉会长、西安<span class="exturl" data-url="aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTQlQjglODclRTUlQUYlQkYlRTUlODUlQUIlRTQlQkIlOTklRTUlQUUlQUIvMjkyMTQwNA==">万寿八仙宫<i class="fa fa-external-link-alt"></i></span>名誉方丈，海南省<span class="exturl" data-url="aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTclOEUlODklRTglOUYlQkUlRTUlQUUlQUIvNDY0NTY4OQ==">玉蟾宫<i class="fa fa-external-link-alt"></i></span>住持。生于1912年。七岁时值清末民初，战乱灾荒交加。因家境贫困离家乞讨。十二岁随师学艺，十七岁在陕西省华山遇师刘明苍道长而出家。在道观，张至顺从事杂役，终日劳苦，磨练心志，因道心清明和修炼上独辟<span class="exturl" data-url="aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTglQjklOEElRTUlQkUlODQ=">蹊径<i class="fa fa-external-link-alt"></i></span>，被师授以真传，为中国道教全真龙门正宗第二十一代传人。</p>
 </blockquote>
-<a id="more"></a>
+<span id="more"></span>
 
 <h1 id="外八部金刚功"><a href="#外八部金刚功" class="headerlink" title="外八部金刚功"></a>外八部金刚功</h1><iframe src="https://www.youtube.com/embed/1NiISV36tMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -848,7 +851,7 @@
 <p>强烈推荐 Ray Dalio 的书《原则》，下文摘自本书中。</p>
 </blockquote>
 <p>人避免不了痛苦，尤其是在追求雄心勃勃的目标时。不管你相信与否，如果以正确的态度对待痛苦，感到痛苦就是你的幸运，因为这是一个信号——你需要寻找解决方案以便继续前进。如果你能形成一种条件反射，面对精神痛苦时能够自动地反思痛苦，而不是躲避痛苦，你就能够快速地学习和进化。直面那些由问题、错误和弱点导致的痛苦现实，会大幅提高你的效率，我相信，只要你看到了这种做法的好处，就不会再想以其它方式行事了。你只需要养成这样做的习惯。</p>
-<a id="more"></a>
+<span id="more"></span>
 
 
 <p>大多数人在痛苦时不愿反思，而一旦痛苦消失，他们的注意力就会转移，所以他们难以通过反思得到教益。如果你在痛苦时就能好好反思（这个要求也许太高），这非常好。如果你能够记得在痛苦消失后进行反思，这也很有价值。</p>
@@ -869,7 +872,7 @@
 
 <h2 id="Here-is-full-speech-in-English"><a href="#Here-is-full-speech-in-English" class="headerlink" title="Here is full speech in English"></a>Here is full speech in English</h2><p>President Mellow, distinguished faculty, friends, family, and the Graduating Class of 2013. </p>
 <p>It is a great honor for me to share in your accomplishment and pride today. But I must admit that I approached this address with some trepidation. I suppose that more commencement speeches have been delivered more seriously, listened to more attentively, and forgotten more promptly than any other form of human communication. </p>
-<a id="more"></a>
+<span id="more"></span>
 
 <p>So I will try to be brief and practical.  My advice is grounded in my own experience. And my own experience, in many respects, is not that different from many of yours. </p>
 <p>I grew up with the idea that college was more an aspiration than an expectation. I saw my parents struggle most of their lives and the daily battle to keep afloat sometimes even drained what hopes and dreams they had for me. They didn’t go to college and neither did my only, older sibling. </p>
