@@ -33,7 +33,7 @@
 <p>参考资料：<span class="exturl" data-url="aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vemgtY24vb2ZmaWNlL3Ryb3VibGVzaG9vdC9wb3dlcnBvaW50L2NoYW5nZS1leHBvcnQtc2xpZGUtcmVzb2x1dGlvbg==">如何从 PowerPoint 导出高分辨率（高 dpi）幻灯片<i class="fa fa-external-link-alt"></i></span> </p>
 </blockquote>
 <p>你可以通过将幻灯片保存为图片格式来更改 Microsoft PowerPoint 的导出分辨率。 此过程有两个步骤：使用系统注册表更改导出的幻灯片的默认分辨率设置，然后以新的分辨率将幻灯片保存为图片。</p>
-<h3 id="第-1-步：更改导出分辨率设置"><a href="#第-1-步：更改导出分辨率设置" class="headerlink" title="第 1 步：更改导出分辨率设置"></a>第 1 步：更改导出分辨率设置</h3><p>默认情况下，要另存为图片的 PowerPoint 幻灯片的导出分辨率为每英寸 96 点 (dpi)。 若要更改导出分辨率，请执行以下步骤：</p>
+<h3 id="更改导出分辨率设置"><a href="#更改导出分辨率设置" class="headerlink" title="更改导出分辨率设置"></a>更改导出分辨率设置</h3><p>默认情况下，要另存为图片的 PowerPoint 幻灯片的导出分辨率为每英寸 96 点 (dpi)。 若要更改导出分辨率，请执行以下步骤：</p>
 <span id="more"></span>
 
 <ol>
@@ -70,12 +70,12 @@
 <li><p>在“文件”菜单上，选择“退出”，退出注册表编辑器。</p>
 </li>
 </ol>
-<h3 id="第-2-步：将幻灯片导出为图片"><a href="#第-2-步：将幻灯片导出为图片" class="headerlink" title="第 2 步：将幻灯片导出为图片"></a>第 2 步：将幻灯片导出为图片</h3><ol>
+<h3 id="将幻灯片导出为图片"><a href="#将幻灯片导出为图片" class="headerlink" title="将幻灯片导出为图片"></a>将幻灯片导出为图片</h3><ol>
 <li>在 PowerPoint 中，打开幻灯片演示文稿，然后打开要导出的幻灯片。</li>
 <li>在“文件”菜单上，选择“另存为”。</li>
 <li>选择保存类型，保存即可。</li>
 </ol>
-<h3 id="第-3-步：检查图片分辨率"><a href="#第-3-步：检查图片分辨率" class="headerlink" title="第 3 步：检查图片分辨率"></a>第 3 步：检查图片分辨率</h3><p>右键目标图片，选择属性，查看分辨率即可。</p>
+<h3 id="检查图片分辨率"><a href="#检查图片分辨率" class="headerlink" title="检查图片分辨率"></a>检查图片分辨率</h3><p>右键目标图片，选择属性，查看分辨率即可。</p>
 <h1 id="bat-file"><a href="#bat-file" class="headerlink" title=".bat file"></a>.bat file</h1><p>一些情况下，执行完<code>.bat</code>文件之后窗口直接退出，无法在窗口中看到运行结果，带来了许多不便。这里给出两种方法可以解决上述问题：</p>
 <ol>
 <li><p>在<code>.bat</code>文件最后加上一行<code>pause</code>，示例如下：</p>
@@ -1021,7 +1021,7 @@
 <p><code>hexo g</code> == hexo generate #生成</p>
 <p><code>hexo s</code> == hexo server #启动服务预览</p>
 <p><code>hexo d</code> == hexo deploy #部署</p>
-<p>以上命令可以同时使用，如<code>hexo g &amp;&amp; hexo d</code>代表生成网站后立即上传。</p>
+<p>以上命令可以同时使用，如<code>hexo g &amp;&amp; hexo d</code>代表生成网站后立即部署。</p>
 <h2 id="博客置顶"><a href="#博客置顶" class="headerlink" title="博客置顶"></a>博客置顶</h2><p>在YAML Front Matter中添加一行：<code>top: true</code> </p>
 <h2 id="删除"><a href="#删除" class="headerlink" title="删除"></a>删除</h2><p>There is no command to delete a post on Hexo, but follow this steps :</p>
 <ol>
