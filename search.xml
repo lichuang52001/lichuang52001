@@ -1,6 +1,463 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo Tutorial</title>
+    <url>/posts/1b7a7665/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Official-documentation"><a href="#Official-documentation" class="headerlink" title="Official documentation"></a>Official documentation</h1><p><span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">Documentation for Hexo<i class="fa fa-external-link-alt"></i></span></p>
+<p><span class="exturl" data-url="aHR0cHM6Ly90aGVtZS1uZXh0LmpzLm9yZy8=">Hexo NexT theme<i class="fa fa-external-link-alt"></i></span> </p>
+<p><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25leHQtdGhlbWUvaGV4by10aGVtZS1uZXh0">Github hexo-theme-next<i class="fa fa-external-link-alt"></i></span>  </p>
+<h1 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h1><ol>
+<li>安装 <code>Git</code></li>
+<li>安装 <code>Node.js</code></li>
+<li>安装 <code>Hexo</code></li>
+</ol>
+<span id="more"></span>
+
+<h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p>打开 <code>cmd</code></p>
+<p><code>hexo n &quot;我的博客&quot;</code> == hexo new “我的博客” #新建文章</p>
+<p><code>hexo g</code> == hexo generate #生成</p>
+<p><code>hexo s</code> == hexo server #启动服务预览</p>
+<p><code>hexo d</code> == hexo deploy #部署</p>
+<p>以上命令可以同时使用，如<code>hexo g &amp;&amp; hexo d</code>代表生成网站后立即部署。</p>
+<h2 id="博客置顶"><a href="#博客置顶" class="headerlink" title="博客置顶"></a>博客置顶</h2><p>在YAML Front Matter中添加一行：<code>top: true</code> </p>
+<h2 id="删除"><a href="#删除" class="headerlink" title="删除"></a>删除</h2><p>There is no command to delete a post on Hexo, but follow this steps :</p>
+<ol>
+<li>Delete the post under <code>source/_post folder</code></li>
+<li>Run <code>hexo clean</code> to delete the database (db.json) and assets folder</li>
+<li>Run <code>hexo generate</code> to generate the new blog without your deleted post</li>
+<li>Run <code>hexo deploy</code> to deploy your blog</li>
+</ol>
+<h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><p>使用 <code>hexo d</code> 部署到 <code>Github</code> 之前，因为国内网络问题，最好先通过如下代码设置代理：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">set</span> http_proxy=socks5://<span class="number">127.0</span><span class="number">.0</span><span class="number">.1</span>:<span class="number">10808</span></span><br><span class="line"><span class="built_in">set</span> https_proxy=socks5://<span class="number">127.0</span><span class="number">.0</span><span class="number">.1</span>:<span class="number">10808</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h2><ul>
+<li>字数 &amp; 阅读时间统计：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3RoZW1lLW5leHQvaGV4by1zeW1ib2xzLWNvdW50LXRpbWU=">hexo-symbols-count-time<i class="fa fa-external-link-alt"></i></span> </li>
+<li>博客置顶：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25ldGNhbi9oZXhvLWdlbmVyYXRvci1pbmRleC1waW4tdG9w">hexo-generator-index-pin-top<i class="fa fa-external-link-alt"></i></span> </li>
+<li>鼠标点击烟花效果：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25leHQtdGhlbWUvaGV4by1uZXh0LWZpcmV3b3Jrcw==">hexo-next-fireworks<i class="fa fa-external-link-alt"></i></span> <ul>
+<li>若要删除该插件，在资源管理器中直接删除即可，文件路径为<code>/node_modules/hexo-next-fireworks</code>。</li>
+</ul>
+</li>
+<li>为博客内容增加脚注、上标、下标功能：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvLXJlbmRlcmVyLW1hcmtkb3duLWl0">hexo-renderer-markdown-it<i class="fa fa-external-link-alt"></i></span> 或 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2tjaGVuMHgvaGV4by1yZWZlcmVuY2U=">hexo-reference<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h2 id="升级"><a href="#升级" class="headerlink" title="升级"></a>升级</h2><h3 id="升级Hexo"><a href="#升级Hexo" class="headerlink" title="升级Hexo"></a>升级Hexo</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 查看 Hexo 版本信息</span></span><br><span class="line">hexo v</span><br><span class="line"><span class="comment"># 全局升级 Hexo-cli</span></span><br><span class="line">npm install hexo-cli -g</span><br><span class="line"><span class="comment"># 查看系统插件，检查插件是否需要升级</span></span><br><span class="line">npm install -g npm-check</span><br><span class="line">npm-check</span><br><span class="line"><span class="comment"># 升级系统插件</span></span><br><span class="line">npm install -g npm-upgrade</span><br><span class="line">npm-upgrade</span><br><span class="line"><span class="comment"># 更新</span></span><br><span class="line">npm update -g</span><br><span class="line">npm update --save</span><br><span class="line"><span class="comment"># 再次查看 Hexo 版本信息</span></span><br><span class="line">hexo v</span><br></pre></td></tr></table></figure>
+
+<h3 id="升级NexT主题"><a href="#升级NexT主题" class="headerlink" title="升级NexT主题"></a>升级NexT主题</h3><ol>
+<li>Go to <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25leHQtdGhlbWUvaGV4by10aGVtZS1uZXh0">Github Page<i class="fa fa-external-link-alt"></i></span> of <code>hexo-theme-next</code> </li>
+<li>Go to <em>Release</em>, download the <em>Latest release version</em> </li>
+<li>copy &amp; replace contents in the folder <code>themes/next</code><ol>
+<li><em><strong>[CAUTION]</strong></em> Before replace, backup file <code>_config.yml</code> where some customized settings are saved.</li>
+</ol>
+</li>
+<li>re-configure file <code>_config.yml</code> </li>
+<li>enjoy…</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Getting Things Done</title>
+    <url>/posts/7694439f/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Getting Things Done (GTD) is a time management method, described in the book of the same title by productivity consultant <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS9ndGRndXk=">David Allen<i class="fa fa-external-link-alt"></i></span>.</p>
+<p>原理：大脑善于处理信息，提出想法，但是不善于存储信息，即我们常说的“好记性不如烂笔头”。</p>
+<p>推荐参考资料：</p>
+<ol>
+<li><p><span class="exturl" data-url="aHR0cHM6Ly9oYW1iZXJnLm5vL2d0ZA==">GTD in 15 minutes – A Pragmatic Guide to Getting Things Done<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+<li><p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9nQ3N3TXNPTmt3WQ==">Getting Things Done (GTD) by David Allen - Animated Book Summary And Review<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>方法论</category>
+      </categories>
+      <tags>
+        <tag>Management</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hawking Memorial article</title>
+    <url>/posts/3dea12d7/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p><span class="exturl" data-url="aHR0cHM6Ly93d3cucG5hcy5vcmcvY29udGVudC8xMTUvMjEvNTMwOQ==">Stephen Hawking (1942–2018): Toward a complete understanding of the universe<i class="fa fa-external-link-alt"></i></span> by James Hartle, 2018.</p>
+<span id="more"></span>
+
+<p>2 works by Hawking stand out:</p>
+<ul>
+<li>Beginning of the universe ;</li>
+</ul>
+<p>Quantum cosmology</p>
+<p>The beginning of universe: from <strong>4 space dimension → (decouple) 3 space dimension + 1 time dimension</strong>.</p>
+<ul>
+<li>The end of black holes ;</li>
+</ul>
+<p>Black holes are not black hole when take quantum mechanics into account, black holes will have temperature and radiation, “white hot” named by Hawking.</p>
+<p>Hawking’s ability outstanding:</p>
+<ol>
+<li>Focus on the essentials of problems ;</li>
+<li>Give up some “right” ideas ;</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Scientist</category>
+      </categories>
+      <tags>
+        <tag>Scientist</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>鸵鸟现象</title>
+    <url>/posts/4a633a16/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>鸵鸟现象，指一种遇到难题就逃避的现象。其名称源自于鸵鸟在遇到危险时，将头埋在沙坑里，以为躲避了危险但实则毫无用处的现象。</p>
+<p>鸵鸟现象在生活中非常普遍，应对该现象的方法有：1. 给自己设定合适的缓冲时间，再着手解决问题；2. 勇敢面对难题，逐步、合理化解难题。</p>
+<span id="more"></span>
+
+<img data-src='https://miro.medium.com/max/16000/1*zSttG88z_KVYsKh8Cy03Gg.png' width='50%'>]]></content>
+      <categories>
+        <category>Psychology</category>
+      </categories>
+      <tags>
+        <tag>Psychology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PhotoShop修改图片像素和DPI</title>
+    <url>/posts/181ee94c/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>目标：修改特定图片的分辨率和DPI</p>
+<span id="more"></span>
+
+<p>方法：</p>
+<ol>
+<li>将图片拖入Photoshop；</li>
+<li>“图像” $\rightarrow$ “图像大小” $\rightarrow$ 调整宽度、高度与分辨率为目标值；</li>
+<li>“文件” $\rightarrow$ “存储”，保存为指定格式和大小，即可；</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Software</category>
+      </categories>
+      <tags>
+        <tag>Photoshop</tag>
+        <tag>Tutorial</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>破窑赋</title>
+    <url>/posts/ba1514/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>介绍：《破窑赋》，又名《劝世章》，是近代人们假托北宋大臣吕蒙正的作品，吕蒙正曾任当时太子（即位后为宋真宗）的太子太傅，这篇文章假托吕蒙正为了劝诫太子而创作的。作者以吕蒙正的语气自述从贫苦到富贵的经历，并列举了历史上诸多名人的起伏命运，来说明一种自然循环的人生思想。此文题材不是赋，文辞对仗近乎于元曲里面的俚语，与明清章回体小说的标题也很相似，与精通易理之人的命理对答词很相似，与明清时期成书的《增广贤文》里面的内容、形式都很接近，经后人考据《宋史》亦无相关记载。 吕蒙正（944-1011），字圣功，河南洛阳（今属河南省）人。生于后晋出帝开运三年，卒于宋真宗大中祥符四年。宋太宗太平兴国二年（977年）丁丑科状元。</p>
+</blockquote>
+<span id="more"></span>
+
+<p>正文： 天有不测风云，人有旦夕祸福。蜈蚣百足，行不及蛇；雄鸡两翼，飞不过鸦，马有千里之程，无骑不能自往；人有冲天之志，非运不能自通。盖闻：人生在世，富贵不能淫，贫贱不能移。文章盖世，孔子困厄于陈邦；武略超群，太公钓于渭水。颜渊命短，殊非凶恶之徒；盗跖年长，岂是善良之辈。尧帝明圣，却生不肖之儿；瞽叟愚顽，反生大孝之子。张良原是布衣，萧何称谓县吏。晏子身无五尺，封为齐国宰相；孔明居卧草庐，能作蜀汉军师。楚王虽雄，难免乌江自刎；汉王虽弱，竟有万里江山。李广有射虎之威，到老无封；冯唐有乘龙之才，一生不遇。韩信未遇之时，无一日三餐，及至运行，腰悬三尺玉印，一旦时衰，死于阴人之手。</p>
+<p>有先贫而后富，有老壮而少衰。满腹文章，白发竟然不中；才疏学浅，少年及第登科。深院宫娥，运退反为妓妾；风流妓女，时来配作夫人。青春美女，却招愚蠢之夫；俊秀郎君，反配粗丑之妇。蛟龙未遇，潜水于鱼鳖之间；君子失时，拱手于小人之下。衣服虽破，常存仪礼之容；面带懮愁，每抱怀安之量。时遭不遇，只宜安贫守份；心若不欺，必然扬眉吐气。初贫君子，天然骨骼生成；乍富小人，不脱贫寒肌体。</p>
+<p>天不得时，日月无光；地不得时，草木不生；水不得时，风浪不平；人不得时，利运不通。注福注禄，命里已安排定，富贵谁不欲？人若不依根基八字，岂能为卿为相？</p>
+<p>吾昔寓居洛阳，朝求僧餐，暮宿破窑，思衣不可遮其体，思食不可济其饥，上人憎，下人厌，人道我贱，非我不弃也。今居朝堂，官至极品，位置三公，身虽鞠躬于一人之下，而列职于千万人之上，有挞百僚之杖，有斩鄙吝之剑，思衣而有罗锦千箱，思食而有珍馐百味，出则壮士执鞭，入则佳人捧觞，上人宠，下人拥。人道我贵，非我之能也，此乃时也！运也！命也！</p>
+<p>嗟呼！人生在世，富贵不可尽用，贫贱不可自欺，听由天地循环，周而复始焉。</p>
+]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
+      <tags>
+        <tag>Article</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Principles</title>
+    <url>/posts/71d0cc31/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><center>实事求是</center>]]></content>
+      <categories>
+        <category>Principle</category>
+      </categories>
+      <tags>
+        <tag>Principle</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>拖延症</title>
+    <url>/posts/b9417af0/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>拖延症是非常普遍的一种现象，一种对未来目标弊大于利的现象。</p>
+<p>造成拖延症的一个重要原因是，大脑过多地关注<b>当前的、短期的简单和舒适</b>，然而以未来的成功为（沉重的）代价。</p>
+<p>针对拖延症，一个建议：<b>Don’t wait</b>.</p>
+<p>参考下面 <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS93YWl0YnV0d2h5">Tim Urban<i class="fa fa-external-link-alt"></i></span> 的 <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9hcmo3b1N0R0xrVQ==">TED 演讲<i class="fa fa-external-link-alt"></i></span>。</p>
+]]></content>
+      <categories>
+        <category>Psychology</category>
+      </categories>
+      <tags>
+        <tag>Psychology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>RSA Algorithm</title>
+    <url>/posts/8421d30f/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>RSA algorithm is one of the Public key encryption (or Asymmetric cryptography) methods. RSA algorithm is widely used becasue of its security. But what is it’s foundemental theory? This post will expalin RSA algorithm in detail based on previous research.</p>
+<span id="more"></span>
+
+<h1 id="Simple-History-of-Encryption"><a href="#Simple-History-of-Encryption" class="headerlink" title="Simple History of Encryption"></a>Simple History of Encryption</h1><p>Before 1976, all encryption methods fellow the same rule:</p>
+<ol>
+<li>Alice chooses a certain encryption method, then encrypt <em>message</em>;</li>
+<li>Bob was told by Alice what the encryption method is, then decrypt <em>message</em>;</li>
+</ol>
+<p>Methods based on the above rules are named “Symmetric-key algorithm”. Alice has to tell Bob the information about the encryption method before Bob can decrypt the <em>message</em>, this contains a big potential risk which annoys people for such a long time.</p>
+<img data-src='https://i.loli.net/2021/05/27/lFuwXpNmWTnhZRJ.jpg' width='80%'>
+
+<p>In 1976, 2 American scholars, Whitfield Diffie and Martin Hellman proposed a brand new pattern that without transferring keys <em>message</em> can be decrypted, this method is named as Diffie–Hellman key exchange, also asymmetric cryptographic algorithm.</p>
+<p>未完待续…</p>
+<h1 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h1><ol>
+<li><a href="https://en.wikipedia.org/wiki/Public-key_cryptography">Public-key cryptography, <em>Wikipedia</em></a> </li>
+<li><a href="https://simple.wikipedia.org/wiki/RSA_algorithm">RSA algorithm, <em>Wikipedia</em></a> </li>
+<li>Rivest R L, Shamir A, Adleman L M. Cryptographic communications system and method: U.S. Patent 4,405,829[P]. 1983-9-20.</li>
+<li>RSA算法原理<span class="exturl" data-url="aHR0cDovL3d3dy5ydWFueWlmZW5nLmNvbS9ibG9nLzIwMTMvMDYvcnNhX2FsZ29yaXRobV9wYXJ0X29uZS5odG1s">(1)<i class="fa fa-external-link-alt"></i></span>&amp;<span class="exturl" data-url="aHR0cDovL3d3dy5ydWFueWlmZW5nLmNvbS9ibG9nLzIwMTMvMDcvcnNhX2FsZ29yaXRobV9wYXJ0X3R3by5odG1s">(2)<i class="fa fa-external-link-alt"></i></span> </li>
+<li>[YouTube]The RSA Encryption Algorithm <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS80emFodmNKOWdsZw==">(1)<i class="fa fa-external-link-alt"></i></span>&amp;<span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9vT2NUVlRwVXNQUQ==">(2)<i class="fa fa-external-link-alt"></i></span> </li>
+<li>…</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Algorithm</category>
+      </categories>
+      <tags>
+        <tag>RSA</tag>
+        <tag>Cryptography</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>The illustrated guide to a Ph.D.</title>
+    <url>/posts/a0e1b16e/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>from <span class="exturl" data-url="aHR0cDovL21hdHQubWlnaHQubmV0L2FydGljbGVzL3BoZC1zY2hvb2wtaW4tcGljdHVyZXMv">Matt Might’s blog<i class="fa fa-external-link-alt"></i></span></p>
+</blockquote>
+<p>Imagine a circle that contains all of human knowledge:</p>
+<span id="more"></span>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.001.jpg' width='68%'>
+
+<p>By the time you finish elementary school, you know a little:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.002.jpg' width='68%'>
+
+<p>By the time you finish high school, you know a bit more:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.003.jpg' width='68%'>
+
+<p>With a bachelor’s degree, you gain a specialty:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.004.jpg' width='68%'>
+
+<p>A master’s degree deepens that specialty:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.005.jpg' width='68%'>
+
+<p>Reading research papers takes you to the edge of human knowledge:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.006.jpg' width='68%'>
+
+<p>Once you’re at the boundary, you focus:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.007.jpg' width='68%'>
+
+<p>You push at the boundary for a few years:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.008.jpg' width='68%'>
+
+<p>Until one day, the boundary gives way:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.009.jpg' width='68%'>
+
+<p>And, that dent you’ve made is called a Ph.D.:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.010.jpg' width='68%'>
+
+<p>Of course, the world looks different to you now:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.011.jpg' width='68%'>
+
+<p>So, don’t forget the bigger picture:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.012.jpg' width='68%'>
+
+<p>Keep pushing.</p>
+]]></content>
+      <categories>
+        <category>Research</category>
+      </categories>
+      <tags>
+        <tag>Study</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Tools</title>
+    <url>/posts/2b3bf173/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="作图工具"><a href="#作图工具" class="headerlink" title="作图工具"></a>作图工具</h1><ul>
+<li>  <span class="exturl" data-url="aHR0cDovL3d3dy56dW9oYW90dS5jb20v">做好图<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9pbmtzY2FwZS5vcmcv">INKSPACE<i class="fa fa-external-link-alt"></i></span> <ul>
+<li>  特点：矢量图</li>
+</ul>
+</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly90aGVpbnBhaW50LmNvbS8=">Inpaint<i class="fa fa-external-link-alt"></i></span> <ul>
+<li>  特点：提供类似 photoshop 的基础功能，简单易用</li>
+</ul>
+</li>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly9pbWFnZW1hZ2ljay5vcmcvaW5kZXgucGhw">ImageMagick<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<span id="more"></span>
+
+<h1 id="PDF处理工具"><a href="#PDF处理工具" class="headerlink" title="PDF处理工具"></a>PDF处理工具</h1><ul>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly9zbWFsbHBkZi5jb20v">SmallPDF<i class="fa fa-external-link-alt"></i></span> </li>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuaWxvdmVwZGYuY29tLw==">I Love PDF<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="文字编辑工具"><a href="#文字编辑工具" class="headerlink" title="文字编辑工具"></a>文字编辑工具</h1><ul>
+<li>  Sublime Text</li>
+<li>  Typora</li>
+<li>  Microsoft Office</li>
+<li>  WPS Office</li>
+<li>  Notepad++</li>
+</ul>
+<h2 id="LaTeX"><a href="#LaTeX" class="headerlink" title="LaTeX"></a>LaTeX</h2><ul>
+<li>Texmaker</li>
+<li>Lyx</li>
+</ul>
+<h1 id="思维导图工具"><a href="#思维导图工具" class="headerlink" title="思维导图工具"></a>思维导图工具</h1><ul>
+<li>  Xmind ZEN</li>
+<li>  Mindjet Manager</li>
+</ul>
+<h2 id="流程图"><a href="#流程图" class="headerlink" title="流程图"></a>流程图</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9vbmxpbmUudmlzdWFsLXBhcmFkaWdtLmNvbS9kaWFncmFtcy8=">Visual Paradigm<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly90aW1lLmdyYXBoaWNzLw==">Time Graphics<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudGlraS10b2tpLmNvbS8=">Tiki-Toki Timeline Maker<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGVseS5jb20v">Creately<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+<h1 id="下载工具"><a href="#下载工具" class="headerlink" title="下载工具"></a>下载工具</h1><ul>
+<li>  Motrix</li>
+<li>  qBittorrent</li>
+<li>  bitcomet</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dWJlLWRsLm9yZy8=">Youtube-dl<i class="fa fa-external-link-alt"></i></span> <ul>
+<li>  download Youtube videos or audios</li>
+</ul>
+</li>
+</ul>
+<h1 id="数学工具"><a href="#数学工具" class="headerlink" title="数学工具"></a>数学工具</h1><ul>
+<li>  Mathpix Snip</li>
+<li>  LaTexiT</li>
+</ul>
+<h1 id="演示工具"><a href="#演示工具" class="headerlink" title="演示工具"></a>演示工具</h1><ul>
+<li>  Focusky</li>
+<li>  PowerPoint</li>
+</ul>
+<h1 id="鼠标录制"><a href="#鼠标录制" class="headerlink" title="鼠标录制"></a>鼠标录制</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly90aW55dGFzay5lbi5zb2Z0b25pYy5jb20v">TinyTask<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="视频剪辑工具"><a href="#视频剪辑工具" class="headerlink" title="视频剪辑工具"></a>视频剪辑工具</h1><ul>
+<li>  HitFilmExpress</li>
+<li>  Camtasia</li>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuc2hvdGN1dGFwcC5jb20v">Shoucut<i class="fa fa-external-link-alt"></i></span>, (open source)</li>
+</ul>
+<h1 id="录屏软件"><a href="#录屏软件" class="headerlink" title="录屏软件"></a>录屏软件</h1><h2 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h2><ul>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly9vaHNvZnQubmV0L2VuZy9vY2FtL2ludHJvLnBocD9jYXRlPTEwMDI=">oCam<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="服务器管理工具"><a href="#服务器管理工具" class="headerlink" title="服务器管理工具"></a>服务器管理工具</h1><ul>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly9maWxlemlsbGEtcHJvamVjdC5vcmcv">FileZilla<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="笔记类工具"><a href="#笔记类工具" class="headerlink" title="笔记类工具"></a>笔记类工具</h1><ul>
+<li>  OneNote</li>
+<li>  Code.io</li>
+<li>  Notion</li>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly9vYnNpZGlhbi5tZC8=">Obsidian.md<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="文献管理工具"><a href="#文献管理工具" class="headerlink" title="文献管理工具"></a>文献管理工具</h1><ul>
+<li>  <a href="www.zotero.org">Zotero</a></li>
+</ul>
+<h1 id="邮箱客户端"><a href="#邮箱客户端" class="headerlink" title="邮箱客户端"></a>邮箱客户端</h1><ul>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cudGh1bmRlcmJpcmQubmV0Lw==">Thunderbird<i class="fa fa-external-link-alt"></i></span> </li>
+<li>  <span class="exturl" data-url="aHR0cDovL21haWwuMTYzLmNvbS9kYXNoaS9pbmRleC5odG1s">网易邮箱大师<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="文件同步工具"><a href="#文件同步工具" class="headerlink" title="文件同步工具"></a>文件同步工具</h1><ul>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly9zeW5jdGhpbmcubmV0Lw==">Syncthing<i class="fa fa-external-link-alt"></i></span> </li>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuamlhbmd1b3l1bi5jb20v">坚果云<i class="fa fa-external-link-alt"></i></span> </li>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly9mcmVlZmlsZXN5bmMub3JnLw==">Freefile Sync<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="日历"><a href="#日历" class="headerlink" title="日历"></a>日历</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9jYWxlbmRhci5nb29nbGUuY29tLw==">Google Calendar<i class="fa fa-external-link-alt"></i></span><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuZ3RpbWVyZXBvcnQuY29tLw==">GTimeReport<i class="fa fa-external-link-alt"></i></span>: generate google calendar report</li>
+</ul>
+</li>
+</ul>
+<h1 id="视频播放器"><a href="#视频播放器" class="headerlink" title="视频播放器"></a>视频播放器</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9zcGxheWVyLm9yZy8=">SPlayer<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudmlkZW9sYW4ub3JnLw==">VLC media player<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="计算机硬件管理"><a href="#计算机硬件管理" class="headerlink" title="计算机硬件管理"></a>计算机硬件管理</h1><h2 id="固态硬盘"><a href="#固态硬盘" class="headerlink" title="固态硬盘"></a>固态硬盘</h2><ul>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy5kYXlhbnphaS5tZS9hcy1zc2QtYmVuY2htYXJrLmh0bWw=">AS SSD Benchmark<i class="fa fa-external-link-alt"></i></span>，固态硬盘测试工具</li>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy5kYXlhbnphaS5tZS9zc2QtZnJlc2guaHRtbA==">Abelssoft SSD Fresh<i class="fa fa-external-link-alt"></i></span>，固态硬盘优化工具</li>
+</ul>
+<h1 id="实用软件推荐网站"><a href="#实用软件推荐网站" class="headerlink" title="实用软件推荐网站"></a>实用软件推荐网站</h1><ul>
+<li>  <span class="exturl" data-url="aHR0cDovL3d3dy5jYXJyb3RjaG91LmJsb2cv">胡萝卜周<i class="fa fa-external-link-alt"></i></span></li>
+<li>  <span class="exturl" data-url="aHR0cDovL2RheWFuemFpLm1lLw==">大眼仔<i class="fa fa-external-link-alt"></i></span></li>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly9sYW9kLmNuLw==">老D博客<i class="fa fa-external-link-alt"></i></span></li>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuZ2hweW0uY29tLw==">果核剥壳<i class="fa fa-external-link-alt"></i></span> </li>
+<li>  <span class="exturl" data-url="aHR0cDovL3d3dy56aGFuc2hhb3lpLmNvbS8=">我爱分享网<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>Tool</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Uncertainty</title>
+    <url>/posts/795e1c16/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security.    </p>
+</blockquote>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cubWF0aC50ZW1wbGUuZWR1L35wYXVsb3MvaW5kZXguaHRtbA==">John Allen Paulos<i class="fa fa-external-link-alt"></i></span> </p>
+]]></content>
+      <categories>
+        <category>方法论</category>
+      </categories>
+      <tags>
+        <tag>Principle</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Youth</title>
+    <url>/posts/ca6442d1/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>原文链接：<span class="exturl" data-url="aHR0cHM6Ly93d3cudWFiLmVkdS91bGxtYW5tdXNldW0v">https://www.uab.edu/ullmanmuseum/<i class="fa fa-external-link-alt"></i></span> Author: Samuel Ullman</p>
+</blockquote>
+<p>Youth is not a time of life; it is a state of mind; it is not a matter of rosy cheeks, red lips and supple knees; it is a matter of the will, a quality of the imagination, a vigor of the emotions; it is the freshness of the deep springs of life.</p>
+<span id="more"></span>
+
+<p>Youth means a temperamental predominance of courage over timidity, of the appetite for adventure over the love of ease. This often exists in a man of 60 more than a boy of 20. Nobody grows old merely by a number of years. We grow old by deserting our ideals.</p>
+<p>Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul. Worry, fear, self-distrust bows the heart and turns the spirit back to dust.</p>
+<p>Whether 60 or 16, there is in every human being’s heart the lure of wonder, the unfailing child-like appetite of what’s next and the joy of the game of living. In the center of your heart and my heart there is a wireless station: so long as it receives messages of beauty, hope, cheer, courage and power from men and from the Infinite, so long are you young.</p>
+<p>When the aerials are down, and your spirit is covered with snows of cynicism and the ice of pessimism, then you are grown old, even at 20, but as long as your aerials are up, to catch waves of optimism, there is hope you may die young at 80.</p>
+]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
+      <tags>
+        <tag>Article</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Academic Jokes</title>
+    <url>/posts/e178610c/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><ul>
+<li>1994年，几个来自 New York University 的生物学家声称发明了微积分<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="Tai M M. A mathematical model for the determination of total area under glucose tolerance and other metabolic curves[J]. Diabetes care, 1994, 17(2): 152-154.">[1]</span></a></sup>。</li>
+</ul>
+<ul>
+<li><p><span class="exturl" data-url="aHR0cHM6Ly9zaGl0bXlyZXZpZXdlcnNzYXkudHVtYmxyLmNvbS8=">ShitMyReviewersSay (Collecting the finest real specimens of reviewer comments since 1456)<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+<li><p><span class="exturl" data-url="aHR0cDovL3BoZGNvbWljcy5jb20v">PhD Comics<i class="fa fa-external-link-alt"></i></span>, <span class="exturl" data-url="aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3BoZGNvbWljcw==">Facebook page<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+</ul>
+<span id="more"></span>
+
+<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">Tai M M. A mathematical model for the determination of total area under glucose tolerance and other metabolic curves[J]. Diabetes care, 1994, 17(2): 152-154.<a href="#fnref:1" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
+      <categories>
+        <category>Research</category>
+      </categories>
+      <tags>
+        <tag>Scientist</tag>
+        <tag>Joke</tag>
+        <tag>History</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>(Modest) advice for graduate students</title>
     <url>/posts/3f8ebbcc/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
@@ -179,6 +636,25 @@
       </tags>
   </entry>
   <entry>
+    <title>粟耀莹·《从加州理工到高盛银行》</title>
+    <url>/posts/1f972e30/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>原文：<span class="exturl" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC90b3BpYy8xMDU0OTAyLw==">粟耀莹  从加州理工到高盛银行<i class="fa fa-external-link-alt"></i></span> </p>
+<p>粟耀莹的母亲是洪冬桂，台湾立法委员；父亲是粟明德，白崇禧义子，曾任蒋经国秘书；粟家与白家世交。</p>
+<span id="more"></span>
+
+<blockquote>
+<p>“我从来没有想要教书或作研究，我去加州理工，这个在世界上诺贝尔奖得主密度最大的地方，是为了接受其熏陶，以悟出如何得到诺贝尔奖的道理，并对我当年的偶象Feynman费因曼(著名的物理诺贝尔奖得主，著有Surely You’re Joking，Mr.Feynman 一书)生前待过最久的地方，进行模拜。“</p>
+</blockquote>
+<p>因为研究生课程免修考试通过，因此粟有时间多浏览物理领域的前沿内容（也曾经拜访叶乃裳教授），之后经过多方了解，认为物理与生物交叉的方向前景广阔，值得研究。但因为自己之前没有生物基础，所以就必须去生物系选修相关的课程，最初受到冷眼旁观，但是之后自己取得了很好的成绩，逐步得到各种人的赞赏。在科学之外，她发现还有一个宽广而多彩的世界，商业是一个足可与科学抗衡的行业。 </p>
+]]></content>
+      <categories>
+        <category>Comment</category>
+      </categories>
+      <tags>
+        <tag>Comment</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>A guide to Academic Oral Presentations</title>
     <url>/posts/275d1822/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>The ability to undertake an oral presentation is a valuable skill for assessment tasks, interviews and your future career. This skill can be developed by everyone and is not reserved to those who are “naturally” confident at public speaking. This guide will provide you with some tips and techniques for ensuring your presentation is well planned, structured and delivered.</p>
@@ -247,132 +723,23 @@
         <category>Research</category>
       </categories>
       <tags>
-        <tag>Speech</tag>
         <tag>Skill</tag>
+        <tag>Speech</tag>
       </tags>
   </entry>
   <entry>
-    <title>Academic Jokes</title>
-    <url>/posts/e178610c/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><ul>
-<li>1994年，几个来自 New York University 的生物学家声称发明了微积分<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="Tai M M. A mathematical model for the determination of total area under glucose tolerance and other metabolic curves[J]. Diabetes care, 1994, 17(2): 152-154.">[1]</span></a></sup>。</li>
-</ul>
-<ul>
-<li><p><span class="exturl" data-url="aHR0cHM6Ly9zaGl0bXlyZXZpZXdlcnNzYXkudHVtYmxyLmNvbS8=">ShitMyReviewersSay (Collecting the finest real specimens of reviewer comments since 1456)<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-<li><p><span class="exturl" data-url="aHR0cDovL3BoZGNvbWljcy5jb20v">PhD Comics<i class="fa fa-external-link-alt"></i></span>, <span class="exturl" data-url="aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3BoZGNvbWljcw==">Facebook page<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-</ul>
-<span id="more"></span>
+    <title>Godfather</title>
+    <url>/posts/f2e7ea61/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>This story is about father and son.<br>This story is about family.</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/godfather.jpg' width='80%'>
 
-<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">Tai M M. A mathematical model for the determination of total area under glucose tolerance and other metabolic curves[J]. Diabetes care, 1994, 17(2): 152-154.<a href="#fnref:1" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
+<p>Provided by the Danish National Symphony Orchestra.</p>
+<iframe width=80% src="https://www.youtube.com/embed/X-jdl9hcCeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
       <categories>
-        <category>Research</category>
+        <category>Music</category>
       </categories>
       <tags>
-        <tag>Scientist</tag>
-        <tag>Joke</tag>
-        <tag>History</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Win10 OS Tutorials</title>
-    <url>/posts/3e6fcc87/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="PowerPoint"><a href="#PowerPoint" class="headerlink" title="PowerPoint"></a>PowerPoint</h1><h2 id="导出高分辨率图片"><a href="#导出高分辨率图片" class="headerlink" title="导出高分辨率图片"></a>导出高分辨率图片</h2><blockquote>
-<p>参考资料：<span class="exturl" data-url="aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vemgtY24vb2ZmaWNlL3Ryb3VibGVzaG9vdC9wb3dlcnBvaW50L2NoYW5nZS1leHBvcnQtc2xpZGUtcmVzb2x1dGlvbg==">如何从 PowerPoint 导出高分辨率（高 dpi）幻灯片<i class="fa fa-external-link-alt"></i></span> </p>
-</blockquote>
-<p>你可以通过将幻灯片保存为图片格式来更改 Microsoft PowerPoint 的导出分辨率。 此过程有两个步骤：使用系统注册表更改导出的幻灯片的默认分辨率设置，然后以新的分辨率将幻灯片保存为图片。</p>
-<h3 id="更改导出分辨率设置"><a href="#更改导出分辨率设置" class="headerlink" title="更改导出分辨率设置"></a>更改导出分辨率设置</h3><p>默认情况下，要另存为图片的 PowerPoint 幻灯片的导出分辨率为每英寸 96 点 (dpi)。 若要更改导出分辨率，请执行以下步骤：</p>
-<span id="more"></span>
-
-<ol>
-<li><p>退出所有 Windows 程序。</p>
-</li>
-<li><p>右键单击“开始”，然后选择“运行”。或者 <code>win+R</code>。</p>
-</li>
-<li><p>在“打开”框中，键入“regedit”，然后选择“确定”。</p>
-</li>
-<li><p>根据你使用的 PowerPoint 版本，找到以下注册表子项之一：</p>
-<p>PowerPoint 2016、2019、PowerPoint for Office 365</p>
-<p><strong>HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\PowerPoint\Options</strong></p>
-<p>PowerPoint 2013</p>
-<p><strong>HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\PowerPoint\Options</strong></p>
-<p>PowerPoint 2010</p>
-<p><strong>HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\PowerPoint\Options</strong></p>
-<p>PowerPoint 2007</p>
-<p><strong>HKEY_CURRENT_USER\Software\Microsoft\Office\12.0\PowerPoint\Options</strong></p>
-<p>PowerPoint 2003</p>
-<p><strong>HKEY_CURRENT_USER\Software\Microsoft\Office\11.0\PowerPoint\Options</strong></p>
-</li>
-<li><p>单击“选项”子项，指向“编辑”菜单上的“新建”，然后选择“DWORD (32 位)值”。</p>
-</li>
-<li><p>输入“ExportBitmapResolution”，然后按 Enter 键。</p>
-</li>
-<li><p>确保选中“ExportBitmapResolution”，然后选择“编辑”菜单上的“修改”。</p>
-</li>
-<li><p>在“编辑 DWORD 值”对话框中选择“十进制”。</p>
-</li>
-<li><p>在“数值数据”框中，输入分辨率“300”。 或使用下表中的参数。</p>
-</li>
-<li><p>选择“确定”。</p>
-</li>
-<li><p>在“文件”菜单上，选择“退出”，退出注册表编辑器。</p>
-</li>
-</ol>
-<h3 id="将幻灯片导出为图片"><a href="#将幻灯片导出为图片" class="headerlink" title="将幻灯片导出为图片"></a>将幻灯片导出为图片</h3><ol>
-<li>在 PowerPoint 中，打开幻灯片演示文稿，然后打开要导出的幻灯片。</li>
-<li>在“文件”菜单上，选择“另存为”。</li>
-<li>选择保存类型，保存即可。</li>
-</ol>
-<h3 id="检查图片分辨率"><a href="#检查图片分辨率" class="headerlink" title="检查图片分辨率"></a>检查图片分辨率</h3><p>右键目标图片，选择属性，查看分辨率即可。</p>
-<h1 id="bat-file"><a href="#bat-file" class="headerlink" title=".bat file"></a>.bat file</h1><p>一些情况下，执行完<code>.bat</code>文件之后窗口直接退出，无法在窗口中看到运行结果，带来了许多不便。这里给出两种方法可以解决上述问题：</p>
-<ol>
-<li><p>在<code>.bat</code>文件最后加上一行<code>pause</code>，示例如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ipconfig &#x2F;all</span><br><span class="line">pause</span><br></pre></td></tr></table></figure></li>
-<li><p>在<code>.bat</code>文件最后加上一行<code>@cmd</code>，示例如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ipconfig &#x2F;all</span><br><span class="line">@cmd</span><br></pre></td></tr></table></figure></li>
-</ol>
-<p>两种方法的区别是：第一种方法后续无法在窗口中继续输入命令，仅供查看窗口内容；第二种方法可以继续在窗口中输入命令。</p>
-<h1 id="定时关机"><a href="#定时关机" class="headerlink" title="定时关机"></a>定时关机</h1><ol>
-<li><p><code>Win+R</code></p>
-</li>
-<li><p><code>shutdown -s -t time</code></p>
-<p>参数<code>time</code>用时间来替代，如<code>shutdown -s -t 60</code>代表从现在时刻起60秒后关机。</p>
-</li>
-<li><p><code>at HH:MM shutdown -s</code> </p>
-<p><code>HH:MM</code>代表时间，如<code>at 10:00 shutdown -s</code>代表将在10:00自动关机。</p>
-</li>
-<li><p><code>shutdown -a</code></p>
-<p>取消定时关机。</p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Tool</category>
-      </categories>
-      <tags>
-        <tag>OS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Job Hunting Tips</title>
-    <url>/posts/31b5cd/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="求职网站"><a href="#求职网站" class="headerlink" title="求职网站"></a>求职网站</h2><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw==">LinkedIn<i class="fa fa-external-link-alt"></i></span> </li>
-<li>BOSS 直聘</li>
-</ul>
-<span id="more"></span>
-
-<h2 id="Salary"><a href="#Salary" class="headerlink" title="Salary"></a>Salary</h2><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9PamFLN25tQ1lDbw==">如何談薪水 Like A Pro<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<p>未完待续…</p>
-]]></content>
-      <categories>
-        <category>方法论</category>
-      </categories>
-      <tags>
-        <tag>Job Hunting</tag>
+        <tag>Music</tag>
       </tags>
   </entry>
   <entry>
@@ -427,186 +794,6 @@
       </categories>
       <tags>
         <tag>Study</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Music Collection</title>
-    <url>/posts/68f6e242/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS8xcTgydHdyZHIwVQ==">电影《悲惨世界》Les Misérables | Do You Hear the People Sing?<i class="fa fa-external-link-alt"></i></span> </p>
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMTVBNDExajdSbT9zaGFyZV9zb3VyY2U9Y29weV93ZWI=">《国际歌》| 风儿中-<i class="fa fa-external-link-alt"></i></span> </p>
-<p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9nbjY0TTE2Z2wyRQ==">《阿婆说》| 陈一发<i class="fa fa-external-link-alt"></i></span> </p>
-<span id="more"></span>
-
-]]></content>
-      <categories>
-        <category>Music</category>
-      </categories>
-      <tags>
-        <tag>Music</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>张志顺八部金刚功</title>
-    <url>/posts/c879afe2/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>张至顺（1912年—2015年），原海南省<span class="exturl" data-url="aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTklODElOTMlRTYlOTUlOTklRTUlOEQlOEYlRTQlQkMlOUE=">道教协会<i class="fa fa-external-link-alt"></i></span>名誉会长、西安<span class="exturl" data-url="aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTQlQjglODclRTUlQUYlQkYlRTUlODUlQUIlRTQlQkIlOTklRTUlQUUlQUIvMjkyMTQwNA==">万寿八仙宫<i class="fa fa-external-link-alt"></i></span>名誉方丈，海南省<span class="exturl" data-url="aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTclOEUlODklRTglOUYlQkUlRTUlQUUlQUIvNDY0NTY4OQ==">玉蟾宫<i class="fa fa-external-link-alt"></i></span>住持。生于1912年。七岁时值清末民初，战乱灾荒交加。因家境贫困离家乞讨。十二岁随师学艺，十七岁在陕西省华山遇师刘明苍道长而出家。在道观，张至顺从事杂役，终日劳苦，磨练心志，因道心清明和修炼上独辟<span class="exturl" data-url="aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTglQjklOEElRTUlQkUlODQ=">蹊径<i class="fa fa-external-link-alt"></i></span>，被师授以真传，为中国道教全真龙门正宗第二十一代传人。</p>
-</blockquote>
-<span id="more"></span>
-
-<h1 id="外八部金刚功"><a href="#外八部金刚功" class="headerlink" title="外八部金刚功"></a>外八部金刚功</h1><iframe src="https://www.youtube.com/embed/1NiISV36tMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<h1 id="内八部长寿功"><a href="#内八部长寿功" class="headerlink" title="内八部长寿功"></a>内八部长寿功</h1><iframe src="https://www.youtube.com/embed/9h2jQTDribI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-]]></content>
-      <categories>
-        <category>锻炼</category>
-      </categories>
-      <tags>
-        <tag>锻炼</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hawking Memorial article</title>
-    <url>/posts/3dea12d7/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p><span class="exturl" data-url="aHR0cHM6Ly93d3cucG5hcy5vcmcvY29udGVudC8xMTUvMjEvNTMwOQ==">Stephen Hawking (1942–2018): Toward a complete understanding of the universe<i class="fa fa-external-link-alt"></i></span> by James Hartle, 2018.</p>
-<span id="more"></span>
-
-<p>2 works by Hawking stand out:</p>
-<ul>
-<li>Beginning of the universe ;</li>
-</ul>
-<p>Quantum cosmology</p>
-<p>The beginning of universe: from <strong>4 space dimension → (decouple) 3 space dimension + 1 time dimension</strong>.</p>
-<ul>
-<li>The end of black holes ;</li>
-</ul>
-<p>Black holes are not black hole when take quantum mechanics into account, black holes will have temperature and radiation, “white hot” named by Hawking.</p>
-<p>Hawking’s ability outstanding:</p>
-<ol>
-<li>Focus on the essentials of problems ;</li>
-<li>Give up some “right” ideas ;</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Scientist</category>
-      </categories>
-      <tags>
-        <tag>Scientist</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Lloyd Blankfein Gives Commencement Address at 2013 LaGuardia Community College</title>
-    <url>/posts/3f4b9228/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://content.fortune.com/wp-content/uploads/2014/08/167933662-1.jpg' width='80%'>
-
-<h2 id="Here-is-full-speech-in-English"><a href="#Here-is-full-speech-in-English" class="headerlink" title="Here is full speech in English"></a>Here is full speech in English</h2><p>President Mellow, distinguished faculty, friends, family, and the Graduating Class of 2013. </p>
-<p>It is a great honor for me to share in your accomplishment and pride today. But I must admit that I approached this address with some trepidation. I suppose that more commencement speeches have been delivered more seriously, listened to more attentively, and forgotten more promptly than any other form of human communication. </p>
-<span id="more"></span>
-
-<p>So I will try to be brief and practical.  My advice is grounded in my own experience. And my own experience, in many respects, is not that different from many of yours. </p>
-<p>I grew up with the idea that college was more an aspiration than an expectation. I saw my parents struggle most of their lives and the daily battle to keep afloat sometimes even drained what hopes and dreams they had for me. They didn’t go to college and neither did my only, older sibling. </p>
-<p>My father sorted mail for the post office.  He worked nights because it paid 10% more than a day shift. My mother was a receptionist at a burglar alarm company — one of the few growth industries in our neighborhood.  I grew up in the Linden Houses, which, as some of you know, is a housing project in East New York. </p>
-<p>It was and is a tough neighborhood, though it produced some accomplished people who, despite or because of their background, did well.  I attended Thomas Jefferson high school, which has since shut down as a high school and operates different training programs for various skills.  Up until high school, I shared a small apartment with my extended family, which included my grandmother, my sister and my nephew.  </p>
-<p>But looking back, I grew up in a world of unlimited opportunity. Each night I would read, and reading opened up the world to me.  I love reading history and especially biography.  In biographies, you are almost always reading about people who started out unimportant but ended up having a significant life.</p>
-<p>What I liked most about biographies then and now is that the person you are reading about is in his or her early life on page 50, doesn’t know about the success he or she will achieve on page 300.  They couldn’t see the greatness that lay ahead. If you think about it, that’s a great justification for the optimism that you should have for the life ahead of you.  All of you are only on about page 50 of your biography, with hundreds of pages to go. </p>
-<p>Growing up, my biggest goal was just to get out of East New York.  I took the college entrance exam and committed myself to getting into college. I did. The day I left for college was one of the first trips I made out of New York City. </p>
-<p>College was an intimidating place for me. The other students seemed naturally confident; many had traveled and seemed to understand the world. To this day, I can’t forget how insecure I felt, but it made me work harder.</p>
-<p>Once I realized I belonged, I became more ambitious. Ambition is your inner voice that tells you you can and should strive to go beyond your circumstances or station in life. You have overcome obstacles, pressures and self-doubt and you have done it because you have ambition. You want to succeed for your families and yourselves. And there is no more powerful force through which to do that than through education and know how.</p>
-<p>I’m proud that LaGuardia and Goldman Sachs have teamed up to support small businesses. Through this partnership, I’ve seen how many LaGuardia students are juggling school, job and family.  And, I’ve seen how these students and all of you push yourselves and persevere. </p>
-<p>By virtue of being here today, you have proven to yourself that you belong. And now that you belong, feed off your ambition. That means being focused, disciplined, demanding, self critical and open minded. Your challenges won’t fall away. In fact, they may get steeper. </p>
-<p>That, my friends, is life. But just as the struggles are great, so are the rewards. There’s another way to look at it: ask yourself if you really have a choice. You already knew the answer to that question the first day you walked into LaGuardia. We owe it to our families and to ourselves to keep striving. </p>
-<p>This is certainly not the easiest of economic times, but there’s always an economic cycle. In the course of the next 50 years of your life, you’ll see alot of cycles, and like this one, you’ll get through it. Don’t get caught up in unrealistic optimism or detached pessimism.  </p>
-<p>Still, a lot can change rapidly and with a lot of force. Your security rests in knowing how to do a variety of things – and being able to do them better than others. </p>
-<p>And that knowledge and ability can be obtained only through a willingness to strike out for something better. That could mean changing careers or pushing for a new idea or strategy in your current one. In either case, push yourself to try something new and to grow with each move. </p>
-<p>After college, I went to law school for three years, and then into my dream job at a big NY law firm. But even though it had been my dream, I didn’t like it once I got there. </p>
-<p>For the first time, I was feeling financially secure, but I knew I wasn’t passionate enough about what I was doing. And because I didn’t love it, I would never be fulfilled from it, or be really good at it. Someone who loved it more would have greater enthusiasm an focus. For some it was fun; for me it was always going to be a chore. </p>
-<p>After five years at a law firm, I decided I wanted to try something different. I came home and told my wife I was quitting, and she cried. And not out of happiness. Anyway, it worked out. I got a new job at a small Wall Street firm, we got bought out by a larger firm, and I ended up remaining at a large firm… Goldman Sachs. </p>
-<p>In my career, I’ve been fortunate to know and work with many of this country’s top CEOs and business leaders. I’m always struck by a certain passion that defines them. While they may be wealthy and powerful, their passion goes beyond money and power. </p>
-<p>I won’t stand here and tell you those are bad things. They can be pretty good, but only if you have a larger purpose in mind. If you don’t have passion for your work or the drive to make a better life for your kids than your own, then you won’t have what it takes to keep you going. </p>
-<p>So, I’d like to leave you with some specific advice that will hopefully keep you going: </p>
-<p>First, confidence really matters. Recognize you have earned the right to be confident. Most of you have made great sacrifices and overcome great obstacles to get where you are today. You built up muscles that others who’ve had an easier time don’t have. Those muscles will serve you for the rest of your life. </p>
-<p>My struggle to get to and through college turned out to be an advantage for me. The disadvantages you have had become part of your personal history and track record, all advantages in your later life. So confidence is justified. </p>
-<p>Second, find a job that you like. You’ll be better at it and you’ll last longer in it. Having said that, in a tough economy, or because of family pressures, you may not aways be able take a risk with a job choice. And, no doubt, we’ve all settled at various times. </p>
-<p>But, don’t let necessity in a give moment become the excuse for a lifetime of inertia. Keep trying to get yourself to the right place. If I’d stayed a lawyer, I could have made it work for a while, but I would have fizzled out and eventually because I didn’t love it. </p>
-<p>Third, be a well rounded, complete person. many of you will go for further education or career training. Of course, it’s important to learn the things that you need to make a living. But, don’t forget to read, and to learn history, literature and about current events. </p>
-<p>You’ll be more interesting to others, more interesting to yourself and you’ll be more successful in your job. Most of the books I’ve read didn’t apply directly to my job or industry, but I’ve applied their lessons in unexpected ways. </p>
-<p>Fourth, be involved in the community. Find ways to contribute to make yourself proud and set an example to your kids. making a living is not life. It is a means to an end, not the end. You have to feel proud of yourself. There are always going to be people who struggle and for whom community work is not a realistic option, but try. </p>
-<p>I’ve done plenty to advance myself over the years. But, the older I get, the more satisfaction I get from serving and advancing others. In fact that’s how I first got involved with President Mellow and LaGuardia – through the 10,000 Small Businesses program we initiated at your school. </p>
-<p>Finally, appreciate that life is unpredictable, so don’t close your mind to possibilities. Try to surround yourself with people who are equally ambitious.  Put yourself in situation where you can grow — where you’ll not only push yourself but others will push you. </p>
-<p>What were the chances that a kid from the projects would run one of the great financial institutions in the world? You just never know. That unpredictability is the great thing about life. You change. The world changes. You live in a country where we are still blessed with enormous opportunity. Leave yourself open to the world of possibility. You have the ambition, you have the smarts and you have the toughness. So, turn the page on your biography – you have just started a new chapter in your lives. </p>
-<p>Good luck and congratulations to you and your families. </p>
-<h2 id="这是演讲的中文翻译"><a href="#这是演讲的中文翻译" class="headerlink" title="这是演讲的中文翻译"></a>这是演讲的中文翻译</h2><p>麦罗校长，各位尊敬的老师，朋友，家人以及2013年的毕业生们：</p>
-<p>我很荣幸能在今天分享你们的成就和荣耀。但是我必须承认，我是带着一些不安来参加这次活动的。我想，曾经有更多更认真的毕业典礼发言，收到更加用心地倾听，但是相比其他任何沟通形式，也更加迅速地被遗忘。</p>
-<p>所以，我会尽量简短而实用。我的全部建议都是来自我自己的经历。而我的经历，从很多方面来看，和你们当中的很多并没有什么不同。</p>
-<p>在我成长的环境中，大学更多是一个美好愿望而不是理所当然的事情。我见证我父母大半生的奋斗，每天仅为了维持生计而努力工作，有时甚至会打消任何他们对我的期望和梦想。他们都没有上过大学，我唯一的兄长也没有读过大学。</p>
-<p>我的父亲在邮局整理邮件。他选择夜班工作只是因为报酬比白班多了10%，我的母亲是一个防盗警报公司的接待员——这也是我所在社区为数不多的增长行业之一。我在林登小区长大，你们当中的很多都知道，这是纽约东区的一个住宅项目。</p>
-<p>它一直都是一个贫穷的社区，但是也产生了一些有成就的人，有些是因为这一背景而成功，有些是因为克服了这一背景而做出了成绩。我在托马斯-杰斐逊高中毕业，学校在之后关闭了高中部，仅仅提供多种技能培训项目。直到高中毕业，我一直和我庞大的家庭分享一间小小的公寓，包括了我的奶奶，我的妹妹和我的侄儿。</p>
-<p>但是回过头看看，我是在一个有着无限机遇的世界长大的。我每天晚上都会读书，阅读向我展开了整个世界。我喜欢读历史，尤其是传记。在传记里面，你总是能看到一个似乎是无足轻重的人，最终如何拥有与众不同的人生。</p>
-<p>不管是过去还是现在，传记最吸引我的一点是，书中的人物在自己生命的初期，也就是前五十页当中，是不会知道他或者是她会在第三百页的时候取得的成功。他们并不知道将会出现在自己面前的伟大。</p>
-<p>仔细想想这点吧，这是对你们自己未来的生活保持乐观的一个极好理由。你们所有人都仅仅在自己那本传记的前五十页，还有几百页的路要走。</p>
-<p>在漫长的成长中，我最大的目标就是走出纽约东区。我参加了大学入学试，发誓一定要进大学。我成功了。我去读大学的时候也是我第一次离开纽约市。</p>
-<p>大学是一个令我心生敬畏的地方。其他学生似乎很自然的充满信心，很多人都曾到处旅行，看起来对这个世界十分了解。直到今天，我还是没有办法忘记我当时的不安全感，但是这种感觉让我更加努力地工作。</p>
-<p>当我认识到自己的定位时，我变得更有野心了。野心是你内心的声音，告诉你可以而且应该努力去超越人生的处境或者是限制。你必须克服障碍，扛住压力，打消自我怀疑，你能做到这些都是因为你有足够的野心。</p>
-<p>你想要为了你的家人以及你自己而成功，除了通过教育和学习，没有什么更强大的力量能做到这一点。</p>
-<p>我很自豪的是，拉瓜迪亚社区大学和高盛集团联手提出了对小企业的支持。通过这个合作，我也看到了多少拉瓜迪亚社区大学的学生在学校，工作和家庭中游刃有余。我也看到了这些同学，还有在座的所有人如何不断勉励自己，而且持之以恒下去。</p>
-<p>仅仅是今天能够出现在这里，你们已经证明了自己的定位。现在你们已经有了定位，接下来就去壮大自己的野心。这意味着专注，自律，严格，自我批判和开放的心态。事实上，你们要面对的挑战不会消失，而会更加严峻。</p>
-<p>我的朋友们，这就是生活。但是奋斗越是艰辛，回报也会更加丰厚。用另一个方式看问题：问问你自己，你是不是真的有选择。当你们走进拉瓜迪亚社区大学的第一天，你们已经知道了这个问题的答案。我们必须为了自己的家庭和自己而不断努力。</p>
-<p>现在显然不是最好的经济时期，但是经济总是有一个周期的。在你们人生的下一个五十年，你们会经历很多周期，和这次一样，你们能够顺利渡过。不要有任何不切实际的乐观或者是过分的悲观。</p>
-<p>尽管如此，世上还会发生许多不测，带来巨大影响。你们的安全感来自于知道如何做各种各样的事情——而且比其他人做得都要好。</p>
-<p>而只有不断追求卓越，才能获得这些知识和能力。这意味着改变职业道路或者追求目前职业新的想法、新策略。不管是哪种情况，你都应该逼迫自己尝试新的事物，在每一步中成长。</p>
-<p>读完大学，我在法学院度过了三年，之后在一间大的纽约律师事务所得到了自己梦想中的工作。虽然这曾一直是我的梦想，但是当我得到时，我发现我并不喜欢它。</p>
-<p>虽然在我人生中，我第一次在财务上获得了保障，但是我知道我对我自己做的那些事情并没有足够激情。而且，因为我并不爱的工作，我将永不可能从中得到满足，或者是真的擅长这份工作。更爱这种工作的人会更积极地专注于它。对有些人来说，这是乐趣，对我来说，这永远是一份苦差。</p>
-<p>在五年的律师事务所工作之后，我决定要尝试一些不同的东西。我回家告诉我的妻子我要辞职，她哭了，而且不是因为高兴。不管怎么说，事情还算顺利，我在一间华尔街的小企业中找到了新的工作，之后被更大的企业收购，我也得以进入这个更大的机构，高盛集团。</p>
-<p>在我的职业生涯中，我很幸运能够认识，并且与很多全国顶级的首席执行官以及商界领袖们共同工作。我总是能够被造就他们成功的那种激情所打动。他们也许非常有钱，权势惊人，但是他们的激情远远超越了金钱和权力。</p>
-<p>今天我在这里不是要告诉你们金钱和权力的坏处。只要你的头脑中有一个更大目标，钱与权相当有益。如果你对自己的工作没有激情，或者是没有动力为你的孩子打造比你自己更好人生，那么你就不会有那些让你持续前进的东西。</p>
-<p>所以，我想给你们一些更加具体的建议，希望能够保持你们继续前进。</p>
-<p>首先，信心真的很重要。</p>
-<p>要认识到你已经赢得了自信的权力。你们中的绝大多数都是付出了巨大的牺牲，克服了巨大的障碍才有了现在的成就。你们有了其他起步更早的人所没有的能力，这些能力将会在你们的余生为你们效力。</p>
-<p>我进入大学并读完它的努力最终成为我的一个优势。你曾有的不足已成为你个人经历和职业纪录的历史，它们都会在之后的人生中变成你的优势。所以，你们有理由充满信心。</p>
-<p>第二点，找到一个你喜欢的工作。</p>
-<p>你会做得更好，而且做得更长。虽然是这样说，在一个艰难的经济形势中，需要因为家庭压力做出一些让步，你并不是总能够在职业选择上承担风险。而且，毫无疑问的是，我们将会很多次的妥协。</p>
-<p>但是，不要让一时的必要选择成为一生惯性的借口。要不断试图让自己走到正确的地方。如果我继续做一名律师，我可能会干得还不错，但是我不会辉煌，因为我并不爱这个工作。</p>
-<p>第三，做一个全面、完整的人。</p>
-<p>你们中的很多人会继续接受教育或者是职业培训。学习维持生计必须的东西当然是很重要的。但是不要忘了阅读，学习历史，文化以及时事。</p>
-<p>你会变得更吸引人，对你自己也更加有趣，会在你的工作上更加成功。我读过的绝大部分书对我的工作甚至这个行业都没有直接的用处，但是书中的经验教训总会以意想不到的方式发挥作用。</p>
-<p>第四点，参与社区活动。</p>
-<p>找到可以让你感到自豪的贡献方式，为你的孩子们树立榜样。谋生并不是生活，只是达到目的的一个手段，而不是目的本身。你需要为自己感到自豪。总会有人需要为生计努力，对他们来说社区工作并不是一个现实的选择，但是请努力尝试。</p>
-<p>在过去的岁月里我做了很多事情来让自己进步。但是年纪越大，我越来越能够从服务和帮助他人进步中得到满足。事实上，我最初结识麦罗校长和拉瓜迪亚社区大学就是因为我们共同发起的这个10000家小企业项目。</p>
-<p>最后，要明白人生是不可预测的，所以不要自我设限。</p>
-<p>试试和那些一样具有野心的人为伍，让你置身于可以成长的环境中——在那种你不仅仅可以让自己进步，其他人也会推动你前进的环境。</p>
-<p>一个从贫困小区长大的孩子掌管世界上最大金融机构的机会有多大？你永远也不会知道。不可预测性是生活最伟大的一点。你改变，这个世界也在改变。</p>
-<p>你们生活在一个仍然拥有得天独厚机会的国家。让你自己对无限可能的世界敞开胸怀。你们有野心，你们有智慧和坚韧，所以，请翻开自己的传记——你们已经打开了人生的新一个篇章。</p>
-<p>祝你们和你们的家人好运，也祝贺你们和你们的家人。</p>
-<h2 id="关于Lloyd-Blankfein的一些信息"><a href="#关于Lloyd-Blankfein的一些信息" class="headerlink" title="关于Lloyd Blankfein的一些信息"></a>关于Lloyd Blankfein的一些信息</h2><ul>
-<li>劳尔德·贝兰克梵（Lloyd Blankfein），世界上最大的投资银行高盛集团CEO，贝兰克梵因带领高盛集团成功走出2008年金融危机而为人所熟知。贝兰克梵1954年出生于纽约布鲁克林的一个贫民区，父亲是一个普通的邮件分拣员。</li>
-<li>贝兰克梵毕业于哈佛大学，但是从小成绩十分优异的贝兰克梵报考哈佛并不是因为他觉得哈佛多么伟大，而是因为从小生活在贫民区的他并不知道世界上还有别的大学。他觉得自己必须考上哈佛。</li>
-<li>贝兰克梵第一次面试高盛就被拒绝了，并没有因为他是哈佛学生而受到优待。后来贝兰克梵进入了一家很小的贸易公司，在很短的时间里成为金牌销售。但是因为公司经营不佳，被高盛收购，贝兰克梵因此得以进入高盛。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Speech</category>
-      </categories>
-      <tags>
-        <tag>Speech</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>粟耀莹·《从加州理工到高盛银行》</title>
-    <url>/posts/1f972e30/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>原文：<span class="exturl" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC90b3BpYy8xMDU0OTAyLw==">粟耀莹  从加州理工到高盛银行<i class="fa fa-external-link-alt"></i></span> </p>
-<p>粟耀莹的母亲是洪冬桂，台湾立法委员；父亲是粟明德，白崇禧义子，曾任蒋经国秘书；粟家与白家世交。</p>
-<span id="more"></span>
-
-<blockquote>
-<p>“我从来没有想要教书或作研究，我去加州理工，这个在世界上诺贝尔奖得主密度最大的地方，是为了接受其熏陶，以悟出如何得到诺贝尔奖的道理，并对我当年的偶象Feynman费因曼(著名的物理诺贝尔奖得主，著有Surely You’re Joking，Mr.Feynman 一书)生前待过最久的地方，进行模拜。“</p>
-</blockquote>
-<p>因为研究生课程免修考试通过，因此粟有时间多浏览物理领域的前沿内容（也曾经拜访叶乃裳教授），之后经过多方了解，认为物理与生物交叉的方向前景广阔，值得研究。但因为自己之前没有生物基础，所以就必须去生物系选修相关的课程，最初受到冷眼旁观，但是之后自己取得了很好的成绩，逐步得到各种人的赞赏。在科学之外，她发现还有一个宽广而多彩的世界，商业是一个足可与科学抗衡的行业。 </p>
-]]></content>
-      <categories>
-        <category>Comment</category>
-      </categories>
-      <tags>
-        <tag>Comment</tag>
       </tags>
   </entry>
   <entry>
@@ -771,13 +958,35 @@
       </tags>
   </entry>
   <entry>
-    <title>Godfather</title>
-    <url>/posts/f2e7ea61/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>This story is about father and son.<br>This story is about family.</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/godfather.jpg' width='80%'>
+    <title>Job Hunting Tips</title>
+    <url>/posts/31b5cd/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="求职网站"><a href="#求职网站" class="headerlink" title="求职网站"></a>求职网站</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw==">LinkedIn<i class="fa fa-external-link-alt"></i></span> </li>
+<li>BOSS 直聘</li>
+</ul>
+<span id="more"></span>
 
-<p>Provided by the Danish National Symphony Orchestra.</p>
-<iframe width=80% src="https://www.youtube.com/embed/X-jdl9hcCeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+<h2 id="Salary"><a href="#Salary" class="headerlink" title="Salary"></a>Salary</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9PamFLN25tQ1lDbw==">如何談薪水 Like A Pro<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<p>未完待续…</p>
+]]></content>
+      <categories>
+        <category>方法论</category>
+      </categories>
+      <tags>
+        <tag>Job Hunting</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Music Collection</title>
+    <url>/posts/68f6e242/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS8xcTgydHdyZHIwVQ==">电影《悲惨世界》Les Misérables | Do You Hear the People Sing?<i class="fa fa-external-link-alt"></i></span> </p>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMTVBNDExajdSbT9zaGFyZV9zb3VyY2U9Y29weV93ZWI=">《国际歌》| 风儿中-<i class="fa fa-external-link-alt"></i></span> </p>
+<p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9nbjY0TTE2Z2wyRQ==">《阿婆说》| 陈一发<i class="fa fa-external-link-alt"></i></span> </p>
+<span id="more"></span>
+
+]]></content>
       <categories>
         <category>Music</category>
       </categories>
@@ -811,79 +1020,82 @@
       </tags>
   </entry>
   <entry>
-    <title>Getting Things Done</title>
-    <url>/posts/7694439f/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Getting Things Done (GTD) is a time management method, described in the book of the same title by productivity consultant <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS9ndGRndXk=">David Allen<i class="fa fa-external-link-alt"></i></span>.</p>
-<p>原理：大脑善于处理信息，提出想法，但是不善于存储信息，即我们常说的“好记性不如烂笔头”。</p>
-<p>推荐参考资料：</p>
+    <title>Win10 OS Tutorials</title>
+    <url>/posts/3e6fcc87/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="PowerPoint"><a href="#PowerPoint" class="headerlink" title="PowerPoint"></a>PowerPoint</h1><h2 id="导出高分辨率图片"><a href="#导出高分辨率图片" class="headerlink" title="导出高分辨率图片"></a>导出高分辨率图片</h2><blockquote>
+<p>参考资料：<span class="exturl" data-url="aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vemgtY24vb2ZmaWNlL3Ryb3VibGVzaG9vdC9wb3dlcnBvaW50L2NoYW5nZS1leHBvcnQtc2xpZGUtcmVzb2x1dGlvbg==">如何从 PowerPoint 导出高分辨率（高 dpi）幻灯片<i class="fa fa-external-link-alt"></i></span> </p>
+</blockquote>
+<p>你可以通过将幻灯片保存为图片格式来更改 Microsoft PowerPoint 的导出分辨率。 此过程有两个步骤：使用系统注册表更改导出的幻灯片的默认分辨率设置，然后以新的分辨率将幻灯片保存为图片。</p>
+<h3 id="更改导出分辨率设置"><a href="#更改导出分辨率设置" class="headerlink" title="更改导出分辨率设置"></a>更改导出分辨率设置</h3><p>默认情况下，要另存为图片的 PowerPoint 幻灯片的导出分辨率为每英寸 96 点 (dpi)。 若要更改导出分辨率，请执行以下步骤：</p>
+<span id="more"></span>
+
 <ol>
-<li><p><span class="exturl" data-url="aHR0cHM6Ly9oYW1iZXJnLm5vL2d0ZA==">GTD in 15 minutes – A Pragmatic Guide to Getting Things Done<i class="fa fa-external-link-alt"></i></span> </p>
+<li><p>退出所有 Windows 程序。</p>
 </li>
-<li><p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9nQ3N3TXNPTmt3WQ==">Getting Things Done (GTD) by David Allen - Animated Book Summary And Review<i class="fa fa-external-link-alt"></i></span> </p>
+<li><p>右键单击“开始”，然后选择“运行”。或者 <code>win+R</code>。</p>
+</li>
+<li><p>在“打开”框中，键入“regedit”，然后选择“确定”。</p>
+</li>
+<li><p>根据你使用的 PowerPoint 版本，找到以下注册表子项之一：</p>
+<p>PowerPoint 2016、2019、PowerPoint for Office 365</p>
+<p><strong>HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\PowerPoint\Options</strong></p>
+<p>PowerPoint 2013</p>
+<p><strong>HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\PowerPoint\Options</strong></p>
+<p>PowerPoint 2010</p>
+<p><strong>HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\PowerPoint\Options</strong></p>
+<p>PowerPoint 2007</p>
+<p><strong>HKEY_CURRENT_USER\Software\Microsoft\Office\12.0\PowerPoint\Options</strong></p>
+<p>PowerPoint 2003</p>
+<p><strong>HKEY_CURRENT_USER\Software\Microsoft\Office\11.0\PowerPoint\Options</strong></p>
+</li>
+<li><p>单击“选项”子项，指向“编辑”菜单上的“新建”，然后选择“DWORD (32 位)值”。</p>
+</li>
+<li><p>输入“ExportBitmapResolution”，然后按 Enter 键。</p>
+</li>
+<li><p>确保选中“ExportBitmapResolution”，然后选择“编辑”菜单上的“修改”。</p>
+</li>
+<li><p>在“编辑 DWORD 值”对话框中选择“十进制”。</p>
+</li>
+<li><p>在“数值数据”框中，输入分辨率“300”。 或使用下表中的参数。</p>
+</li>
+<li><p>选择“确定”。</p>
+</li>
+<li><p>在“文件”菜单上，选择“退出”，退出注册表编辑器。</p>
+</li>
+</ol>
+<h3 id="将幻灯片导出为图片"><a href="#将幻灯片导出为图片" class="headerlink" title="将幻灯片导出为图片"></a>将幻灯片导出为图片</h3><ol>
+<li>在 PowerPoint 中，打开幻灯片演示文稿，然后打开要导出的幻灯片。</li>
+<li>在“文件”菜单上，选择“另存为”。</li>
+<li>选择保存类型，保存即可。</li>
+</ol>
+<h3 id="检查图片分辨率"><a href="#检查图片分辨率" class="headerlink" title="检查图片分辨率"></a>检查图片分辨率</h3><p>右键目标图片，选择属性，查看分辨率即可。</p>
+<h1 id="bat-file"><a href="#bat-file" class="headerlink" title=".bat file"></a>.bat file</h1><p>一些情况下，执行完<code>.bat</code>文件之后窗口直接退出，无法在窗口中看到运行结果，带来了许多不便。这里给出两种方法可以解决上述问题：</p>
+<ol>
+<li><p>在<code>.bat</code>文件最后加上一行<code>pause</code>，示例如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ipconfig &#x2F;all</span><br><span class="line">pause</span><br></pre></td></tr></table></figure></li>
+<li><p>在<code>.bat</code>文件最后加上一行<code>@cmd</code>，示例如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ipconfig &#x2F;all</span><br><span class="line">@cmd</span><br></pre></td></tr></table></figure></li>
+</ol>
+<p>两种方法的区别是：第一种方法后续无法在窗口中继续输入命令，仅供查看窗口内容；第二种方法可以继续在窗口中输入命令。</p>
+<h1 id="定时关机"><a href="#定时关机" class="headerlink" title="定时关机"></a>定时关机</h1><ol>
+<li><p><code>Win+R</code></p>
+</li>
+<li><p><code>shutdown -s -t time</code></p>
+<p>参数<code>time</code>用时间来替代，如<code>shutdown -s -t 60</code>代表从现在时刻起60秒后关机。</p>
+</li>
+<li><p><code>at HH:MM shutdown -s</code> </p>
+<p><code>HH:MM</code>代表时间，如<code>at 10:00 shutdown -s</code>代表将在10:00自动关机。</p>
+</li>
+<li><p><code>shutdown -a</code></p>
+<p>取消定时关机。</p>
 </li>
 </ol>
 ]]></content>
       <categories>
-        <category>方法论</category>
+        <category>Tool</category>
       </categories>
       <tags>
-        <tag>Management</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Principles</title>
-    <url>/posts/71d0cc31/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><center>实事求是</center>]]></content>
-      <categories>
-        <category>Principle</category>
-      </categories>
-      <tags>
-        <tag>Principle</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>鸵鸟现象</title>
-    <url>/posts/4a633a16/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>鸵鸟现象，指一种遇到难题就逃避的现象。其名称源自于鸵鸟在遇到危险时，将头埋在沙坑里，以为躲避了危险但实则毫无用处的现象。</p>
-<p>鸵鸟现象在生活中非常普遍，应对该现象的方法有：1. 给自己设定合适的缓冲时间，再着手解决问题；2. 勇敢面对难题，逐步、合理化解难题。</p>
-<span id="more"></span>
-
-<img data-src='https://miro.medium.com/max/16000/1*zSttG88z_KVYsKh8Cy03Gg.png' width='50%'>]]></content>
-      <categories>
-        <category>Psychology</category>
-      </categories>
-      <tags>
-        <tag>Psychology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>拖延症</title>
-    <url>/posts/b9417af0/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>拖延症是非常普遍的一种现象，一种对未来目标弊大于利的现象。</p>
-<p>造成拖延症的一个重要原因是，大脑过多地关注<b>当前的、短期的简单和舒适</b>，然而以未来的成功为（沉重的）代价。</p>
-<p>针对拖延症，一个建议：<b>Don’t wait</b>.</p>
-<p>参考下面 <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS93YWl0YnV0d2h5">Tim Urban<i class="fa fa-external-link-alt"></i></span> 的 <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9hcmo3b1N0R0xrVQ==">TED 演讲<i class="fa fa-external-link-alt"></i></span>。</p>
-]]></content>
-      <categories>
-        <category>Psychology</category>
-      </categories>
-      <tags>
-        <tag>Psychology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Uncertainty</title>
-    <url>/posts/795e1c16/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security.    </p>
-</blockquote>
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cubWF0aC50ZW1wbGUuZWR1L35wYXVsb3MvaW5kZXguaHRtbA==">John Allen Paulos<i class="fa fa-external-link-alt"></i></span> </p>
-]]></content>
-      <categories>
-        <category>方法论</category>
-      </categories>
-      <tags>
-        <tag>Principle</tag>
+        <tag>OS</tag>
       </tags>
   </entry>
   <entry>
@@ -901,221 +1113,6 @@
       </categories>
       <tags>
         <tag>Article</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>破窑赋</title>
-    <url>/posts/ba1514/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>介绍：《破窑赋》，又名《劝世章》，是近代人们假托北宋大臣吕蒙正的作品，吕蒙正曾任当时太子（即位后为宋真宗）的太子太傅，这篇文章假托吕蒙正为了劝诫太子而创作的。作者以吕蒙正的语气自述从贫苦到富贵的经历，并列举了历史上诸多名人的起伏命运，来说明一种自然循环的人生思想。此文题材不是赋，文辞对仗近乎于元曲里面的俚语，与明清章回体小说的标题也很相似，与精通易理之人的命理对答词很相似，与明清时期成书的《增广贤文》里面的内容、形式都很接近，经后人考据《宋史》亦无相关记载。 吕蒙正（944-1011），字圣功，河南洛阳（今属河南省）人。生于后晋出帝开运三年，卒于宋真宗大中祥符四年。宋太宗太平兴国二年（977年）丁丑科状元。</p>
-</blockquote>
-<span id="more"></span>
-
-<p>正文： 天有不测风云，人有旦夕祸福。蜈蚣百足，行不及蛇；雄鸡两翼，飞不过鸦，马有千里之程，无骑不能自往；人有冲天之志，非运不能自通。盖闻：人生在世，富贵不能淫，贫贱不能移。文章盖世，孔子困厄于陈邦；武略超群，太公钓于渭水。颜渊命短，殊非凶恶之徒；盗跖年长，岂是善良之辈。尧帝明圣，却生不肖之儿；瞽叟愚顽，反生大孝之子。张良原是布衣，萧何称谓县吏。晏子身无五尺，封为齐国宰相；孔明居卧草庐，能作蜀汉军师。楚王虽雄，难免乌江自刎；汉王虽弱，竟有万里江山。李广有射虎之威，到老无封；冯唐有乘龙之才，一生不遇。韩信未遇之时，无一日三餐，及至运行，腰悬三尺玉印，一旦时衰，死于阴人之手。</p>
-<p>有先贫而后富，有老壮而少衰。满腹文章，白发竟然不中；才疏学浅，少年及第登科。深院宫娥，运退反为妓妾；风流妓女，时来配作夫人。青春美女，却招愚蠢之夫；俊秀郎君，反配粗丑之妇。蛟龙未遇，潜水于鱼鳖之间；君子失时，拱手于小人之下。衣服虽破，常存仪礼之容；面带懮愁，每抱怀安之量。时遭不遇，只宜安贫守份；心若不欺，必然扬眉吐气。初贫君子，天然骨骼生成；乍富小人，不脱贫寒肌体。</p>
-<p>天不得时，日月无光；地不得时，草木不生；水不得时，风浪不平；人不得时，利运不通。注福注禄，命里已安排定，富贵谁不欲？人若不依根基八字，岂能为卿为相？</p>
-<p>吾昔寓居洛阳，朝求僧餐，暮宿破窑，思衣不可遮其体，思食不可济其饥，上人憎，下人厌，人道我贱，非我不弃也。今居朝堂，官至极品，位置三公，身虽鞠躬于一人之下，而列职于千万人之上，有挞百僚之杖，有斩鄙吝之剑，思衣而有罗锦千箱，思食而有珍馐百味，出则壮士执鞭，入则佳人捧觞，上人宠，下人拥。人道我贵，非我之能也，此乃时也！运也！命也！</p>
-<p>嗟呼！人生在世，富贵不可尽用，贫贱不可自欺，听由天地循环，周而复始焉。</p>
-]]></content>
-      <categories>
-        <category>Article</category>
-      </categories>
-      <tags>
-        <tag>Article</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Youth</title>
-    <url>/posts/ca6442d1/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>原文链接：<span class="exturl" data-url="aHR0cHM6Ly93d3cudWFiLmVkdS91bGxtYW5tdXNldW0v">https://www.uab.edu/ullmanmuseum/<i class="fa fa-external-link-alt"></i></span> Author: Samuel Ullman</p>
-</blockquote>
-<p>Youth is not a time of life; it is a state of mind; it is not a matter of rosy cheeks, red lips and supple knees; it is a matter of the will, a quality of the imagination, a vigor of the emotions; it is the freshness of the deep springs of life.</p>
-<span id="more"></span>
-
-<p>Youth means a temperamental predominance of courage over timidity, of the appetite for adventure over the love of ease. This often exists in a man of 60 more than a boy of 20. Nobody grows old merely by a number of years. We grow old by deserting our ideals.</p>
-<p>Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul. Worry, fear, self-distrust bows the heart and turns the spirit back to dust.</p>
-<p>Whether 60 or 16, there is in every human being’s heart the lure of wonder, the unfailing child-like appetite of what’s next and the joy of the game of living. In the center of your heart and my heart there is a wireless station: so long as it receives messages of beauty, hope, cheer, courage and power from men and from the Infinite, so long are you young.</p>
-<p>When the aerials are down, and your spirit is covered with snows of cynicism and the ice of pessimism, then you are grown old, even at 20, but as long as your aerials are up, to catch waves of optimism, there is hope you may die young at 80.</p>
-]]></content>
-      <categories>
-        <category>Article</category>
-      </categories>
-      <tags>
-        <tag>Article</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Tools</title>
-    <url>/posts/2b3bf173/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="作图工具"><a href="#作图工具" class="headerlink" title="作图工具"></a>作图工具</h1><ul>
-<li>  <span class="exturl" data-url="aHR0cDovL3d3dy56dW9oYW90dS5jb20v">做好图<i class="fa fa-external-link-alt"></i></span> </li>
-<li><span class="exturl" data-url="aHR0cHM6Ly9pbmtzY2FwZS5vcmcv">INKSPACE<i class="fa fa-external-link-alt"></i></span> <ul>
-<li>  特点：矢量图</li>
-</ul>
-</li>
-<li><span class="exturl" data-url="aHR0cHM6Ly90aGVpbnBhaW50LmNvbS8=">Inpaint<i class="fa fa-external-link-alt"></i></span> <ul>
-<li>  特点：提供类似 photoshop 的基础功能，简单易用</li>
-</ul>
-</li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9pbWFnZW1hZ2ljay5vcmcvaW5kZXgucGhw">ImageMagick<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<span id="more"></span>
-
-<h1 id="PDF处理工具"><a href="#PDF处理工具" class="headerlink" title="PDF处理工具"></a>PDF处理工具</h1><ul>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9zbWFsbHBkZi5jb20v">SmallPDF<i class="fa fa-external-link-alt"></i></span> </li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuaWxvdmVwZGYuY29tLw==">I Love PDF<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="文字编辑工具"><a href="#文字编辑工具" class="headerlink" title="文字编辑工具"></a>文字编辑工具</h1><ul>
-<li>  Sublime Text</li>
-<li>  Typora</li>
-<li>  Microsoft Office</li>
-<li>  WPS Office</li>
-<li>  Notepad++</li>
-</ul>
-<h2 id="LaTeX"><a href="#LaTeX" class="headerlink" title="LaTeX"></a>LaTeX</h2><ul>
-<li>Texmaker</li>
-<li>Lyx</li>
-</ul>
-<h1 id="思维导图工具"><a href="#思维导图工具" class="headerlink" title="思维导图工具"></a>思维导图工具</h1><ul>
-<li>  Xmind ZEN</li>
-<li>  Mindjet Manager</li>
-</ul>
-<h2 id="流程图"><a href="#流程图" class="headerlink" title="流程图"></a>流程图</h2><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly9vbmxpbmUudmlzdWFsLXBhcmFkaWdtLmNvbS9kaWFncmFtcy8=">Visual Paradigm<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly90aW1lLmdyYXBoaWNzLw==">Time Graphics<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudGlraS10b2tpLmNvbS8=">Tiki-Toki Timeline Maker<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGVseS5jb20v">Creately<i class="fa fa-external-link-alt"></i></span></li>
-</ul>
-<h1 id="下载工具"><a href="#下载工具" class="headerlink" title="下载工具"></a>下载工具</h1><ul>
-<li>  Motrix</li>
-<li>  qBittorrent</li>
-<li>  bitcomet</li>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dWJlLWRsLm9yZy8=">Youtube-dl<i class="fa fa-external-link-alt"></i></span> <ul>
-<li>  download Youtube videos or audios</li>
-</ul>
-</li>
-</ul>
-<h1 id="数学工具"><a href="#数学工具" class="headerlink" title="数学工具"></a>数学工具</h1><ul>
-<li>  Mathpix Snip</li>
-<li>  LaTexiT</li>
-</ul>
-<h1 id="演示工具"><a href="#演示工具" class="headerlink" title="演示工具"></a>演示工具</h1><ul>
-<li>  Focusky</li>
-<li>  PowerPoint</li>
-</ul>
-<h1 id="鼠标录制"><a href="#鼠标录制" class="headerlink" title="鼠标录制"></a>鼠标录制</h1><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly90aW55dGFzay5lbi5zb2Z0b25pYy5jb20v">TinyTask<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="视频剪辑工具"><a href="#视频剪辑工具" class="headerlink" title="视频剪辑工具"></a>视频剪辑工具</h1><ul>
-<li>  HitFilmExpress</li>
-<li>  Camtasia</li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuc2hvdGN1dGFwcC5jb20v">Shoucut<i class="fa fa-external-link-alt"></i></span>, (open source)</li>
-</ul>
-<h1 id="录屏软件"><a href="#录屏软件" class="headerlink" title="录屏软件"></a>录屏软件</h1><h2 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h2><ul>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9vaHNvZnQubmV0L2VuZy9vY2FtL2ludHJvLnBocD9jYXRlPTEwMDI=">oCam<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="服务器管理工具"><a href="#服务器管理工具" class="headerlink" title="服务器管理工具"></a>服务器管理工具</h1><ul>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9maWxlemlsbGEtcHJvamVjdC5vcmcv">FileZilla<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="笔记类工具"><a href="#笔记类工具" class="headerlink" title="笔记类工具"></a>笔记类工具</h1><ul>
-<li>  OneNote</li>
-<li>  Code.io</li>
-<li>  Notion</li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9vYnNpZGlhbi5tZC8=">Obsidian.md<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="文献管理工具"><a href="#文献管理工具" class="headerlink" title="文献管理工具"></a>文献管理工具</h1><ul>
-<li>  <a href="www.zotero.org">Zotero</a></li>
-</ul>
-<h1 id="邮箱客户端"><a href="#邮箱客户端" class="headerlink" title="邮箱客户端"></a>邮箱客户端</h1><ul>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cudGh1bmRlcmJpcmQubmV0Lw==">Thunderbird<i class="fa fa-external-link-alt"></i></span> </li>
-<li>  <span class="exturl" data-url="aHR0cDovL21haWwuMTYzLmNvbS9kYXNoaS9pbmRleC5odG1s">网易邮箱大师<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="文件同步工具"><a href="#文件同步工具" class="headerlink" title="文件同步工具"></a>文件同步工具</h1><ul>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9zeW5jdGhpbmcubmV0Lw==">Syncthing<i class="fa fa-external-link-alt"></i></span> </li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuamlhbmd1b3l1bi5jb20v">坚果云<i class="fa fa-external-link-alt"></i></span> </li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9mcmVlZmlsZXN5bmMub3JnLw==">Freefile Sync<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="日历"><a href="#日历" class="headerlink" title="日历"></a>日历</h1><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly9jYWxlbmRhci5nb29nbGUuY29tLw==">Google Calendar<i class="fa fa-external-link-alt"></i></span><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuZ3RpbWVyZXBvcnQuY29tLw==">GTimeReport<i class="fa fa-external-link-alt"></i></span>: generate google calendar report</li>
-</ul>
-</li>
-</ul>
-<h1 id="视频播放器"><a href="#视频播放器" class="headerlink" title="视频播放器"></a>视频播放器</h1><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly9zcGxheWVyLm9yZy8=">SPlayer<i class="fa fa-external-link-alt"></i></span> </li>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudmlkZW9sYW4ub3JnLw==">VLC media player<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="计算机硬件管理"><a href="#计算机硬件管理" class="headerlink" title="计算机硬件管理"></a>计算机硬件管理</h1><h2 id="固态硬盘"><a href="#固态硬盘" class="headerlink" title="固态硬盘"></a>固态硬盘</h2><ul>
-<li><span class="exturl" data-url="aHR0cDovL3d3dy5kYXlhbnphaS5tZS9hcy1zc2QtYmVuY2htYXJrLmh0bWw=">AS SSD Benchmark<i class="fa fa-external-link-alt"></i></span>，固态硬盘测试工具</li>
-<li><span class="exturl" data-url="aHR0cDovL3d3dy5kYXlhbnphaS5tZS9zc2QtZnJlc2guaHRtbA==">Abelssoft SSD Fresh<i class="fa fa-external-link-alt"></i></span>，固态硬盘优化工具</li>
-</ul>
-<h1 id="实用软件推荐网站"><a href="#实用软件推荐网站" class="headerlink" title="实用软件推荐网站"></a>实用软件推荐网站</h1><ul>
-<li>  <span class="exturl" data-url="aHR0cDovL3d3dy5jYXJyb3RjaG91LmJsb2cv">胡萝卜周<i class="fa fa-external-link-alt"></i></span></li>
-<li>  <span class="exturl" data-url="aHR0cDovL2RheWFuemFpLm1lLw==">大眼仔<i class="fa fa-external-link-alt"></i></span></li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9sYW9kLmNuLw==">老D博客<i class="fa fa-external-link-alt"></i></span></li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuZ2hweW0uY29tLw==">果核剥壳<i class="fa fa-external-link-alt"></i></span> </li>
-<li>  <span class="exturl" data-url="aHR0cDovL3d3dy56aGFuc2hhb3lpLmNvbS8=">我爱分享网<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-]]></content>
-      <categories>
-        <category>Tool</category>
-      </categories>
-      <tags>
-        <tag>Tool</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>The illustrated guide to a Ph.D.</title>
-    <url>/posts/a0e1b16e/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>from <span class="exturl" data-url="aHR0cDovL21hdHQubWlnaHQubmV0L2FydGljbGVzL3BoZC1zY2hvb2wtaW4tcGljdHVyZXMv">Matt Might’s blog<i class="fa fa-external-link-alt"></i></span></p>
-</blockquote>
-<p>Imagine a circle that contains all of human knowledge:</p>
-<span id="more"></span>
-
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.001.jpg' width='68%'>
-
-<p>By the time you finish elementary school, you know a little:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.002.jpg' width='68%'>
-
-<p>By the time you finish high school, you know a bit more:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.003.jpg' width='68%'>
-
-<p>With a bachelor’s degree, you gain a specialty:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.004.jpg' width='68%'>
-
-<p>A master’s degree deepens that specialty:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.005.jpg' width='68%'>
-
-<p>Reading research papers takes you to the edge of human knowledge:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.006.jpg' width='68%'>
-
-<p>Once you’re at the boundary, you focus:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.007.jpg' width='68%'>
-
-<p>You push at the boundary for a few years:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.008.jpg' width='68%'>
-
-<p>Until one day, the boundary gives way:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.009.jpg' width='68%'>
-
-<p>And, that dent you’ve made is called a Ph.D.:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.010.jpg' width='68%'>
-
-<p>Of course, the world looks different to you now:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.011.jpg' width='68%'>
-
-<p>So, don’t forget the bigger picture:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.012.jpg' width='68%'>
-
-<p>Keep pushing.</p>
-]]></content>
-      <categories>
-        <category>Research</category>
-      </categories>
-      <tags>
-        <tag>Study</tag>
       </tags>
   </entry>
   <entry>
@@ -1153,25 +1150,26 @@
 ]]></content>
   </entry>
   <entry>
-    <title>痛苦+反思=进步</title>
-    <url>/posts/751ee5dc/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>强烈推荐 Ray Dalio 的书《原则》，下文摘自本书中。</p>
-</blockquote>
-<p>人避免不了痛苦，尤其是在追求雄心勃勃的目标时。不管你相信与否，如果以正确的态度对待痛苦，感到痛苦就是你的幸运，因为这是一个信号——你需要寻找解决方案以便继续前进。如果你能形成一种条件反射，面对精神痛苦时能够自动地反思痛苦，而不是躲避痛苦，你就能够快速地学习和进化。直面那些由问题、错误和弱点导致的痛苦现实，会大幅提高你的效率，我相信，只要你看到了这种做法的好处，就不会再想以其它方式行事了。你只需要养成这样做的习惯。</p>
+    <title>与科研中的挫败感和谐共处</title>
+    <url>/posts/7e24545e/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="心态上"><a href="#心态上" class="headerlink" title="心态上"></a>心态上</h1><ol>
+<li>   认清、接纳自己的无知，科研本身是在探索未知的事物。</li>
+<li>   合理预期科研工作的难度，作科研难，做好的科研更难。</li>
+</ol>
+<h1 id="行为上"><a href="#行为上" class="headerlink" title="行为上"></a>行为上</h1><ol>
+<li>实现有效的“愚蠢”，从一次次的“愚蠢”中学习，获得进步。</li>
+</ol>
 <span id="more"></span>
 
 
-<p>大多数人在痛苦时不愿反思，而一旦痛苦消失，他们的注意力就会转移，所以他们难以通过反思得到教益。如果你在痛苦时就能好好反思（这个要求也许太高），这非常好。如果你能够记得在痛苦消失后进行反思，这也很有价值。</p>
-<p>你面临的挑战将会考验你，强化你。如果你没有经历过失败，就说明你没有努力突破极限，而如果你不努力突破极限，你就不能最大限度地挖掘自己的潜能。努力突破极限有时失败有时成功，但总能带来益处。虽然这种做法不一定适合所有人，但假如适合你，那将会是一种美妙的体验，令人沉迷。生活不可避免地会带给你这样的考验，而你愿不愿意不断去尝试，取决于你自己。</p>
-<p>如果你选择在这条常常很痛苦的个人进化之路上拼搏，你将自然而然地不断“更上一层楼”。当你越过包围你的事物，到达了更高一层的境界，你就会发现，其实那些事物并没有你近看时所以为的那么重要。生活中的大多数东西都不过是“同类情况的重演”。你的层次越高，就能更加有效地应对现实，塑造符合你目标的结果。而曾经看起来无比复杂的东西，也会变得简单。</p>
-<img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2020-10-30-progress.png?raw=true' width="50%">]]></content>
+
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ol>
+<li>SCHWARTZ M A. The Importance of Stupidity in Scientific Research[J]. Journal of Cell Science, 2008, 121(11): 1771–1771. DOI:<span class="exturl" data-url="aHR0cHM6Ly9kb2kub3JnLzEwLjEyNDIvamNzLjAzMzM0MA==">10.1242/jcs.033340<i class="fa fa-external-link-alt"></i></span>.</li>
+</ol>
+]]></content>
       <categories>
-        <category>Principle</category>
+        <category>Research</category>
       </categories>
-      <tags>
-        <tag>Principle</tag>
-      </tags>
   </entry>
   <entry>
     <title>【转载】你真的懂得如何学习吗？</title>
@@ -1210,105 +1208,140 @@
       </tags>
   </entry>
   <entry>
-    <title>与科研中的挫败感和谐共处</title>
-    <url>/posts/7e24545e/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="心态上"><a href="#心态上" class="headerlink" title="心态上"></a>心态上</h1><ol>
-<li>   认清、接纳自己的无知，科研本身是在探索未知的事物。</li>
-<li>   合理预期科研工作的难度，作科研难，做好的科研更难。</li>
-</ol>
-<h1 id="行为上"><a href="#行为上" class="headerlink" title="行为上"></a>行为上</h1><ol>
-<li>实现有效的“愚蠢”，从一次次的“愚蠢”中学习，获得进步。</li>
-</ol>
+    <title>张志顺八部金刚功</title>
+    <url>/posts/c879afe2/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>张至顺（1912年—2015年），原海南省<span class="exturl" data-url="aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTklODElOTMlRTYlOTUlOTklRTUlOEQlOEYlRTQlQkMlOUE=">道教协会<i class="fa fa-external-link-alt"></i></span>名誉会长、西安<span class="exturl" data-url="aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTQlQjglODclRTUlQUYlQkYlRTUlODUlQUIlRTQlQkIlOTklRTUlQUUlQUIvMjkyMTQwNA==">万寿八仙宫<i class="fa fa-external-link-alt"></i></span>名誉方丈，海南省<span class="exturl" data-url="aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTclOEUlODklRTglOUYlQkUlRTUlQUUlQUIvNDY0NTY4OQ==">玉蟾宫<i class="fa fa-external-link-alt"></i></span>住持。生于1912年。七岁时值清末民初，战乱灾荒交加。因家境贫困离家乞讨。十二岁随师学艺，十七岁在陕西省华山遇师刘明苍道长而出家。在道观，张至顺从事杂役，终日劳苦，磨练心志，因道心清明和修炼上独辟<span class="exturl" data-url="aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTglQjklOEElRTUlQkUlODQ=">蹊径<i class="fa fa-external-link-alt"></i></span>，被师授以真传，为中国道教全真龙门正宗第二十一代传人。</p>
+</blockquote>
 <span id="more"></span>
 
+<h1 id="外八部金刚功"><a href="#外八部金刚功" class="headerlink" title="外八部金刚功"></a>外八部金刚功</h1><iframe src="https://www.youtube.com/embed/1NiISV36tMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<h1 id="内八部长寿功"><a href="#内八部长寿功" class="headerlink" title="内八部长寿功"></a>内八部长寿功</h1><iframe src="https://www.youtube.com/embed/9h2jQTDribI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ol>
-<li>SCHWARTZ M A. The Importance of Stupidity in Scientific Research[J]. Journal of Cell Science, 2008, 121(11): 1771–1771. DOI:<span class="exturl" data-url="aHR0cHM6Ly9kb2kub3JnLzEwLjEyNDIvamNzLjAzMzM0MA==">10.1242/jcs.033340<i class="fa fa-external-link-alt"></i></span>.</li>
-</ol>
 ]]></content>
       <categories>
-        <category>Research</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>PhotoShop修改图片像素和DPI</title>
-    <url>/posts/181ee94c/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>目标：修改特定图片的分辨率和DPI</p>
-<span id="more"></span>
-
-<p>方法：</p>
-<ol>
-<li>将图片拖入Photoshop；</li>
-<li>“图像” $\rightarrow$ “图像大小” $\rightarrow$ 调整宽度、高度与分辨率为目标值；</li>
-<li>“文件” $\rightarrow$ “存储”，保存为指定格式和大小，即可；</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Software</category>
+        <category>锻炼</category>
       </categories>
       <tags>
-        <tag>Photoshop</tag>
-        <tag>Tutorial</tag>
+        <tag>锻炼</tag>
       </tags>
   </entry>
   <entry>
-    <title>Hexo Tutorial</title>
-    <url>/posts/1b7a7665/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Official-documentation"><a href="#Official-documentation" class="headerlink" title="Official documentation"></a>Official documentation</h1><p><span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">Documentation for Hexo<i class="fa fa-external-link-alt"></i></span></p>
-<p><span class="exturl" data-url="aHR0cHM6Ly90aGVtZS1uZXh0LmpzLm9yZy8=">Hexo NexT theme<i class="fa fa-external-link-alt"></i></span> </p>
-<p><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25leHQtdGhlbWUvaGV4by10aGVtZS1uZXh0">Github hexo-theme-next<i class="fa fa-external-link-alt"></i></span>  </p>
-<h1 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h1><ol>
-<li>安装 <code>Git</code></li>
-<li>安装 <code>Node.js</code></li>
-<li>安装 <code>Hexo</code></li>
-</ol>
+    <title>痛苦+反思=进步</title>
+    <url>/posts/751ee5dc/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>强烈推荐 Ray Dalio 的书《原则》，下文摘自本书中。</p>
+</blockquote>
+<p>人避免不了痛苦，尤其是在追求雄心勃勃的目标时。不管你相信与否，如果以正确的态度对待痛苦，感到痛苦就是你的幸运，因为这是一个信号——你需要寻找解决方案以便继续前进。如果你能形成一种条件反射，面对精神痛苦时能够自动地反思痛苦，而不是躲避痛苦，你就能够快速地学习和进化。直面那些由问题、错误和弱点导致的痛苦现实，会大幅提高你的效率，我相信，只要你看到了这种做法的好处，就不会再想以其它方式行事了。你只需要养成这样做的习惯。</p>
 <span id="more"></span>
 
-<h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p>打开 <code>cmd</code></p>
-<p><code>hexo n &quot;我的博客&quot;</code> == hexo new “我的博客” #新建文章</p>
-<p><code>hexo g</code> == hexo generate #生成</p>
-<p><code>hexo s</code> == hexo server #启动服务预览</p>
-<p><code>hexo d</code> == hexo deploy #部署</p>
-<p>以上命令可以同时使用，如<code>hexo g &amp;&amp; hexo d</code>代表生成网站后立即部署。</p>
-<h2 id="博客置顶"><a href="#博客置顶" class="headerlink" title="博客置顶"></a>博客置顶</h2><p>在YAML Front Matter中添加一行：<code>top: true</code> </p>
-<h2 id="删除"><a href="#删除" class="headerlink" title="删除"></a>删除</h2><p>There is no command to delete a post on Hexo, but follow this steps :</p>
-<ol>
-<li>Delete the post under <code>source/_post folder</code></li>
-<li>Run <code>hexo clean</code> to delete the database (db.json) and assets folder</li>
-<li>Run <code>hexo generate</code> to generate the new blog without your deleted post</li>
-<li>Run <code>hexo deploy</code> to deploy your blog</li>
-</ol>
-<h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><p>使用 <code>hexo d</code> 部署到 <code>Github</code> 之前，因为国内网络问题，最好先通过如下代码设置代理：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">set</span> http_proxy=socks5://<span class="number">127.0</span><span class="number">.0</span><span class="number">.1</span>:<span class="number">10808</span></span><br><span class="line"><span class="built_in">set</span> https_proxy=socks5://<span class="number">127.0</span><span class="number">.0</span><span class="number">.1</span>:<span class="number">10808</span></span><br></pre></td></tr></table></figure>
 
-<h2 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h2><ul>
-<li>字数 &amp; 阅读时间统计：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3RoZW1lLW5leHQvaGV4by1zeW1ib2xzLWNvdW50LXRpbWU=">hexo-symbols-count-time<i class="fa fa-external-link-alt"></i></span> </li>
-<li>博客置顶：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25ldGNhbi9oZXhvLWdlbmVyYXRvci1pbmRleC1waW4tdG9w">hexo-generator-index-pin-top<i class="fa fa-external-link-alt"></i></span> </li>
-<li>鼠标点击烟花效果：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25leHQtdGhlbWUvaGV4by1uZXh0LWZpcmV3b3Jrcw==">hexo-next-fireworks<i class="fa fa-external-link-alt"></i></span> <ul>
-<li>若要删除该插件，在资源管理器中直接删除即可，文件路径为<code>/node_modules/hexo-next-fireworks</code>。</li>
-</ul>
-</li>
-<li>为博客内容增加脚注、上标、下标功能：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvLXJlbmRlcmVyLW1hcmtkb3duLWl0">hexo-renderer-markdown-it<i class="fa fa-external-link-alt"></i></span> 或 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2tjaGVuMHgvaGV4by1yZWZlcmVuY2U=">hexo-reference<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h2 id="升级"><a href="#升级" class="headerlink" title="升级"></a>升级</h2><h3 id="升级Hexo"><a href="#升级Hexo" class="headerlink" title="升级Hexo"></a>升级Hexo</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 查看 Hexo 版本信息</span></span><br><span class="line">hexo v</span><br><span class="line"><span class="comment"># 全局升级 Hexo-cli</span></span><br><span class="line">npm install hexo-cli -g</span><br><span class="line"><span class="comment"># 查看系统插件，检查插件是否需要升级</span></span><br><span class="line">npm install -g npm-check</span><br><span class="line">npm-check</span><br><span class="line"><span class="comment"># 升级系统插件</span></span><br><span class="line">npm install -g npm-upgrade</span><br><span class="line">npm-upgrade</span><br><span class="line"><span class="comment"># 更新</span></span><br><span class="line">npm update -g</span><br><span class="line">npm update --save</span><br><span class="line"><span class="comment"># 再次查看 Hexo 版本信息</span></span><br><span class="line">hexo v</span><br></pre></td></tr></table></figure>
-
-<h3 id="升级NexT主题"><a href="#升级NexT主题" class="headerlink" title="升级NexT主题"></a>升级NexT主题</h3><ol>
-<li>Go to <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25leHQtdGhlbWUvaGV4by10aGVtZS1uZXh0">Github Page<i class="fa fa-external-link-alt"></i></span> of <code>hexo-theme-next</code> </li>
-<li>Go to <em>Release</em>, download the <em>Latest release version</em> </li>
-<li>copy &amp; replace contents in the folder <code>themes/next</code><ol>
-<li><em><strong>[CAUTION]</strong></em> Before replace, backup file <code>_config.yml</code> where some customized settings are saved.</li>
-</ol>
-</li>
-<li>re-configure file <code>_config.yml</code> </li>
-<li>enjoy…</li>
-</ol>
-]]></content>
+<p>大多数人在痛苦时不愿反思，而一旦痛苦消失，他们的注意力就会转移，所以他们难以通过反思得到教益。如果你在痛苦时就能好好反思（这个要求也许太高），这非常好。如果你能够记得在痛苦消失后进行反思，这也很有价值。</p>
+<p>你面临的挑战将会考验你，强化你。如果你没有经历过失败，就说明你没有努力突破极限，而如果你不努力突破极限，你就不能最大限度地挖掘自己的潜能。努力突破极限有时失败有时成功，但总能带来益处。虽然这种做法不一定适合所有人，但假如适合你，那将会是一种美妙的体验，令人沉迷。生活不可避免地会带给你这样的考验，而你愿不愿意不断去尝试，取决于你自己。</p>
+<p>如果你选择在这条常常很痛苦的个人进化之路上拼搏，你将自然而然地不断“更上一层楼”。当你越过包围你的事物，到达了更高一层的境界，你就会发现，其实那些事物并没有你近看时所以为的那么重要。生活中的大多数东西都不过是“同类情况的重演”。你的层次越高，就能更加有效地应对现实，塑造符合你目标的结果。而曾经看起来无比复杂的东西，也会变得简单。</p>
+<img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2020-10-30-progress.png?raw=true' width="50%">]]></content>
       <categories>
-        <category>Tool</category>
+        <category>Principle</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
+        <tag>Principle</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Lloyd Blankfein Gives Commencement Address at 2013 LaGuardia Community College</title>
+    <url>/posts/3f4b9228/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://content.fortune.com/wp-content/uploads/2014/08/167933662-1.jpg' width='80%'>
+
+<h2 id="Here-is-full-speech-in-English"><a href="#Here-is-full-speech-in-English" class="headerlink" title="Here is full speech in English"></a>Here is full speech in English</h2><p>President Mellow, distinguished faculty, friends, family, and the Graduating Class of 2013. </p>
+<p>It is a great honor for me to share in your accomplishment and pride today. But I must admit that I approached this address with some trepidation. I suppose that more commencement speeches have been delivered more seriously, listened to more attentively, and forgotten more promptly than any other form of human communication. </p>
+<span id="more"></span>
+
+<p>So I will try to be brief and practical.  My advice is grounded in my own experience. And my own experience, in many respects, is not that different from many of yours. </p>
+<p>I grew up with the idea that college was more an aspiration than an expectation. I saw my parents struggle most of their lives and the daily battle to keep afloat sometimes even drained what hopes and dreams they had for me. They didn’t go to college and neither did my only, older sibling. </p>
+<p>My father sorted mail for the post office.  He worked nights because it paid 10% more than a day shift. My mother was a receptionist at a burglar alarm company — one of the few growth industries in our neighborhood.  I grew up in the Linden Houses, which, as some of you know, is a housing project in East New York. </p>
+<p>It was and is a tough neighborhood, though it produced some accomplished people who, despite or because of their background, did well.  I attended Thomas Jefferson high school, which has since shut down as a high school and operates different training programs for various skills.  Up until high school, I shared a small apartment with my extended family, which included my grandmother, my sister and my nephew.  </p>
+<p>But looking back, I grew up in a world of unlimited opportunity. Each night I would read, and reading opened up the world to me.  I love reading history and especially biography.  In biographies, you are almost always reading about people who started out unimportant but ended up having a significant life.</p>
+<p>What I liked most about biographies then and now is that the person you are reading about is in his or her early life on page 50, doesn’t know about the success he or she will achieve on page 300.  They couldn’t see the greatness that lay ahead. If you think about it, that’s a great justification for the optimism that you should have for the life ahead of you.  All of you are only on about page 50 of your biography, with hundreds of pages to go. </p>
+<p>Growing up, my biggest goal was just to get out of East New York.  I took the college entrance exam and committed myself to getting into college. I did. The day I left for college was one of the first trips I made out of New York City. </p>
+<p>College was an intimidating place for me. The other students seemed naturally confident; many had traveled and seemed to understand the world. To this day, I can’t forget how insecure I felt, but it made me work harder.</p>
+<p>Once I realized I belonged, I became more ambitious. Ambition is your inner voice that tells you you can and should strive to go beyond your circumstances or station in life. You have overcome obstacles, pressures and self-doubt and you have done it because you have ambition. You want to succeed for your families and yourselves. And there is no more powerful force through which to do that than through education and know how.</p>
+<p>I’m proud that LaGuardia and Goldman Sachs have teamed up to support small businesses. Through this partnership, I’ve seen how many LaGuardia students are juggling school, job and family.  And, I’ve seen how these students and all of you push yourselves and persevere. </p>
+<p>By virtue of being here today, you have proven to yourself that you belong. And now that you belong, feed off your ambition. That means being focused, disciplined, demanding, self critical and open minded. Your challenges won’t fall away. In fact, they may get steeper. </p>
+<p>That, my friends, is life. But just as the struggles are great, so are the rewards. There’s another way to look at it: ask yourself if you really have a choice. You already knew the answer to that question the first day you walked into LaGuardia. We owe it to our families and to ourselves to keep striving. </p>
+<p>This is certainly not the easiest of economic times, but there’s always an economic cycle. In the course of the next 50 years of your life, you’ll see alot of cycles, and like this one, you’ll get through it. Don’t get caught up in unrealistic optimism or detached pessimism.  </p>
+<p>Still, a lot can change rapidly and with a lot of force. Your security rests in knowing how to do a variety of things – and being able to do them better than others. </p>
+<p>And that knowledge and ability can be obtained only through a willingness to strike out for something better. That could mean changing careers or pushing for a new idea or strategy in your current one. In either case, push yourself to try something new and to grow with each move. </p>
+<p>After college, I went to law school for three years, and then into my dream job at a big NY law firm. But even though it had been my dream, I didn’t like it once I got there. </p>
+<p>For the first time, I was feeling financially secure, but I knew I wasn’t passionate enough about what I was doing. And because I didn’t love it, I would never be fulfilled from it, or be really good at it. Someone who loved it more would have greater enthusiasm an focus. For some it was fun; for me it was always going to be a chore. </p>
+<p>After five years at a law firm, I decided I wanted to try something different. I came home and told my wife I was quitting, and she cried. And not out of happiness. Anyway, it worked out. I got a new job at a small Wall Street firm, we got bought out by a larger firm, and I ended up remaining at a large firm… Goldman Sachs. </p>
+<p>In my career, I’ve been fortunate to know and work with many of this country’s top CEOs and business leaders. I’m always struck by a certain passion that defines them. While they may be wealthy and powerful, their passion goes beyond money and power. </p>
+<p>I won’t stand here and tell you those are bad things. They can be pretty good, but only if you have a larger purpose in mind. If you don’t have passion for your work or the drive to make a better life for your kids than your own, then you won’t have what it takes to keep you going. </p>
+<p>So, I’d like to leave you with some specific advice that will hopefully keep you going: </p>
+<p>First, confidence really matters. Recognize you have earned the right to be confident. Most of you have made great sacrifices and overcome great obstacles to get where you are today. You built up muscles that others who’ve had an easier time don’t have. Those muscles will serve you for the rest of your life. </p>
+<p>My struggle to get to and through college turned out to be an advantage for me. The disadvantages you have had become part of your personal history and track record, all advantages in your later life. So confidence is justified. </p>
+<p>Second, find a job that you like. You’ll be better at it and you’ll last longer in it. Having said that, in a tough economy, or because of family pressures, you may not aways be able take a risk with a job choice. And, no doubt, we’ve all settled at various times. </p>
+<p>But, don’t let necessity in a give moment become the excuse for a lifetime of inertia. Keep trying to get yourself to the right place. If I’d stayed a lawyer, I could have made it work for a while, but I would have fizzled out and eventually because I didn’t love it. </p>
+<p>Third, be a well rounded, complete person. many of you will go for further education or career training. Of course, it’s important to learn the things that you need to make a living. But, don’t forget to read, and to learn history, literature and about current events. </p>
+<p>You’ll be more interesting to others, more interesting to yourself and you’ll be more successful in your job. Most of the books I’ve read didn’t apply directly to my job or industry, but I’ve applied their lessons in unexpected ways. </p>
+<p>Fourth, be involved in the community. Find ways to contribute to make yourself proud and set an example to your kids. making a living is not life. It is a means to an end, not the end. You have to feel proud of yourself. There are always going to be people who struggle and for whom community work is not a realistic option, but try. </p>
+<p>I’ve done plenty to advance myself over the years. But, the older I get, the more satisfaction I get from serving and advancing others. In fact that’s how I first got involved with President Mellow and LaGuardia – through the 10,000 Small Businesses program we initiated at your school. </p>
+<p>Finally, appreciate that life is unpredictable, so don’t close your mind to possibilities. Try to surround yourself with people who are equally ambitious.  Put yourself in situation where you can grow — where you’ll not only push yourself but others will push you. </p>
+<p>What were the chances that a kid from the projects would run one of the great financial institutions in the world? You just never know. That unpredictability is the great thing about life. You change. The world changes. You live in a country where we are still blessed with enormous opportunity. Leave yourself open to the world of possibility. You have the ambition, you have the smarts and you have the toughness. So, turn the page on your biography – you have just started a new chapter in your lives. </p>
+<p>Good luck and congratulations to you and your families. </p>
+<h2 id="这是演讲的中文翻译"><a href="#这是演讲的中文翻译" class="headerlink" title="这是演讲的中文翻译"></a>这是演讲的中文翻译</h2><p>麦罗校长，各位尊敬的老师，朋友，家人以及2013年的毕业生们：</p>
+<p>我很荣幸能在今天分享你们的成就和荣耀。但是我必须承认，我是带着一些不安来参加这次活动的。我想，曾经有更多更认真的毕业典礼发言，收到更加用心地倾听，但是相比其他任何沟通形式，也更加迅速地被遗忘。</p>
+<p>所以，我会尽量简短而实用。我的全部建议都是来自我自己的经历。而我的经历，从很多方面来看，和你们当中的很多并没有什么不同。</p>
+<p>在我成长的环境中，大学更多是一个美好愿望而不是理所当然的事情。我见证我父母大半生的奋斗，每天仅为了维持生计而努力工作，有时甚至会打消任何他们对我的期望和梦想。他们都没有上过大学，我唯一的兄长也没有读过大学。</p>
+<p>我的父亲在邮局整理邮件。他选择夜班工作只是因为报酬比白班多了10%，我的母亲是一个防盗警报公司的接待员——这也是我所在社区为数不多的增长行业之一。我在林登小区长大，你们当中的很多都知道，这是纽约东区的一个住宅项目。</p>
+<p>它一直都是一个贫穷的社区，但是也产生了一些有成就的人，有些是因为这一背景而成功，有些是因为克服了这一背景而做出了成绩。我在托马斯-杰斐逊高中毕业，学校在之后关闭了高中部，仅仅提供多种技能培训项目。直到高中毕业，我一直和我庞大的家庭分享一间小小的公寓，包括了我的奶奶，我的妹妹和我的侄儿。</p>
+<p>但是回过头看看，我是在一个有着无限机遇的世界长大的。我每天晚上都会读书，阅读向我展开了整个世界。我喜欢读历史，尤其是传记。在传记里面，你总是能看到一个似乎是无足轻重的人，最终如何拥有与众不同的人生。</p>
+<p>不管是过去还是现在，传记最吸引我的一点是，书中的人物在自己生命的初期，也就是前五十页当中，是不会知道他或者是她会在第三百页的时候取得的成功。他们并不知道将会出现在自己面前的伟大。</p>
+<p>仔细想想这点吧，这是对你们自己未来的生活保持乐观的一个极好理由。你们所有人都仅仅在自己那本传记的前五十页，还有几百页的路要走。</p>
+<p>在漫长的成长中，我最大的目标就是走出纽约东区。我参加了大学入学试，发誓一定要进大学。我成功了。我去读大学的时候也是我第一次离开纽约市。</p>
+<p>大学是一个令我心生敬畏的地方。其他学生似乎很自然的充满信心，很多人都曾到处旅行，看起来对这个世界十分了解。直到今天，我还是没有办法忘记我当时的不安全感，但是这种感觉让我更加努力地工作。</p>
+<p>当我认识到自己的定位时，我变得更有野心了。野心是你内心的声音，告诉你可以而且应该努力去超越人生的处境或者是限制。你必须克服障碍，扛住压力，打消自我怀疑，你能做到这些都是因为你有足够的野心。</p>
+<p>你想要为了你的家人以及你自己而成功，除了通过教育和学习，没有什么更强大的力量能做到这一点。</p>
+<p>我很自豪的是，拉瓜迪亚社区大学和高盛集团联手提出了对小企业的支持。通过这个合作，我也看到了多少拉瓜迪亚社区大学的学生在学校，工作和家庭中游刃有余。我也看到了这些同学，还有在座的所有人如何不断勉励自己，而且持之以恒下去。</p>
+<p>仅仅是今天能够出现在这里，你们已经证明了自己的定位。现在你们已经有了定位，接下来就去壮大自己的野心。这意味着专注，自律，严格，自我批判和开放的心态。事实上，你们要面对的挑战不会消失，而会更加严峻。</p>
+<p>我的朋友们，这就是生活。但是奋斗越是艰辛，回报也会更加丰厚。用另一个方式看问题：问问你自己，你是不是真的有选择。当你们走进拉瓜迪亚社区大学的第一天，你们已经知道了这个问题的答案。我们必须为了自己的家庭和自己而不断努力。</p>
+<p>现在显然不是最好的经济时期，但是经济总是有一个周期的。在你们人生的下一个五十年，你们会经历很多周期，和这次一样，你们能够顺利渡过。不要有任何不切实际的乐观或者是过分的悲观。</p>
+<p>尽管如此，世上还会发生许多不测，带来巨大影响。你们的安全感来自于知道如何做各种各样的事情——而且比其他人做得都要好。</p>
+<p>而只有不断追求卓越，才能获得这些知识和能力。这意味着改变职业道路或者追求目前职业新的想法、新策略。不管是哪种情况，你都应该逼迫自己尝试新的事物，在每一步中成长。</p>
+<p>读完大学，我在法学院度过了三年，之后在一间大的纽约律师事务所得到了自己梦想中的工作。虽然这曾一直是我的梦想，但是当我得到时，我发现我并不喜欢它。</p>
+<p>虽然在我人生中，我第一次在财务上获得了保障，但是我知道我对我自己做的那些事情并没有足够激情。而且，因为我并不爱的工作，我将永不可能从中得到满足，或者是真的擅长这份工作。更爱这种工作的人会更积极地专注于它。对有些人来说，这是乐趣，对我来说，这永远是一份苦差。</p>
+<p>在五年的律师事务所工作之后，我决定要尝试一些不同的东西。我回家告诉我的妻子我要辞职，她哭了，而且不是因为高兴。不管怎么说，事情还算顺利，我在一间华尔街的小企业中找到了新的工作，之后被更大的企业收购，我也得以进入这个更大的机构，高盛集团。</p>
+<p>在我的职业生涯中，我很幸运能够认识，并且与很多全国顶级的首席执行官以及商界领袖们共同工作。我总是能够被造就他们成功的那种激情所打动。他们也许非常有钱，权势惊人，但是他们的激情远远超越了金钱和权力。</p>
+<p>今天我在这里不是要告诉你们金钱和权力的坏处。只要你的头脑中有一个更大目标，钱与权相当有益。如果你对自己的工作没有激情，或者是没有动力为你的孩子打造比你自己更好人生，那么你就不会有那些让你持续前进的东西。</p>
+<p>所以，我想给你们一些更加具体的建议，希望能够保持你们继续前进。</p>
+<p>首先，信心真的很重要。</p>
+<p>要认识到你已经赢得了自信的权力。你们中的绝大多数都是付出了巨大的牺牲，克服了巨大的障碍才有了现在的成就。你们有了其他起步更早的人所没有的能力，这些能力将会在你们的余生为你们效力。</p>
+<p>我进入大学并读完它的努力最终成为我的一个优势。你曾有的不足已成为你个人经历和职业纪录的历史，它们都会在之后的人生中变成你的优势。所以，你们有理由充满信心。</p>
+<p>第二点，找到一个你喜欢的工作。</p>
+<p>你会做得更好，而且做得更长。虽然是这样说，在一个艰难的经济形势中，需要因为家庭压力做出一些让步，你并不是总能够在职业选择上承担风险。而且，毫无疑问的是，我们将会很多次的妥协。</p>
+<p>但是，不要让一时的必要选择成为一生惯性的借口。要不断试图让自己走到正确的地方。如果我继续做一名律师，我可能会干得还不错，但是我不会辉煌，因为我并不爱这个工作。</p>
+<p>第三，做一个全面、完整的人。</p>
+<p>你们中的很多人会继续接受教育或者是职业培训。学习维持生计必须的东西当然是很重要的。但是不要忘了阅读，学习历史，文化以及时事。</p>
+<p>你会变得更吸引人，对你自己也更加有趣，会在你的工作上更加成功。我读过的绝大部分书对我的工作甚至这个行业都没有直接的用处，但是书中的经验教训总会以意想不到的方式发挥作用。</p>
+<p>第四点，参与社区活动。</p>
+<p>找到可以让你感到自豪的贡献方式，为你的孩子们树立榜样。谋生并不是生活，只是达到目的的一个手段，而不是目的本身。你需要为自己感到自豪。总会有人需要为生计努力，对他们来说社区工作并不是一个现实的选择，但是请努力尝试。</p>
+<p>在过去的岁月里我做了很多事情来让自己进步。但是年纪越大，我越来越能够从服务和帮助他人进步中得到满足。事实上，我最初结识麦罗校长和拉瓜迪亚社区大学就是因为我们共同发起的这个10000家小企业项目。</p>
+<p>最后，要明白人生是不可预测的，所以不要自我设限。</p>
+<p>试试和那些一样具有野心的人为伍，让你置身于可以成长的环境中——在那种你不仅仅可以让自己进步，其他人也会推动你前进的环境。</p>
+<p>一个从贫困小区长大的孩子掌管世界上最大金融机构的机会有多大？你永远也不会知道。不可预测性是生活最伟大的一点。你改变，这个世界也在改变。</p>
+<p>你们生活在一个仍然拥有得天独厚机会的国家。让你自己对无限可能的世界敞开胸怀。你们有野心，你们有智慧和坚韧，所以，请翻开自己的传记——你们已经打开了人生的新一个篇章。</p>
+<p>祝你们和你们的家人好运，也祝贺你们和你们的家人。</p>
+<h2 id="关于Lloyd-Blankfein的一些信息"><a href="#关于Lloyd-Blankfein的一些信息" class="headerlink" title="关于Lloyd Blankfein的一些信息"></a>关于Lloyd Blankfein的一些信息</h2><ul>
+<li>劳尔德·贝兰克梵（Lloyd Blankfein），世界上最大的投资银行高盛集团CEO，贝兰克梵因带领高盛集团成功走出2008年金融危机而为人所熟知。贝兰克梵1954年出生于纽约布鲁克林的一个贫民区，父亲是一个普通的邮件分拣员。</li>
+<li>贝兰克梵毕业于哈佛大学，但是从小成绩十分优异的贝兰克梵报考哈佛并不是因为他觉得哈佛多么伟大，而是因为从小生活在贫民区的他并不知道世界上还有别的大学。他觉得自己必须考上哈佛。</li>
+<li>贝兰克梵第一次面试高盛就被拒绝了，并没有因为他是哈佛学生而受到优待。后来贝兰克梵进入了一家很小的贸易公司，在很短的时间里成为金牌销售。但是因为公司经营不佳，被高盛收购，贝兰克梵因此得以进入高盛。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Speech</category>
+      </categories>
+      <tags>
+        <tag>Speech</tag>
       </tags>
   </entry>
 </search>
