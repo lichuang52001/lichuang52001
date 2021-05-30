@@ -303,8 +303,8 @@
         <category>Research</category>
       </categories>
       <tags>
-        <tag>Joke</tag>
         <tag>Scientist</tag>
+        <tag>Joke</tag>
         <tag>History</tag>
       </tags>
   </entry>
@@ -1050,6 +1050,12 @@
 </ul>
 <h1 id="服务器管理工具"><a href="#服务器管理工具" class="headerlink" title="服务器管理工具"></a>服务器管理工具</h1><ul>
 <li>  <span class="exturl" data-url="aHR0cHM6Ly9maWxlemlsbGEtcHJvamVjdC5vcmcv">FileZilla<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="资讯类工具"><a href="#资讯类工具" class="headerlink" title="资讯类工具"></a>资讯类工具</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2lhbWFkYW1kZXYvYnlwYXNzLXBheXdhbGxzLWNocm9tZQ==">bypass-paywalls-chrome<i class="fa fa-external-link-alt"></i></span> <ul>
+<li>Function: skip subscription.</li>
+</ul>
+</li>
 </ul>
 <h1 id="笔记类工具"><a href="#笔记类工具" class="headerlink" title="笔记类工具"></a>笔记类工具</h1><ul>
 <li>  OneNote</li>
