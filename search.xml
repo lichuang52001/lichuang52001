@@ -21,7 +21,8 @@
 <li><a href="https://simple.wikipedia.org/wiki/RSA_algorithm">RSA algorithm, <em>Wikipedia</em></a> </li>
 <li>Rivest R L, Shamir A, Adleman L M. Cryptographic communications system and method: U.S. Patent 4,405,829[P]. 1983-9-20.</li>
 <li>RSA算法原理<span class="exturl" data-url="aHR0cDovL3d3dy5ydWFueWlmZW5nLmNvbS9ibG9nLzIwMTMvMDYvcnNhX2FsZ29yaXRobV9wYXJ0X29uZS5odG1s">(1)<i class="fa fa-external-link-alt"></i></span>&amp;<span class="exturl" data-url="aHR0cDovL3d3dy5ydWFueWlmZW5nLmNvbS9ibG9nLzIwMTMvMDcvcnNhX2FsZ29yaXRobV9wYXJ0X3R3by5odG1s">(2)<i class="fa fa-external-link-alt"></i></span> </li>
-<li>[YouTube]The RSA Encryption Algorithm <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS80emFodmNKOWdsZw==">(1)<i class="fa fa-external-link-alt"></i></span>&amp;<span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9vT2NUVlRwVXNQUQ==">(2)<i class="fa fa-external-link-alt"></i></span> </li>
+<li>[YouTube] The RSA Encryption Algorithm <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS80emFodmNKOWdsZw==">(1)<i class="fa fa-external-link-alt"></i></span>&amp;<span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9vT2NUVlRwVXNQUQ==">(2)<i class="fa fa-external-link-alt"></i></span> </li>
+<li>[YouTube] <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS82SF85bDlOM0lYVQ==">Will Quantum Computers break encryption?<i class="fa fa-external-link-alt"></i></span> </li>
 <li>…</li>
 </ol>
 ]]></content>
@@ -1342,7 +1343,12 @@
 <li>re-configure file <code>_config.yml</code> </li>
 <li>enjoy…</li>
 </ol>
-]]></content>
+<h2 id="添加广告"><a href="#添加广告" class="headerlink" title="添加广告"></a>添加广告</h2><h3 id="Google-AdSense"><a href="#Google-AdSense" class="headerlink" title="Google AdSense"></a>Google AdSense</h3><ol>
+<li>进入 <span class="exturl" data-url="aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hZHNlbnNlL3N0YXJ0Lw==">Google AdSense<i class="fa fa-external-link-alt"></i></span> 网站，设置账号；</li>
+<li>按照要求，将 Google AdSense 代码添加到文件 <code>\themes\next\layout\_layout.njk</code> 中，位置在 <code>&lt;head&gt;...&lt;/head&gt;</code> 之间，以便 Google 可以检测到；</li>
+<li>配置 <code>ads.txt</code> <sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="[Hexo 博客添加 Google Adsense ads.txt](https://alanlee.fun/2020/04/10/hexo-add-ads/) ">[1]</span></a></sup>；</li>
+</ol>
+<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;"><span class="exturl" data-url="aHR0cHM6Ly9hbGFubGVlLmZ1bi8yMDIwLzA0LzEwL2hleG8tYWRkLWFkcy8=">Hexo 博客添加 Google Adsense ads.txt<i class="fa fa-external-link-alt"></i></span><a href="#fnref:1" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
       <categories>
         <category>Tool</category>
       </categories>
