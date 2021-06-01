@@ -1436,7 +1436,7 @@
   <entry>
     <title>Hexo Tutorial</title>
     <url>/posts/1b7a7665/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Official-documentation"><a href="#Official-documentation" class="headerlink" title="Official documentation"></a>Official documentation</h1><p><span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">Documentation for Hexo<i class="fa fa-external-link-alt"></i></span></p>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Official-documentation"><a href="#Official-documentation" class="headerlink" title="Official documentation"></a>Official documentation</h1><p><span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">Documentation for Hexo<i class="fa fa-external-link-alt"></i></span> </p>
 <p><span class="exturl" data-url="aHR0cHM6Ly90aGVtZS1uZXh0LmpzLm9yZy8=">Hexo NexT theme<i class="fa fa-external-link-alt"></i></span> </p>
 <p><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL25leHQtdGhlbWUvaGV4by10aGVtZS1uZXh0">Github hexo-theme-next<i class="fa fa-external-link-alt"></i></span>  </p>
 <h1 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h1><ol>
@@ -1486,14 +1486,17 @@
 </ol>
 <h2 id="添加广告"><a href="#添加广告" class="headerlink" title="添加广告"></a>添加广告</h2><h3 id="Google-AdSense"><a href="#Google-AdSense" class="headerlink" title="Google AdSense"></a>Google AdSense</h3><ol>
 <li>进入 <span class="exturl" data-url="aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hZHNlbnNlL3N0YXJ0Lw==">Google AdSense<i class="fa fa-external-link-alt"></i></span> 网站，设置账号；</li>
-<li>按照要求，将 Google AdSense 代码添加到文件 <code>\themes\next\layout\_layout.njk</code> 中，位置在 <code>&lt;head&gt;...&lt;/head&gt;</code> 之间，以便 Google 可以检测到；</li>
-<li>配置 <code>ads.txt</code> <sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="[Hexo 博客添加 Google Adsense ads.txt](https://alanlee.fun/2020/04/10/hexo-add-ads/) ">[1]</span></a></sup>；</li>
+<li>按照要求，将 Google AdSense 代码添加到文件 <code>\themes\next\layout\_layout.njk</code> 中<sup id="fnref:2"><a href="#fn:2" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="NexT version 8.4.0">[2]</span></a></sup>，位置在 <code>&lt;head&gt;...&lt;/head&gt;</code> 之间，以便 Google 可以检测到；</li>
+<li>配置 <code>ads.txt</code> <sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="[Hexo 博客添加 Google Adsense ads.txt](https://alanlee.fun/2020/04/10/hexo-add-ads/) ">[1]</span></a></sup>；<ol>
+<li>从 Google AdSense 下载得到 <code>ads.txt</code> 文件，保存至 <code>\source</code> 文件夹下即可；</li>
+</ol>
+</li>
 </ol>
 <h2 id="站点分析"><a href="#站点分析" class="headerlink" title="站点分析"></a>站点分析</h2><ul>
 <li><span class="exturl" data-url="aHR0cHM6Ly9hbmFseXRpY3MuZ29vZ2xlLmNvbS9hbmFseXRpY3Mvd2ViLw==">Google Analytics<i class="fa fa-external-link-alt"></i></span> </li>
 <li><span class="exturl" data-url="aHR0cHM6Ly93d3cuY2xvdWRmbGFyZS5jb20vemgtY24vd2ViLWFuYWx5dGljcy8=">Cloudflare Web Analytics<i class="fa fa-external-link-alt"></i></span> </li>
 </ul>
-<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;"><span class="exturl" data-url="aHR0cHM6Ly9hbGFubGVlLmZ1bi8yMDIwLzA0LzEwL2hleG8tYWRkLWFkcy8=">Hexo 博客添加 Google Adsense ads.txt<i class="fa fa-external-link-alt"></i></span><a href="#fnref:1" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
+<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;"><span class="exturl" data-url="aHR0cHM6Ly9hbGFubGVlLmZ1bi8yMDIwLzA0LzEwL2hleG8tYWRkLWFkcy8=">Hexo 博客添加 Google Adsense ads.txt<i class="fa fa-external-link-alt"></i></span><a href="#fnref:1" rev="footnote"> ↩</a></span></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">2.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">NexT version 8.4.0<a href="#fnref:2" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
       <categories>
         <category>Tool</category>
       </categories>
