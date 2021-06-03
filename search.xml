@@ -7,6 +7,40 @@
 ]]></content>
   </entry>
   <entry>
+    <title>如何区分数据科学、机器学习、人工智能？</title>
+    <url>/posts/421a5bc1/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>David Robinson 在其博客<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="http://varianceexplained.org/r/ds-ml-ai/">[1]</span></a></sup>中给出一种区分方法：</p>
+<ul>
+<li><em>Data science</em> produces insights.<ul>
+<li>Data science is distinguished from the other two fields because its goal is an especially human one: to gain insight and understanding.</li>
+</ul>
+</li>
+<li><em>Machine learning</em> produces predictions.</li>
+<li><em>Artificial intelligence</em> produces actions.</li>
+</ul>
+<img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-03-data-science.png?raw=true' width='50%'>
+
+
+
+
+
+
+
+
+
+
+
+<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">http://varianceexplained.org/r/ds-ml-ai/<a href="#fnref:1" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
+      <categories>
+        <category>Algorithm</category>
+      </categories>
+      <tags>
+        <tag>Artificial Intelligence</tag>
+        <tag>Machine Learning</tag>
+        <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Edward O. Thorp</title>
     <url>/posts/66089607/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-03-edward-o-thorp.jpg?raw=true' width='68%'>
