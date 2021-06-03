@@ -3,7 +3,8 @@
   <entry>
     <title>About Chuang</title>
     <url>/posts/b8066abd/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Please refer to: <a href="https://lichuang.me/about/">https://lichuang.me/about/</a></p>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><center>Please refer to: https://lichuang.me/about/</center>
+
 ]]></content>
   </entry>
   <entry>
@@ -948,6 +949,8 @@ Hello world.
 </li>
 </ul>
 <p>将以上所需的工具下载之后，首先安装编译环境，然后再安装编辑器，过程中按照软件提示即可，一般无需多余的配置。（备注：安装软件时，推荐<code>以管理员身份运行</code>）</p>
+<span id="more"></span>
+
 <h1 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h1><h2 id="编译器配置"><a href="#编译器配置" class="headerlink" title="编译器配置"></a>编译器配置</h2><p>完成以上安装后，打开 TeXstudio 后，首先需要对该编辑器进行一些简单的配置。</p>
 <p>按照下图，从<code>工具栏 --&gt; 选项 --&gt; 设置 TeXstudio</code> 进入配置界面。</p>
 <p><img data-src="https://img-blog.csdnimg.cn/img_convert/1c19ba9f162c4a4a6ee3351a3cb49d82.png#pic_center" alt="在这里插入图片描述"></p>
@@ -1041,6 +1044,8 @@ Hello world.
     <url>/posts/9dac317c/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Python-代码运行前如何清空变量"><a href="#Python-代码运行前如何清空变量" class="headerlink" title="Python 代码运行前如何清空变量"></a>Python 代码运行前如何清空变量</h1><p>在写 Matlab 代码时，一般都有一个习惯，即在代码最开始的地方清空所有变量，如下所示：</p>
 <figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">clear ;</span><br><span class="line">close all ;</span><br><span class="line">clc ;</span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
 
 <p>那么，在 Python 中应该如何执行类似上述的操作呢？应在代码最开始的地方添加如下内容：<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="https://zhuanlan.zhihu.com/p/147723513">[1]</span></a></sup></p>
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line">%reset -f    <span class="comment"># 相当于 Matlab 中的 clear, -f 代表 force，即强制执行</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> matplotlib.pyplot <span class="keyword">as</span> plt</span><br><span class="line">plt.close(<span class="string">&quot;all&quot;</span>)    <span class="comment"># 相当于 Matlab 中的 close all, 即关闭所有图片</span></span><br><span class="line"></span><br><span class="line">%clear    <span class="comment"># 相当于 Matlab 中的 clc, 即清空命令窗口</span></span><br></pre></td></tr></table></figure>
