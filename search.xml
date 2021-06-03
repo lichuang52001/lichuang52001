@@ -748,6 +748,18 @@ Hello world.
 <li>选择保存类型，保存即可。</li>
 </ol>
 <h3 id="检查图片分辨率"><a href="#检查图片分辨率" class="headerlink" title="检查图片分辨率"></a>检查图片分辨率</h3><p>右键目标图片，选择属性，查看分辨率即可。</p>
+<h1 id="PDF-处理"><a href="#PDF-处理" class="headerlink" title="PDF 处理"></a>PDF 处理</h1><h2 id="PDF-去白边"><a href="#PDF-去白边" class="headerlink" title="PDF 去白边"></a>PDF 去白边</h2><blockquote>
+<p>使用 Adobe Illustrator 做矢量图时，一般需要将图像导出为 PDF 格式（插入到 LaTeX 文档中）或者 SVG 格式（插入到 Word 或 PPT 中）。当图像的面积不足以填满页面时，需要对 PDF 文件进行 “去白边” 操作，具体如下。</p>
+</blockquote>
+<ol>
+<li>用 <strong>Adobe Acrobat Reader</strong> 打开 PDF 文件</li>
+<li><code>工具</code> $\rightarrow$ <code>编辑PDF</code> $\rightarrow$ <code>裁剪页面</code></li>
+<li>鼠标左键选中需要裁剪得到的区域，后回车，得到下图</li>
+<li>依次左键：<code>设置为零</code> $\rightarrow$ <code>删除白边距</code></li>
+<li>完成去白边，保存文件即可</li>
+</ol>
+<img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-03-pdf.png?raw=true' width='60%'>
+
 <h1 id="bat-file"><a href="#bat-file" class="headerlink" title=".bat file"></a>.bat file</h1><p>一些情况下，执行完<code>.bat</code>文件之后窗口直接退出，无法在窗口中看到运行结果，带来了许多不便。这里给出两种方法可以解决上述问题：</p>
 <ol>
 <li><p>在<code>.bat</code>文件最后加上一行<code>pause</code>，示例如下：</p>
