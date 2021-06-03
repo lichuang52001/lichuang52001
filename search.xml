@@ -1,29 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>book_list</title>
-    <url>/posts/5d55b310/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><ul>
-<li><input disabled="" type="checkbox"> 《日光流年》，阎连科 </li>
-<li><input disabled="" type="checkbox"> 《动物凶猛》，阎连科 </li>
-<li><input disabled="" type="checkbox"> 《失控》， Kevin Kelly</li>
-<li><input disabled="" type="checkbox"> 《必然》，Kevin Kelly</li>
-</ul>
-<span id="more"></span>
-
-<ul>
-<li><input checked="" disabled="" type="checkbox"> 《人生由我》，梅耶·马斯克，2020年</li>
-<li><input checked="" disabled="" type="checkbox"> 《What It Takes》，Stephen Schwarzman，2019年</li>
-<li><input checked="" disabled="" type="checkbox"> 《The Man Who Solved the Market》，Gregory Zuckerman，2019年</li>
-<li><input checked="" disabled="" type="checkbox"> 《永久记录》，Edward Snowden，2019年</li>
-<li><input disabled="" type="checkbox"> </li>
-</ul>
-]]></content>
-      <categories>
-        <category>Book</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Edward O. Thorp</title>
     <url>/posts/66089607/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-03-edward-o-thorp.jpg?raw=true' width='68%'>
