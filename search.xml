@@ -3,7 +3,7 @@
   <entry>
     <title>About Chuang</title>
     <url>/posts/b8066abd/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><center>Please refer to: https://lichuang.me/about/</center>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><center><a href="https://lichuang.me/about/">Click here</a></center>
 
 ]]></content>
   </entry>
@@ -32,7 +32,17 @@
   <entry>
     <title>Html Tutorial</title>
     <url>/posts/22f164dc/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>未来待续……</p>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Hyperlink"><a href="#Hyperlink" class="headerlink" title="Hyperlink"></a>Hyperlink</h1><p>Syntex:</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;url&quot;</span>&gt;</span>link text<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p>Example: <span class="exturl" data-url="aHR0cHM6Ly93d3cudzNzY2hvb2xzLmNvbS8=">Visit W3Schools.com!<i class="fa fa-external-link-alt"></i></span></p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://www.w3schools.com/&quot;</span>&gt;</span>Visit W3Schools.com!<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+
+
+<p>未来待续……</p>
 ]]></content>
       <categories>
         <category>Tool</category>
