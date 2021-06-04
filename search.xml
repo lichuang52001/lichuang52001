@@ -801,6 +801,25 @@ Hello world.
 <li>选择保存类型，保存即可。</li>
 </ol>
 <h3 id="检查图片分辨率"><a href="#检查图片分辨率" class="headerlink" title="检查图片分辨率"></a>检查图片分辨率</h3><p>右键目标图片，选择属性，查看分辨率即可。</p>
+<h1 id="Excel"><a href="#Excel" class="headerlink" title="Excel"></a>Excel</h1><h2 id="创建下拉列表"><a href="#创建下拉列表" class="headerlink" title="创建下拉列表"></a>创建下拉列表</h2><blockquote>
+<p>参考资料：[Microsoft | 创建下拉列表](&gt; <span class="exturl" data-url="aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vemgtY24vb2ZmaWNlLyVFNSU4OCU5QiVFNSVCQiVCQSVFNCVCOCU4QiVFNiU4QiU4OSVFNSU4OCU5NyVFOCVBMSVBOC03NjkzMzA3YS01OWVmLTQwMGEtYjc2OS1jNTQwMmRjZTQwN2IjSUQwRUFBREFBQT1XaW5kb3dz">https://support.microsoft.com/zh-cn/office/%E5%88%9B%E5%BB%BA%E4%B8%8B%E6%8B%89%E5%88%97%E8%A1%A8-7693307a-59ef-400a-b769-c5402dce407b#ID0EAADAAA=Windows<i class="fa fa-external-link-alt"></i></span>) </p>
+<p>可在单元格使用下拉列表，帮助用户更高效地使用工作表工作。 下拉列表允许用户从你创建的列表中选取项目。</p>
+</blockquote>
+<ol>
+<li>在新工作表中，键入要显示在下拉列表中的条目（需要转化为表格形式）。</li>
+</ol>
+<p><a href="https://imgtu.com/i/2GeF9s"><img data-src="https://z3.ax1x.com/2021/06/04/2GeF9s.jpg" alt="2GeF9s.jpg"></a></p>
+<ol start="2">
+<li>在工作表中选择想要显示下拉列表的单元格。</li>
+<li>转到功能区上的“数据”选项卡，然后转到“数据验证”。</li>
+<li>在“设置”选项卡的“允许”框上，单击“列表”。</li>
+<li>单击“源”框，然后选择列表区域。 忽略了标题行，因为我们不希望该行成为选择选项。</li>
+</ol>
+<p><a href="https://imgtu.com/i/2GeB8A"><img data-src="https://z3.ax1x.com/2021/06/04/2GeB8A.png" alt="2GeB8A.png"></a></p>
+<ol start="6">
+<li>单击“输入信息”，“出错警告”选项卡，分别设置。</li>
+</ol>
+<p><a href="https://imgtu.com/i/2GeLaF"><img data-src="https://z3.ax1x.com/2021/06/04/2GeLaF.png" alt="2GeLaF.png"></a></p>
 <h1 id="PDF-处理"><a href="#PDF-处理" class="headerlink" title="PDF 处理"></a>PDF 处理</h1><h2 id="PDF-去白边"><a href="#PDF-去白边" class="headerlink" title="PDF 去白边"></a>PDF 去白边</h2><blockquote>
 <p>使用 Adobe Illustrator 做矢量图时，一般需要将图像导出为 PDF 格式（插入到 LaTeX 文档中）或者 SVG 格式（插入到 Word 或 PPT 中）。当图像的面积不足以填满页面时，需要对 PDF 文件进行 “去白边” 操作，具体如下。</p>
 </blockquote>
