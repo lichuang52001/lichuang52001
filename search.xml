@@ -8,6 +8,38 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Quantitative Analysis</title>
+    <url>/posts/59160644/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>风险指标数据用来对策略进行客观的评价。</p>
+</blockquote>
+<ul>
+<li><strong>策略收益 | Total Returns</strong></li>
+</ul>
+<p>$$<br>Totle\ Return = P = \frac{P_{end}-P_{start}}{P_{start}}\times 100%<br>$$</p>
+<p>$P_{start}$：策略开始股票和现金总价值</p>
+<p>$P_{end}$：策略结束股票和现金总价值</p>
+<ul>
+<li><strong>策略年化收益 | Total Annualized Returns</strong></li>
+</ul>
+<p>$$<br>Total\ Annualized\ Returns=R_p=((1+P)^{\frac{250}{n}}-1)\times 100%<br>$$</p>
+<p>$P$： 策略收益</p>
+<p>$n$： 策略执行天数</p>
+<p>备注：每年交易日约为250天</p>
+ <span id="more"></span>
+
+<h1 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h1><ol>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuam9pbnF1YW50LmNvbS9oZWxwL2FwaS9oZWxwI2FwaTolRTklQTMlOEUlRTklOTklQTklRTYlOEMlODclRTYlQTAlODc=">JoinQuant<i class="fa fa-external-link-alt"></i></span> </li>
+</ol>
+]]></content>
+      <categories>
+        <category>Finance</category>
+      </categories>
+      <tags>
+        <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>About Consulting Industry</title>
     <url>/posts/82164401/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/consulting%20industry%20pic1.jpg?raw=true' width='80%'>
