@@ -68,33 +68,24 @@
   <entry>
     <title>Quantitative Analysis</title>
     <url>/posts/59160644/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>风险指标数据用来对策略进行客观的评价。</p>
-</blockquote>
-<ul>
-<li><strong>策略收益 | Total Returns</strong></li>
-</ul>
-<p>$$<br>Totle\ Return = P = \frac{P_{end}-P_{start}}{P_{start}}\times 100%<br>$$</p>
-<p>$P_{start}$：策略开始股票和现金总价值</p>
-<p>$P_{end}$：策略结束股票和现金总价值</p>
-<ul>
-<li><strong>策略年化收益 | Total Annualized Returns</strong></li>
-</ul>
-<p>$$<br>Total\ Annualized\ Returns=R_p=((1+P)^{\frac{250}{n}}-1)\times 100%<br>$$</p>
-<p>$P$： 策略收益</p>
-<p>$n$： 策略执行天数</p>
-<p>备注：每年交易日约为250天</p>
- <span id="more"></span>
-
-<h1 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h1><ol>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuam9pbnF1YW50LmNvbS9oZWxwL2FwaS9oZWxwI2FwaTolRTklQTMlOEUlRTklOTklQTklRTYlOEMlODclRTYlQTAlODc=">JoinQuant<i class="fa fa-external-link-alt"></i></span> </li>
-</ol>
-]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong Password | 抱歉, 这个密码看着不太对, 请再试试." data-whm="Error | 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="8b721449845e2017e5aa51e1e1450363d339f5a6cbd5754d9a5a2e34f13da2ba">f8759f174b0c3ae0e5526927d6be43995909314eb9f656282f3def5c1c98f17d1f8f6e9dea4e4bf71270d3126b7fe2fa5007eb4b3dba93ae44fc1da36d93f17b19e1bdf9e2d9ba3b10fe1ce9ee544030972a4a9b043f4c08bb4ab8a4cb3073dce6a5a751ec473452a64277f43e1b91ab5cbb46f6b0c55a7a327007cb0694e5825a2c3bc4e6e161a9aa1c697ffe349a8b57138a285f11f2ee76739bb6eae20021402fa6debe9663c37a64599f510516a25f31703264315192dcb8e679c13b178bc1943381c8002e928d63127c5698a94609c850c9e98efc5b3f0d7b8177d65760555760f068c5c832ad517dd9995e46c6657c007504d1433a704c9e5bef4f42284d4b32bae61427d27c174cf8e741fb0b4a634d33b353a70be74b9ace59138fa7ff98a4ac58d61aa0c80042124a5f7eea4834af32ca3397ca6a76dd0a20c270d6e1221dee9c71cd11d2e0463f1f118c58d8a4c9c2f6f78aa9a39adcc41ca5bed590d5481e28cf571d748a637661f23ec06a898c8644caf6d9dc7f5f83246f71adb02a3e881bef4914fa54395d6502d9b776128692b990364cb53773630f1a0e00aacfa3e6735803badbc93e8fdc03c270000ba38127b9c7c2c4ba5b7723f6a337cca428ace33b9a4d3d3c217398c756757c8730f90afaae2d1e115677309a117e4b1ffbea3c9d393f99819e22d5b3b27241db0539e82485f5072324fe551193d046e82d844c350a714664cfe2e3fd4d760e55f469e30c8c2ed51fbee320b47c826b080d625afa97984d803b98afb88ba8e5c84d1cfd8b3f05a2234aa92480bddb61d8cb21ba2c3c3e3e11bbbedfaf92fc562c3f4ee0c93a84676cfa88773ae08d0fb14a0a425a840c1d2e6b9c7b4269eeb6d78003b8a0a0c12e16962f1b60198facc4eb63c86ffa327e73c2d8bd847a2293c49a608e8cde77b06f8680a4ee0839ebefa74fd59767e8278d5d35567befb56991d02c6a1114b5208defc524a5b32b5edd654271d50fb18b890f2217a1f0aa66635e3bfd00adc53564bd006e2f1c4968d28cecf26243a35b9de5724bf059f36701e49ee5eb48e50758ba562ddb2c011ee043b21070943e9eabb90d23cd5b468f366a6f4d6adda131448f1bcd8e79e17457686815115219e13d76b10b0e853a6f4e9e8e369797a24f52215967b711173e8101f77e19e22aef53429c177ba4747eb23cb5d77615c98ff50ddbb442c4a08391e614a98d1f5ed517eb7ac7d8343ea2119c4b7e6846c482122ee91593d6e07ff101900d68c2d54a23b0c0c1be9f8fd113c5a1e40c9e1387e23918dfaf10e68130cd5d0ba1dd42fc9807fe78a4c77c6894dd0e4955f41fc409008dfbca031b8fe8600fb0269cac91c3f0f80d1f37e395210daf91f9ad416ff8340e966979077cbd48168cf6b2d820ae9020e61a2d1b0b0b326f3c974c43bd9b3664eef1df339fa48bab7b2e6de0fcb99d0173b2d0ef4703cc6c0c87612d30734a1fbefe3c76eb199e58ef921334af66fc96cd722232d8f5e722f44a2a28d129da5a7fb7d8cfddf9da0aac207130a875c787681e2179</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Type Password To Decrypt This Article</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>Finance</category>
       </categories>
       <tags>
         <tag>Data Science</tag>
+        <tag>Password</tag>
       </tags>
   </entry>
   <entry>
