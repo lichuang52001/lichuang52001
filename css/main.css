@@ -2814,7 +2814,7 @@ mjx-container[display="true"] + br {
   transition: all 0.2s ease-in-out;
 }
 .links-of-author a::before {
-  background: #0ae53b;
+  background: #8c2bfc;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
