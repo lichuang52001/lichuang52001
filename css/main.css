@@ -2814,7 +2814,7 @@ mjx-container[display="true"] + br {
   transition: all 0.2s ease-in-out;
 }
 .links-of-author a::before {
-  background: #ffff1a;
+  background: #ffb9ff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2833,4 +2833,10 @@ mjx-container[display="true"] + br {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+.fireworks {
+  left: 0;
+  pointer-events: none;
+  position: fixed;
+  top: 0;
 }
