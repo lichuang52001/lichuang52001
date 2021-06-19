@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>About Chuang</title>
+    <title>About Edward</title>
     <url>/posts/b8066abd/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><center><a href="https://lichuang.me/about/">Click here</a></center>
 
@@ -1091,6 +1091,9 @@ Hello world.
 </ol>
 <img data-src='https://z3.ax1x.com/2021/06/04/2GeLaF.png'>
 
+<h1 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2NydmRnYy9Db25zb2xhcy13aXRoLVlhaGVp">Consolas-with-Yahei<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
 <h1 id="PDF-处理"><a href="#PDF-处理" class="headerlink" title="PDF 处理"></a>PDF 处理</h1><h2 id="PDF-去白边"><a href="#PDF-去白边" class="headerlink" title="PDF 去白边"></a>PDF 去白边</h2><blockquote>
 <p>使用 Adobe Illustrator 做矢量图时，一般需要将图像导出为 PDF 格式（插入到 LaTeX 文档中）或者 SVG 格式（插入到 Word 或 PPT 中）。当图像的面积不足以填满页面时，需要对 PDF 文件进行 “去白边” 操作，具体如下。</p>
 </blockquote>
@@ -1396,7 +1399,7 @@ Hello world.
   <entry>
     <title>LaTeX Tutorial</title>
     <url>/posts/5614100/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><p>第一步：安装 $\LaTeX$ 编译环境；第二步：安装 $\LaTeX$ 编辑器。</p>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><p>第一步：安装 LaTeX 编译环境；第二步：安装 LaTeX 编辑器。</p>
 <ul>
 <li><p>编译环境可以选择 <span class="exturl" data-url="aHR0cDovL3d3dy50dWcub3JnL3RleGxpdmUv">Tex Live<i class="fa fa-external-link-alt"></i></span> 或 <span class="exturl" data-url="aHR0cHM6Ly9taWt0ZXgub3JnLw==">MiKTeX<i class="fa fa-external-link-alt"></i></span>。二者的差别在于 Tex Live 安装文件远大于 MiKTeX，原因在于 TeX Live 中已经包含了绝大多数编译 <code>.tex</code> 文件所需的 package，而 MiKTex 中只包含了一些基础的 package，当编译过程中需要一些特定的 package 时，需要即用即下载。</p>
 </li>
