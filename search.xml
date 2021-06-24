@@ -281,6 +281,10 @@
 <li><span class="exturl" data-url="aHR0cDovL3pvdGZpbGUuY29tLw==">ZotFile<i class="fa fa-external-link-alt"></i></span></li>
 <li><span class="exturl" data-url="aHR0cHM6Ly9yZXRvcnF1ZS5yZS96b3Rlcm8tYmV0dGVyLWJpYnRleC8=">Better BibTeX<i class="fa fa-external-link-alt"></i></span></li>
 </ul>
+<h1 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h1><ul>
+<li><em><strong>How can I see what collections my item is in?</strong></em></li>
+</ul>
+<p>To see all the collections an item is in, select the item and then hold down the Option key (macOS), Control key (Windows), or Alt key (Linux). This will highlight all collections that contain the selected item. [<span class="exturl" data-url="aHR0cHM6Ly93d3cuem90ZXJvLm9yZy9zdXBwb3J0L2tiL2NvbGxlY3Rpb25zX2NvbnRhaW5pbmdfYW5faXRlbQ==">source<i class="fa fa-external-link-alt"></i></span>]</p>
 ]]></content>
       <categories>
         <category>Tool</category>
