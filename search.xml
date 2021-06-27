@@ -55,8 +55,8 @@
         <category>Experience</category>
       </categories>
       <tags>
-        <tag>Skill</tag>
         <tag>Study</tag>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -348,8 +348,8 @@
         <category>Research</category>
       </categories>
       <tags>
-        <tag>Skill</tag>
         <tag>Study</tag>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -2439,6 +2439,7 @@ Hello world.
 <li><span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGVseS5jb20v">Creately<i class="fa fa-external-link-alt"></i></span></li>
 </ul>
 <h1 id="下载工具"><a href="#下载工具" class="headerlink" title="下载工具"></a>下载工具</h1><ul>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuaW50ZXJuZXRkb3dubG9hZG1hbmFnZXIuY29tLw==">Internet Download Manager<i class="fa fa-external-link-alt"></i></span> </li>
 <li>  Motrix</li>
 <li>  qBittorrent</li>
 <li>  bitcomet</li>
@@ -2466,10 +2467,17 @@ Hello world.
 <h1 id="视频剪辑工具"><a href="#视频剪辑工具" class="headerlink" title="视频剪辑工具"></a>视频剪辑工具</h1><ul>
 <li>  HitFilmExpress</li>
 <li>  Camtasia</li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuc2hvdGN1dGFwcC5jb20v">Shoucut<i class="fa fa-external-link-alt"></i></span>, (open source)</li>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuc2hvdGN1dGFwcC5jb20v">Shoucut<i class="fa fa-external-link-alt"></i></span> (open source)</li>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly9oYW5kYnJha2UuZnIv">HandBrake<i class="fa fa-external-link-alt"></i></span> （功能：剪辑、压缩）</li>
+<li>  <span class="exturl" data-url="aHR0cDovL3d3dy5wY2dlc2hpLmNvbS8=">格式工厂<i class="fa fa-external-link-alt"></i></span> </li>
 </ul>
 <h1 id="录屏软件"><a href="#录屏软件" class="headerlink" title="录屏软件"></a>录屏软件</h1><h2 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h2><ul>
 <li>  <span class="exturl" data-url="aHR0cHM6Ly9vaHNvZnQubmV0L2VuZy9vY2FtL2ludHJvLnBocD9jYXRlPTEwMDI=">oCam<i class="fa fa-external-link-alt"></i></span> </li>
+<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuaWV3YXkuY24vZXZjYXB0dXJlLmh0bWw=">EV录屏<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="截图工具"><a href="#截图工具" class="headerlink" title="截图工具"></a>截图工具</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9nZXRzaGFyZXguY29tLw==">ShareX<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuc25pcGFzdGUuY29tLw==">Snipaste<i class="fa fa-external-link-alt"></i></span></li>
 </ul>
 <h1 id="服务器管理工具"><a href="#服务器管理工具" class="headerlink" title="服务器管理工具"></a>服务器管理工具</h1><ul>
 <li>  <span class="exturl" data-url="aHR0cHM6Ly9maWxlemlsbGEtcHJvamVjdC5vcmcv">FileZilla<i class="fa fa-external-link-alt"></i></span> </li>
@@ -2488,6 +2496,10 @@ Hello world.
 <li>  Code.io</li>
 <li>  Notion</li>
 <li>  <span class="exturl" data-url="aHR0cHM6Ly9vYnNpZGlhbi5tZC8=">Obsidian.md<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="Windows-文件快速检索"><a href="#Windows-文件快速检索" class="headerlink" title="Windows 文件快速检索"></a>Windows 文件快速检索</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubGlzdGFyeS5jb20v">Listary<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudm9pZHRvb2xzLmNvbS8=">Everything<i class="fa fa-external-link-alt"></i></span> </li>
 </ul>
 <h1 id="文献管理工具"><a href="#文献管理工具" class="headerlink" title="文献管理工具"></a>文献管理工具</h1><ul>
 <li>  <a href="www.zotero.org">Zotero</a> </li>
@@ -2512,11 +2524,15 @@ Hello world.
 </ul>
 <h1 id="视频播放器"><a href="#视频播放器" class="headerlink" title="视频播放器"></a>视频播放器</h1><ul>
 <li><span class="exturl" data-url="aHR0cHM6Ly9zcGxheWVyLm9yZy8=">SPlayer<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cua21wbGF5ZXIuY29tLw==">KMPlayer<i class="fa fa-external-link-alt"></i></span> </li>
 <li><span class="exturl" data-url="aHR0cHM6Ly93d3cudmlkZW9sYW4ub3JnLw==">VLC media player<i class="fa fa-external-link-alt"></i></span> </li>
 </ul>
 <h1 id="计算机硬件管理"><a href="#计算机硬件管理" class="headerlink" title="计算机硬件管理"></a>计算机硬件管理</h1><h2 id="固态硬盘"><a href="#固态硬盘" class="headerlink" title="固态硬盘"></a>固态硬盘</h2><ul>
 <li><span class="exturl" data-url="aHR0cDovL3d3dy5kYXlhbnphaS5tZS9hcy1zc2QtYmVuY2htYXJrLmh0bWw=">AS SSD Benchmark<i class="fa fa-external-link-alt"></i></span>，固态硬盘测试工具</li>
 <li><span class="exturl" data-url="aHR0cDovL3d3dy5kYXlhbnphaS5tZS9zc2QtZnJlc2guaHRtbA==">Abelssoft SSD Fresh<i class="fa fa-external-link-alt"></i></span>，固态硬盘优化工具</li>
+</ul>
+<h2 id="CPU"><a href="#CPU" class="headerlink" title="CPU"></a>CPU</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuY3B1aWQuY29tL3NvZnR3YXJlcy9jcHUtei5odG1s">CPU-Z<i class="fa fa-external-link-alt"></i></span> </li>
 </ul>
 <h1 id="实用软件推荐网站"><a href="#实用软件推荐网站" class="headerlink" title="实用软件推荐网站"></a>实用软件推荐网站</h1><ul>
 <li>  <span class="exturl" data-url="aHR0cDovL3d3dy5jYXJyb3RjaG91LmJsb2cv">胡萝卜周<i class="fa fa-external-link-alt"></i></span></li>
