@@ -1,6 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Getting Things Done</title>
+    <url>/posts/7694439f/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Getting Things Done (GTD) is a time management method, described in the book of the same title by productivity consultant <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS9ndGRndXk=">David Allen<i class="fa fa-external-link-alt"></i></span>.</p>
+<p>原理：大脑善于处理信息，提出想法，但是不善于存储信息，即我们常说的“好记性不如烂笔头”。</p>
+<p>推荐参考资料：</p>
+<ol>
+<li><p><span class="exturl" data-url="aHR0cHM6Ly9oYW1iZXJnLm5vL2d0ZA==">GTD in 15 minutes – A Pragmatic Guide to Getting Things Done<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+<li><p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9nQ3N3TXNPTmt3WQ==">Getting Things Done (GTD) by David Allen - Animated Book Summary And Review<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Experience</category>
+      </categories>
+      <tags>
+        <tag>Management</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hawking Memorial article</title>
+    <url>/posts/3dea12d7/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-04-hawking.jpg?raw=true' width='68%'>
+
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cucG5hcy5vcmcvY29udGVudC8xMTUvMjEvNTMwOQ==">Stephen Hawking (1942–2018): Toward a complete understanding of the universe<i class="fa fa-external-link-alt"></i></span> by James Hartle, 2018.</p>
+<span id="more"></span>
+
+<p>2 works by Hawking stand out:</p>
+<ul>
+<li>Beginning of the universe ;</li>
+</ul>
+<p>Quantum cosmology</p>
+<p>The beginning of universe: from <strong>4 space dimension → (decouple) 3 space dimension + 1 time dimension</strong>.</p>
+<ul>
+<li>The end of black holes ;</li>
+</ul>
+<p>Black holes are not black hole when take quantum mechanics into account, black holes will have temperature and radiation, “white hot” named by Hawking.</p>
+<p>Hawking’s ability outstanding:</p>
+<ol>
+<li>Focus on the essentials of problems ;</li>
+<li>Give up some “right” ideas ;</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Celebrity</category>
+      </categories>
+      <tags>
+        <tag>Physics</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo Tutorial</title>
     <url>/posts/1b7a7665/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Official-documentation"><a href="#Official-documentation" class="headerlink" title="Official documentation"></a>Official documentation</h1><p><span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">Documentation for Hexo<i class="fa fa-external-link-alt"></i></span> </p>
@@ -87,78 +138,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hawking Memorial article</title>
-    <url>/posts/3dea12d7/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-04-hawking.jpg?raw=true' width='68%'>
-
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cucG5hcy5vcmcvY29udGVudC8xMTUvMjEvNTMwOQ==">Stephen Hawking (1942–2018): Toward a complete understanding of the universe<i class="fa fa-external-link-alt"></i></span> by James Hartle, 2018.</p>
-<span id="more"></span>
-
-<p>2 works by Hawking stand out:</p>
-<ul>
-<li>Beginning of the universe ;</li>
-</ul>
-<p>Quantum cosmology</p>
-<p>The beginning of universe: from <strong>4 space dimension → (decouple) 3 space dimension + 1 time dimension</strong>.</p>
-<ul>
-<li>The end of black holes ;</li>
-</ul>
-<p>Black holes are not black hole when take quantum mechanics into account, black holes will have temperature and radiation, “white hot” named by Hawking.</p>
-<p>Hawking’s ability outstanding:</p>
-<ol>
-<li>Focus on the essentials of problems ;</li>
-<li>Give up some “right” ideas ;</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Celebrity</category>
-      </categories>
-      <tags>
-        <tag>Physics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Getting Things Done</title>
-    <url>/posts/7694439f/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Getting Things Done (GTD) is a time management method, described in the book of the same title by productivity consultant <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS9ndGRndXk=">David Allen<i class="fa fa-external-link-alt"></i></span>.</p>
-<p>原理：大脑善于处理信息，提出想法，但是不善于存储信息，即我们常说的“好记性不如烂笔头”。</p>
-<p>推荐参考资料：</p>
-<ol>
-<li><p><span class="exturl" data-url="aHR0cHM6Ly9oYW1iZXJnLm5vL2d0ZA==">GTD in 15 minutes – A Pragmatic Guide to Getting Things Done<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-<li><p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9nQ3N3TXNPTmt3WQ==">Getting Things Done (GTD) by David Allen - Animated Book Summary And Review<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Experience</category>
-      </categories>
-      <tags>
-        <tag>Management</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>破窑赋</title>
-    <url>/posts/ba1514/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>介绍：《破窑赋》，又名《劝世章》，是近代人们假托北宋大臣吕蒙正的作品，吕蒙正曾任当时太子（即位后为宋真宗）的太子太傅，这篇文章假托吕蒙正为了劝诫太子而创作的。作者以吕蒙正的语气自述从贫苦到富贵的经历，并列举了历史上诸多名人的起伏命运，来说明一种自然循环的人生思想。此文题材不是赋，文辞对仗近乎于元曲里面的俚语，与明清章回体小说的标题也很相似，与精通易理之人的命理对答词很相似，与明清时期成书的《增广贤文》里面的内容、形式都很接近，经后人考据《宋史》亦无相关记载。 吕蒙正（944-1011），字圣功，河南洛阳（今属河南省）人。生于后晋出帝开运三年，卒于宋真宗大中祥符四年。宋太宗太平兴国二年（977年）丁丑科状元。</p>
-</blockquote>
-<span id="more"></span>
-
-<p>正文： 天有不测风云，人有旦夕祸福。蜈蚣百足，行不及蛇；雄鸡两翼，飞不过鸦，马有千里之程，无骑不能自往；人有冲天之志，非运不能自通。盖闻：人生在世，富贵不能淫，贫贱不能移。文章盖世，孔子困厄于陈邦；武略超群，太公钓于渭水。颜渊命短，殊非凶恶之徒；盗跖年长，岂是善良之辈。尧帝明圣，却生不肖之儿；瞽叟愚顽，反生大孝之子。张良原是布衣，萧何称谓县吏。晏子身无五尺，封为齐国宰相；孔明居卧草庐，能作蜀汉军师。楚王虽雄，难免乌江自刎；汉王虽弱，竟有万里江山。李广有射虎之威，到老无封；冯唐有乘龙之才，一生不遇。韩信未遇之时，无一日三餐，及至运行，腰悬三尺玉印，一旦时衰，死于阴人之手。</p>
-<p>有先贫而后富，有老壮而少衰。满腹文章，白发竟然不中；才疏学浅，少年及第登科。深院宫娥，运退反为妓妾；风流妓女，时来配作夫人。青春美女，却招愚蠢之夫；俊秀郎君，反配粗丑之妇。蛟龙未遇，潜水于鱼鳖之间；君子失时，拱手于小人之下。衣服虽破，常存仪礼之容；面带懮愁，每抱怀安之量。时遭不遇，只宜安贫守份；心若不欺，必然扬眉吐气。初贫君子，天然骨骼生成；乍富小人，不脱贫寒肌体。</p>
-<p>天不得时，日月无光；地不得时，草木不生；水不得时，风浪不平；人不得时，利运不通。注福注禄，命里已安排定，富贵谁不欲？人若不依根基八字，岂能为卿为相？</p>
-<p>吾昔寓居洛阳，朝求僧餐，暮宿破窑，思衣不可遮其体，思食不可济其饥，上人憎，下人厌，人道我贱，非我不弃也。今居朝堂，官至极品，位置三公，身虽鞠躬于一人之下，而列职于千万人之上，有挞百僚之杖，有斩鄙吝之剑，思衣而有罗锦千箱，思食而有珍馐百味，出则壮士执鞭，入则佳人捧觞，上人宠，下人拥。人道我贵，非我之能也，此乃时也！运也！命也！</p>
-<p>嗟呼！人生在世，富贵不可尽用，贫贱不可自欺，听由天地循环，周而复始焉。</p>
-]]></content>
-      <categories>
-        <category>Article</category>
-      </categories>
-      <tags>
-        <tag>Article</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>鸵鸟现象</title>
     <url>/posts/4a633a16/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>鸵鸟现象，指一种遇到难题就逃避的现象。其名称源自于鸵鸟在遇到危险时，将头埋在沙坑里，以为躲避了危险但实则毫无用处的现象。</p>
@@ -166,23 +145,6 @@
 <span id="more"></span>
 
 <img data-src='https://miro.medium.com/max/16000/1*zSttG88z_KVYsKh8Cy03Gg.png' width='70%'>]]></content>
-      <categories>
-        <category>Psychology</category>
-      </categories>
-      <tags>
-        <tag>Psychology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>拖延症</title>
-    <url>/posts/b9417af0/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://miro.medium.com/max/4000/1*6borbZIo4NturcHmbix3rA.png' width='68%'>
-
-<p>拖延症是非常普遍的一种现象，一种对未来目标弊大于利的现象。</p>
-<p>造成拖延症的一个重要原因是，大脑过多地关注<b>当前的、短期的简单和舒适</b>，然而以未来的成功为（沉重的）代价。</p>
-<p>针对拖延症，一个建议：<b>Don’t wait</b>.</p>
-<p>参考下面 <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS93YWl0YnV0d2h5">Tim Urban<i class="fa fa-external-link-alt"></i></span> 的 <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9hcmo3b1N0R0xrVQ==">TED 演讲<i class="fa fa-external-link-alt"></i></span>。</p>
-]]></content>
       <categories>
         <category>Psychology</category>
       </categories>
@@ -248,25 +210,41 @@
       </tags>
   </entry>
   <entry>
-    <title>《送东阳马生序》| 宋濂</title>
-    <url>/posts/24612dba/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='http://qqpublic.qpic.cn/qq_public/0/0-2525091099-3BA0C2E3EA6ABDAD7606A32E81295994/0?fmt=jpg&size=87&h=933&w=884&ppv=1/0' width='50%'>
-
+    <title>破窑赋</title>
+    <url>/posts/ba1514/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>介绍：《破窑赋》，又名《劝世章》，是近代人们假托北宋大臣吕蒙正的作品，吕蒙正曾任当时太子（即位后为宋真宗）的太子太傅，这篇文章假托吕蒙正为了劝诫太子而创作的。作者以吕蒙正的语气自述从贫苦到富贵的经历，并列举了历史上诸多名人的起伏命运，来说明一种自然循环的人生思想。此文题材不是赋，文辞对仗近乎于元曲里面的俚语，与明清章回体小说的标题也很相似，与精通易理之人的命理对答词很相似，与明清时期成书的《增广贤文》里面的内容、形式都很接近，经后人考据《宋史》亦无相关记载。 吕蒙正（944-1011），字圣功，河南洛阳（今属河南省）人。生于后晋出帝开运三年，卒于宋真宗大中祥符四年。宋太宗太平兴国二年（977年）丁丑科状元。</p>
+</blockquote>
 <span id="more"></span>
 
-
-
-<p>余幼时即嗜学。家贫，无从致书以观，每假借于藏书之家，手自笔录，计日以还。<strong>天大寒，砚冰坚，手指不可屈伸，弗之怠</strong>。录毕，走送之，不敢稍逾约。以是人多以书假余，余因得遍观群书。</p>
-<p>既加冠，益慕圣贤之道，又患无硕师、名人与游，尝趋百里外，从乡之先达执经叩问。先达德隆望尊，门人弟子填其室，未尝稍降辞色。余立侍左右，援疑质理，俯身倾耳以请；或遇其叱咄，色愈恭，礼愈至，不敢出一言以复；俟其欣悦，则又请焉。故余虽愚，卒获有所闻。</p>
-<p>当余之从师也，尝负笈曳屣，行深山巨谷中。穷冬烈风，大雪深数尺，足肤皲裂而不知。至舍，四肢僵劲不能动，媵人持汤沃灌，以衾拥覆，久而乃和。寓逆旅，主人日再食，无鲜肥滋味之享。同舍生皆被绮绣，戴珠缨宝饰之帽，腰白玉之环，左佩刀，右备容臭，煜然若神人。<strong>余则缊袍敝衣处其间，略无慕艳意。以中有足乐者，不知口体之奉不若人也</strong>。盖余之勤且艰若此。今虽耄老，未有所成，犹幸预君子之列，而承天子之宠光，缀公卿之后，日侍坐备顾问，四海亦谬称其氏名，况才之过于余者乎？</p>
-<p>今诸生学于太学，县官日有廪稍之供，父母岁有裘葛之遗，无冻馁之患矣；坐大厦之下而诵《诗》《书》，无奔走之劳矣；有司业、博士为之师，未有问而不告、求而不得者也；凡所宜有之书，皆集于此，不必若余之手录、假诸人而后见也。其业有不精、德有不成者，非天质之卑，则心不若余之专耳，岂他人之过哉！</p>
-<p>东阳马生君则，在太学已二年，流辈甚称其贤。余朝京师，生以乡人子谒余，撰长书以为贽，辞甚畅达；与之论辩，言和而色夷。自谓少时用心于学甚劳，是可谓善学者矣。其将归见其亲也，余故道为学之难以告之。谓余勉乡人以学者，余之志也；诋我夸际遇之盛而骄乡人者，岂知予者哉！</p>
+<p>正文： 天有不测风云，人有旦夕祸福。蜈蚣百足，行不及蛇；雄鸡两翼，飞不过鸦，马有千里之程，无骑不能自往；人有冲天之志，非运不能自通。盖闻：人生在世，富贵不能淫，贫贱不能移。文章盖世，孔子困厄于陈邦；武略超群，太公钓于渭水。颜渊命短，殊非凶恶之徒；盗跖年长，岂是善良之辈。尧帝明圣，却生不肖之儿；瞽叟愚顽，反生大孝之子。张良原是布衣，萧何称谓县吏。晏子身无五尺，封为齐国宰相；孔明居卧草庐，能作蜀汉军师。楚王虽雄，难免乌江自刎；汉王虽弱，竟有万里江山。李广有射虎之威，到老无封；冯唐有乘龙之才，一生不遇。韩信未遇之时，无一日三餐，及至运行，腰悬三尺玉印，一旦时衰，死于阴人之手。</p>
+<p>有先贫而后富，有老壮而少衰。满腹文章，白发竟然不中；才疏学浅，少年及第登科。深院宫娥，运退反为妓妾；风流妓女，时来配作夫人。青春美女，却招愚蠢之夫；俊秀郎君，反配粗丑之妇。蛟龙未遇，潜水于鱼鳖之间；君子失时，拱手于小人之下。衣服虽破，常存仪礼之容；面带懮愁，每抱怀安之量。时遭不遇，只宜安贫守份；心若不欺，必然扬眉吐气。初贫君子，天然骨骼生成；乍富小人，不脱贫寒肌体。</p>
+<p>天不得时，日月无光；地不得时，草木不生；水不得时，风浪不平；人不得时，利运不通。注福注禄，命里已安排定，富贵谁不欲？人若不依根基八字，岂能为卿为相？</p>
+<p>吾昔寓居洛阳，朝求僧餐，暮宿破窑，思衣不可遮其体，思食不可济其饥，上人憎，下人厌，人道我贱，非我不弃也。今居朝堂，官至极品，位置三公，身虽鞠躬于一人之下，而列职于千万人之上，有挞百僚之杖，有斩鄙吝之剑，思衣而有罗锦千箱，思食而有珍馐百味，出则壮士执鞭，入则佳人捧觞，上人宠，下人拥。人道我贵，非我之能也，此乃时也！运也！命也！</p>
+<p>嗟呼！人生在世，富贵不可尽用，贫贱不可自欺，听由天地循环，周而复始焉。</p>
 ]]></content>
       <categories>
-        <category>Celebrity</category>
+        <category>Article</category>
       </categories>
       <tags>
         <tag>Article</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>拖延症</title>
+    <url>/posts/b9417af0/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://miro.medium.com/max/4000/1*6borbZIo4NturcHmbix3rA.png' width='68%'>
+
+<p>拖延症是非常普遍的一种现象，一种对未来目标弊大于利的现象。</p>
+<p>造成拖延症的一个重要原因是，大脑过多地关注<b>当前的、短期的简单和舒适</b>，然而以未来的成功为（沉重的）代价。</p>
+<p>针对拖延症，一个建议：<b>Don’t wait</b>.</p>
+<p>参考下面 <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS93YWl0YnV0d2h5">Tim Urban<i class="fa fa-external-link-alt"></i></span> 的 <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9hcmo3b1N0R0xrVQ==">TED 演讲<i class="fa fa-external-link-alt"></i></span>。</p>
+]]></content>
+      <categories>
+        <category>Psychology</category>
+      </categories>
+      <tags>
+        <tag>Psychology</tag>
       </tags>
   </entry>
   <entry>
@@ -304,6 +282,81 @@
       </categories>
       <tags>
         <tag>Principle</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《送东阳马生序》| 宋濂</title>
+    <url>/posts/24612dba/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='http://qqpublic.qpic.cn/qq_public/0/0-2525091099-3BA0C2E3EA6ABDAD7606A32E81295994/0?fmt=jpg&size=87&h=933&w=884&ppv=1/0' width='50%'>
+
+<span id="more"></span>
+
+
+
+<p>余幼时即嗜学。家贫，无从致书以观，每假借于藏书之家，手自笔录，计日以还。<strong>天大寒，砚冰坚，手指不可屈伸，弗之怠</strong>。录毕，走送之，不敢稍逾约。以是人多以书假余，余因得遍观群书。</p>
+<p>既加冠，益慕圣贤之道，又患无硕师、名人与游，尝趋百里外，从乡之先达执经叩问。先达德隆望尊，门人弟子填其室，未尝稍降辞色。余立侍左右，援疑质理，俯身倾耳以请；或遇其叱咄，色愈恭，礼愈至，不敢出一言以复；俟其欣悦，则又请焉。故余虽愚，卒获有所闻。</p>
+<p>当余之从师也，尝负笈曳屣，行深山巨谷中。穷冬烈风，大雪深数尺，足肤皲裂而不知。至舍，四肢僵劲不能动，媵人持汤沃灌，以衾拥覆，久而乃和。寓逆旅，主人日再食，无鲜肥滋味之享。同舍生皆被绮绣，戴珠缨宝饰之帽，腰白玉之环，左佩刀，右备容臭，煜然若神人。<strong>余则缊袍敝衣处其间，略无慕艳意。以中有足乐者，不知口体之奉不若人也</strong>。盖余之勤且艰若此。今虽耄老，未有所成，犹幸预君子之列，而承天子之宠光，缀公卿之后，日侍坐备顾问，四海亦谬称其氏名，况才之过于余者乎？</p>
+<p>今诸生学于太学，县官日有廪稍之供，父母岁有裘葛之遗，无冻馁之患矣；坐大厦之下而诵《诗》《书》，无奔走之劳矣；有司业、博士为之师，未有问而不告、求而不得者也；凡所宜有之书，皆集于此，不必若余之手录、假诸人而后见也。其业有不精、德有不成者，非天质之卑，则心不若余之专耳，岂他人之过哉！</p>
+<p>东阳马生君则，在太学已二年，流辈甚称其贤。余朝京师，生以乡人子谒余，撰长书以为贽，辞甚畅达；与之论辩，言和而色夷。自谓少时用心于学甚劳，是可谓善学者矣。其将归见其亲也，余故道为学之难以告之。谓余勉乡人以学者，余之志也；诋我夸际遇之盛而骄乡人者，岂知予者哉！</p>
+]]></content>
+      <categories>
+        <category>Celebrity</category>
+      </categories>
+      <tags>
+        <tag>Article</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>The illustrated guide to a Ph.D.</title>
+    <url>/posts/a0e1b16e/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>from <span class="exturl" data-url="aHR0cDovL21hdHQubWlnaHQubmV0L2FydGljbGVzL3BoZC1zY2hvb2wtaW4tcGljdHVyZXMv">Matt Might’s blog<i class="fa fa-external-link-alt"></i></span></p>
+</blockquote>
+<p>Imagine a circle that contains all of human knowledge:</p>
+<span id="more"></span>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.001.jpg' width='68%'>
+
+<p>By the time you finish elementary school, you know a little:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.002.jpg' width='68%'>
+
+<p>By the time you finish high school, you know a bit more:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.003.jpg' width='68%'>
+
+<p>With a bachelor’s degree, you gain a specialty:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.004.jpg' width='68%'>
+
+<p>A master’s degree deepens that specialty:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.005.jpg' width='68%'>
+
+<p>Reading research papers takes you to the edge of human knowledge:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.006.jpg' width='68%'>
+
+<p>Once you’re at the boundary, you focus:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.007.jpg' width='68%'>
+
+<p>You push at the boundary for a few years:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.008.jpg' width='68%'>
+
+<p>Until one day, the boundary gives way:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.009.jpg' width='68%'>
+
+<p>And, that dent you’ve made is called a Ph.D.:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.010.jpg' width='68%'>
+
+<p>Of course, the world looks different to you now:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.011.jpg' width='68%'>
+
+<p>So, don’t forget the bigger picture:</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.012.jpg' width='68%'>
+
+<p>Keep pushing.</p>
+]]></content>
+      <categories>
+        <category>Research</category>
+      </categories>
+      <tags>
+        <tag>Study</tag>
       </tags>
   </entry>
   <entry>
@@ -469,56 +522,25 @@
       </tags>
   </entry>
   <entry>
-    <title>The illustrated guide to a Ph.D.</title>
-    <url>/posts/a0e1b16e/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>from <span class="exturl" data-url="aHR0cDovL21hdHQubWlnaHQubmV0L2FydGljbGVzL3BoZC1zY2hvb2wtaW4tcGljdHVyZXMv">Matt Might’s blog<i class="fa fa-external-link-alt"></i></span></p>
-</blockquote>
-<p>Imagine a circle that contains all of human knowledge:</p>
-<span id="more"></span>
-
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.001.jpg' width='68%'>
-
-<p>By the time you finish elementary school, you know a little:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.002.jpg' width='68%'>
-
-<p>By the time you finish high school, you know a bit more:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.003.jpg' width='68%'>
-
-<p>With a bachelor’s degree, you gain a specialty:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.004.jpg' width='68%'>
-
-<p>A master’s degree deepens that specialty:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.005.jpg' width='68%'>
-
-<p>Reading research papers takes you to the edge of human knowledge:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.006.jpg' width='68%'>
-
-<p>Once you’re at the boundary, you focus:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.007.jpg' width='68%'>
-
-<p>You push at the boundary for a few years:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.008.jpg' width='68%'>
-
-<p>Until one day, the boundary gives way:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.009.jpg' width='68%'>
-
-<p>And, that dent you’ve made is called a Ph.D.:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.010.jpg' width='68%'>
-
-<p>Of course, the world looks different to you now:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.011.jpg' width='68%'>
-
-<p>So, don’t forget the bigger picture:</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/2020-11-02-PhDKnowledge.012.jpg' width='68%'>
-
-<p>Keep pushing.</p>
-]]></content>
+    <title>职场经验分享</title>
+    <url>/posts/d9b6479c/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong Password, Try Later | 抱歉, 这个密码看着不太对, 请再试试." data-whm="Error | 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="afff1236b20c5b7aba9d175b0cd8e46e0e4d2579581c755b8883c9dd555104ee">24014bcf5611e5fe61cbe1a03a36998a99d5dd0feffd4d84146bd514e005d0983aa46a3d68cd34e2b5446d9692f85f980dad1c3decf117f735a1d2003d73b28d3aa4b1c34a779aa3e927f117547a2a871af939658c399256dbae76880a15704c515b03633dbbb8ea540ec1494dda301450ae5c6f4a06d1ea5a131771c7356dba0bfa67539dc16ec10f69e365bb344f12cfc52c8adf1ac67540eb433770e33d1a1ce1f98e8e2ca49851866e94a066617dfcf943b41932dc889a054e897c0b9a0b340fdcc837f7e970fcbb0ba3548e6c3d25a928012772bc0a29ac8f1e2c041c128343d168b0c150ee69bf0da950492ab7b4e1914f1ff878b4b0b3cc2a2adfc824c2aaf863bc9c78f181f3155744d780cd8373cc9931ca1a7b81777b572c65a4511b1c42db528c8643eece9c18f8925256f7f17f7c8c23e83a9cc7a2d606926e88bcf1b65ac453e3c246ba708664befc6ebeb96c44fa653e2bcf15d492d9aa5638dc7b09c397f66c802fdcf2de307ee206034a0c28ceac24ac9f0f962a7d0b52d5ae3da991d50823fff27adc0b4211cfce935b896793318b2047c9f33d0173f1c6aff1d4b466deef244e767901ae2e74c71c7ffbee208f6968f9414c7321b936280dc5270f0efcbca6d7a6ef8a7534392fac57212478699e8b6a3cb4a6bb489f8fb99edc9168a6277ed97c9d6e5116dae6aa6f994184f2ea5ff61b17129f781d1a6599b055131876260ee435b7528cd7c9f40959e015b3986db22f3c297d11ac68edb163a00da26d8c9e409699984b2be976e1824a77977b687f5754f283e9a50418af6685268502db3a88ef8f72ecc12897bf6244477324fa23f791f25920918f8c7eaba4accece0297183b9f1fd923d92ccfc88e41959535ad50cfb746e8145bde049019bfe9635866b14684064c3d6a95d3223e9f9e43c46acc91568d6b676218e0689800439d3dac6c7ebcd0621a80942523ffc853b8aaceec3d217ae3ec2df5281e28890f2ba441d0bd44f22f35c62861f9e0ffded0beb25ee7441ac56f0ab33a9a24ffcdceeb455806e109244df83c117b00e0a8319797290c8e398f8c75061babe91dcef937cceb1365ed087fc4753890be10d713636f1d6bbf7110b76150bf9494f8d38dba03206819c8155ef5b4b0607fa5172a7941689bccb93d3ad92b22cb8718a838a107996d4c240c67c2ba146c2c4001b3b1bb133ca4769305f6646d8e476bac90ea5ff7dc00cafe1bdb2ab72d8d720a5a07baa4b96857bc54fea79e64608163650c80e8de85c832ed176519180d711661ce2b99077bf04ad32a3eb77fac3f395ee2a1c97d95b14b026cca9f91fb55ad0acc26f924bd5ae7e8a4a050867a2d3ecb9a0bfc2ee07e0e256bc47bdfc654eacf50ef2bd56b1fd3f88dc759bc298a852f6038e067f31980b6c9395aa833f23eb1d89b1dc78657ff11f1799c42b111fbab7260b06d0f8d6a0deeac279661ac12486f3284dfd1e506e1dea8ae4f5d7610ccd19cee3a1543590625a4506880b87fdfeb9f8ca66f7a5fe38b2da760ed5c6da64d1b2d7563eb433aab7808c705eeecc910c3681f5157bad3903a2a5bf4169ffc66aa886d7c613021442a4aadeb868ca8e65cd7b157176757059f070e549587c0c443707172dafaa980059c70d252d632a91eba2bc15d6351453d05e1f816148ede2038890e265d0dd78d89f9c072e9f6f861ba9307c7da2fc3a48525bc862c19160f9e2c135dde658a1f06a4ba2b64ce027e14ba96d840cd24e7438da65b012be642cd423014440195d8679ae76126a5d94bd4eb3e5b10ef173a45f08676f3f4d671105ab48311eef7e9bdad351b7c9156b56bcee4dfbe7675b00980925d46e5b9c7bcc667515d15fe160ab0995c9b080a9d1ee17e5218a5d009833e8578cab04d37d9402b9010c3c522b667a37436742ec2decb282c2e3b5e2e47f1cedc954c15b557cc397bc12a42581fdeaeb32ee6b730e91bc75e3f16e37ab4b8215ed6ba6b65d02fb594aa22261fa352bcc94fe5130cdad2a63aa04a5a289b33b1f6fe3a12bf3bda3e87f8993d8734c0464e057b5a365d7b85917e3b6988b52b603d35539b0f837a46271826d283435b9ffd98047d87622077abc36745cc8288589d79faee9e78eabda43dd5e861ba5573c9a1039a3ce3e8e02b9da1e13591ff01961028c0e5a9a98dedb1fcabe07350c2e05c1e456386de3e1d948aefbb597d0815128c73453838e0a64e0e39a6d5761551444484a371494a9dd9dcf691d0d38d60f5adc26ac3efa58b7f16d1fc10e9ed695b37e8a88ee7e73bb72f8741901ab132662f84c4bf02c3308bfd8087650630e00b81d297ff4c74f664d48a3708e0885a9863bcab063071129aaf3efbc979bedc07c2d7c21d92d57ab4e720e62b856a55ec1c6ce9f95a172557e2c4a3d9e9d8d866d7162e2bab3cf4be12c4141c4f6dbe165cf34511665a89c799b53df1f93bc5a1751610dff429efa5270aefd1ddba4b60f1745d01c4e5be758196bd65a148b79bdd1c23a173f8680a911d87e4a2bec017921e6eb2e6f2335f4fc95cffb9c2d5456f2293e3fab2cc5f9a7cb11ead274eebb0939318374b106637bc6203abbcbaea99a002ddffe43e89a979983ddce54bd8612bd7f31e53e1a86aa17af482cfa1f5585c70c965f117b110857fee60ea58f725f3cfb136e18f74353eaad1e4a1eea0c9d87b55a9ff456e545d47d899d2fc094af90e897a5ac3fc522f18569411f86fcbea908a13c7638a11d9d536edc8090f59938bd190fd520fff5b37b9b8c4e8da36d7d80e00659f9b45543400b530a77bfb8d3f18b94b243b8447f72addbe4f2691b9645812b1c4d15c863d03af3ea53c79f9ca7146e102178e46cfdd4a0b9521b176fbc5cb55b7a43e3a120be4f5520112d7436b8d0873e3595914d6fc6138231c7b5d6dbd6956a187628001bdbfec47715253bbf205887c223fb495bcbc48fb448651abc03473626b8f66830e5c01bcde1f8eef3f60d39c607dc8395c8d9e91374f5b584085524a86e64a188247b0b220f9498f32ac1587a6429add02733b922db47a1d94a4680505b172efee6ba993f6e650c255ec1caa7b4dc5d38e57146b31154b8f4942c1511ecd516f0d74e16137bd40d6071cb73887b8b54624b91b773dc21b1886a251f2ff1e</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-up">
+      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-up">输入密码，解密后阅读 | Type Password To Decrypt This Article</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-        <category>Research</category>
+        <category>Experience</category>
       </categories>
       <tags>
-        <tag>Study</tag>
+        <tag>Password</tag>
       </tags>
   </entry>
   <entry>
@@ -543,6 +565,13 @@
       </tags>
   </entry>
   <entry>
+    <title>About Edward</title>
+    <url>/posts/b8066abd/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><center><a href="https://lichuang.me/about/">Click here</a></center>
+
+]]></content>
+  </entry>
+  <entry>
     <title>Uncertainty</title>
     <url>/posts/795e1c16/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
@@ -558,25 +587,273 @@
       </tags>
   </entry>
   <entry>
-    <title>职场经验分享</title>
-    <url>/posts/d9b6479c/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong Password, Try Later | 抱歉, 这个密码看着不太对, 请再试试." data-whm="Error | 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="afff1236b20c5b7aba9d175b0cd8e46e0e4d2579581c755b8883c9dd555104ee">24014bcf5611e5fe61cbe1a03a36998a99d5dd0feffd4d84146bd514e005d0983aa46a3d68cd34e2b5446d9692f85f980dad1c3decf117f735a1d2003d73b28d3aa4b1c34a779aa3e927f117547a2a871af939658c399256dbae76880a15704c515b03633dbbb8ea540ec1494dda301450ae5c6f4a06d1ea5a131771c7356dba0bfa67539dc16ec10f69e365bb344f12cfc52c8adf1ac67540eb433770e33d1a1ce1f98e8e2ca49851866e94a066617dfcf943b41932dc889a054e897c0b9a0b340fdcc837f7e970fcbb0ba3548e6c3d25a928012772bc0a29ac8f1e2c041c128343d168b0c150ee69bf0da950492ab7b4e1914f1ff878b4b0b3cc2a2adfc824c2aaf863bc9c78f181f3155744d780cd8373cc9931ca1a7b81777b572c65a4511b1c42db528c8643eece9c18f8925256f7f17f7c8c23e83a9cc7a2d606926e88bcf1b65ac453e3c246ba708664befc6ebeb96c44fa653e2bcf15d492d9aa5638dc7b09c397f66c802fdcf2de307ee206034a0c28ceac24ac9f0f962a7d0b52d5ae3da991d50823fff27adc0b4211cfce935b896793318b2047c9f33d0173f1c6aff1d4b466deef244e767901ae2e74c71c7ffbee208f6968f9414c7321b936280dc5270f0efcbca6d7a6ef8a7534392fac57212478699e8b6a3cb4a6bb489f8fb99edc9168a6277ed97c9d6e5116dae6aa6f994184f2ea5ff61b17129f781d1a6599b055131876260ee435b7528cd7c9f40959e015b3986db22f3c297d11ac68edb163a00da26d8c9e409699984b2be976e1824a77977b687f5754f283e9a50418af6685268502db3a88ef8f72ecc12897bf6244477324fa23f791f25920918f8c7eaba4accece0297183b9f1fd923d92ccfc88e41959535ad50cfb746e8145bde049019bfe9635866b14684064c3d6a95d3223e9f9e43c46acc91568d6b676218e0689800439d3dac6c7ebcd0621a80942523ffc853b8aaceec3d217ae3ec2df5281e28890f2ba441d0bd44f22f35c62861f9e0ffded0beb25ee7441ac56f0ab33a9a24ffcdceeb455806e109244df83c117b00e0a8319797290c8e398f8c75061babe91dcef937cceb1365ed087fc4753890be10d713636f1d6bbf7110b76150bf9494f8d38dba03206819c8155ef5b4b0607fa5172a7941689bccb93d3ad92b22cb8718a838a107996d4c240c67c2ba146c2c4001b3b1bb133ca4769305f6646d8e476bac90ea5ff7dc00cafe1bdb2ab72d8d720a5a07baa4b96857bc54fea79e64608163650c80e8de85c832ed176519180d711661ce2b99077bf04ad32a3eb77fac3f395ee2a1c97d95b14b026cca9f91fb55ad0acc26f924bd5ae7e8a4a050867a2d3ecb9a0bfc2ee07e0e256bc47bdfc654eacf50ef2bd56b1fd3f88dc759bc298a852f6038e067f31980b6c9395aa833f23eb1d89b1dc78657ff11f1799c42b111fbab7260b06d0f8d6a0deeac279661ac12486f3284dfd1e506e1dea8ae4f5d7610ccd19cee3a1543590625a4506880b87fdfeb9f8ca66f7a5fe38b2da760ed5c6da64d1b2d7563eb433aab7808c705eeecc910c3681f5157bad3903a2a5bf4169ffc66aa886d7c613021442a4aadeb868ca8e65cd7b157176757059f070e549587c0c443707172dafaa980059c70d252d632a91eba2bc15d6351453d05e1f816148ede2038890e265d0dd78d89f9c072e9f6f861ba9307c7da2fc3a48525bc862c19160f9e2c135dde658a1f06a4ba2b64ce027e14ba96d840cd24e7438da65b012be642cd423014440195d8679ae76126a5d94bd4eb3e5b10ef173a45f08676f3f4d671105ab48311eef7e9bdad351b7c9156b56bcee4dfbe7675b00980925d46e5b9c7bcc667515d15fe160ab0995c9b080a9d1ee17e5218a5d009833e8578cab04d37d9402b9010c3c522b667a37436742ec2decb282c2e3b5e2e47f1cedc954c15b557cc397bc12a42581fdeaeb32ee6b730e91bc75e3f16e37ab4b8215ed6ba6b65d02fb594aa22261fa352bcc94fe5130cdad2a63aa04a5a289b33b1f6fe3a12bf3bda3e87f8993d8734c0464e057b5a365d7b85917e3b6988b52b603d35539b0f837a46271826d283435b9ffd98047d87622077abc36745cc8288589d79faee9e78eabda43dd5e861ba5573c9a1039a3ce3e8e02b9da1e13591ff01961028c0e5a9a98dedb1fcabe07350c2e05c1e456386de3e1d948aefbb597d0815128c73453838e0a64e0e39a6d5761551444484a371494a9dd9dcf691d0d38d60f5adc26ac3efa58b7f16d1fc10e9ed695b37e8a88ee7e73bb72f8741901ab132662f84c4bf02c3308bfd8087650630e00b81d297ff4c74f664d48a3708e0885a9863bcab063071129aaf3efbc979bedc07c2d7c21d92d57ab4e720e62b856a55ec1c6ce9f95a172557e2c4a3d9e9d8d866d7162e2bab3cf4be12c4141c4f6dbe165cf34511665a89c799b53df1f93bc5a1751610dff429efa5270aefd1ddba4b60f1745d01c4e5be758196bd65a148b79bdd1c23a173f8680a911d87e4a2bec017921e6eb2e6f2335f4fc95cffb9c2d5456f2293e3fab2cc5f9a7cb11ead274eebb0939318374b106637bc6203abbcbaea99a002ddffe43e89a979983ddce54bd8612bd7f31e53e1a86aa17af482cfa1f5585c70c965f117b110857fee60ea58f725f3cfb136e18f74353eaad1e4a1eea0c9d87b55a9ff456e545d47d899d2fc094af90e897a5ac3fc522f18569411f86fcbea908a13c7638a11d9d536edc8090f59938bd190fd520fff5b37b9b8c4e8da36d7d80e00659f9b45543400b530a77bfb8d3f18b94b243b8447f72addbe4f2691b9645812b1c4d15c863d03af3ea53c79f9ca7146e102178e46cfdd4a0b9521b176fbc5cb55b7a43e3a120be4f5520112d7436b8d0873e3595914d6fc6138231c7b5d6dbd6956a187628001bdbfec47715253bbf205887c223fb495bcbc48fb448651abc03473626b8f66830e5c01bcde1f8eef3f60d39c607dc8395c8d9e91374f5b584085524a86e64a188247b0b220f9498f32ac1587a6429add02733b922db47a1d94a4680505b172efee6ba993f6e650c255ec1caa7b4dc5d38e57146b31154b8f4942c1511ecd516f0d74e16137bd40d6071cb73887b8b54624b91b773dc21b1886a251f2ff1e</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-up">
-      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-up">输入密码，解密后阅读 | Type Password To Decrypt This Article</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    <title>A guide to Academic Oral Presentations</title>
+    <url>/posts/275d1822/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>The ability to undertake an oral presentation is a valuable skill for assessment tasks, interviews and your future career. This skill can be developed by everyone and is not reserved to those who are “naturally” confident at public speaking. This guide will provide you with some tips and techniques for ensuring your presentation is well planned, structured and delivered.</p>
+<span id="more"></span>
+
+<h1 id="Plan"><a href="#Plan" class="headerlink" title="Plan"></a>Plan</h1><h2 id="Analyse-your-audience"><a href="#Analyse-your-audience" class="headerlink" title="Analyse your audience"></a>Analyse your audience</h2><p>第一步，也是最重要的一步，了解听众，明确需求。</p>
+<p>Some questions to consider include:</p>
+<ol>
+<li>Who is your audience?</li>
+<li>What do they know about the subject? What terminology will they know?</li>
+<li>What do they want to know?</li>
+<li>How can you engage this audience? What matters to them?</li>
+</ol>
+<h2 id="Determine-the-purpose"><a href="#Determine-the-purpose" class="headerlink" title="Determine the purpose"></a>Determine the purpose</h2><p>The goal of presentation slides remains unchanged: provide just the right amount of information in a precise and clean way so that the audience can learn as much as possible.</p>
+<p>The purpose of a presentation may be to provide information, persuade the audience to accept a point of view, or encourage them to take action. Knowing your purpose will help you decide what to include and how to structure your presentation.</p>
+<h2 id="Select-effective-information"><a href="#Select-effective-information" class="headerlink" title="Select effective information"></a>Select effective information</h2><ol>
+<li>What kind of information will best support the presentation?</li>
+<li>What kind of information will appeal to the audience?</li>
+<li>Are there some useful examples or case studies to illustrate an idea?</li>
+</ol>
+<h1 id="Prepare"><a href="#Prepare" class="headerlink" title="Prepare"></a>Prepare</h1><p>Structure provides a framework for your presentation.</p>
+<ol>
+<li>Introduction - an overview of the issue and the main ideas to be considered. Explain the issue, the background and key terms.</li>
+<li>Body - the main ideas, reasoning, evidence and explanation provided. Avoid overloading your audience with too much information. Categorise your information into key ideas.</li>
+<li>Conclusion - a summary of what you have considered with repetition of key ideas.</li>
+</ol>
+<p>Consider how long you can spend on each section, given the time available.</p>
+<h2 id="Select-appropriate-visual-aids"><a href="#Select-appropriate-visual-aids" class="headerlink" title="Select appropriate visual aids"></a>Select appropriate visual aids</h2><p>Remember that the visuals are not the presentation. Their purpose is to enhance what you are saying by providing a visual link.</p>
+<h2 id="制作Slide的注意事项"><a href="#制作Slide的注意事项" class="headerlink" title="制作Slide的注意事项"></a>制作Slide的注意事项</h2><blockquote>
+<p>Slides的评价标准：信息准确；易读。</p>
+<p>参考资料：<em>Han D. Creating meaningful slide presentations[J]. MRS Bulletin, 2020, 45(10): 870-870.</em></p>
+</blockquote>
+<ol>
+<li>格式一致且准确<ol>
+<li>白底黑字红色强调是最简单无误的配色方案</li>
+<li>字体建议使用sans-serif（如Calibri, Arial），字号不小于18pt</li>
+</ol>
+</li>
+<li>slide标题阐述结果<ol>
+<li>“Effect of atmospheric pressure on boiling point of liquid A” VS “Increasing atmospheric pressure leads to a higher boiling point of liquid A”</li>
+</ol>
+</li>
+<li>使用宽屏幕slide<ol>
+<li>choose 16:9 rather 4:3</li>
+</ol>
+</li>
+<li>图表，讲几个放几个</li>
+<li>慎用ppt动画和切换效果<ol>
+<li>When presenting information sequentially, use two slides instead of using animation in one slide.</li>
+</ol>
+</li>
+<li>在Q&amp;A环节，停留在结论slide</li>
+</ol>
+<h1 id="Practise-and-present"><a href="#Practise-and-present" class="headerlink" title="Practise and present"></a>Practise and present</h1><p>The key to a good delivery is to practise your speech and your body language. Here are some tips to assist you:</p>
+<ol>
+<li>Practise your presentation several times, aloud and standing up.</li>
+<li>Time the presentation. If it is too long, remove and/or simplify information, rather than speaking more quickly.</li>
+<li>Stand straight with your feet “planted” in the ground. This will eliminate swaying and nervous movements in the legs. You can move, but do so with purpose.</li>
+<li>Establish a “resting place” for your hands at the front of your body, such as cupped at waist level.</li>
+<li>Eye contact is a powerful means to engage your audience so look at your audience when you speak.</li>
+<li>Speak more slowly and clearly than you normally would. Provide emphasis through voice intonation, volume and pausing.</li>
+</ol>
+<h1 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h1><p><span class="exturl" data-url="aHR0cHM6Ly93d3cubW9uYXNoLmVkdS9ybG8vcXVpY2stc3R1ZHktZ3VpZGVzL2EtZ3VpZGUtdG8tb3JhbC1wcmVzZW50YXRpb25z">A guide to oral presentations, Monash University<i class="fa fa-external-link-alt"></i></span> </p>
+<p><span class="exturl" data-url="aHR0cDovL3d3dzQuY2Flcy5oa3UuaGsvZXBjL3ByZXNlbnRhdGlvbi8=">Oral presentation, HKU<i class="fa fa-external-link-alt"></i></span> </p>
+]]></content>
       <categories>
-        <category>Experience</category>
+        <category>Research</category>
       </categories>
       <tags>
-        <tag>Password</tag>
+        <tag>Skill</tag>
+        <tag>Speech</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Brain Game | Challenge your Mind</title>
+    <url>/posts/e76f6c15/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="一句话拯救一百人"><a href="#一句话拯救一百人" class="headerlink" title="一句话拯救一百人"></a>一句话拯救一百人</h1><blockquote>
+<p>参考：<span class="exturl" data-url="aHR0cHM6Ly9lZC50ZWQuY29tL2xlc3NvbnMvdGhlLWZhbW91c2x5LWRpZmZpY3VsdC1ncmVlbi1leWVkLWxvZ2ljLXB1enpsZS1hbGV4LWdlbmRsZXI=">Can you solve the famously difficult green-eyed logic puzzle? - Alex Gendler<i class="fa fa-external-link-alt"></i></span> </p>
+</blockquote>
+<p>想象在一个岛上一个疯狂的独裁者囚禁了100个完美的逻辑家，他们没办法逃离，除了<strong>一个奇怪的规则</strong>，在晚上任何囚犯都可以请求警卫放他走，若他有<strong>绿眼睛</strong>，他就会被释放，若不是，他就会被扔进火山口，实际上，那一百个逻辑家都有绿眼睛，但他们从出生起就住在那儿，而且独裁者确保他们不会知道自己眼睛什么颜色，那儿也没有反光表面，所有水都装在不透明的容器里，而且最重要的是他们不能互相交流，尽管他们每天早上点人数时都能看到彼此，不仅如此，他们都知道，若没有绝对的把握会成功，没人会尝试离开。</p>
+<p>在人权组织的压力下，那个独裁者勉强允许你访问那个岛，并且和犯人说话时要遵从以下条件：</p>
+<ol>
+<li><p>你只可陈述一个声明</p>
+</li>
+<li><p>你不能告诉他们新的信息</p>
+</li>
+</ol>
+<p>你说什么才能帮助这些犯人获得自由而不激怒这位独裁者呢？</p>
+<p>经过深思熟虑……</p>
+<span id="more"></span>
+
+<details>
+<summary>你告诉人群：</summary>
+<font color='red'>
+你们当中至少有一个人有绿眼睛。
+    </font>
+</details>
+
+<p>独裁者持有怀疑的态度，但还是告诉自己你的言论不会改变任何事情。</p>
+<p>你离开了，岛上的生活依然照旧，但在你访问后的第一百天早上所有的犯人都不见了。</p>
+<p>每一个人都在前天晚上要求离开，所以你是如何智胜独裁者的？</p>
+<details>
+<summary>解析</summary>
+<font color='red'>
+<p>意识到犯人的数量不固定也许能帮到你，我们来把这个问题简化一下。</p>
+<p>假设只有两个犯人，小红和小明，彼此都能看到对方的绿眼睛，他们心里清楚 也许只有对方有绿眼睛。</p>
+<p>所以第一天，谁也没轻举妄动。但当他们第二天早上又看到对方时，他们得到了新的信息。小红意识到如果小明看到了一个“非绿眼睛”的人在他旁边，他就知道自己拥有绿眼睛，第一天就会离开，小明也同一时间想到了同样的事情，两个人都在等这个事实，告诉她或他的眼睛一定是绿色的，之后的那天早上，他俩都走了。</p>
+<p>现在想象第三个犯人，小红小明和小刚各看到两个绿眼睛的人，但不确定另外两人是不是也看到了，一个或者两个绿眼睛的人，他们第一天也和之前一样等着，到了第二天，他们还是不确定，小刚想：如果我没有绿眼睛，小红和小明只是看着彼此，那他们第二天早上就会都走了，但当他第三天早上看到另外两人时，他意识到那两人肯定也在观察他，小红和小明在想同样的事情，然后他们三人在第三天晚上都走了。</p>
+<p>用这种归纳性推理，我们可以看出这种模式会一直重复，不论犯人的数量多少，关键点是公识的概念，来自哲学家David Lewis的创造，新知识不在你的陈述里，而在于你的声明同时陈述给了所有人，现在呢，每个犯人除了知道他们中至少一个有绿眼睛，也知道其他人都在观察记录，他们能看到的所有绿眼睛的人，而且所有人都知道每个人都是这么想的，每个犯人不知道的是，他们自己是不是别人观察记录的，绿眼睛的人中的一员，直到和犯人数量同等的夜数过去了才能确定，当然啦，你也可以让犯人早98天离开这岛，告诉他们至少99个人有绿眼睛，但当疯狂独裁者在的时候，你最好做出明智的选择。</p>
+</font>
+</details>
+
+
+
+<h1 id="通往天堂的门"><a href="#通往天堂的门" class="headerlink" title="通往天堂的门"></a>通往天堂的门</h1><p>Question：如果有一天，你醒来却发现自己在一间陌生的房间里，房间里有两个门，各自有两个守卫，一个通向极乐世界，另外一个通向地狱，而两个守卫一个只会说真话，一个一会说假话。现在你只能问他们其中一个人一个问题（你并不知道谁会说真话谁会说假话），你要怎么问才会知道哪个门是通往哪的。</p>
+<details>
+<summary>Answer</summary>
+<font color='red'>
+<p>A1：说谎话的人后面是地狱之门吗？</p>
+<p>A2：假如我问另外一个守卫通往地狱的门在哪里，他会指哪道门？</p>
+    </font>
+</details>
+
+
+
+<h1 id="海盗分宝石"><a href="#海盗分宝石" class="headerlink" title="海盗分宝石"></a>海盗分宝石</h1><p>五个海盗抢到了100颗宝石，每一颗都一样大小和价值连城。他们决定这么分：抽签决定自己的号码（1、2、3、4、5）。</p>
+<p>首先，由1号提出分配方案，然后大家表决，当且仅当超过半数的人同意时，按照他的方案进行分配，否则将被扔进大海喂鲨鱼。</p>
+<p>如果1号死后，再由2号提出分配方案，然后剩下的4人进行表决，当且仅当超过半数的人同意时，按照他的方案进行分配，否则将被扔入大海喂鲨鱼。依此类推。</p>
+<p>条件：每个海盗都是很聪明的人，都能很理智地做出判断，从而做出选择。</p>
+<p>问题：第一个海盗提出怎样的分配方案才能使自己的收益最大化？</p>
+<details>
+<summary>解答</summary>
+<font color='red'>
+<p>1. 假设1、2、3、号死掉了，那么只剩下4号和5号，这时候无论4号怎么分，哪怕给5号100颗宝石，5号都不一定同意（因为4号死了，所有宝石都归他，他仍然可以获得100个），所以4号必定得让3号活下来才能保证自己的生命，且不管3号怎么分，4号都会同意；</p>
+<p>2. 假设1、2号死了,3号来分的话,他肯定分自己100个,4号和5号都0个,因为3号自己肯定同意,4号也必须同意,就有大于50%的选票。所以3号必定是希望2号死掉的，这样他才能保证自己利益最大化。所以无论2号提出什么，3号都会反对。</p>
+<p>3. 再来推2号。假设1号死了，3号必定反对他，那么2号只能贿赂4号和5号。前面说过，3号分的话，4、5号只有0个。那么2号只要给他们1人1个,4号和5号就都得同意。所以2号会这么分:98、0、1、1。所以在这种情况下，除非1号愿意给自己99颗以上的宝石，否则2号一定会反对1号。</p>
+<p>4. 再来推1号。他不会收买2号,那起码要给2号99个才行,他肯定会收买3号,因为给3号1个，3号就会同意1号的分法,3号要是不同意,1号死了2号分的话,3号只能得到0个。此时，1号只要再收买4号和5号中任何一人就行了，给这个人两个,他就会同意（否则只能得到1个或0个，或者死亡）。 所以，1号的分配方案为:97、0、1、2、0 或97、0、1、0、2。</p>
+    </font>
+</details>
+
+
+<h1 id="蒙提霍尔问题"><a href="#蒙提霍尔问题" class="headerlink" title="蒙提霍尔问题"></a>蒙提霍尔问题</h1><img data-src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monty_open_door.svg/1920px-Monty_open_door.svg.png' width='40%'>
+
+<p>这个游戏的玩法是：</p>
+<p>参赛者会看见三扇关闭了的门，其中一扇的后面有一辆汽车或者是奖品，选中后面有车的那扇门就可以赢得该汽车或奖品，而另外两扇门后面则各藏有一只山羊。</p>
+<p>当参赛者选定了一扇门，但未去开启它的时候，知道门后情形的节目主持人会开启剩下两扇门的其中一扇，露出其中一只山羊。</p>
+<p>主持人其后会问参赛者要不要换另一扇仍然关上的门。</p>
+<p>问题是：换另一扇门会否增加参赛者赢得汽车的概率？</p>
+<p><font color='red'>如果严格按照上述的条件的话，答案是会。换门的话，赢得汽车的概率是2/3。</font></p>
+<p>这条问题亦被叫做蒙提霍尔悖论：虽然该问题的答案在逻辑上并不自相矛盾，但十分违反直觉。这问题曾引起一阵热烈的讨论。</p>
+<h1 id="数字华容道"><a href="#数字华容道" class="headerlink" title="数字华容道"></a>数字华容道</h1><p>数字华容道有解的前提：</p>
+<ol>
+<li><font color='red'>若格子列数为奇数，则逆序数必须为偶数；</font></li>
+<li><font color='red'>若格子列数为偶数，且逆序数为偶数，则当前空格所在行数与初始空格所在行数的差为偶数；</font></li>
+<li><font color='red'>若格子列数为偶数，且逆序数为奇数，则当前空格所在行数与初始空格所在行数的差为奇数。</font></li>
+</ol>
+]]></content>
+      <categories>
+        <category>Game</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+        <tag>锻炼</tag>
+        <tag>Brain</tag>
+        <tag>Funny</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Academic Jokes</title>
+    <url>/posts/e178610c/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><ul>
+<li>1994年，几个来自 New York University 的生物学家声称发明了微积分<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="Tai M M. A mathematical model for the determination of total area under glucose tolerance and other metabolic curves[J]. Diabetes care, 1994, 17(2): 152-154.">[1]</span></a></sup>。</li>
+</ul>
+<ul>
+<li><p><span class="exturl" data-url="aHR0cHM6Ly9zaGl0bXlyZXZpZXdlcnNzYXkudHVtYmxyLmNvbS8=">ShitMyReviewersSay (Collecting the finest real specimens of reviewer comments since 1456)<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+<li><p><span class="exturl" data-url="aHR0cDovL3BoZGNvbWljcy5jb20v">PhD Comics<i class="fa fa-external-link-alt"></i></span>, <span class="exturl" data-url="aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3BoZGNvbWljcw==">Facebook page<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+</ul>
+<span id="more"></span>
+
+<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">Tai M M. A mathematical model for the determination of total area under glucose tolerance and other metabolic curves[J]. Diabetes care, 1994, 17(2): 152-154.<a href="#fnref:1" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
+      <categories>
+        <category>Research</category>
+      </categories>
+      <tags>
+        <tag>Joke</tag>
+        <tag>Scientist</tag>
+        <tag>History</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>粟耀莹·《从加州理工到高盛银行》</title>
+    <url>/posts/1f972e30/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>原文：<span class="exturl" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC90b3BpYy8xMDU0OTAyLw==">粟耀莹  从加州理工到高盛银行<i class="fa fa-external-link-alt"></i></span> </p>
+<p>粟耀莹的母亲是洪冬桂，台湾立法委员；父亲是粟明德，白崇禧义子，曾任蒋经国秘书；粟家与白家世交。</p>
+<span id="more"></span>
+
+<blockquote>
+<p>“我从来没有想要教书或作研究，我去加州理工，这个在世界上诺贝尔奖得主密度最大的地方，是为了接受其熏陶，以悟出如何得到诺贝尔奖的道理，并对我当年的偶象Feynman费因曼(著名的物理诺贝尔奖得主，著有Surely You’re Joking，Mr.Feynman 一书)生前待过最久的地方，进行模拜。“</p>
+</blockquote>
+<p>因为研究生课程免修考试通过，因此粟有时间多浏览物理领域的前沿内容（也曾经拜访叶乃裳教授），之后经过多方了解，认为物理与生物交叉的方向前景广阔，值得研究。但因为自己之前没有生物基础，所以就必须去生物系选修相关的课程，最初受到冷眼旁观，但是之后自己取得了很好的成绩，逐步得到各种人的赞赏。在科学之外，她发现还有一个宽广而多彩的世界，商业是一个足可与科学抗衡的行业。 </p>
+]]></content>
+      <categories>
+        <category>Comment</category>
+      </categories>
+      <tags>
+        <tag>Comment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How to Choose a Dissertation Topic For Your Doctoral Degree</title>
+    <url>/posts/5bbeeda3/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="选题的优雅法则"><a href="#选题的优雅法则" class="headerlink" title="选题的优雅法则"></a>选题的优雅法则</h1><blockquote>
+<p>转载自“学位与写作”微信公众号</p>
+</blockquote>
+<p>提出研究问题(简称选题)、形成研究假设、明确研究目标、完成研究过程、得出研究结果、形成研究结论、回答研究问题是学术研究的基本过程。优雅法则是可用于第一个过程——提出研究问题——时可参考的法则。</p>
+<p>这里，优雅是把FINER当作一个单词的直译。实际上，FINER是缩写语，是Feasible, Interesting,  Novel, Ethical和Relevant的首写字母缩写。帕特里夏·法鲁吉亚（Patricia Farrugia，2010）指出，优雅法则（FINER criteria）是赫利等人（Hulley et al 2007）提出来的，其意思是，研究问题要求满足五个法则：可行、有趣、新颖、符合规范和具有相关性（ 英文为Feasible, Interesting,  Novel, Ethical and Relevant）。</p>
+<span id="more"></span>
+
+<h2 id="可行"><a href="#可行" class="headerlink" title="可行"></a>可行</h2><p>研究问题的研究必须可行，否则就没有意义。这就需要明确可行性问题。所谓可行，就是能对研究问题开展研究，且在许可的条件下实现研究目标。</p>
+<p>首先，研究规模可控。规模可控是指为了开展研究，需要调用的人力、物力和财力等是在可控制的范围。以研究人类行为为例，我们不可能动员全球七十亿人作为样本。又如，假如我们只能从额度限定为百万量级的基金获得资助，那么我们就不能去研究预算高达10亿量级的问题。</p>
+<p>第二，时间即研究周期可控。假设允许我们的研究周期只有五年左右（如允许读博的期限是五年），我们提出的研究问题的预计研究周期就不能远远超过五年。举例而言，哈雷彗星是每76.1年回归一次，上一次回归是在1986年，而下一次回归将出现在2061年。于是，2021年入学的博士生，就不能把下一次回归时哈雷彗星的直接观测研究作为博士论文期间的研究问题，因为近五年内哈雷彗星不会回归。</p>
+<p>第三，拥有必要的研究基础。牛顿时代不可能把现在的火箭发动机作为研究内容，因为当时不具备研究这种发动机的相关知识，例如物理学知识、数学知识和工程科学知识。研究基础包括通用知识（如基本的数学知识）、专业知识和其他人的研究基础。正因为如此，为了提出研究问题，我们必须经历了本科和研究生的课程学习与训练，掌握了必要的通用知识和专业知识，而且还需要阅读大量早期和近期文献。通过这些学习和调研，才能明确已有方法、思路和结果等能否作为解决自己提出的问题的研究基础。</p>
+<p>第四，需要的技术手段成熟或可建立。假如我们需要观测粒子以接近光速进行碰撞，那么就需要粒子加速器。粒子加速器就是研究这类粒子碰撞的技术手段。如果没有，或者在有限时间内无法建成，那么在该有限时间内就不能观测这里粒子碰撞。</p>
+<p>最后，在可管理范围。例如，如果要提出一个需要五名博士生一起参与才能完成的研究问题，那么所在团队就需要具有招收博士生的条件。</p>
+<h2 id="有趣"><a href="#有趣" class="headerlink" title="有趣"></a>有趣</h2><p>回答提出的问题必须在研究者、同行和学术界看来是有趣的。这里的有趣不能简单理解为好玩，而是有其深刻的含义，包含重要、有价值等意义。</p>
+<p>首先，研究者有兴趣驱动。好奇心是让研究者寻找研究问题的答案的动力，这样才会让人孜孜不倦、锲而不舍地钻研问题，沉浸在默默的探索之中。这就要求选题本身存在满足这种好奇心的答案，至少假定存在。例如，土卫二存在生命吗？肯定的答案将是激动人心的。有什么比成为地外生命的第一个发现者更让研究者废寝忘食呢。</p>
+<p>其次，同行将来会对研究发现或结论感兴趣。研究结论要么将回答同行本来关心的问题或作为同行研究的起点，要么给同行提供值得借鉴的方法、结果或结论，要么启发同行找到新的方向或自己问题的思路和解决方案。</p>
+<p>再者，解决的研究问题引起学术界的兴趣。仅仅只有自己、个别同行对我们的研究问题感兴趣是不够的。这就要求研究问题的有趣性具有一定的普适性。</p>
+<h2 id="新颖"><a href="#新颖" class="headerlink" title="新颖"></a>新颖</h2><p>新颖的一种说法是创新。新颖也是第二条有趣的因素之一。作为研究问题，旧的（已经确证的）东西并不需要进行再次研究，而需要解决过去未曾解决的问题。</p>
+<p>作为新的研究问题，或者将提出原创知识，或者将完善现有知识，或者将拓展现有知识的边界。以原创知识为例，牛顿或莱布尼兹发明的微积分理论在当时带来的是一种全新的数学工具，爱因斯坦提出的相对论理论将物理学推到了新的高度，导致对宇宙产生全新的认识。</p>
+<p>提出的问题要么可以确证一个已有的发现，要么否定一个已有的发现，要么能拓展已有的发现。</p>
+<p>为了提出新颖的问题，需要再次提及第一条指出的文献研究。这里，阅读文献的目的是排除已经完成的研究以避免重复本已完成的研究问题，找出遗留的问题作为新问题，或者启发出新的研究问题。这就是为什么选题报告需要有很大一部分用于介绍文献研究。</p>
+<p>以研究生学位论文工作为例，我们在中期阶段需要书写选题报告。用口语说，就是开题。开题的前提是我们经过对指定的背景问题中的文献调研，找到了研究空白，确立了新的未曾研究或者尚有遗缺的研究问题。</p>
+<p>当然，也不能把新颖作为开题的唯一理由，新颖是有约束的，就是那种可明确研究目标、提出研究思路和预计能给出最终答案的新问题。无法给出研究目标和思路的问题，再新颖也无意义。例如，提出利用暗能量作为驱动宇宙飞船遨游宇宙边缘的研究问题无比新颖，但问题是，我们能提出最终的研究目标和研究思路并给出最终答案吗？</p>
+<p>我们不能仅仅为了新颖，让问题太抽象或含糊，或让问题太简单。正如苏珊娜·麦康姆所指出的，研究问题必须具体到足以彻底地给与回答，复杂到足以将答案放进一篇论文或学位论文中（Shona McCombes，2019）。也就是说，在追求新颖的同时，还要满足学术期刊或学位论文的高标准（high standard）。</p>
+<h2 id="符合规范"><a href="#符合规范" class="headerlink" title="符合规范"></a>符合规范</h2><p>符合规范在不同学科定义不一样。在生命科学领域，符合规范可能是指符合伦理，比如说不能提出一个违背伦理的研究问题（如带有残忍性的动物活体研究）。在自然科学领域，符合规范是指研究结果可靠、可重复或可证伪等。当然，符合规范远不止这些。</p>
+<p>作为提出的研究问题，我们需要问，我们的研究对象（如动物）、我们的研究行为、研究过程、我们使用研究工具和我们的研究结果是否符合规范。以研究行为为例，我们不能使用危害健康的研究工具来开展研究吧。又以研究过程为例，我们不能以破坏大量居民的生存环境为代价完成研究吧。再以研究结果为例，我们不能研究那种随随便便就可以毁灭宇宙的东西吧。最后以研究结论为例，我们不能研究导致被误解为歧视某种人群或性别的问题吧。</p>
+<p>大卫·雷斯尼克（David B. Resnik，2020）针对健康环境领域，较完整地介绍了研究规范问题（其它领域也值得参考），以下摘录其中的5条要求：</p>
+<p>首先，规范促进研究的目标，如知识、真理和避免错误。例如，禁止捏造、伪造或歪曲研究数据可以促进真相，减少错误。</p>
+<p>其次，由于研究通常涉及不同学科和机构中许多不同人之间的大量合作与协调，道德标准促进了对合作工作至关重要的价值观，如信任、问责、相互尊重和公平。例如，研究中的许多道德规范，如作者指南、版权和专利政策、数据共享政策和同行评审中的保密规则，旨在保护知识产权利益，同时鼓励合作。大多数研究人员希望他们的贡献得到认可，不希望他们的想法被窃取或过早披露。</p>
+<p>第三，许多伦理规范有助于确保研究人员对公众负责。例如，关于研究不当行为、利益冲突、人类受试者保护以及动物护理和使用的联邦政策是必要的，以确保由公共资金资助的研究人员能够对公众负责。</p>
+<p>第四，研究中的伦理规范也有助于建立公众对研究的支持。如果人们能够信任研究的质量和完整性，他们更有可能资助一个研究项目。</p>
+<p>最后，许多研究规范促进了各种其他重要的道德和社会价值，如社会责任、人权、动物福利、遵守法律以及公共健康和安全。研究中的伦理失误会严重伤害人类和动物受试者、学生和公众。例如，在临床试验中编造数据的研究人员可能会伤害甚至杀死患者，而不遵守与辐射或生物安全有关的法规和指南的研究人员可能会危及其健康和安全或工作人员和学生的健康和安全。</p>
+<h2 id="相关"><a href="#相关" class="headerlink" title="相关"></a>相关</h2><p>相关既指与自己的研究领域甚至更广阔的领域相关（而不是与之无关的研究问题），也指与科学知识、所在行业的政策和未来发展趋势相关。</p>
+<p>狭义地说，这种相关性是指，如果我们身处一个研究领域，不能把与本研究领域无关的研究作为研究问题，除非跳到另外一个研究领域。例如，假设我们注册在工科某一级学科读研，那么不能把文科的某一级学科的问题作为研究问题，除非我们换到文科院系去拿学位。说的更直白一点，假定我们拿了一项自然科学基金，我们就不能用之研究社会科学问题。假定我们在一个研究小组，享受该研究小组的研究资源，我们就不能用之去研究与该研究小组兴趣点无关的东西。</p>
+<p>广义地说，这种相关是指，我们的研究问题应该是人们关心的问题的一个节点，不能游离在与现有或未来研究无关的问题之中。从这种意义上看，相关性与上面提到的有趣有一定的意义重复。</p>
+<p>如果从有用性上去理解相关，那么相关性是指，解决的研究问题对方向、学科、领域甚至社会有一定的价值。有的只是一种有限的价值，有的具有深远的价值，有的具有广泛的价值。例如，冯·诺依曼提出的博弈论在国际关系、金融、政治、军事等领域都有应用。当然，我们不能使用基础研究不必强调有用来反驳这一相关性要求，因为我们所指的基础研究不必有用，是指不必追求在当前带来实际经济利益，而不是指不必有任何潜在价值。</p>
+<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><ol>
+<li>Hulley S, Cummings S, Browner W, et al. Designing clinical research. 3rd ed. Philadelphia (PA): Lippincott Williams and Wilkins; 2007</li>
+<li>Patricia Farrugia, Research questions, hypotheses and objectives, Can J Surg. 2010 Aug; 53(4): 278–281.  <span class="exturl" data-url="aHR0cHM6Ly93d3cubmNiaS5ubG0ubmloLmdvdi9wbWMvYXJ0aWNsZXMvUE1DMjkxMjAxOS8=">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2912019/<i class="fa fa-external-link-alt"></i></span></li>
+<li>Shona McCombes，Developing strong research questions，April 16, 2019  Revised on March 22, 2021. <span class="exturl" data-url="aHR0cHM6Ly93d3cuc2NyaWJici5jb20vcmVzZWFyY2gtcHJvY2Vzcy9yZXNlYXJjaC1xdWVzdGlvbnMv">https://www.scribbr.com/research-process/research-questions/<i class="fa fa-external-link-alt"></i></span></li>
+<li>David B. Resnik，What Is Ethics in Research &amp; Why Is It Important? National Institute of Enviromental Health,   December 23, 2020，<span class="exturl" data-url="aHR0cHM6Ly93d3cubmllaHMubmloLmdvdi9yZXNlYXJjaC9yZXNvdXJjZXMvYmlvZXRoaWNzL3doYXRpcy9pbmRleC5jZm0=">https://www.niehs.nih.gov/research/resources/bioethics/whatis/index.cfm<i class="fa fa-external-link-alt"></i></span></li>
+</ol>
+<h1 id="其他资料"><a href="#其他资料" class="headerlink" title="其他资料"></a>其他资料</h1><ul>
+<li><i class="fas fa-star"></i><span class="exturl" data-url="aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvaTdVSk1VNElHbE12dDh5S0NzQkpHQQ==">如何书写与评价选题报告 | 学位与写作<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9vcmlnaW5hbHBoZC5jb20vaG93LXRvLWNob29zZS1hLXRvcGljLWZvci15b3VyLXBoZC10aGVzaXMv">How to Choose a Topic for Your PhD Thesis | Original PhD<i class="fa fa-external-link-alt"></i></span>  </li>
+<li><span class="exturl" data-url="aHR0cHM6Ly90b21wcm9mLnN0YW5mb3JkLmVkdS9wb3N0aW5nLzE0ODI=">Choosing a Dissertation Topic | Stanford University<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+]]></content>
+      <categories>
+        <category>Research</category>
+      </categories>
+      <tags>
+        <tag>Study</tag>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -771,205 +1048,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Academic Jokes</title>
-    <url>/posts/e178610c/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><ul>
-<li>1994年，几个来自 New York University 的生物学家声称发明了微积分<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="Tai M M. A mathematical model for the determination of total area under glucose tolerance and other metabolic curves[J]. Diabetes care, 1994, 17(2): 152-154.">[1]</span></a></sup>。</li>
-</ul>
-<ul>
-<li><p><span class="exturl" data-url="aHR0cHM6Ly9zaGl0bXlyZXZpZXdlcnNzYXkudHVtYmxyLmNvbS8=">ShitMyReviewersSay (Collecting the finest real specimens of reviewer comments since 1456)<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-<li><p><span class="exturl" data-url="aHR0cDovL3BoZGNvbWljcy5jb20v">PhD Comics<i class="fa fa-external-link-alt"></i></span>, <span class="exturl" data-url="aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3BoZGNvbWljcw==">Facebook page<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-</ul>
-<span id="more"></span>
-
-<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">Tai M M. A mathematical model for the determination of total area under glucose tolerance and other metabolic curves[J]. Diabetes care, 1994, 17(2): 152-154.<a href="#fnref:1" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
-      <categories>
-        <category>Research</category>
-      </categories>
-      <tags>
-        <tag>Joke</tag>
-        <tag>Scientist</tag>
-        <tag>History</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>About Edward</title>
-    <url>/posts/b8066abd/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><center><a href="https://lichuang.me/about/">Click here</a></center>
-
-]]></content>
-  </entry>
-  <entry>
-    <title>A guide to Academic Oral Presentations</title>
-    <url>/posts/275d1822/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>The ability to undertake an oral presentation is a valuable skill for assessment tasks, interviews and your future career. This skill can be developed by everyone and is not reserved to those who are “naturally” confident at public speaking. This guide will provide you with some tips and techniques for ensuring your presentation is well planned, structured and delivered.</p>
-<span id="more"></span>
-
-<h1 id="Plan"><a href="#Plan" class="headerlink" title="Plan"></a>Plan</h1><h2 id="Analyse-your-audience"><a href="#Analyse-your-audience" class="headerlink" title="Analyse your audience"></a>Analyse your audience</h2><p>第一步，也是最重要的一步，了解听众，明确需求。</p>
-<p>Some questions to consider include:</p>
-<ol>
-<li>Who is your audience?</li>
-<li>What do they know about the subject? What terminology will they know?</li>
-<li>What do they want to know?</li>
-<li>How can you engage this audience? What matters to them?</li>
-</ol>
-<h2 id="Determine-the-purpose"><a href="#Determine-the-purpose" class="headerlink" title="Determine the purpose"></a>Determine the purpose</h2><p>The goal of presentation slides remains unchanged: provide just the right amount of information in a precise and clean way so that the audience can learn as much as possible.</p>
-<p>The purpose of a presentation may be to provide information, persuade the audience to accept a point of view, or encourage them to take action. Knowing your purpose will help you decide what to include and how to structure your presentation.</p>
-<h2 id="Select-effective-information"><a href="#Select-effective-information" class="headerlink" title="Select effective information"></a>Select effective information</h2><ol>
-<li>What kind of information will best support the presentation?</li>
-<li>What kind of information will appeal to the audience?</li>
-<li>Are there some useful examples or case studies to illustrate an idea?</li>
-</ol>
-<h1 id="Prepare"><a href="#Prepare" class="headerlink" title="Prepare"></a>Prepare</h1><p>Structure provides a framework for your presentation.</p>
-<ol>
-<li>Introduction - an overview of the issue and the main ideas to be considered. Explain the issue, the background and key terms.</li>
-<li>Body - the main ideas, reasoning, evidence and explanation provided. Avoid overloading your audience with too much information. Categorise your information into key ideas.</li>
-<li>Conclusion - a summary of what you have considered with repetition of key ideas.</li>
-</ol>
-<p>Consider how long you can spend on each section, given the time available.</p>
-<h2 id="Select-appropriate-visual-aids"><a href="#Select-appropriate-visual-aids" class="headerlink" title="Select appropriate visual aids"></a>Select appropriate visual aids</h2><p>Remember that the visuals are not the presentation. Their purpose is to enhance what you are saying by providing a visual link.</p>
-<h2 id="制作Slide的注意事项"><a href="#制作Slide的注意事项" class="headerlink" title="制作Slide的注意事项"></a>制作Slide的注意事项</h2><blockquote>
-<p>Slides的评价标准：信息准确；易读。</p>
-<p>参考资料：<em>Han D. Creating meaningful slide presentations[J]. MRS Bulletin, 2020, 45(10): 870-870.</em></p>
-</blockquote>
-<ol>
-<li>格式一致且准确<ol>
-<li>白底黑字红色强调是最简单无误的配色方案</li>
-<li>字体建议使用sans-serif（如Calibri, Arial），字号不小于18pt</li>
-</ol>
-</li>
-<li>slide标题阐述结果<ol>
-<li>“Effect of atmospheric pressure on boiling point of liquid A” VS “Increasing atmospheric pressure leads to a higher boiling point of liquid A”</li>
-</ol>
-</li>
-<li>使用宽屏幕slide<ol>
-<li>choose 16:9 rather 4:3</li>
-</ol>
-</li>
-<li>图表，讲几个放几个</li>
-<li>慎用ppt动画和切换效果<ol>
-<li>When presenting information sequentially, use two slides instead of using animation in one slide.</li>
-</ol>
-</li>
-<li>在Q&amp;A环节，停留在结论slide</li>
-</ol>
-<h1 id="Practise-and-present"><a href="#Practise-and-present" class="headerlink" title="Practise and present"></a>Practise and present</h1><p>The key to a good delivery is to practise your speech and your body language. Here are some tips to assist you:</p>
-<ol>
-<li>Practise your presentation several times, aloud and standing up.</li>
-<li>Time the presentation. If it is too long, remove and/or simplify information, rather than speaking more quickly.</li>
-<li>Stand straight with your feet “planted” in the ground. This will eliminate swaying and nervous movements in the legs. You can move, but do so with purpose.</li>
-<li>Establish a “resting place” for your hands at the front of your body, such as cupped at waist level.</li>
-<li>Eye contact is a powerful means to engage your audience so look at your audience when you speak.</li>
-<li>Speak more slowly and clearly than you normally would. Provide emphasis through voice intonation, volume and pausing.</li>
-</ol>
-<h1 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h1><p><span class="exturl" data-url="aHR0cHM6Ly93d3cubW9uYXNoLmVkdS9ybG8vcXVpY2stc3R1ZHktZ3VpZGVzL2EtZ3VpZGUtdG8tb3JhbC1wcmVzZW50YXRpb25z">A guide to oral presentations, Monash University<i class="fa fa-external-link-alt"></i></span> </p>
-<p><span class="exturl" data-url="aHR0cDovL3d3dzQuY2Flcy5oa3UuaGsvZXBjL3ByZXNlbnRhdGlvbi8=">Oral presentation, HKU<i class="fa fa-external-link-alt"></i></span> </p>
-]]></content>
-      <categories>
-        <category>Research</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-        <tag>Speech</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Brain Game | Challenge your Mind</title>
-    <url>/posts/e76f6c15/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="一句话拯救一百人"><a href="#一句话拯救一百人" class="headerlink" title="一句话拯救一百人"></a>一句话拯救一百人</h1><blockquote>
-<p>参考：<span class="exturl" data-url="aHR0cHM6Ly9lZC50ZWQuY29tL2xlc3NvbnMvdGhlLWZhbW91c2x5LWRpZmZpY3VsdC1ncmVlbi1leWVkLWxvZ2ljLXB1enpsZS1hbGV4LWdlbmRsZXI=">Can you solve the famously difficult green-eyed logic puzzle? - Alex Gendler<i class="fa fa-external-link-alt"></i></span> </p>
-</blockquote>
-<p>想象在一个岛上一个疯狂的独裁者囚禁了100个完美的逻辑家，他们没办法逃离，除了<strong>一个奇怪的规则</strong>，在晚上任何囚犯都可以请求警卫放他走，若他有<strong>绿眼睛</strong>，他就会被释放，若不是，他就会被扔进火山口，实际上，那一百个逻辑家都有绿眼睛，但他们从出生起就住在那儿，而且独裁者确保他们不会知道自己眼睛什么颜色，那儿也没有反光表面，所有水都装在不透明的容器里，而且最重要的是他们不能互相交流，尽管他们每天早上点人数时都能看到彼此，不仅如此，他们都知道，若没有绝对的把握会成功，没人会尝试离开。</p>
-<p>在人权组织的压力下，那个独裁者勉强允许你访问那个岛，并且和犯人说话时要遵从以下条件：</p>
-<ol>
-<li><p>你只可陈述一个声明</p>
-</li>
-<li><p>你不能告诉他们新的信息</p>
-</li>
-</ol>
-<p>你说什么才能帮助这些犯人获得自由而不激怒这位独裁者呢？</p>
-<p>经过深思熟虑……</p>
-<span id="more"></span>
-
-<details>
-<summary>你告诉人群：</summary>
-<font color='red'>
-你们当中至少有一个人有绿眼睛。
-    </font>
-</details>
-
-<p>独裁者持有怀疑的态度，但还是告诉自己你的言论不会改变任何事情。</p>
-<p>你离开了，岛上的生活依然照旧，但在你访问后的第一百天早上所有的犯人都不见了。</p>
-<p>每一个人都在前天晚上要求离开，所以你是如何智胜独裁者的？</p>
-<details>
-<summary>解析</summary>
-<font color='red'>
-<p>意识到犯人的数量不固定也许能帮到你，我们来把这个问题简化一下。</p>
-<p>假设只有两个犯人，小红和小明，彼此都能看到对方的绿眼睛，他们心里清楚 也许只有对方有绿眼睛。</p>
-<p>所以第一天，谁也没轻举妄动。但当他们第二天早上又看到对方时，他们得到了新的信息。小红意识到如果小明看到了一个“非绿眼睛”的人在他旁边，他就知道自己拥有绿眼睛，第一天就会离开，小明也同一时间想到了同样的事情，两个人都在等这个事实，告诉她或他的眼睛一定是绿色的，之后的那天早上，他俩都走了。</p>
-<p>现在想象第三个犯人，小红小明和小刚各看到两个绿眼睛的人，但不确定另外两人是不是也看到了，一个或者两个绿眼睛的人，他们第一天也和之前一样等着，到了第二天，他们还是不确定，小刚想：如果我没有绿眼睛，小红和小明只是看着彼此，那他们第二天早上就会都走了，但当他第三天早上看到另外两人时，他意识到那两人肯定也在观察他，小红和小明在想同样的事情，然后他们三人在第三天晚上都走了。</p>
-<p>用这种归纳性推理，我们可以看出这种模式会一直重复，不论犯人的数量多少，关键点是公识的概念，来自哲学家David Lewis的创造，新知识不在你的陈述里，而在于你的声明同时陈述给了所有人，现在呢，每个犯人除了知道他们中至少一个有绿眼睛，也知道其他人都在观察记录，他们能看到的所有绿眼睛的人，而且所有人都知道每个人都是这么想的，每个犯人不知道的是，他们自己是不是别人观察记录的，绿眼睛的人中的一员，直到和犯人数量同等的夜数过去了才能确定，当然啦，你也可以让犯人早98天离开这岛，告诉他们至少99个人有绿眼睛，但当疯狂独裁者在的时候，你最好做出明智的选择。</p>
-</font>
-</details>
-
-
-
-<h1 id="通往天堂的门"><a href="#通往天堂的门" class="headerlink" title="通往天堂的门"></a>通往天堂的门</h1><p>Question：如果有一天，你醒来却发现自己在一间陌生的房间里，房间里有两个门，各自有两个守卫，一个通向极乐世界，另外一个通向地狱，而两个守卫一个只会说真话，一个一会说假话。现在你只能问他们其中一个人一个问题（你并不知道谁会说真话谁会说假话），你要怎么问才会知道哪个门是通往哪的。</p>
-<details>
-<summary>Answer</summary>
-<font color='red'>
-<p>A1：说谎话的人后面是地狱之门吗？</p>
-<p>A2：假如我问另外一个守卫通往地狱的门在哪里，他会指哪道门？</p>
-    </font>
-</details>
-
-
-
-<h1 id="海盗分宝石"><a href="#海盗分宝石" class="headerlink" title="海盗分宝石"></a>海盗分宝石</h1><p>五个海盗抢到了100颗宝石，每一颗都一样大小和价值连城。他们决定这么分：抽签决定自己的号码（1、2、3、4、5）。</p>
-<p>首先，由1号提出分配方案，然后大家表决，当且仅当超过半数的人同意时，按照他的方案进行分配，否则将被扔进大海喂鲨鱼。</p>
-<p>如果1号死后，再由2号提出分配方案，然后剩下的4人进行表决，当且仅当超过半数的人同意时，按照他的方案进行分配，否则将被扔入大海喂鲨鱼。依此类推。</p>
-<p>条件：每个海盗都是很聪明的人，都能很理智地做出判断，从而做出选择。</p>
-<p>问题：第一个海盗提出怎样的分配方案才能使自己的收益最大化？</p>
-<details>
-<summary>解答</summary>
-<font color='red'>
-<p>1. 假设1、2、3、号死掉了，那么只剩下4号和5号，这时候无论4号怎么分，哪怕给5号100颗宝石，5号都不一定同意（因为4号死了，所有宝石都归他，他仍然可以获得100个），所以4号必定得让3号活下来才能保证自己的生命，且不管3号怎么分，4号都会同意；</p>
-<p>2. 假设1、2号死了,3号来分的话,他肯定分自己100个,4号和5号都0个,因为3号自己肯定同意,4号也必须同意,就有大于50%的选票。所以3号必定是希望2号死掉的，这样他才能保证自己利益最大化。所以无论2号提出什么，3号都会反对。</p>
-<p>3. 再来推2号。假设1号死了，3号必定反对他，那么2号只能贿赂4号和5号。前面说过，3号分的话，4、5号只有0个。那么2号只要给他们1人1个,4号和5号就都得同意。所以2号会这么分:98、0、1、1。所以在这种情况下，除非1号愿意给自己99颗以上的宝石，否则2号一定会反对1号。</p>
-<p>4. 再来推1号。他不会收买2号,那起码要给2号99个才行,他肯定会收买3号,因为给3号1个，3号就会同意1号的分法,3号要是不同意,1号死了2号分的话,3号只能得到0个。此时，1号只要再收买4号和5号中任何一人就行了，给这个人两个,他就会同意（否则只能得到1个或0个，或者死亡）。 所以，1号的分配方案为:97、0、1、2、0 或97、0、1、0、2。</p>
-    </font>
-</details>
-
-
-<h1 id="蒙提霍尔问题"><a href="#蒙提霍尔问题" class="headerlink" title="蒙提霍尔问题"></a>蒙提霍尔问题</h1><img data-src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monty_open_door.svg/1920px-Monty_open_door.svg.png' width='40%'>
-
-<p>这个游戏的玩法是：</p>
-<p>参赛者会看见三扇关闭了的门，其中一扇的后面有一辆汽车或者是奖品，选中后面有车的那扇门就可以赢得该汽车或奖品，而另外两扇门后面则各藏有一只山羊。</p>
-<p>当参赛者选定了一扇门，但未去开启它的时候，知道门后情形的节目主持人会开启剩下两扇门的其中一扇，露出其中一只山羊。</p>
-<p>主持人其后会问参赛者要不要换另一扇仍然关上的门。</p>
-<p>问题是：换另一扇门会否增加参赛者赢得汽车的概率？</p>
-<p><font color='red'>如果严格按照上述的条件的话，答案是会。换门的话，赢得汽车的概率是2/3。</font></p>
-<p>这条问题亦被叫做蒙提霍尔悖论：虽然该问题的答案在逻辑上并不自相矛盾，但十分违反直觉。这问题曾引起一阵热烈的讨论。</p>
-<h1 id="数字华容道"><a href="#数字华容道" class="headerlink" title="数字华容道"></a>数字华容道</h1><p>数字华容道有解的前提：</p>
-<ol>
-<li><font color='red'>若格子列数为奇数，则逆序数必须为偶数；</font></li>
-<li><font color='red'>若格子列数为偶数，且逆序数为偶数，则当前空格所在行数与初始空格所在行数的差为偶数；</font></li>
-<li><font color='red'>若格子列数为偶数，且逆序数为奇数，则当前空格所在行数与初始空格所在行数的差为奇数。</font></li>
-</ol>
-]]></content>
-      <categories>
-        <category>Game</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-        <tag>锻炼</tag>
-        <tag>Brain</tag>
-        <tag>Funny</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>About Consulting Industry</title>
     <url>/posts/82164401/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/consulting%20industry%20pic1.jpg?raw=true' width='80%'>
@@ -992,25 +1070,6 @@
         <tag>Management</tag>
         <tag>Career</tag>
         <tag>Job Hunting</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>粟耀莹·《从加州理工到高盛银行》</title>
-    <url>/posts/1f972e30/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>原文：<span class="exturl" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC90b3BpYy8xMDU0OTAyLw==">粟耀莹  从加州理工到高盛银行<i class="fa fa-external-link-alt"></i></span> </p>
-<p>粟耀莹的母亲是洪冬桂，台湾立法委员；父亲是粟明德，白崇禧义子，曾任蒋经国秘书；粟家与白家世交。</p>
-<span id="more"></span>
-
-<blockquote>
-<p>“我从来没有想要教书或作研究，我去加州理工，这个在世界上诺贝尔奖得主密度最大的地方，是为了接受其熏陶，以悟出如何得到诺贝尔奖的道理，并对我当年的偶象Feynman费因曼(著名的物理诺贝尔奖得主，著有Surely You’re Joking，Mr.Feynman 一书)生前待过最久的地方，进行模拜。“</p>
-</blockquote>
-<p>因为研究生课程免修考试通过，因此粟有时间多浏览物理领域的前沿内容（也曾经拜访叶乃裳教授），之后经过多方了解，认为物理与生物交叉的方向前景广阔，值得研究。但因为自己之前没有生物基础，所以就必须去生物系选修相关的课程，最初受到冷眼旁观，但是之后自己取得了很好的成绩，逐步得到各种人的赞赏。在科学之外，她发现还有一个宽广而多彩的世界，商业是一个足可与科学抗衡的行业。 </p>
-]]></content>
-      <categories>
-        <category>Comment</category>
-      </categories>
-      <tags>
-        <tag>Comment</tag>
       </tags>
   </entry>
   <entry>
@@ -1047,65 +1106,6 @@
         <tag>Artificial Intelligence</tag>
         <tag>Machine Learning</tag>
         <tag>Data Science</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>How to Choose a Dissertation Topic For Your Doctoral Degree</title>
-    <url>/posts/5bbeeda3/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="选题的优雅法则"><a href="#选题的优雅法则" class="headerlink" title="选题的优雅法则"></a>选题的优雅法则</h1><blockquote>
-<p>转载自“学位与写作”微信公众号</p>
-</blockquote>
-<p>提出研究问题(简称选题)、形成研究假设、明确研究目标、完成研究过程、得出研究结果、形成研究结论、回答研究问题是学术研究的基本过程。优雅法则是可用于第一个过程——提出研究问题——时可参考的法则。</p>
-<p>这里，优雅是把FINER当作一个单词的直译。实际上，FINER是缩写语，是Feasible, Interesting,  Novel, Ethical和Relevant的首写字母缩写。帕特里夏·法鲁吉亚（Patricia Farrugia，2010）指出，优雅法则（FINER criteria）是赫利等人（Hulley et al 2007）提出来的，其意思是，研究问题要求满足五个法则：可行、有趣、新颖、符合规范和具有相关性（ 英文为Feasible, Interesting,  Novel, Ethical and Relevant）。</p>
-<span id="more"></span>
-
-<h2 id="可行"><a href="#可行" class="headerlink" title="可行"></a>可行</h2><p>研究问题的研究必须可行，否则就没有意义。这就需要明确可行性问题。所谓可行，就是能对研究问题开展研究，且在许可的条件下实现研究目标。</p>
-<p>首先，研究规模可控。规模可控是指为了开展研究，需要调用的人力、物力和财力等是在可控制的范围。以研究人类行为为例，我们不可能动员全球七十亿人作为样本。又如，假如我们只能从额度限定为百万量级的基金获得资助，那么我们就不能去研究预算高达10亿量级的问题。</p>
-<p>第二，时间即研究周期可控。假设允许我们的研究周期只有五年左右（如允许读博的期限是五年），我们提出的研究问题的预计研究周期就不能远远超过五年。举例而言，哈雷彗星是每76.1年回归一次，上一次回归是在1986年，而下一次回归将出现在2061年。于是，2021年入学的博士生，就不能把下一次回归时哈雷彗星的直接观测研究作为博士论文期间的研究问题，因为近五年内哈雷彗星不会回归。</p>
-<p>第三，拥有必要的研究基础。牛顿时代不可能把现在的火箭发动机作为研究内容，因为当时不具备研究这种发动机的相关知识，例如物理学知识、数学知识和工程科学知识。研究基础包括通用知识（如基本的数学知识）、专业知识和其他人的研究基础。正因为如此，为了提出研究问题，我们必须经历了本科和研究生的课程学习与训练，掌握了必要的通用知识和专业知识，而且还需要阅读大量早期和近期文献。通过这些学习和调研，才能明确已有方法、思路和结果等能否作为解决自己提出的问题的研究基础。</p>
-<p>第四，需要的技术手段成熟或可建立。假如我们需要观测粒子以接近光速进行碰撞，那么就需要粒子加速器。粒子加速器就是研究这类粒子碰撞的技术手段。如果没有，或者在有限时间内无法建成，那么在该有限时间内就不能观测这里粒子碰撞。</p>
-<p>最后，在可管理范围。例如，如果要提出一个需要五名博士生一起参与才能完成的研究问题，那么所在团队就需要具有招收博士生的条件。</p>
-<h2 id="有趣"><a href="#有趣" class="headerlink" title="有趣"></a>有趣</h2><p>回答提出的问题必须在研究者、同行和学术界看来是有趣的。这里的有趣不能简单理解为好玩，而是有其深刻的含义，包含重要、有价值等意义。</p>
-<p>首先，研究者有兴趣驱动。好奇心是让研究者寻找研究问题的答案的动力，这样才会让人孜孜不倦、锲而不舍地钻研问题，沉浸在默默的探索之中。这就要求选题本身存在满足这种好奇心的答案，至少假定存在。例如，土卫二存在生命吗？肯定的答案将是激动人心的。有什么比成为地外生命的第一个发现者更让研究者废寝忘食呢。</p>
-<p>其次，同行将来会对研究发现或结论感兴趣。研究结论要么将回答同行本来关心的问题或作为同行研究的起点，要么给同行提供值得借鉴的方法、结果或结论，要么启发同行找到新的方向或自己问题的思路和解决方案。</p>
-<p>再者，解决的研究问题引起学术界的兴趣。仅仅只有自己、个别同行对我们的研究问题感兴趣是不够的。这就要求研究问题的有趣性具有一定的普适性。</p>
-<h2 id="新颖"><a href="#新颖" class="headerlink" title="新颖"></a>新颖</h2><p>新颖的一种说法是创新。新颖也是第二条有趣的因素之一。作为研究问题，旧的（已经确证的）东西并不需要进行再次研究，而需要解决过去未曾解决的问题。</p>
-<p>作为新的研究问题，或者将提出原创知识，或者将完善现有知识，或者将拓展现有知识的边界。以原创知识为例，牛顿或莱布尼兹发明的微积分理论在当时带来的是一种全新的数学工具，爱因斯坦提出的相对论理论将物理学推到了新的高度，导致对宇宙产生全新的认识。</p>
-<p>提出的问题要么可以确证一个已有的发现，要么否定一个已有的发现，要么能拓展已有的发现。</p>
-<p>为了提出新颖的问题，需要再次提及第一条指出的文献研究。这里，阅读文献的目的是排除已经完成的研究以避免重复本已完成的研究问题，找出遗留的问题作为新问题，或者启发出新的研究问题。这就是为什么选题报告需要有很大一部分用于介绍文献研究。</p>
-<p>以研究生学位论文工作为例，我们在中期阶段需要书写选题报告。用口语说，就是开题。开题的前提是我们经过对指定的背景问题中的文献调研，找到了研究空白，确立了新的未曾研究或者尚有遗缺的研究问题。</p>
-<p>当然，也不能把新颖作为开题的唯一理由，新颖是有约束的，就是那种可明确研究目标、提出研究思路和预计能给出最终答案的新问题。无法给出研究目标和思路的问题，再新颖也无意义。例如，提出利用暗能量作为驱动宇宙飞船遨游宇宙边缘的研究问题无比新颖，但问题是，我们能提出最终的研究目标和研究思路并给出最终答案吗？</p>
-<p>我们不能仅仅为了新颖，让问题太抽象或含糊，或让问题太简单。正如苏珊娜·麦康姆所指出的，研究问题必须具体到足以彻底地给与回答，复杂到足以将答案放进一篇论文或学位论文中（Shona McCombes，2019）。也就是说，在追求新颖的同时，还要满足学术期刊或学位论文的高标准（high standard）。</p>
-<h2 id="符合规范"><a href="#符合规范" class="headerlink" title="符合规范"></a>符合规范</h2><p>符合规范在不同学科定义不一样。在生命科学领域，符合规范可能是指符合伦理，比如说不能提出一个违背伦理的研究问题（如带有残忍性的动物活体研究）。在自然科学领域，符合规范是指研究结果可靠、可重复或可证伪等。当然，符合规范远不止这些。</p>
-<p>作为提出的研究问题，我们需要问，我们的研究对象（如动物）、我们的研究行为、研究过程、我们使用研究工具和我们的研究结果是否符合规范。以研究行为为例，我们不能使用危害健康的研究工具来开展研究吧。又以研究过程为例，我们不能以破坏大量居民的生存环境为代价完成研究吧。再以研究结果为例，我们不能研究那种随随便便就可以毁灭宇宙的东西吧。最后以研究结论为例，我们不能研究导致被误解为歧视某种人群或性别的问题吧。</p>
-<p>大卫·雷斯尼克（David B. Resnik，2020）针对健康环境领域，较完整地介绍了研究规范问题（其它领域也值得参考），以下摘录其中的5条要求：</p>
-<p>首先，规范促进研究的目标，如知识、真理和避免错误。例如，禁止捏造、伪造或歪曲研究数据可以促进真相，减少错误。</p>
-<p>其次，由于研究通常涉及不同学科和机构中许多不同人之间的大量合作与协调，道德标准促进了对合作工作至关重要的价值观，如信任、问责、相互尊重和公平。例如，研究中的许多道德规范，如作者指南、版权和专利政策、数据共享政策和同行评审中的保密规则，旨在保护知识产权利益，同时鼓励合作。大多数研究人员希望他们的贡献得到认可，不希望他们的想法被窃取或过早披露。</p>
-<p>第三，许多伦理规范有助于确保研究人员对公众负责。例如，关于研究不当行为、利益冲突、人类受试者保护以及动物护理和使用的联邦政策是必要的，以确保由公共资金资助的研究人员能够对公众负责。</p>
-<p>第四，研究中的伦理规范也有助于建立公众对研究的支持。如果人们能够信任研究的质量和完整性，他们更有可能资助一个研究项目。</p>
-<p>最后，许多研究规范促进了各种其他重要的道德和社会价值，如社会责任、人权、动物福利、遵守法律以及公共健康和安全。研究中的伦理失误会严重伤害人类和动物受试者、学生和公众。例如，在临床试验中编造数据的研究人员可能会伤害甚至杀死患者，而不遵守与辐射或生物安全有关的法规和指南的研究人员可能会危及其健康和安全或工作人员和学生的健康和安全。</p>
-<h2 id="相关"><a href="#相关" class="headerlink" title="相关"></a>相关</h2><p>相关既指与自己的研究领域甚至更广阔的领域相关（而不是与之无关的研究问题），也指与科学知识、所在行业的政策和未来发展趋势相关。</p>
-<p>狭义地说，这种相关性是指，如果我们身处一个研究领域，不能把与本研究领域无关的研究作为研究问题，除非跳到另外一个研究领域。例如，假设我们注册在工科某一级学科读研，那么不能把文科的某一级学科的问题作为研究问题，除非我们换到文科院系去拿学位。说的更直白一点，假定我们拿了一项自然科学基金，我们就不能用之研究社会科学问题。假定我们在一个研究小组，享受该研究小组的研究资源，我们就不能用之去研究与该研究小组兴趣点无关的东西。</p>
-<p>广义地说，这种相关是指，我们的研究问题应该是人们关心的问题的一个节点，不能游离在与现有或未来研究无关的问题之中。从这种意义上看，相关性与上面提到的有趣有一定的意义重复。</p>
-<p>如果从有用性上去理解相关，那么相关性是指，解决的研究问题对方向、学科、领域甚至社会有一定的价值。有的只是一种有限的价值，有的具有深远的价值，有的具有广泛的价值。例如，冯·诺依曼提出的博弈论在国际关系、金融、政治、军事等领域都有应用。当然，我们不能使用基础研究不必强调有用来反驳这一相关性要求，因为我们所指的基础研究不必有用，是指不必追求在当前带来实际经济利益，而不是指不必有任何潜在价值。</p>
-<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><ol>
-<li>Hulley S, Cummings S, Browner W, et al. Designing clinical research. 3rd ed. Philadelphia (PA): Lippincott Williams and Wilkins; 2007</li>
-<li>Patricia Farrugia, Research questions, hypotheses and objectives, Can J Surg. 2010 Aug; 53(4): 278–281.  <span class="exturl" data-url="aHR0cHM6Ly93d3cubmNiaS5ubG0ubmloLmdvdi9wbWMvYXJ0aWNsZXMvUE1DMjkxMjAxOS8=">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2912019/<i class="fa fa-external-link-alt"></i></span></li>
-<li>Shona McCombes，Developing strong research questions，April 16, 2019  Revised on March 22, 2021. <span class="exturl" data-url="aHR0cHM6Ly93d3cuc2NyaWJici5jb20vcmVzZWFyY2gtcHJvY2Vzcy9yZXNlYXJjaC1xdWVzdGlvbnMv">https://www.scribbr.com/research-process/research-questions/<i class="fa fa-external-link-alt"></i></span></li>
-<li>David B. Resnik，What Is Ethics in Research &amp; Why Is It Important? National Institute of Enviromental Health,   December 23, 2020，<span class="exturl" data-url="aHR0cHM6Ly93d3cubmllaHMubmloLmdvdi9yZXNlYXJjaC9yZXNvdXJjZXMvYmlvZXRoaWNzL3doYXRpcy9pbmRleC5jZm0=">https://www.niehs.nih.gov/research/resources/bioethics/whatis/index.cfm<i class="fa fa-external-link-alt"></i></span></li>
-</ol>
-<h1 id="其他资料"><a href="#其他资料" class="headerlink" title="其他资料"></a>其他资料</h1><ul>
-<li><i class="fas fa-star"></i><span class="exturl" data-url="aHR0cHM6Ly9tcC53ZWl4aW4ucXEuY29tL3MvaTdVSk1VNElHbE12dDh5S0NzQkpHQQ==">如何书写与评价选题报告 | 学位与写作<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly9vcmlnaW5hbHBoZC5jb20vaG93LXRvLWNob29zZS1hLXRvcGljLWZvci15b3VyLXBoZC10aGVzaXMv">How to Choose a Topic for Your PhD Thesis | Original PhD<i class="fa fa-external-link-alt"></i></span>  </li>
-<li><span class="exturl" data-url="aHR0cHM6Ly90b21wcm9mLnN0YW5mb3JkLmVkdS9wb3N0aW5nLzE0ODI=">Choosing a Dissertation Topic | Stanford University<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-]]></content>
-      <categories>
-        <category>Research</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-        <tag>Study</tag>
       </tags>
   </entry>
   <entry>
@@ -1209,27 +1209,6 @@
       <tags>
         <tag>Skill</tag>
         <tag>Html</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Job Hunting Tips</title>
-    <url>/posts/31b5cd/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="求职网站"><a href="#求职网站" class="headerlink" title="求职网站"></a>求职网站</h2><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw==">LinkedIn<i class="fa fa-external-link-alt"></i></span> </li>
-<li>BOSS 直聘</li>
-</ul>
-<span id="more"></span>
-
-<h2 id="Salary"><a href="#Salary" class="headerlink" title="Salary"></a>Salary</h2><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9PamFLN25tQ1lDbw==">如何談薪水 Like A Pro<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<p>未完待续…</p>
-]]></content>
-      <categories>
-        <category>Experience</category>
-      </categories>
-      <tags>
-        <tag>Job Hunting</tag>
       </tags>
   </entry>
   <entry>
@@ -1401,6 +1380,27 @@
       </tags>
   </entry>
   <entry>
+    <title>Job Hunting Tips</title>
+    <url>/posts/31b5cd/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="求职网站"><a href="#求职网站" class="headerlink" title="求职网站"></a>求职网站</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw==">LinkedIn<i class="fa fa-external-link-alt"></i></span> </li>
+<li>BOSS 直聘</li>
+</ul>
+<span id="more"></span>
+
+<h2 id="Salary"><a href="#Salary" class="headerlink" title="Salary"></a>Salary</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9PamFLN25tQ1lDbw==">如何談薪水 Like A Pro<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<p>未完待续…</p>
+]]></content>
+      <categories>
+        <category>Experience</category>
+      </categories>
+      <tags>
+        <tag>Job Hunting</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>胜者即是正义 Cut</title>
     <url>/posts/40ca55ab/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><iframe src="//player.bilibili.com/player.html?aid=33000653&bvid=BV1pW411U7R9&cid=57762427&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
@@ -1501,54 +1501,6 @@ Hello world.
       </tags>
   </entry>
   <entry>
-    <title>英剧《Peaky Blinders》</title>
-    <url>/posts/3efbd27d/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>中文译名：浴血黑帮</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/thomas_shelby.jpg' width='80%'>
-
-<p>Thomas Shelby 性格特点中值得借鉴的部分：</p>
-<ol>
-<li><strong>解决问题</strong></li>
-<li><strong>距离感</strong></li>
-<li><strong>节奏感</strong></li>
-<li><strong>控制情绪</strong></li>
-</ol>
-<p>推荐资料：</p>
-<ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9yTGF0YVlZQzRvTQ==">【浴血黑帮】人物篇 | 凡人皆有一死，神除外 | Thomas Shelby<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-]]></content>
-      <categories>
-        <category>电视剧</category>
-      </categories>
-      <tags>
-        <tag>电视剧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Quantitative Analysis</title>
-    <url>/posts/59160644/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong Password, Try Later | 抱歉, 这个密码看着不太对, 请再试试." data-whm="Error | 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="420cafb08114cc20cff5f24b2f6efb06bd947ede0b9f14ee41f8e538eefbcaca">24014bcf5611e5fe61cbe1a03a36998a99d5dd0feffd4d84146bd514e005d0983aa46a3d68cd34e2b5446d9692f85f980dad1c3decf117f735a1d2003d73b28d3aa4b1c34a779aa3e927f117547a2a871af939658c399256dbae76880a15704c515b03633dbbb8ea540ec1494dda30140ba964c201f0fc89fe7773bcd078d666cacc63b9ca382262da67f34f958e10d0e30e5df12b5c855ace0b61fde4e62693971ab6b1146edbe43e5e4778976c2f3bfd188cf5305cac751ac99e3e7b242b1a7aba544d8f5da20aed90c2545eb8ce2cc77ae90ce73b02e2a29fd1deabdde1d517d34c9715d9ab75b828ea743ca9f7f784f2c35a566b1ba95815c515b9341611707e0badfdb83997e3fa534efe2a506a8f5815b161204dd7cdc971d32ce13b6023e11ea6f7b522f8fcdeed37b0e370738c53989311347804dd264302b28292f8ac3f9531a74788e5c8ac8f7e3fcb1d85c0a2df84d9d95a2f5b4d45533eb7a856de762301f06e2f31e1802286df98f5f40752f1a073e4494740522f98cdabcf9a94b78c7fc6aae556ceae82433ce7e578ff12eee231e08edef312f0b286037845c738712163bcc2110e3bde6e00a3ac9161350f15c934305e9c582902d2cb48eee1839385459893e753f73e250abe15acb3fde73c309ada661ed23a66fac1dafb5238dfdcc6080cdbd418586d7e150c47f75321d3b6a1c1bfd7c74b336d26acf9a7c26bee48c5dd24170197921f73c9a08e6127721f0998d576d8110b014c4f07fa8497109f0ef85486ec44087eb7fb2c05d359917e0d4b9532e4b334891f6d771a12e216b014ee7f368cbf578b7081a54c512c658481f9b962b02ac7b6ef562c340f602fac45d151ce2efe1abfd7a7b5e6bb90f91716ab7362542da5cdba680cf46a4553631b59acbc43a0cb5e7e3a3c56523bf7e5a3de19de3c7bacaf657c6a2ec6a044324e0b8f2cae5ac64890505cdd2b6fafb1601d63314ba2aa83d46f0ea3329fb5e819c8d69a75ece5cb4702ff9fe451e5c3e8e01550121497ed9939c15299a9b53f5ecbe631f3456829257c578bab180e8cea783fbcb20cb7cf2765255a442a5b3bb1ba292db5afffd01a68fbe2c6b346821a5ac81038a412c70be1d5cda4b13e5b6470bc0dfaa59657759f89e55abc6e7d9fd3e14032cbca78a0bb8f2bf8e30c2f89a9c61be7775df55abd359c6410dc9d87ba827822920fdb8a40ca031e8a7e5f31c2c2805c23f163687f8a19c12f70497c3c45eb42ce6e04187d2748d744db6216d7c749f0d5c300a6a8e4d1c439adb51f619263fee170fa38fa22a4518fa87a980ebe9f4298747a30efff15c3c971fb25adfb0c75a2f0b2bc7f59386dec40e591ee39f3878e13efdf33d7cd8ce3f3afc744050cc3a549647f4e1b5082a5a558c1a0cc9f0c028ffa02deb8ab8332099e19cd4bbf7cdf93c2143a325a2381e6114b1dc4794911873b9c39de4d23c57d1f88a8cc03b4153cffcfe1480ae8a59b7a3feed7f2d914726c2c6c43af58347c108ae70f10e81a719c6f5c90520f013dfb56fd9cb5bdaa0334ae76b5</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-up">
-      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-up">输入密码，解密后阅读 | Type Password To Decrypt This Article</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Finance</category>
-      </categories>
-      <tags>
-        <tag>Password</tag>
-        <tag>Data Science</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>The 9 most effective ways to achieve PhD success | Max Lempriere | Share</title>
     <url>/posts/49b9e729/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
@@ -1618,6 +1570,54 @@ Hello world.
       <tags>
         <tag>Skill</tag>
         <tag>Scientist</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Quantitative Analysis</title>
+    <url>/posts/59160644/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong Password, Try Later | 抱歉, 这个密码看着不太对, 请再试试." data-whm="Error | 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="420cafb08114cc20cff5f24b2f6efb06bd947ede0b9f14ee41f8e538eefbcaca">24014bcf5611e5fe61cbe1a03a36998a99d5dd0feffd4d84146bd514e005d0983aa46a3d68cd34e2b5446d9692f85f980dad1c3decf117f735a1d2003d73b28d3aa4b1c34a779aa3e927f117547a2a871af939658c399256dbae76880a15704c515b03633dbbb8ea540ec1494dda30140ba964c201f0fc89fe7773bcd078d666cacc63b9ca382262da67f34f958e10d0e30e5df12b5c855ace0b61fde4e62693971ab6b1146edbe43e5e4778976c2f3bfd188cf5305cac751ac99e3e7b242b1a7aba544d8f5da20aed90c2545eb8ce2cc77ae90ce73b02e2a29fd1deabdde1d517d34c9715d9ab75b828ea743ca9f7f784f2c35a566b1ba95815c515b9341611707e0badfdb83997e3fa534efe2a506a8f5815b161204dd7cdc971d32ce13b6023e11ea6f7b522f8fcdeed37b0e370738c53989311347804dd264302b28292f8ac3f9531a74788e5c8ac8f7e3fcb1d85c0a2df84d9d95a2f5b4d45533eb7a856de762301f06e2f31e1802286df98f5f40752f1a073e4494740522f98cdabcf9a94b78c7fc6aae556ceae82433ce7e578ff12eee231e08edef312f0b286037845c738712163bcc2110e3bde6e00a3ac9161350f15c934305e9c582902d2cb48eee1839385459893e753f73e250abe15acb3fde73c309ada661ed23a66fac1dafb5238dfdcc6080cdbd418586d7e150c47f75321d3b6a1c1bfd7c74b336d26acf9a7c26bee48c5dd24170197921f73c9a08e6127721f0998d576d8110b014c4f07fa8497109f0ef85486ec44087eb7fb2c05d359917e0d4b9532e4b334891f6d771a12e216b014ee7f368cbf578b7081a54c512c658481f9b962b02ac7b6ef562c340f602fac45d151ce2efe1abfd7a7b5e6bb90f91716ab7362542da5cdba680cf46a4553631b59acbc43a0cb5e7e3a3c56523bf7e5a3de19de3c7bacaf657c6a2ec6a044324e0b8f2cae5ac64890505cdd2b6fafb1601d63314ba2aa83d46f0ea3329fb5e819c8d69a75ece5cb4702ff9fe451e5c3e8e01550121497ed9939c15299a9b53f5ecbe631f3456829257c578bab180e8cea783fbcb20cb7cf2765255a442a5b3bb1ba292db5afffd01a68fbe2c6b346821a5ac81038a412c70be1d5cda4b13e5b6470bc0dfaa59657759f89e55abc6e7d9fd3e14032cbca78a0bb8f2bf8e30c2f89a9c61be7775df55abd359c6410dc9d87ba827822920fdb8a40ca031e8a7e5f31c2c2805c23f163687f8a19c12f70497c3c45eb42ce6e04187d2748d744db6216d7c749f0d5c300a6a8e4d1c439adb51f619263fee170fa38fa22a4518fa87a980ebe9f4298747a30efff15c3c971fb25adfb0c75a2f0b2bc7f59386dec40e591ee39f3878e13efdf33d7cd8ce3f3afc744050cc3a549647f4e1b5082a5a558c1a0cc9f0c028ffa02deb8ab8332099e19cd4bbf7cdf93c2143a325a2381e6114b1dc4794911873b9c39de4d23c57d1f88a8cc03b4153cffcfe1480ae8a59b7a3feed7f2d914726c2c6c43af58347c108ae70f10e81a719c6f5c90520f013dfb56fd9cb5bdaa0334ae76b5</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-up">
+      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-up">输入密码，解密后阅读 | Type Password To Decrypt This Article</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Finance</category>
+      </categories>
+      <tags>
+        <tag>Password</tag>
+        <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>英剧《Peaky Blinders》</title>
+    <url>/posts/3efbd27d/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>中文译名：浴血黑帮</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/thomas_shelby.jpg' width='80%'>
+
+<p>Thomas Shelby 性格特点中值得借鉴的部分：</p>
+<ol>
+<li><strong>解决问题</strong></li>
+<li><strong>距离感</strong></li>
+<li><strong>节奏感</strong></li>
+<li><strong>控制情绪</strong></li>
+</ol>
+<p>推荐资料：</p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9yTGF0YVlZQzRvTQ==">【浴血黑帮】人物篇 | 凡人皆有一死，神除外 | Thomas Shelby<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+]]></content>
+      <categories>
+        <category>电视剧</category>
+      </categories>
+      <tags>
+        <tag>电视剧</tag>
       </tags>
   </entry>
   <entry>
@@ -1870,121 +1870,6 @@ Hello world.
       </tags>
   </entry>
   <entry>
-    <title>What It Takes | S. A. Schwarzman</title>
-    <url>/posts/edb01621/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://i.loli.net/2021/06/04/EcefrZsFYPNUzvR.jpg' width='80%'>
-
-<p>本书中最后一部分给出了类似Ray Dalio在《原则》一书中给出的原则。摘要如下，这部分可以看作是本书想要传达理念的概括性总结，书中讲述的各种故事，是为了说明一下的道理。然而诚然，我们知道了很多道理，依然过不好这一生，所以，just do it.</p>
-<span id="more"></span>
-
-<p><strong>25 RULES FOR WORK AND LIFE</strong> </p>
-<ol>
-<li><p>It’s as easy to do something big as it is to do something small, so reach for a fantasy worthy of your pursuit, with rewards commensurate to your effort.</p>
-</li>
-<li><p>The best executives are made, not born. They never stop learning. Study the people and organizations in your life that have had enormous success. They offer a free course from the real world to help you improve.</p>
-</li>
-<li><p>Write or call the people you admire, and ask for advice or a meeting. You never know who will be willing to meet with you. You may end up learning something important or form a connection you can leverage for the rest of your life. Meeting people early in life creates an unusual bond.</p>
-</li>
-<li><p>There is nothing more interesting to people than their own problems. Think about what others are dealing with, and try to come up with ideas to help them. Almost anyone, however senior or important, is receptive to new ideas provided they are thoughtful.</p>
-</li>
-<li><p>Every business is a closed, integrated system with a set of distinct but interrelated parts. Great managers understand how each part works on its own and in relation to all thethe others.</p>
-</li>
-<li><p>Information is the most important asset in business. The more you know, the more perspectives you have, and the more likely you are to spot patterns and anomalies before your competition. So always be open to new inputs, whether they are people, experiences, or knowledge.</p>
-</li>
-<li><p>When you’re young, only take a job that provides you with a steep learning curve and strong training. First jobs are foundational. Don’t take a job just because it seems prestigious.</p>
-</li>
-<li><p>When presenting yourself, remember that impressions matter. The whole picture has to be right. Others will be watching for all sorts of clues and cues that tell who you are. Be on time. Be authentic. Be prepared.</p>
-</li>
-<li><p>No one person, however smart, can solve every problem. But an army of smart people talking openly with one another will.</p>
-</li>
-<li><p>People in a tough spot often focus on their own problems, when the answer usually lies in fixing someone else’s.</p>
-</li>
-<li><p>Believe in something greater than yourself and your personal needs. It can be your company, your country, or a duty for service. Any challenge you tackle that is inspired by your beliefs and core values will be worth it, regardless of whether you succeed or fail.</p>
-</li>
-<li><p>Never deviate from your sense of right and wrong. Your integrity must be unquestionable. It is easy to do what’s right when you don’t have to write a check or suffer any consequences. It’s harder when you have to give something up. Always do what you say you will, and never mislead anyone for your own advantage.</p>
-</li>
-<li><p>Be bold. Successful entrepreneurs, managers, and individuals have the confidence and courage to act when the moment seems right. They accept risk when others are cautious and take action when everyone else is frozen, but they do so smartly. This trait is the mark of a leader.</p>
-</li>
-<li><p>Never get complacent. Nothing is forever. Whether it is an individual or a business, your competition will defeat you if you are not constantly seeking ways to reinvent and improve yourself. Organizations, especially, are more fragile than you think.</p>
-</li>
-<li><p>Sales rarely get made on the first pitch. Just because you believe in something doesn’t mean everyone else will. You need to be able to sell your vision with conviction over and over again. Most people don’t like change, so you need to be able to convince them why they should accept it. Don’t be afraid to ask for what you want.</p>
-</li>
-<li><p>If you see a huge, transformative opportunity, don’t worry that no one else is pursuing it. You might be seeing something others don’t. The harder the problem is, the more limited the competition, and the greater the reward for whomever can solve it.</p>
-</li>
-<li><p>Success comes down to rare moments of opportunity. Be open, alert, and ready to seize them. Gather the right people and resources; then commit. If you’re not prepared to apply that kind of effort, either the opportunity isn’t as compelling as you think or you are not the right person to pursue it.</p>
-</li>
-<li><p>Time wounds all deals, sometimes even fatally. Often the longer you wait, the more surprises await you. In tough negotiations especially, keep everyone at the table long enough to reach an agreement.</p>
-</li>
-<li><p>Don’t lose money!!! Objectively assess the risks of every opportunity.</p>
-</li>
-<li><p>Make decisions when you are ready, not under pressure. Others will always push you to make a decision for their own purposes, internal politics, or some other external need. But you can almost always say, “I need a little more time to think about this. I’ll get back to you.” This tactic is very effective at defusing even the most difficult and uncomfortable situations.</p>
-</li>
-<li><p>Worrying is an active, liberating activity. If channeled appropriately, it allows you to articulate the downside in any situation and drives you to take action to avoid it.</p>
-</li>
-<li><p>Failure is the best teacher in an organization. Talk about failures openly and objectively. Analyze what went wrong. You will learn new rules for decision making and organizational behavior. If evaluated well, failures have the potential to change the course of any organization and make it more successful in the future.</p>
-</li>
-<li><p>Hire 10s whenever you can. They are proactive about sensing problems, designing solutions, and taking a business in new directions. They also attract and hire other 10s. You can always build something around a 10.</p>
-</li>
-<li><p>Be there for the people you know to be good, even when everyone else is walking away. Anyone can end up in a tough situation. A random act of kindness in someone’s time of need can change the course of a life and createan unexpected friendship or loyalty.</p>
-</li>
-<li><p>Everyone has dreams. Do what you can to help others achieve theirs.</p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Celebrity</category>
-      </categories>
-      <tags>
-        <tag>Finance</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>增广贤文</title>
-    <url>/posts/d41c0df3/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>《增广贤文》又名《昔时贤文》、《古今贤文》。书名最早见之于明代万历年间的戏曲《牡丹亭》，据此可推知此书最迟写成于万历年间。后经明、清两代文人不断增补，才成现在这个模样，称《增广昔时贤文》，通称《增广贤文》。作者未见任何书载，只知清同治年间儒生周希陶曾进行过重订。</p>
-</blockquote>
-<span id="more"></span>
-
-<p>昔时贤文，诲汝谆谆，集韵增广，多见多闻。<br>观今宜鉴古，无古不成今。<br>知己知彼，将心比心。<br>酒逢知己饮，诗向会人吟。<br>相识满天下，知心能几人。<br>相逢好似初相识，到老终无怨恨心。<br>近水知鱼性，近山识鸟音。<br>易涨易退山溪水，易反易覆小人心。<br>运去金成铁，时来铁似金，读书须用意，一字值千金。<br>逢人且说三分话，未可全抛一片心。<br>有意栽花花不发，无心插柳柳成阴。<br>画虎画皮难画骨，知人知面不知心。<br>钱财如粪土，仁义值千金。<br>流水下滩非有意，白云出岫本无心。<br>当时若不登高望，谁信东流海洋深。<br>路遥知马力，事久见人心。<br>两人一般心，无钱堪买金，一人一般心，有钱难买针。<br>相见易得好，久住难为人。<br>马行无力皆因瘦，人不风流只为贫。<br>饶人不是痴汉，痴汉不会饶人。<br>是亲不是亲，非亲却是亲。<br>美不美，乡中水，亲不亲，故乡人。<br>莺花犹怕春光老，岂可教人枉度春。<br>相逢不饮空归去，洞口桃花也笑人。<br>红粉佳人休使老，风流浪子莫教贫。<br>在家不会迎宾客，出外方知少主人。<br>黄芩无假，阿魏无真。<br>客来主不顾，应恐是痴人。<br>贫居闹市无人问，富在深山有远亲。<br>谁人背后无人说，哪个人前不说人。<br>有钱道真语，无钱语不真。<br>不信但看筵中酒，杯杯先劝有钱人。<br>闹里有钱，静处安身。<br>来如风雨，去似微尘。<br>长江后浪推前浪，世上新人赶旧人。<br>近水楼台先得月，向阳花木早逢春。<br>莫道君行早，更有早行人。<br>莫信直中直，须防仁不仁。<br>山中有直树，世上无直人。<br>自恨枝无叶，莫怨太阳偏。<br>大家都是命，半点不由人。<br>一年之计在于春，一日之计在于晨，一家之计在于和，一生之计在于勤。<br>责人之心责己，恕己之心恕人。<br>守口如瓶，防意如城。<br>宁可人负我，切莫我负人。<br>再三须慎意，第一莫欺心。<br>虎生犹可近，人熟不堪亲。<br>来说是非者，便是是非人。<br>远水难救近火，远亲不如近邻。<br>有茶有酒多兄弟，急难何曾见一人。<br>人情似纸张张薄，世事如棋局局新。<br>山中也有千年树，世上难逢百岁人。<br>力微休负重，言轻莫劝人。<br>无钱休入众，遭难莫寻亲。<br>平生莫作皱眉事，世上应无切齿人。<br>士者国之宝，儒为席上珍。<br>若要断酒法，醒眼看醉人。<br>求人须求大丈夫，济人须济急时无。<br>渴时一滴如甘露，醉后添杯不如无。<br>久住令人贱，频来亲也疏。<br>酒中不语真君子，财上分明大丈夫。<br>出家如初，成佛有馀。<br>积金千两，不如明解经书。<br>养子不教如养驴，养女不教如养猪。<br>有田不耕仓廪虚，有书不读子孙愚。<br>仓廪虚兮岁月乏，子孙愚兮礼义疏。<br>听君一席话，胜读十年书。<br>人不通今古，马牛如襟裾。<br>茫茫四海人无数，哪个男儿是丈夫。<br>白酒酿成缘好客，黄金散尽为收书。<br>救人一命，胜造七级浮屠。<br>城门失火，殃及池鱼。<br>庭前生瑞草，好事不如无。<br>欲求生富贵，须下死工夫。<br>百年成之不足，一旦败之有馀。<br>人心似铁，官法如炉。<br>善化不足，恶化有馀。<br>水太清则无鱼，人至察则无徒。<br>知者减半，省者全无。<br>在家由父，出家从夫。<br>痴人畏妇，贤女敬夫。<br>是非终日有，不听自然无。<br>宁可正而不足，不可邪而有馀。<br>宁可信其有，不可信其无。<br>竹篱茅舍风光好，道院僧堂终不如。<br>命里有时终须有，命里无时莫强求。<br>道院迎仙客，书堂隐相儒。<br>庭栽栖凤竹，池养化龙鱼。<br>结交须胜己，似我不如无。<br>但看三五日，相见不如初。<br>人情似水分高下，世事如云任卷舒。<br>会说说都是，不会说无礼。<br>磨刀恨不利，刀利伤人指。<br>求财恨不得，财多害自己。<br>知足常足，终身不辱。<br>知止常止，终身不耻。<br>有福伤财，无福伤己。<br>差之毫厘，失之千里。<br>若登高必自卑，若涉远必自迩。<br>三思而行，再思可矣。<br>使口不如自走，求人不如求己。<br>小时是兄弟，长大各乡里。<br>妒财莫妒食，怨生莫怨死。<br>人见白头嗔，我见白头喜。<br>多少少年亡，不到白头死。<br>墙有缝，壁有耳。<br>好事不出门，恶事传千里。<br>贼是小人，知过君子。<br>君子固穷，小人穷斯滥也。<br>贫穷自在，富贵多忧。<br>不以我为德，反以我为仇。<br>宁向直中取，不可曲中求。<br>人无远虑，必有近忧。<br>知我者谓我心忧，不知我者谓我何求。<br>晴天不肯去，只待雨淋头。<br>成事莫说，覆水难收。<br>是非只为多开口，烦恼皆因强出头。<br>忍得一时之气，免得百日之忧。<br>近来学得乌龟法，得缩头时且缩头。<br>惧法朝朝乐，欺公日日忧。<br>人生一世，草生一春。<br>黑发不知勤学早，白首方悔读书迟。<br>月到十五光明少，人到中年万事休。<br>儿孙自有儿孙福，莫为儿孙作马牛。<br>人生不满百，常怀千岁忧。<br>今朝有酒今朝醉，明日愁来明日忧。<br>路逢险处难回避，事到头来不自由。<br>药能医假病，酒不解真愁。<br>人贫不语，水平不流。<br>一家有女百家求，一马不行百马忧。<br>有花方酌酒，无月不登楼。<br>三杯通大道，一醉解千愁。<br>深山毕竟藏猛虎，大海终须纳细流。<br>惜花须检点，爱月不梳头。<br>大抵选他肌骨好，不擦红粉也风流。<br>受恩深处宜先退，得意浓时便可休。<br>莫待是非来入耳，从前恩爱反为仇。<br>留得五湖明月在，不愁无处下金钩。<br>休别有鱼处，莫恋浅滩头。<br>去时终须去，再三留不住。<br>忍一句，息一怒，饶一着，退一步。<br>三十不豪，四十不富，五十将来寻死路。<br>生不论魂，死不认尸。<br>父母恩深终有别，夫妻义重也分离。<br>人生似鸟同林宿，大限来时各自飞。<br>人善被人欺，马善被人骑。<br>人无横财不富，马无野草不肥。<br>人恶人怕天不怕，人善人欺天不欺。<br>善恶到头终有报，只争来早与来迟。<br>黄河尚有澄清日，岂可人无得运时。<br>得宠思辱，安居虑危。<br>念念有如临敌日，心心常似过桥时。<br>英雄行险道，富贵似花枝。<br>人情莫道春光好，只怕秋来有冷时。<br>送君千里，终须一别。<br>但将冷眼看螃蟹，看你横行到几时。<br>见事莫说，问事不知。<br>闲事休管，无事早归。<br>假缎染就真红色，也被旁人说是非。<br>善事可作，恶事莫为。<br>许人一物，千金不移。<br>龙生龙子，虎生豹儿。<br>龙游浅水遭虾戏，虎落平阳被犬欺。<br>一举首登龙虎榜，十年身到凤凰池。<br>十年窗下无人问，一举成名天下知。<br>酒债寻常行处有，人生七十古来稀。<br>养儿待老，积谷防饥。<br>鸡豚狗彘之畜，无失其时。<br>数家之口，可以无饥矣。<br>常将有日思无日，莫把无时当有时。<br>时来风送滕王阁，运去雷轰荐福碑。<br>入门休问荣枯事，观看容颜便得知。<br>官清书吏瘦，神灵庙祝肥。<br>息却雷霆之怒，罢却虎狼之威。<br>饶人算人之本，输人算人之机。<br>好言难得，恶语易施。<br>一言既出，驷马难追。<br>道吾好者是吾贼，道吾恶者是吾师。<br>路逢侠客须呈剑，不是才人莫献诗。<br>三人同行，必有我师，择其善者而从之，其不善者而改之。<br>少壮不努力，老大徒悲伤。<br>人有善愿，天必佑之。<br>莫饮卯时酒，昏昏醉到酉。<br>莫骂酉时妻，一夜受孤凄。<br>种麻得麻，种豆得豆。<br>天眼恢恢，疏而不漏。<br>见官莫向前，做客莫在后。<br>宁添一斗，莫添一口。<br>螳螂捕蝉，岂知黄雀在后。<br>不求金玉重重贵，但愿儿孙个个贤。<br>一日夫妻，百世姻缘。<br>百世修来同船渡，千世修来共枕眠。<br>杀人一万，自损三千。<br>伤人一语，利如刀割。<br>枯木逢春犹再发，人无两度再少年。<br>未晚先投宿，鸡鸣早看天。<br>将相胸前堪走马，公候肚里好撑船。<br>富人思来年，穷人思眼前。<br>世上若要人情好，赊去物件莫取钱。<br>死生有命，富贵在天。<br>击石原有火，不击乃无烟。<br>为学始知道，不学亦徒然。<br>莫笑他人老，终须还到老。<br>但能依本分，终须无烦恼。<br>君子爱财，取之有道。<br>贞妇爱色，纳之以礼。<br>善有善报，恶有恶报。<br>不是不报，日子不到。<br>人而无信，不知其可也。<br>一人道好，千人传实。<br>凡事要好，须问三老。<br>若争小可，便失大道。<br>年年防饥，夜夜防盗。<br>学者如禾如稻，不学者如蒿如草。<br>遇饮酒时须饮酒，得高歌处且高歌。<br>因风吹火，用力不多。<br>不因渔父引，怎得见波涛。<br>无求到处人情好，不饮从他酒价高。<br>知事少时烦恼少，识人多处是非多。<br>入山不怕伤人虎，只怕人情两面刀。<br>强中更有强中手，恶人须用恶人磨。<br>会使不在家豪富，风流不用着衣多。<br>光阴似箭，日月如梭。<br>天时不如地利，地利不如人和。<br>黄金未为贵，安乐值钱多。<br>世上万般皆下品，思量唯有读书高。<br>世间好语书说尽，天下名山僧占多。<br>为善最乐，为恶难逃。<br>羊有跪乳之恩，鸦有反哺之义。<br>你急他未急，人闲心不闲。<br>隐恶扬善，执其两端。<br>妻贤夫祸少，子孝父心宽。<br>既坠釜甑，反顾无益。<br>翻覆之水，收之实难。<br>人生知足何时足，人老偷闲且是闲。<br>但有绿杨堪系马，处处有路透长安。<br>见者易，学者难。<br>莫将容易得，便作等闲看。<br>用心计较般般错，退步思量事事难。<br>道路各别，养家一般。<br>从俭入奢易，从奢入俭难。<br>知音说与知音听，不是知音莫与弹。<br>点石化为金，人心犹未足。<br>信了肚，卖了屋。<br>他人观花，不涉你目。<br>他人碌碌，不涉你足。<br>谁人不爱子孙贤，谁人不爱千钟粟。<br>莫把真心空计较，五行不是这题目。<br>与人不和，劝人养鹅。<br>与人不睦，劝人架屋。<br>但行好事，莫问前程。<br>河狭水急，人急计生。<br>明知山有虎，莫向虎山行。<br>路不行不到，事不为不成。<br>人不劝不善，钟不打不鸣。<br>无钱方断酒，临老始看经。<br>点塔七层，不如暗处一灯。<br>万事劝人休瞒昧，举头三尺有神明。<br>但存方寸土，留与子孙耕。<br>灭却心头火，剔起佛前灯。<br>惺惺常不足，懵懵作公卿。<br>众星朗朗，不如孤月独明。<br>兄弟相害，不如自生。<br>合理可作，小利莫争。<br>牡丹花好空入目，枣花虽小结实成。<br>欺老莫欺小，欺人心不明。<br>随分耕锄收地利，他时饱满谢苍天。<br>得忍且忍，得耐且耐。<br>不忍不耐，小事成大。<br>相论逞英雄，家计渐渐退。<br>贤妇令夫贵，恶妇令夫败。<br>一人有庆，兆民咸赖。<br>人老心未老，人穷志莫穷。<br>人无千日好，花无百日红。<br>杀人可恕，情理难容。<br>乍富不知新受用，乍贫难改旧家风。<br>座上客常满，樽中酒不空。<br>屋漏更遭连年雨，行船又遇打头风。<br>笋因落箨方成竹，鱼为奔波始化龙。<br>记得少年骑竹马，看看又是白头翁。<br>礼义生于富足，盗贼出于贫穷。<br>天上众星皆拱北，世间无水不朝东。<br>君子安贫，达人知命。<br>忠言逆耳利于行，良药苦口利于病。<br>顺天者存，逆天者亡。<br>人为财死，鸟为食亡。<br>夫妻相合好，琴瑟与笙簧。<br>有儿贫不久，无子富不长。<br>善必寿老，恶必早亡。<br>爽口食多偏作药，快心事过恐生殃。<br>富贵定要安本分，贫穷不必枉思量。<br>画水无风空作浪，绣花虽好不闻香。<br>贪他一斗米，失却半年粮。<br>争他一脚豚，反失一肘羊。<br>龙归晚洞云犹湿，麝过春山草木香。<br>平生只会量人短，何不回头把自量。<br>见善如不及，见恶如探汤。<br>人贫志短，马瘦毛长。<br>自家心里急，他人未知忙。<br>贫无达士将金赠，病有高人说药方。<br>触来莫与说，事过心清凉。<br>秋至满山多秀色，春来无处不花香。<br>凡人不可貌相，海水不可斗量。<br>清清之水，为土所妨。<br>济济之士，为酒所伤。<br>蒿草之下，或有兰香。<br>茅茨之屋，或有侯王。<br>无限朱门生饿殍，几多白屋出卿相。<br>醉后乾坤大，壶中日月长。<br>万事皆已定，浮生空白茫。<br>千里送毫毛，礼轻仁义重。<br>一人传虚，百人传实。<br>世事明如镜，前程暗似漆。<br>光阴黄金难买，一世如驹过隙。<br>良田万顷，日食一升。<br>大厦千间，夜眠八尺。<br>千经万典，孝义为先。<br>一字入公门，九牛拖不出。<br>衙门八字开，有理无钱莫进来。<br>富从升合起，贫因不算来。<br>家中无才子，官从何处来。<br>万事不由人计较，一生都是命安排。<br>急行慢行，前程只有多少路。<br>人间私语，天闻若雷。<br>暗室亏心，神目如电。<br>一毫之恶，劝人莫作。<br>一毫之善，与人方便。<br>欺人是祸，饶人是福。<br>天眼恢恢，报应甚速。<br>圣贤言语，神钦鬼伏。<br>人各有心，心各有见。<br>口说不如身逢，耳闻不如目见。<br>养军千日，用在一朝。<br>国清才子贵，家富小儿骄。<br>利刀割体痕易合，恶语伤人恨不消。<br>公道世间唯白发，贵人头上不曾饶。<br>有钱堪出众，无衣懒出门。<br>为官须作相，及第必争先。<br>苗从地发，树向枝分。<br>父子和而家不退，兄弟和而家不分。<br>官有正条，民有和约。<br>闲时不烧香，急时抱佛脚。<br>幸生太平无事日，恐逢年老不多时。<br>国乱思良将，家贫思贤妻。<br>池塘积水须防旱，田地勤耕足养家。<br>根深不怕风摇动，树正无愁月影斜。<br>奉劝君子，各宜守己。<br>只此呈示，万无一失。</p>
-]]></content>
-      <categories>
-        <category>Article</category>
-      </categories>
-      <tags>
-        <tag>Article</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>文献管理软件：Zotero</title>
-    <url>/posts/69297f5/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>可以用来管理文献的工具有很多,比如 Mendeley, EndNote, NoteExpress 等。但是，经过相当长一段时间的摸索，我发现最好用的还是 Zotero。</p>
-<p>Zotero至少有如下优点：</p>
-<ol>
-<li>开源，更新活跃</li>
-<li>丰富的插件</li>
-<li>强大的检索功能</li>
-<li>支持多级文件夹</li>
-</ol>
-<span id="more"></span>
-
-<h1 id="Plugin"><a href="#Plugin" class="headerlink" title="Plugin"></a>Plugin</h1><ul>
-<li><span class="exturl" data-url="aHR0cDovL3pvdGZpbGUuY29tLw==">ZotFile<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly9yZXRvcnF1ZS5yZS96b3Rlcm8tYmV0dGVyLWJpYnRleC8=">Better BibTeX<i class="fa fa-external-link-alt"></i></span></li>
-</ul>
-<h1 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h1><ul>
-<li><em><strong>How can I see what collections my item is in?</strong></em></li>
-</ul>
-<p>To see all the collections an item is in, select the item and then hold down the Option key (macOS), Control key (Windows), or Alt key (Linux). This will highlight all collections that contain the selected item. [<span class="exturl" data-url="aHR0cHM6Ly93d3cuem90ZXJvLm9yZy9zdXBwb3J0L2tiL2NvbGxlY3Rpb25zX2NvbnRhaW5pbmdfYW5faXRlbQ==">source<i class="fa fa-external-link-alt"></i></span>]</p>
-]]></content>
-      <categories>
-        <category>Tool</category>
-      </categories>
-      <tags>
-        <tag>Scientist</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Win10 OS Tutorials</title>
     <url>/posts/3e6fcc87/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Word"><a href="#Word" class="headerlink" title="Word"></a>Word</h1><p>当在Word中插入页眉的时候，经常会在页眉下方出现一条横线，可以选中页眉区，进入编辑模式，Ctrl+Shift+N快捷键，清除页眉原有格式，然后重新编辑页眉格式即可。</p>
@@ -2136,6 +2021,75 @@ Hello world.
       </tags>
   </entry>
   <entry>
+    <title>What It Takes | S. A. Schwarzman</title>
+    <url>/posts/edb01621/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://i.loli.net/2021/06/04/EcefrZsFYPNUzvR.jpg' width='80%'>
+
+<p>本书中最后一部分给出了类似Ray Dalio在《原则》一书中给出的原则。摘要如下，这部分可以看作是本书想要传达理念的概括性总结，书中讲述的各种故事，是为了说明一下的道理。然而诚然，我们知道了很多道理，依然过不好这一生，所以，just do it.</p>
+<span id="more"></span>
+
+<p><strong>25 RULES FOR WORK AND LIFE</strong> </p>
+<ol>
+<li><p>It’s as easy to do something big as it is to do something small, so reach for a fantasy worthy of your pursuit, with rewards commensurate to your effort.</p>
+</li>
+<li><p>The best executives are made, not born. They never stop learning. Study the people and organizations in your life that have had enormous success. They offer a free course from the real world to help you improve.</p>
+</li>
+<li><p>Write or call the people you admire, and ask for advice or a meeting. You never know who will be willing to meet with you. You may end up learning something important or form a connection you can leverage for the rest of your life. Meeting people early in life creates an unusual bond.</p>
+</li>
+<li><p>There is nothing more interesting to people than their own problems. Think about what others are dealing with, and try to come up with ideas to help them. Almost anyone, however senior or important, is receptive to new ideas provided they are thoughtful.</p>
+</li>
+<li><p>Every business is a closed, integrated system with a set of distinct but interrelated parts. Great managers understand how each part works on its own and in relation to all thethe others.</p>
+</li>
+<li><p>Information is the most important asset in business. The more you know, the more perspectives you have, and the more likely you are to spot patterns and anomalies before your competition. So always be open to new inputs, whether they are people, experiences, or knowledge.</p>
+</li>
+<li><p>When you’re young, only take a job that provides you with a steep learning curve and strong training. First jobs are foundational. Don’t take a job just because it seems prestigious.</p>
+</li>
+<li><p>When presenting yourself, remember that impressions matter. The whole picture has to be right. Others will be watching for all sorts of clues and cues that tell who you are. Be on time. Be authentic. Be prepared.</p>
+</li>
+<li><p>No one person, however smart, can solve every problem. But an army of smart people talking openly with one another will.</p>
+</li>
+<li><p>People in a tough spot often focus on their own problems, when the answer usually lies in fixing someone else’s.</p>
+</li>
+<li><p>Believe in something greater than yourself and your personal needs. It can be your company, your country, or a duty for service. Any challenge you tackle that is inspired by your beliefs and core values will be worth it, regardless of whether you succeed or fail.</p>
+</li>
+<li><p>Never deviate from your sense of right and wrong. Your integrity must be unquestionable. It is easy to do what’s right when you don’t have to write a check or suffer any consequences. It’s harder when you have to give something up. Always do what you say you will, and never mislead anyone for your own advantage.</p>
+</li>
+<li><p>Be bold. Successful entrepreneurs, managers, and individuals have the confidence and courage to act when the moment seems right. They accept risk when others are cautious and take action when everyone else is frozen, but they do so smartly. This trait is the mark of a leader.</p>
+</li>
+<li><p>Never get complacent. Nothing is forever. Whether it is an individual or a business, your competition will defeat you if you are not constantly seeking ways to reinvent and improve yourself. Organizations, especially, are more fragile than you think.</p>
+</li>
+<li><p>Sales rarely get made on the first pitch. Just because you believe in something doesn’t mean everyone else will. You need to be able to sell your vision with conviction over and over again. Most people don’t like change, so you need to be able to convince them why they should accept it. Don’t be afraid to ask for what you want.</p>
+</li>
+<li><p>If you see a huge, transformative opportunity, don’t worry that no one else is pursuing it. You might be seeing something others don’t. The harder the problem is, the more limited the competition, and the greater the reward for whomever can solve it.</p>
+</li>
+<li><p>Success comes down to rare moments of opportunity. Be open, alert, and ready to seize them. Gather the right people and resources; then commit. If you’re not prepared to apply that kind of effort, either the opportunity isn’t as compelling as you think or you are not the right person to pursue it.</p>
+</li>
+<li><p>Time wounds all deals, sometimes even fatally. Often the longer you wait, the more surprises await you. In tough negotiations especially, keep everyone at the table long enough to reach an agreement.</p>
+</li>
+<li><p>Don’t lose money!!! Objectively assess the risks of every opportunity.</p>
+</li>
+<li><p>Make decisions when you are ready, not under pressure. Others will always push you to make a decision for their own purposes, internal politics, or some other external need. But you can almost always say, “I need a little more time to think about this. I’ll get back to you.” This tactic is very effective at defusing even the most difficult and uncomfortable situations.</p>
+</li>
+<li><p>Worrying is an active, liberating activity. If channeled appropriately, it allows you to articulate the downside in any situation and drives you to take action to avoid it.</p>
+</li>
+<li><p>Failure is the best teacher in an organization. Talk about failures openly and objectively. Analyze what went wrong. You will learn new rules for decision making and organizational behavior. If evaluated well, failures have the potential to change the course of any organization and make it more successful in the future.</p>
+</li>
+<li><p>Hire 10s whenever you can. They are proactive about sensing problems, designing solutions, and taking a business in new directions. They also attract and hire other 10s. You can always build something around a 10.</p>
+</li>
+<li><p>Be there for the people you know to be good, even when everyone else is walking away. Anyone can end up in a tough situation. A random act of kindness in someone’s time of need can change the course of a life and createan unexpected friendship or loyalty.</p>
+</li>
+<li><p>Everyone has dreams. Do what you can to help others achieve theirs.</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Celebrity</category>
+      </categories>
+      <tags>
+        <tag>Finance</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>与科研中的挫败感和谐共处</title>
     <url>/posts/7e24545e/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="心态上"><a href="#心态上" class="headerlink" title="心态上"></a>心态上</h1><ol>
@@ -2156,6 +2110,35 @@ Hello world.
       <categories>
         <category>Research</category>
       </categories>
+  </entry>
+  <entry>
+    <title>文献管理软件：Zotero</title>
+    <url>/posts/69297f5/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>可以用来管理文献的工具有很多,比如 Mendeley, EndNote, NoteExpress 等。但是，经过相当长一段时间的摸索，我发现最好用的还是 Zotero。</p>
+<p>Zotero至少有如下优点：</p>
+<ol>
+<li>开源，更新活跃</li>
+<li>丰富的插件</li>
+<li>强大的检索功能</li>
+<li>支持多级文件夹</li>
+</ol>
+<span id="more"></span>
+
+<h1 id="Plugin"><a href="#Plugin" class="headerlink" title="Plugin"></a>Plugin</h1><ul>
+<li><span class="exturl" data-url="aHR0cDovL3pvdGZpbGUuY29tLw==">ZotFile<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9yZXRvcnF1ZS5yZS96b3Rlcm8tYmV0dGVyLWJpYnRleC8=">Better BibTeX<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+<h1 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h1><ul>
+<li><em><strong>How can I see what collections my item is in?</strong></em></li>
+</ul>
+<p>To see all the collections an item is in, select the item and then hold down the Option key (macOS), Control key (Windows), or Alt key (Linux). This will highlight all collections that contain the selected item. [<span class="exturl" data-url="aHR0cHM6Ly93d3cuem90ZXJvLm9yZy9zdXBwb3J0L2tiL2NvbGxlY3Rpb25zX2NvbnRhaW5pbmdfYW5faXRlbQ==">source<i class="fa fa-external-link-alt"></i></span>]</p>
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>Scientist</tag>
+      </tags>
   </entry>
   <entry>
     <title>学术上的老人与海 | 张五常 | Share</title>
@@ -2192,6 +2175,42 @@ Hello world.
 ]]></content>
   </entry>
   <entry>
+    <title>增广贤文</title>
+    <url>/posts/d41c0df3/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>《增广贤文》又名《昔时贤文》、《古今贤文》。书名最早见之于明代万历年间的戏曲《牡丹亭》，据此可推知此书最迟写成于万历年间。后经明、清两代文人不断增补，才成现在这个模样，称《增广昔时贤文》，通称《增广贤文》。作者未见任何书载，只知清同治年间儒生周希陶曾进行过重订。</p>
+</blockquote>
+<span id="more"></span>
+
+<p>昔时贤文，诲汝谆谆，集韵增广，多见多闻。<br>观今宜鉴古，无古不成今。<br>知己知彼，将心比心。<br>酒逢知己饮，诗向会人吟。<br>相识满天下，知心能几人。<br>相逢好似初相识，到老终无怨恨心。<br>近水知鱼性，近山识鸟音。<br>易涨易退山溪水，易反易覆小人心。<br>运去金成铁，时来铁似金，读书须用意，一字值千金。<br>逢人且说三分话，未可全抛一片心。<br>有意栽花花不发，无心插柳柳成阴。<br>画虎画皮难画骨，知人知面不知心。<br>钱财如粪土，仁义值千金。<br>流水下滩非有意，白云出岫本无心。<br>当时若不登高望，谁信东流海洋深。<br>路遥知马力，事久见人心。<br>两人一般心，无钱堪买金，一人一般心，有钱难买针。<br>相见易得好，久住难为人。<br>马行无力皆因瘦，人不风流只为贫。<br>饶人不是痴汉，痴汉不会饶人。<br>是亲不是亲，非亲却是亲。<br>美不美，乡中水，亲不亲，故乡人。<br>莺花犹怕春光老，岂可教人枉度春。<br>相逢不饮空归去，洞口桃花也笑人。<br>红粉佳人休使老，风流浪子莫教贫。<br>在家不会迎宾客，出外方知少主人。<br>黄芩无假，阿魏无真。<br>客来主不顾，应恐是痴人。<br>贫居闹市无人问，富在深山有远亲。<br>谁人背后无人说，哪个人前不说人。<br>有钱道真语，无钱语不真。<br>不信但看筵中酒，杯杯先劝有钱人。<br>闹里有钱，静处安身。<br>来如风雨，去似微尘。<br>长江后浪推前浪，世上新人赶旧人。<br>近水楼台先得月，向阳花木早逢春。<br>莫道君行早，更有早行人。<br>莫信直中直，须防仁不仁。<br>山中有直树，世上无直人。<br>自恨枝无叶，莫怨太阳偏。<br>大家都是命，半点不由人。<br>一年之计在于春，一日之计在于晨，一家之计在于和，一生之计在于勤。<br>责人之心责己，恕己之心恕人。<br>守口如瓶，防意如城。<br>宁可人负我，切莫我负人。<br>再三须慎意，第一莫欺心。<br>虎生犹可近，人熟不堪亲。<br>来说是非者，便是是非人。<br>远水难救近火，远亲不如近邻。<br>有茶有酒多兄弟，急难何曾见一人。<br>人情似纸张张薄，世事如棋局局新。<br>山中也有千年树，世上难逢百岁人。<br>力微休负重，言轻莫劝人。<br>无钱休入众，遭难莫寻亲。<br>平生莫作皱眉事，世上应无切齿人。<br>士者国之宝，儒为席上珍。<br>若要断酒法，醒眼看醉人。<br>求人须求大丈夫，济人须济急时无。<br>渴时一滴如甘露，醉后添杯不如无。<br>久住令人贱，频来亲也疏。<br>酒中不语真君子，财上分明大丈夫。<br>出家如初，成佛有馀。<br>积金千两，不如明解经书。<br>养子不教如养驴，养女不教如养猪。<br>有田不耕仓廪虚，有书不读子孙愚。<br>仓廪虚兮岁月乏，子孙愚兮礼义疏。<br>听君一席话，胜读十年书。<br>人不通今古，马牛如襟裾。<br>茫茫四海人无数，哪个男儿是丈夫。<br>白酒酿成缘好客，黄金散尽为收书。<br>救人一命，胜造七级浮屠。<br>城门失火，殃及池鱼。<br>庭前生瑞草，好事不如无。<br>欲求生富贵，须下死工夫。<br>百年成之不足，一旦败之有馀。<br>人心似铁，官法如炉。<br>善化不足，恶化有馀。<br>水太清则无鱼，人至察则无徒。<br>知者减半，省者全无。<br>在家由父，出家从夫。<br>痴人畏妇，贤女敬夫。<br>是非终日有，不听自然无。<br>宁可正而不足，不可邪而有馀。<br>宁可信其有，不可信其无。<br>竹篱茅舍风光好，道院僧堂终不如。<br>命里有时终须有，命里无时莫强求。<br>道院迎仙客，书堂隐相儒。<br>庭栽栖凤竹，池养化龙鱼。<br>结交须胜己，似我不如无。<br>但看三五日，相见不如初。<br>人情似水分高下，世事如云任卷舒。<br>会说说都是，不会说无礼。<br>磨刀恨不利，刀利伤人指。<br>求财恨不得，财多害自己。<br>知足常足，终身不辱。<br>知止常止，终身不耻。<br>有福伤财，无福伤己。<br>差之毫厘，失之千里。<br>若登高必自卑，若涉远必自迩。<br>三思而行，再思可矣。<br>使口不如自走，求人不如求己。<br>小时是兄弟，长大各乡里。<br>妒财莫妒食，怨生莫怨死。<br>人见白头嗔，我见白头喜。<br>多少少年亡，不到白头死。<br>墙有缝，壁有耳。<br>好事不出门，恶事传千里。<br>贼是小人，知过君子。<br>君子固穷，小人穷斯滥也。<br>贫穷自在，富贵多忧。<br>不以我为德，反以我为仇。<br>宁向直中取，不可曲中求。<br>人无远虑，必有近忧。<br>知我者谓我心忧，不知我者谓我何求。<br>晴天不肯去，只待雨淋头。<br>成事莫说，覆水难收。<br>是非只为多开口，烦恼皆因强出头。<br>忍得一时之气，免得百日之忧。<br>近来学得乌龟法，得缩头时且缩头。<br>惧法朝朝乐，欺公日日忧。<br>人生一世，草生一春。<br>黑发不知勤学早，白首方悔读书迟。<br>月到十五光明少，人到中年万事休。<br>儿孙自有儿孙福，莫为儿孙作马牛。<br>人生不满百，常怀千岁忧。<br>今朝有酒今朝醉，明日愁来明日忧。<br>路逢险处难回避，事到头来不自由。<br>药能医假病，酒不解真愁。<br>人贫不语，水平不流。<br>一家有女百家求，一马不行百马忧。<br>有花方酌酒，无月不登楼。<br>三杯通大道，一醉解千愁。<br>深山毕竟藏猛虎，大海终须纳细流。<br>惜花须检点，爱月不梳头。<br>大抵选他肌骨好，不擦红粉也风流。<br>受恩深处宜先退，得意浓时便可休。<br>莫待是非来入耳，从前恩爱反为仇。<br>留得五湖明月在，不愁无处下金钩。<br>休别有鱼处，莫恋浅滩头。<br>去时终须去，再三留不住。<br>忍一句，息一怒，饶一着，退一步。<br>三十不豪，四十不富，五十将来寻死路。<br>生不论魂，死不认尸。<br>父母恩深终有别，夫妻义重也分离。<br>人生似鸟同林宿，大限来时各自飞。<br>人善被人欺，马善被人骑。<br>人无横财不富，马无野草不肥。<br>人恶人怕天不怕，人善人欺天不欺。<br>善恶到头终有报，只争来早与来迟。<br>黄河尚有澄清日，岂可人无得运时。<br>得宠思辱，安居虑危。<br>念念有如临敌日，心心常似过桥时。<br>英雄行险道，富贵似花枝。<br>人情莫道春光好，只怕秋来有冷时。<br>送君千里，终须一别。<br>但将冷眼看螃蟹，看你横行到几时。<br>见事莫说，问事不知。<br>闲事休管，无事早归。<br>假缎染就真红色，也被旁人说是非。<br>善事可作，恶事莫为。<br>许人一物，千金不移。<br>龙生龙子，虎生豹儿。<br>龙游浅水遭虾戏，虎落平阳被犬欺。<br>一举首登龙虎榜，十年身到凤凰池。<br>十年窗下无人问，一举成名天下知。<br>酒债寻常行处有，人生七十古来稀。<br>养儿待老，积谷防饥。<br>鸡豚狗彘之畜，无失其时。<br>数家之口，可以无饥矣。<br>常将有日思无日，莫把无时当有时。<br>时来风送滕王阁，运去雷轰荐福碑。<br>入门休问荣枯事，观看容颜便得知。<br>官清书吏瘦，神灵庙祝肥。<br>息却雷霆之怒，罢却虎狼之威。<br>饶人算人之本，输人算人之机。<br>好言难得，恶语易施。<br>一言既出，驷马难追。<br>道吾好者是吾贼，道吾恶者是吾师。<br>路逢侠客须呈剑，不是才人莫献诗。<br>三人同行，必有我师，择其善者而从之，其不善者而改之。<br>少壮不努力，老大徒悲伤。<br>人有善愿，天必佑之。<br>莫饮卯时酒，昏昏醉到酉。<br>莫骂酉时妻，一夜受孤凄。<br>种麻得麻，种豆得豆。<br>天眼恢恢，疏而不漏。<br>见官莫向前，做客莫在后。<br>宁添一斗，莫添一口。<br>螳螂捕蝉，岂知黄雀在后。<br>不求金玉重重贵，但愿儿孙个个贤。<br>一日夫妻，百世姻缘。<br>百世修来同船渡，千世修来共枕眠。<br>杀人一万，自损三千。<br>伤人一语，利如刀割。<br>枯木逢春犹再发，人无两度再少年。<br>未晚先投宿，鸡鸣早看天。<br>将相胸前堪走马，公候肚里好撑船。<br>富人思来年，穷人思眼前。<br>世上若要人情好，赊去物件莫取钱。<br>死生有命，富贵在天。<br>击石原有火，不击乃无烟。<br>为学始知道，不学亦徒然。<br>莫笑他人老，终须还到老。<br>但能依本分，终须无烦恼。<br>君子爱财，取之有道。<br>贞妇爱色，纳之以礼。<br>善有善报，恶有恶报。<br>不是不报，日子不到。<br>人而无信，不知其可也。<br>一人道好，千人传实。<br>凡事要好，须问三老。<br>若争小可，便失大道。<br>年年防饥，夜夜防盗。<br>学者如禾如稻，不学者如蒿如草。<br>遇饮酒时须饮酒，得高歌处且高歌。<br>因风吹火，用力不多。<br>不因渔父引，怎得见波涛。<br>无求到处人情好，不饮从他酒价高。<br>知事少时烦恼少，识人多处是非多。<br>入山不怕伤人虎，只怕人情两面刀。<br>强中更有强中手，恶人须用恶人磨。<br>会使不在家豪富，风流不用着衣多。<br>光阴似箭，日月如梭。<br>天时不如地利，地利不如人和。<br>黄金未为贵，安乐值钱多。<br>世上万般皆下品，思量唯有读书高。<br>世间好语书说尽，天下名山僧占多。<br>为善最乐，为恶难逃。<br>羊有跪乳之恩，鸦有反哺之义。<br>你急他未急，人闲心不闲。<br>隐恶扬善，执其两端。<br>妻贤夫祸少，子孝父心宽。<br>既坠釜甑，反顾无益。<br>翻覆之水，收之实难。<br>人生知足何时足，人老偷闲且是闲。<br>但有绿杨堪系马，处处有路透长安。<br>见者易，学者难。<br>莫将容易得，便作等闲看。<br>用心计较般般错，退步思量事事难。<br>道路各别，养家一般。<br>从俭入奢易，从奢入俭难。<br>知音说与知音听，不是知音莫与弹。<br>点石化为金，人心犹未足。<br>信了肚，卖了屋。<br>他人观花，不涉你目。<br>他人碌碌，不涉你足。<br>谁人不爱子孙贤，谁人不爱千钟粟。<br>莫把真心空计较，五行不是这题目。<br>与人不和，劝人养鹅。<br>与人不睦，劝人架屋。<br>但行好事，莫问前程。<br>河狭水急，人急计生。<br>明知山有虎，莫向虎山行。<br>路不行不到，事不为不成。<br>人不劝不善，钟不打不鸣。<br>无钱方断酒，临老始看经。<br>点塔七层，不如暗处一灯。<br>万事劝人休瞒昧，举头三尺有神明。<br>但存方寸土，留与子孙耕。<br>灭却心头火，剔起佛前灯。<br>惺惺常不足，懵懵作公卿。<br>众星朗朗，不如孤月独明。<br>兄弟相害，不如自生。<br>合理可作，小利莫争。<br>牡丹花好空入目，枣花虽小结实成。<br>欺老莫欺小，欺人心不明。<br>随分耕锄收地利，他时饱满谢苍天。<br>得忍且忍，得耐且耐。<br>不忍不耐，小事成大。<br>相论逞英雄，家计渐渐退。<br>贤妇令夫贵，恶妇令夫败。<br>一人有庆，兆民咸赖。<br>人老心未老，人穷志莫穷。<br>人无千日好，花无百日红。<br>杀人可恕，情理难容。<br>乍富不知新受用，乍贫难改旧家风。<br>座上客常满，樽中酒不空。<br>屋漏更遭连年雨，行船又遇打头风。<br>笋因落箨方成竹，鱼为奔波始化龙。<br>记得少年骑竹马，看看又是白头翁。<br>礼义生于富足，盗贼出于贫穷。<br>天上众星皆拱北，世间无水不朝东。<br>君子安贫，达人知命。<br>忠言逆耳利于行，良药苦口利于病。<br>顺天者存，逆天者亡。<br>人为财死，鸟为食亡。<br>夫妻相合好，琴瑟与笙簧。<br>有儿贫不久，无子富不长。<br>善必寿老，恶必早亡。<br>爽口食多偏作药，快心事过恐生殃。<br>富贵定要安本分，贫穷不必枉思量。<br>画水无风空作浪，绣花虽好不闻香。<br>贪他一斗米，失却半年粮。<br>争他一脚豚，反失一肘羊。<br>龙归晚洞云犹湿，麝过春山草木香。<br>平生只会量人短，何不回头把自量。<br>见善如不及，见恶如探汤。<br>人贫志短，马瘦毛长。<br>自家心里急，他人未知忙。<br>贫无达士将金赠，病有高人说药方。<br>触来莫与说，事过心清凉。<br>秋至满山多秀色，春来无处不花香。<br>凡人不可貌相，海水不可斗量。<br>清清之水，为土所妨。<br>济济之士，为酒所伤。<br>蒿草之下，或有兰香。<br>茅茨之屋，或有侯王。<br>无限朱门生饿殍，几多白屋出卿相。<br>醉后乾坤大，壶中日月长。<br>万事皆已定，浮生空白茫。<br>千里送毫毛，礼轻仁义重。<br>一人传虚，百人传实。<br>世事明如镜，前程暗似漆。<br>光阴黄金难买，一世如驹过隙。<br>良田万顷，日食一升。<br>大厦千间，夜眠八尺。<br>千经万典，孝义为先。<br>一字入公门，九牛拖不出。<br>衙门八字开，有理无钱莫进来。<br>富从升合起，贫因不算来。<br>家中无才子，官从何处来。<br>万事不由人计较，一生都是命安排。<br>急行慢行，前程只有多少路。<br>人间私语，天闻若雷。<br>暗室亏心，神目如电。<br>一毫之恶，劝人莫作。<br>一毫之善，与人方便。<br>欺人是祸，饶人是福。<br>天眼恢恢，报应甚速。<br>圣贤言语，神钦鬼伏。<br>人各有心，心各有见。<br>口说不如身逢，耳闻不如目见。<br>养军千日，用在一朝。<br>国清才子贵，家富小儿骄。<br>利刀割体痕易合，恶语伤人恨不消。<br>公道世间唯白发，贵人头上不曾饶。<br>有钱堪出众，无衣懒出门。<br>为官须作相，及第必争先。<br>苗从地发，树向枝分。<br>父子和而家不退，兄弟和而家不分。<br>官有正条，民有和约。<br>闲时不烧香，急时抱佛脚。<br>幸生太平无事日，恐逢年老不多时。<br>国乱思良将，家贫思贤妻。<br>池塘积水须防旱，田地勤耕足养家。<br>根深不怕风摇动，树正无愁月影斜。<br>奉劝君子，各宜守己。<br>只此呈示，万无一失。</p>
+]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
+      <tags>
+        <tag>Article</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>张志顺八部金刚功</title>
+    <url>/posts/c879afe2/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>张至顺（1912年—2015年），原海南省道教协会名誉会长、西安万寿八仙宫名誉方丈，海南省玉蟾宫住持。生于1912年。七岁时值清末民初，战乱灾荒交加。因家境贫困离家乞讨。十二岁随师学艺，十七岁在陕西省华山遇师刘明苍道长而出家。在道观，张至顺从事杂役，终日劳苦，磨练心志，因道心清明和修炼上独辟蹊径，被师授以真传，为中国道教全真龙门正宗第二十一代传人。</p>
+</blockquote>
+<span id="more"></span>
+
+<h1 id="外八部金刚功"><a href="#外八部金刚功" class="headerlink" title="外八部金刚功"></a>外八部金刚功</h1><iframe src="https://www.youtube.com/embed/1NiISV36tMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h1 id="内八部长寿功"><a href="#内八部长寿功" class="headerlink" title="内八部长寿功"></a>内八部长寿功</h1><iframe src="https://www.youtube.com/embed/9h2jQTDribI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+]]></content>
+      <categories>
+        <category>锻炼</category>
+      </categories>
+      <tags>
+        <tag>锻炼</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【转载】你真的懂得如何学习吗？</title>
     <url>/posts/f55e7ae1/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
@@ -2225,25 +2244,6 @@ Hello world.
       </categories>
       <tags>
         <tag>Study</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>张志顺八部金刚功</title>
-    <url>/posts/c879afe2/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>张至顺（1912年—2015年），原海南省道教协会名誉会长、西安万寿八仙宫名誉方丈，海南省玉蟾宫住持。生于1912年。七岁时值清末民初，战乱灾荒交加。因家境贫困离家乞讨。十二岁随师学艺，十七岁在陕西省华山遇师刘明苍道长而出家。在道观，张至顺从事杂役，终日劳苦，磨练心志，因道心清明和修炼上独辟蹊径，被师授以真传，为中国道教全真龙门正宗第二十一代传人。</p>
-</blockquote>
-<span id="more"></span>
-
-<h1 id="外八部金刚功"><a href="#外八部金刚功" class="headerlink" title="外八部金刚功"></a>外八部金刚功</h1><iframe src="https://www.youtube.com/embed/1NiISV36tMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<h1 id="内八部长寿功"><a href="#内八部长寿功" class="headerlink" title="内八部长寿功"></a>内八部长寿功</h1><iframe src="https://www.youtube.com/embed/9h2jQTDribI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-]]></content>
-      <categories>
-        <category>锻炼</category>
-      </categories>
-      <tags>
-        <tag>锻炼</tag>
       </tags>
   </entry>
   <entry>
@@ -2545,8 +2545,8 @@ Hello world.
         <category>Experience</category>
       </categories>
       <tags>
-        <tag>Skill</tag>
         <tag>Study</tag>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
