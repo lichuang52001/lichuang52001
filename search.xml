@@ -8,6 +8,67 @@
 ]]></content>
   </entry>
   <entry>
+    <title>两晋南北朝</title>
+    <url>/posts/fc8d6db8/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>这段历史的特征：混乱；王朝短命；</p>
+<p>王朝短命的原因：</p>
+<ol>
+<li>   群雄逐鹿，英雄并起</li>
+<li>   功成名就，贪图享乐</li>
+<li>   父辈英雄，儿孙狗熊</li>
+<li>   汉族胡虏，此消彼长</li>
+</ol>
+<span id="more"></span>
+
+<p>东晋王朝，玄学盛行的原因：</p>
+<ol>
+<li>   北方贵族迁往南方，无事可做</li>
+<li>   社会动荡，逃避现实</li>
+<li>   玄学代表人物：何晏</li>
+</ol>
+<p>门阀代表：</p>
+<ol>
+<li>东晋谢氏</li>
+<li>琅玡王氏</li>
+</ol>
+<p>两晋南北朝学术研究：</p>
+<ol>
+<li>万绳楠《陈寅恪魏晋南北朝史讲演录》</li>
+<li>田余庆《东晋门阀政治》</li>
+<li>何兹全《魏晋南北朝史略》</li>
+</ol>
+]]></content>
+      <categories>
+        <category>History</category>
+      </categories>
+      <tags>
+        <tag>History</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Linux OS Tutorials</title>
+    <url>/posts/df7c1428/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="如何获得管理员权限"><a href="#如何获得管理员权限" class="headerlink" title="如何获得管理员权限"></a>如何获得管理员权限</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">sudo su root</span><br></pre></td></tr></table></figure>
+
+<h1 id="如何安装软件"><a href="#如何安装软件" class="headerlink" title="如何安装软件"></a>如何安装软件</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">yum install xxxx -y    <span class="comment"># xxxx为软件名</span></span><br></pre></td></tr></table></figure>
+
+<h1 id="查看软件版本"><a href="#查看软件版本" class="headerlink" title="查看软件版本"></a>查看软件版本</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">xxxx -V    <span class="comment"># xxxx为软件名</span></span><br></pre></td></tr></table></figure>
+
+<h1 id="Linux如何修改SSH登录密码"><a href="#Linux如何修改SSH登录密码" class="headerlink" title="Linux如何修改SSH登录密码"></a>Linux如何修改SSH登录密码</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 登陆SSH控制台，然后输入下面指令：</span></span><br><span class="line">passwd user    <span class="comment"># 注：这里的user是你的SSH用户名，比如passwd root</span></span><br><span class="line"><span class="comment"># 输入密码</span></span><br></pre></td></tr></table></figure>
+
+<h1 id="防火墙管理"><a href="#防火墙管理" class="headerlink" title="防火墙管理"></a>防火墙管理</h1><p><span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTE4NDYyNTcvYXJ0aWNsZS9kZXRhaWxzLzU0NzA3ODY0">Centos防火墙设置与端口开放的方法<i class="fa fa-external-link-alt"></i></span> </p>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9kZDY2M2NiNGFmZmE=">CentOS 7 开放/关闭端口，关闭防火墙<i class="fa fa-external-link-alt"></i></span> </p>
+<h1 id="网站"><a href="#网站" class="headerlink" title="网站"></a>网站</h1><p><span class="exturl" data-url="aHR0cHM6Ly9teS5vc2NoaW5hLm5ldC9odXNreWRvZy9ibG9nLzE1MDEzNzg=">在centOs 上搭建nginx来部署静态页面网站<i class="fa fa-external-link-alt"></i></span> </p>
+<p><span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0pla2luX0tFL2FydGljbGUvZGV0YWlscy84NzMxMjYyMw==">网站部署详细流程（包括域名，服务器的配置等）<i class="fa fa-external-link-alt"></i></span></p>
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>OS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>How to Work Hard | Paul Graham</title>
     <url>/posts/7073d006/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p><span class="exturl" data-url="aHR0cDovL3BhdWxncmFoYW0uY29tL2h3aC5odG1s">http://paulgraham.com/hwh.html<i class="fa fa-external-link-alt"></i></span></p>
@@ -170,8 +231,8 @@
         <category>Experience</category>
       </categories>
       <tags>
-        <tag>Skill</tag>
         <tag>Study</tag>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -464,8 +525,8 @@
         <category>Research</category>
       </categories>
       <tags>
-        <tag>Skill</tag>
         <tag>Study</tag>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
