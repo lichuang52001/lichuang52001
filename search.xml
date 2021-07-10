@@ -4,7 +4,7 @@
     <title>About Edward</title>
     <url>/posts/b8066abd/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>世界上只有一种真正的英雄主义，就是认清了生活的真相后，依然热爱生活。</p>
-<center><a href="https://lichuang.me/about/">Click here</a></center>
+<center><span class="exturl" data-url="aHR0cHM6Ly9saWNodWFuZy5tZS9hYm91dC8=">Click here<i class="fa fa-external-link-alt"></i></span></center>
 
 ]]></content>
   </entry>
@@ -2729,6 +2729,9 @@ Hello world.
 <h1 id="演示工具"><a href="#演示工具" class="headerlink" title="演示工具"></a>演示工具</h1><ul>
 <li>  Focusky</li>
 <li>  PowerPoint</li>
+</ul>
+<h1 id="Color"><a href="#Color" class="headerlink" title="Color"></a>Color</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9jb2xvcnBpeC5lbi5zb2Z0b25pYy5jb20v">Colorpix<i class="fa fa-external-link-alt"></i></span>, Free and Streamlined Desktop Colour Formatting Tool</li>
 </ul>
 <h1 id="远程桌面"><a href="#远程桌面" class="headerlink" title="远程桌面"></a>远程桌面</h1><ul>
 <li><span class="exturl" data-url="aHR0cHM6Ly9zdW5sb2dpbi5vcmF5LmNvbS8=">向日葵远程控制<i class="fa fa-external-link-alt"></i></span></li>
