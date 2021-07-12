@@ -9,6 +9,31 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Advice on improving your programming skills</title>
+    <url>/posts/c0e9d41/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>转载自：<span class="exturl" data-url="aHR0cHM6Ly93d3cucGl4ZWxzdGVjaC5uZXQvYXJ0aWNsZS8xMzkyOTk0NzIxLUFkdmljZS1vbi1pbXByb3ZpbmcteW91ci1wcm9ncmFtbWluZy1za2lsbHM=">Advice on improving your programming skills<i class="fa fa-external-link-alt"></i></span></p>
+</blockquote>
+<p>Programming is cool. But behind the scenes it’s also difficult for many people. Many people are defeated at the early stage of learning programming. When you are not so familiar with programming, you may find you don’t know where to start and what to start with first and where to apply the knowledge. Once you go though the tough period of the learning phase, you will find a whole new world. Below are some advice which can help you improve your programming skills quickly.</p>
+<span id="more"></span>
+
+<p><strong>Write more code.</strong>  The best thing to learn something quickly is practicing. You should spend more of your time on building and writing code since you won’t get better unless you practice the craft.  You may start by writing some simple programs with the basic knowledge you have about the language.</p>
+<p><strong>Work on different types of projects.</strong> After you gain enough familiarity of one language, you should start to work on something real. This will help you have a comprehensive understanding of the capability of the language This will in turn push you to learn other stuff related to the language. Later if you find yourself always doing similar tasks using similar methods, it’s going to be hard to get out of your comfort zone and to pick up new skills.</p>
+<p><strong>Master one or two programming languages that you use.</strong>  Read a good book or two on the languages.  Focus on developing a solid grasp of the advanced concepts in that language, and gain familiarity with core, language libraries.  Make sure that at least one of your languages is a scripting language.</p>
+<p><strong>Start reading.</strong>  Read as many books as possible. Books usually can give you a systematic graph about a language and they will lead you through all the aspects of a language This is especially useful for beginners  Here’s a start: <span class="exturl" data-url="aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTcxMS93aGF0LWlzLXRoZS1zaW5nbGUtbW9zdC1pbmZsdWVudGlhbC1ib29rLWV2ZXJ5LXByb2dyYW1tZXItc2hvdWxkLXJlYWQ=">What is the single most influential book every programmer should read?<i class="fa fa-external-link-alt"></i></span></p>
+<p><strong>Join discussions.</strong> When discussing with other people, you will find new ideas or thoughts you may not notice before. During this phase, you can also learn from other people and it’s also a good chance for you to test how well you grasp a language by sharing your opinions about programming.</p>
+<p><strong>Read through any technical, educational material available internally.</strong> Google, for instance, has a wide array of codelabs that teach core abstractions and high-quality guides of best practices that veteran engineers have written for various languages based on decades of experience.  If your company doesn’t have similar resources, Google’s open sourced some of their guides: <span class="exturl" data-url="aHR0cHM6Ly9jb2RlLmdvb2dsZS5jb20vcC9nb29nbGU=">https://code.google.com/p/google<i class="fa fa-external-link-alt"></i></span>….</p>
+<p>Write blogs. While learning programming, you may encounter different issues and you will try to defeat the problems with all means. It’s a good chance for you to write down the process you resolve the problems and your gains from the process. Others can benefit from your experience as well. You can also make friends with people who have similar interests with you.</p>
+<p>As for the time spent on learning programming. You should start by carving out 20% of your time to devote to your own skills development.  If possible, it’ll be better if that 20% comes from one or two hours a day rather than a day a week because you can then make a daily habit out of improving your skills.  Your productivity may decrease initially (or it might not change much if you’re replacing web surfing or other distractions), but the goal is to make investments that will make you more effective in the long run.</p>
+]]></content>
+      <categories>
+        <category>Programming</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>选择大于努力？</title>
     <url>/posts/5f8e5b1e/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>近年来，流行一句话，“<strong>选择大于努力</strong>”。</p>
@@ -337,8 +362,8 @@
         <category>Experience</category>
       </categories>
       <tags>
-        <tag>Study</tag>
         <tag>Skill</tag>
+        <tag>Study</tag>
       </tags>
   </entry>
   <entry>
@@ -631,8 +656,8 @@
         <category>Research</category>
       </categories>
       <tags>
-        <tag>Study</tag>
         <tag>Skill</tag>
+        <tag>Study</tag>
       </tags>
   </entry>
   <entry>
