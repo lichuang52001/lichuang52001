@@ -9,6 +9,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Maple</title>
+    <url>/posts/45ba22af/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Maple-最优化模块"><a href="#Maple-最优化模块" class="headerlink" title="Maple 最优化模块"></a>Maple 最优化模块</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">restart;</span><br><span class="line"></span><br><span class="line">with(Optimization);</span><br><span class="line"></span><br><span class="line">Interactive();</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>AutoCAD Manual</title>
     <url>/posts/360d3c9f/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><ul>
