@@ -13,6 +13,7 @@
     <url>/posts/45ba22af/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Maple-最优化模块"><a href="#Maple-最优化模块" class="headerlink" title="Maple 最优化模块"></a>Maple 最优化模块</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">restart;</span><br><span class="line"></span><br><span class="line">with(Optimization);</span><br><span class="line"></span><br><span class="line">Interactive();</span><br></pre></td></tr></table></figure>
 
+<span id="more"></span>
 ]]></content>
       <categories>
         <category>Tool</category>
@@ -29,6 +30,21 @@
 </ul>
 <p>在CAD中填充边界的时候发现无法用实体进行填充，但是却可以使用图案进行填充。遇到这种情况，首先需要确认一下“应用实体填充”这一项是否有勾选：工具——选项——显示——应用实体填充——视图——重生成。</p>
 <p>另外务必保证要填充的区域是闭合的：选中待填充的多段线——predit—选择C（闭合）即可。</p>
+<ul>
+<li>删除“顽固”图层</li>
+</ul>
+<p>问题描述：</p>
+<p>尝试在 AutoCAD 中删除图形中的图层时，显示以下消息且图层未删除：<br>无法删除以下图层：<br>图层 0 和 Defpoints<br>当前图层<br>包含对象的图层<br>与外部参照相关的图层</p>
+<p>解决方案：</p>
+<p>如果图层上有对象或者对象正在参照图层，则无法删除该图层。<br>如果没有此类对象，请使用 LAYDEL 命令删除图层：<br>在命令行上输入 LAYDEL。<br>单击“名称”或输入 N。<br>选择图层并单击“确定”将其删除。<br>尝试重命名图层，在重命名后，尝试删除图层。<br>将无法删除的图层合并到其他图层：<br>在图层管理器中，选择无法删除的图层，然后单击鼠标右键。<br>选择“将选定图层合并到…”，然后选择要将无法删除的图层合并到的图层。<br>注意：块也可以阻止删除图层。即使将块从模型或图纸空间删除，其定义仍然存在于图形中。块或定义处于打开状态的图层将继续“使用”，直到所有块及其定义被删除和清除为止。</p>
+<span id="more"></span>
+
+
+
+
+
+
+
 ]]></content>
       <categories>
         <category>Tool</category>
