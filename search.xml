@@ -59,7 +59,7 @@
 <p>路径：File –&gt; New –&gt; Function plot</p>
 <span id="more"></span> 
 
-<h2 id="2D-Plot"><a href="#2D-Plot" class="headerlink" title="2D Plot"></a>2D Plot</h2><h2 id="双y轴"><a href="#双y轴" class="headerlink" title="双y轴"></a>双y轴</h2><ol>
+<h1 id="2D-Plot"><a href="#2D-Plot" class="headerlink" title="2D Plot"></a>2D Plot</h1><h2 id="双y轴"><a href="#双y轴" class="headerlink" title="双y轴"></a>双y轴</h2><ol>
 <li>准备好数据，比如一列x，两列y（分别对应左右y轴）</li>
 <li>选择x和第一列y，默认作图，默认y轴在左侧</li>
 <li>在图中任意位置单击右键 –&gt; “New Layer(Axes)” –&gt; “Right-Y”</li>
