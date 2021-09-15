@@ -28,9 +28,11 @@
 </ul>
 <figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">name = <span class="string">&#x27;Alice&#x27;</span>;   </span><br><span class="line">age = <span class="number">12</span>;</span><br><span class="line">X = [name,<span class="string">&#x27; will be &#x27;</span>,num2str(age),<span class="string">&#x27; this year.&#x27;</span>];</span><br><span class="line"><span class="built_in">disp</span>(X)</span><br></pre></td></tr></table></figure>
 
-
-
-
+<h1 id="常用-Code-1"><a href="#常用-Code-1" class="headerlink" title="常用 Code"></a>常用 Code</h1><ul>
+<li>功能：显式函数表达式转换为数据点</li>
+</ul>
+<p>如需要导出函数 $y=kx+bx^2, x\in [1,5]$.</p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">clear</span><br><span class="line">clc</span><br><span class="line"></span><br><span class="line"><span class="comment">%% set parameters</span></span><br><span class="line"></span><br><span class="line">num = <span class="number">1000</span> ;  <span class="comment">% 数据点数目</span></span><br><span class="line"></span><br><span class="line">x_start = <span class="number">1</span> ;</span><br><span class="line">x_end = <span class="number">5</span> ;</span><br><span class="line"></span><br><span class="line">k = <span class="number">1</span> ;</span><br><span class="line">b = <span class="number">2</span> ;</span><br><span class="line"></span><br><span class="line">output_filename = <span class="string">&#x27;y_data.csv&#x27;</span> ;</span><br><span class="line"></span><br><span class="line"><span class="comment">%% main program</span></span><br><span class="line">loc = <span class="built_in">linspace</span>(x_start, x_end, num) ;</span><br><span class="line"></span><br><span class="line">y = k.*loc+b.*loc.*loc ;</span><br><span class="line"></span><br><span class="line"><span class="comment">%% plot &amp; export data</span></span><br><span class="line"><span class="built_in">plot</span>(loc,y)</span><br><span class="line"></span><br><span class="line">csvwrite(output_filename, y) ;</span><br></pre></td></tr></table></figure>
 
 
 
