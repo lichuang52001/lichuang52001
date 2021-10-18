@@ -44,6 +44,12 @@
 </ul>
 <figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">name = <span class="string">&#x27;Alice&#x27;</span>;   </span><br><span class="line">age = <span class="number">12</span>;</span><br><span class="line">X = [name,<span class="string">&#x27; will be &#x27;</span>,num2str(age),<span class="string">&#x27; this year.&#x27;</span>];</span><br><span class="line"><span class="built_in">disp</span>(X)</span><br></pre></td></tr></table></figure>
 
+<ul>
+<li>常微分方程求解</li>
+</ul>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cubWF0aHdvcmtzLmNvbS9oZWxwL21hdGxhYi9vcmRpbmFyeS1kaWZmZXJlbnRpYWwtZXF1YXRpb25zLmh0bWw=">Ordinary Differential Equations<i class="fa fa-external-link-alt"></i></span></p>
+<p><span class="exturl" data-url="aHR0cHM6Ly93dzIubWF0aHdvcmtzLmNuL2hlbHAvbWF0bGFiL3JlZi9vZGU0NS5odG1s">ode45<i class="fa fa-external-link-alt"></i></span>: Runge-Kutta methods</p>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cubWF0aHdvcmtzLmNvbS9oZWxwL21hdGxhYi9tYXRoL3N1bW1hcnktb2Ytb2RlLW9wdGlvbnMuaHRtbA==">Summary of ODE Options<i class="fa fa-external-link-alt"></i></span></p>
 <h1 id="常用-Code-1"><a href="#常用-Code-1" class="headerlink" title="常用 Code"></a>常用 Code</h1><ul>
 <li>功能：显式函数表达式转换为数据点</li>
 </ul>
