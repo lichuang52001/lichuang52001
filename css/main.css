@@ -1799,8 +1799,8 @@ pre code {
 }
 .reading-progress-bar {
   --progress: 0;
-  background: #0abab5;
-  height: 8px;
+  background: #b908c5;
+  height: 6px;
   position: fixed;
   z-index: 1500;
   width: var(--progress);
@@ -2971,10 +2971,4 @@ mjx-container[display="true"] + br {
   .comments {
     padding: 10px 12px;
   }
-}
-.fireworks {
-  left: 0;
-  pointer-events: none;
-  position: fixed;
-  top: 0;
 }
