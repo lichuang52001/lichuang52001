@@ -101,7 +101,13 @@
   <entry>
     <title>Maple</title>
     <url>/posts/45ba22af/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Maple-最优化模块"><a href="#Maple-最优化模块" class="headerlink" title="Maple 最优化模块"></a>Maple 最优化模块</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">restart;</span><br><span class="line"></span><br><span class="line">with(Optimization);</span><br><span class="line"></span><br><span class="line">Interactive();</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h1><p>单行注释：</p>
+<figure class="highlight"><table><tr><td class="code"><pre><span class="line"># ...</span><br></pre></td></tr></table></figure>
+
+<p>多行注释</p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">(*</span><br><span class="line">...</span><br><span class="line">*)</span><br></pre></td></tr></table></figure>
+
+<h1 id="Maple-最优化模块"><a href="#Maple-最优化模块" class="headerlink" title="Maple 最优化模块"></a>Maple 最优化模块</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">restart;</span><br><span class="line"></span><br><span class="line">with(Optimization);</span><br><span class="line"></span><br><span class="line">Interactive();</span><br></pre></td></tr></table></figure>
 
 <span id="more"></span>
 
@@ -126,11 +132,6 @@
 </ul>
 <p>示例如下：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">restart;</span><br><span class="line">equ :&#x3D; &#123;x + y &#x3D; 5, 2*x + 3*y &#x3D; 21&#125;;</span><br><span class="line">var :&#x3D; &#123;x, y&#125;;</span><br><span class="line">sol :&#x3D; solve(equ, var);</span><br><span class="line">a :&#x3D; subs(sol, x);</span><br><span class="line">b :&#x3D; subs(sol, y);</span><br></pre></td></tr></table></figure>
-
-
-
-
-
 ]]></content>
       <categories>
         <category>Tool</category>
