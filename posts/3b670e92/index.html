@@ -100,7 +100,7 @@
         <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a></li>
         <li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags<span class="badge">38</span></a></li>
         <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories<span class="badge">19</span></a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">68</span></a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">69</span></a></li>
       <li class="menu-item menu-item-search">
         <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
         </a>
@@ -171,7 +171,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">68</span>
+          <span class="site-state-item-count">69</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -294,14 +294,13 @@
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Matlab-介绍"><a href="#Matlab-介绍" class="headerlink" title="Matlab 介绍"></a>Matlab 介绍</h1><p>MATLAB（Matrix Laboratory，矩阵实验室）是由美国The MathWorks公司出品的商业数学软件。MATLAB是一种用于算法开发、数据可视化、数据分析以及数值计算的高级技术计算语言和交互式环境。除矩阵运算、绘制函数/数据图像等常用功能外，MATLAB还可用来创建用户界面，以及调用其它语言（包括C、C++、Java、Python、FORTRAN）编写的程序。</p>
 <p>MATLAB主要用于数值运算，但利用为数众多的附加工具箱，它也适合不同领域的应用，例如控制系统设计与分析、影像处理、深度学习、信号处理与通讯、金融建模和分析等。另外还有配套软件包Simulink提供可视化开发环境，常用于系统模拟、动态/嵌入式系统开发等方面。</p>
 <p>在R2017b后的MATLAB版本更发布了深度学习的工具，使其能够可视化的快速创建AI模型，并透过各种转码器，部属于嵌入式硬件之中。</p>
-<p>截至2020年，MATLAB在全球拥有超过400万用户。MATLAB用户来自工程，科学和经济学领域。<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="https://zh.wikipedia.org/wiki/MATLAB">[1]</span></a></sup></p>
+<p>截至2020年，MATLAB在全球拥有超过400万用户。MATLAB用户来自工程，科学和经济学领域。<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="https://zh.wikipedia.org/wiki/MATLAB
+">[1]</span></a></sup></p>
 <span id="more"></span>
 
 <h1 id="常用-Code"><a href="#常用-Code" class="headerlink" title="常用 Code"></a>常用 Code</h1><h2 id="图片批量格式转换"><a href="#图片批量格式转换" class="headerlink" title="图片批量格式转换"></a>图片批量格式转换</h2><p>使用<code>imwrite</code>函数实现不同图片文件格式之间的批量转换。</p>
 <p><code>imwrite</code>函数支持的图片转换格式参见：<span class="exturl" data-url="aHR0cHM6Ly93dzIubWF0aHdvcmtzLmNuL2hlbHAvbWF0bGFiL3JlZi9pbXdyaXRlLmh0bWwlRTMlODAlODI=">https://ww2.mathworks.cn/help/matlab/ref/imwrite.html。<i class="fa fa-external-link-alt"></i></span></p>
 <figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">% 本示例程序将 D:\Desktop\test\ 目录下面所有的 bmp 图片转换为 jpg 图片</span></span><br><span class="line">clear</span><br><span class="line">clc</span><br><span class="line"></span><br><span class="line"><span class="comment">% 读取指定目录下面所有的 pgm 格式图片</span></span><br><span class="line">bmps = dir(<span class="string">&#x27;D:\Desktop\test\*.bmp&#x27;</span>);</span><br><span class="line">num_bmps = <span class="built_in">length</span>( bmps );</span><br><span class="line"><span class="keyword">for</span> <span class="built_in">i</span> = <span class="number">1</span> : num_bmps</span><br><span class="line">bmp_file = fullfile( <span class="string">&#x27;D:\Desktop\test\&#x27; , bmp(i).name );</span></span><br><span class="line"><span class="string">bmp      = imread( bmp_file );</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">%%% 核心代码：将 bmp_file 转换为 jpg 格式图片，并保存. %%%</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">% 第一步，解析文件名 bmp_file ,注意，bmp_file 包括路径+文件名+后缀，如 bmp_file = &#x27;</span>D:\Desktop\test\test.bmp&#x27;</span><br><span class="line"><span class="comment">% path = &#x27;D:\Desktop\test\&#x27;  name = &#x27;test&#x27; ext = &#x27;.bmp&#x27;</span></span><br><span class="line">[ path , name , ext ] = fileparts( pgm_file ) ;</span><br><span class="line"></span><br><span class="line"><span class="comment">% 第二步，生成新的文件名</span></span><br><span class="line">filename = strcat( name , <span class="string">&#x27;.jpg&#x27;</span> );</span><br><span class="line"></span><br><span class="line"><span class="comment">% 第三步，生成文件全称</span></span><br><span class="line">jpg_file = fullfile( <span class="string">&#x27;D:\Desktop\test2jpg\&#x27; , filename ) ;</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">% 第四步，将 pgm 以 jpg_file 作为文件名，保存为 jpg 格式.</span></span><br><span class="line"><span class="string">imwrite( bmp , jpg_file , &#x27;</span>jpg&#x27; );</span><br><span class="line"></span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure>
-
-
 
 <h1 id="常用函数"><a href="#常用函数" class="headerlink" title="常用函数"></a>常用函数</h1><ul>
 <li>disp</li>
@@ -319,14 +318,6 @@
 </ul>
 <p>如需要导出函数 $y=kx+bx^2, x\in [1,5]$.</p>
 <figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line">clear</span><br><span class="line">clc</span><br><span class="line"></span><br><span class="line"><span class="comment">%% set parameters</span></span><br><span class="line"></span><br><span class="line">num = <span class="number">1000</span> ;  <span class="comment">% 数据点数目</span></span><br><span class="line"></span><br><span class="line">x_start = <span class="number">1</span> ;</span><br><span class="line">x_end = <span class="number">5</span> ;</span><br><span class="line"></span><br><span class="line">k = <span class="number">1</span> ;</span><br><span class="line">b = <span class="number">2</span> ;</span><br><span class="line"></span><br><span class="line">output_filename = <span class="string">&#x27;y_data.csv&#x27;</span> ;</span><br><span class="line"></span><br><span class="line"><span class="comment">%% main program</span></span><br><span class="line">loc = <span class="built_in">linspace</span>(x_start, x_end, num) ;</span><br><span class="line"></span><br><span class="line">y = k.*loc+b.*loc.*loc ;</span><br><span class="line"></span><br><span class="line"><span class="comment">%% plot &amp; export data</span></span><br><span class="line"><span class="built_in">plot</span>(loc,y)</span><br><span class="line"></span><br><span class="line">csvwrite(output_filename, y) ;</span><br></pre></td></tr></table></figure>
-
-
-
-
-
-
-
-
 
 <div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">https://zh.wikipedia.org/wiki/MATLAB<a href="#fnref:1" rev="footnote"> ↩</a></span></li></ol></div></div>
     </div>
