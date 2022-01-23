@@ -9,6 +9,28 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Logo Collection</title>
+    <url>/posts/7dd4449d/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/CNMM-LOGO.png' width='68%'>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Purdue%20logo.png' width='68%'>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/TEEP%20logo.png' width='68%'>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/THU%20TEEP%20Logo.jpg' width='68%'>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Tsinghua%20logo.png' width='68%'>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Tsinghua_Areospace_logo.png' width='68%'>
+]]></content>
+      <categories>
+        <category>Resource</category>
+      </categories>
+      <tags>
+        <tag>Resource</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Github Handbook</title>
     <url>/posts/4b73fed1/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Github-Desktop"><a href="#Github-Desktop" class="headerlink" title="Github Desktop"></a>Github Desktop</h1><h2 id="设置代理"><a href="#设置代理" class="headerlink" title="设置代理"></a>设置代理</h2><ol>
@@ -20,8 +42,6 @@
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[http]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br><span class="line">[https]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br><span class="line">[git]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br></pre></td></tr></table></figure>
 
 <span id="more"></span>
-
-
 ]]></content>
       <categories>
         <category>Tool</category>
