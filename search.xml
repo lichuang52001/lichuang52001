@@ -12,85 +12,14 @@
 <p><strong>Write more code.</strong>  The best thing to learn something quickly is practicing. You should spend more of your time on building and writing code since you won’t get better unless you practice the craft.  You may start by writing some simple programs with the basic knowledge you have about the language.</p>
 <p><strong>Work on different types of projects.</strong> After you gain enough familiarity of one language, you should start to work on something real. This will help you have a comprehensive understanding of the capability of the language This will in turn push you to learn other stuff related to the language. Later if you find yourself always doing similar tasks using similar methods, it’s going to be hard to get out of your comfort zone and to pick up new skills.</p>
 <p><strong>Master one or two programming languages that you use.</strong>  Read a good book or two on the languages.  Focus on developing a solid grasp of the advanced concepts in that language, and gain familiarity with core, language libraries.  Make sure that at least one of your languages is a scripting language.</p>
-<p><strong>Start reading.</strong>  Read as many books as possible. Books usually can give you a systematic graph about a language and they will lead you through all the aspects of a language This is especially useful for beginners  Here’s a start: <span class="exturl" data-url="aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTcxMS93aGF0LWlzLXRoZS1zaW5nbGUtbW9zdC1pbmZsdWVudGlhbC1ib29rLWV2ZXJ5LXByb2dyYW1tZXItc2hvdWxkLXJlYWQ=">What is the single most influential book every programmer should read?<i class="fa fa-external-link-alt"></i></span></p>
+<p><strong>Start reading.</strong>  Read as many books as possible. Books usually can give you a systematic graph about a language and they will lead you through all the aspects of a language This is especially useful for beginners.</p>
 <p><strong>Join discussions.</strong> When discussing with other people, you will find new ideas or thoughts you may not notice before. During this phase, you can also learn from other people and it’s also a good chance for you to test how well you grasp a language by sharing your opinions about programming.</p>
 <p><strong>Read through any technical, educational material available internally.</strong> Google, for instance, has a wide array of codelabs that teach core abstractions and high-quality guides of best practices that veteran engineers have written for various languages based on decades of experience.  If your company doesn’t have similar resources, Google’s open sourced some of their guides: <span class="exturl" data-url="aHR0cHM6Ly9jb2RlLmdvb2dsZS5jb20vcC9nb29nbGU=">https://code.google.com/p/google<i class="fa fa-external-link-alt"></i></span>….</p>
-<p>Write blogs. While learning programming, you may encounter different issues and you will try to defeat the problems with all means. It’s a good chance for you to write down the process you resolve the problems and your gains from the process. Others can benefit from your experience as well. You can also make friends with people who have similar interests with you.</p>
-<p>As for the time spent on learning programming. You should start by carving out 20% of your time to devote to your own skills development.  If possible, it’ll be better if that 20% comes from one or two hours a day rather than a day a week because you can then make a daily habit out of improving your skills.  Your productivity may decrease initially (or it might not change much if you’re replacing web surfing or other distractions), but the goal is to make investments that will make you more effective in the long run.</p>
+<p><strong>Write blogs</strong>. While learning programming, you may encounter different issues and you will try to defeat the problems with all means. It’s a good chance for you to write down the process you resolve the problems and your gains from the process. Others can benefit from your experience as well. You can also make friends with people who have similar interests with you.</p>
+<p>As for the time spent on learning programming, you should start by carving out 20% of your time to devote to your own skills development.  If possible, it’ll be better if that 20% comes from one or two hours a day rather than a day a week because you can then make a daily habit out of improving your skills.  Your productivity may decrease initially (or it might not change much if you’re replacing web surfing or other distractions), but the goal is to make investments that will make you more effective in the long run.</p>
 ]]></content>
       <categories>
         <category>Programming</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>AutoCAD Manual</title>
-    <url>/posts/360d3c9f/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><ul>
-<li>CAD中无法用实体填充边界怎么办</li>
-</ul>
-<p>在CAD中填充边界的时候发现无法用实体进行填充，但是却可以使用图案进行填充。遇到这种情况，首先需要确认一下“应用实体填充”这一项是否有勾选：工具——选项——显示——应用实体填充——视图——重生成。</p>
-<p>另外务必保证要填充的区域是闭合的：选中待填充的多段线——predit—选择C（闭合）即可。</p>
-<span id="more"></span>
-
-<ul>
-<li>删除“顽固”图层</li>
-</ul>
-<p>问题描述：</p>
-<p>尝试在 AutoCAD 中删除图形中的图层时，显示以下消息且图层未删除：<br>无法删除以下图层：<br>图层 0 和 Defpoints<br>当前图层<br>包含对象的图层<br>与外部参照相关的图层</p>
-<p>解决方案：</p>
-<p>如果图层上有对象或者对象正在参照图层，则无法删除该图层。<br>如果没有此类对象，请使用 LAYDEL 命令删除图层：<br>在命令行上输入 LAYDEL。<br>单击“名称”或输入 N。<br>选择图层并单击“确定”将其删除。<br>尝试重命名图层，在重命名后，尝试删除图层。<br>将无法删除的图层合并到其他图层：<br>在图层管理器中，选择无法删除的图层，然后单击鼠标右键。<br>选择“将选定图层合并到…”，然后选择要将无法删除的图层合并到的图层。<br>注意：块也可以阻止删除图层。即使将块从模型或图纸空间删除，其定义仍然存在于图形中。块或定义处于打开状态的图层将继续“使用”，直到所有块及其定义被删除和清除为止。</p>
-<!--more-->
-
-<h1 id="Troubleshooting"><a href="#Troubleshooting" class="headerlink" title="Troubleshooting"></a>Troubleshooting</h1><ul>
-<li>安装AutoCAD时发生错误（错误代码1603）</li>
-</ul>
-<p>解决办法：卸载所有 Visual C++ 安装文件，再安装AutoCAD。</p>
-]]></content>
-      <categories>
-        <category>Tool</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Getting Things Done</title>
-    <url>/posts/7694439f/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Getting Things Done (GTD) is a time management method, described in the book of the same title by productivity consultant <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS9ndGRndXk=">David Allen<i class="fa fa-external-link-alt"></i></span>.</p>
-<p>原理：大脑善于处理信息，提出想法，但是不善于存储信息，即我们常说的“好记性不如烂笔头”。</p>
-<p>推荐参考资料：</p>
-<ol>
-<li><p><span class="exturl" data-url="aHR0cHM6Ly9oYW1iZXJnLm5vL2d0ZA==">GTD in 15 minutes – A Pragmatic Guide to Getting Things Done<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-<li><p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9nQ3N3TXNPTmt3WQ==">Getting Things Done (GTD) by David Allen - Animated Book Summary And Review<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Experience</category>
-      </categories>
-      <tags>
-        <tag>Management</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Github Handbook</title>
-    <url>/posts/4b73fed1/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Github-Desktop"><a href="#Github-Desktop" class="headerlink" title="Github Desktop"></a>Github Desktop</h1><h2 id="设置代理"><a href="#设置代理" class="headerlink" title="设置代理"></a>设置代理</h2><ol>
-<li><p>找到文件 <code>C:\users\username\.gitconfig</code> ；</p>
-</li>
-<li><p>在文件最后加上如下代码（change 1080 to your own port #）</p>
-</li>
-</ol>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[http]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br><span class="line">[https]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br><span class="line">[git]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br></pre></td></tr></table></figure>
-
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>Tool</category>
       </categories>
       <tags>
         <tag>Skill</tag>
@@ -125,6 +54,77 @@
       </categories>
       <tags>
         <tag>Physics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>AutoCAD Manual</title>
+    <url>/posts/360d3c9f/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><ul>
+<li>CAD中无法用实体填充边界怎么办</li>
+</ul>
+<p>在CAD中填充边界的时候发现无法用实体进行填充，但是却可以使用图案进行填充。遇到这种情况，首先需要确认一下“应用实体填充”这一项是否有勾选：工具——选项——显示——应用实体填充——视图——重生成。</p>
+<p>另外务必保证要填充的区域是闭合的：选中待填充的多段线——predit—选择C（闭合）即可。</p>
+<span id="more"></span>
+
+<ul>
+<li>删除“顽固”图层</li>
+</ul>
+<p>问题描述：</p>
+<p>尝试在 AutoCAD 中删除图形中的图层时，显示以下消息且图层未删除：<br>无法删除以下图层：<br>图层 0 和 Defpoints<br>当前图层<br>包含对象的图层<br>与外部参照相关的图层</p>
+<p>解决方案：</p>
+<p>如果图层上有对象或者对象正在参照图层，则无法删除该图层。<br>如果没有此类对象，请使用 LAYDEL 命令删除图层：<br>在命令行上输入 LAYDEL。<br>单击“名称”或输入 N。<br>选择图层并单击“确定”将其删除。<br>尝试重命名图层，在重命名后，尝试删除图层。<br>将无法删除的图层合并到其他图层：<br>在图层管理器中，选择无法删除的图层，然后单击鼠标右键。<br>选择“将选定图层合并到…”，然后选择要将无法删除的图层合并到的图层。<br>注意：块也可以阻止删除图层。即使将块从模型或图纸空间删除，其定义仍然存在于图形中。块或定义处于打开状态的图层将继续“使用”，直到所有块及其定义被删除和清除为止。</p>
+<!--more-->
+
+<h1 id="Troubleshooting"><a href="#Troubleshooting" class="headerlink" title="Troubleshooting"></a>Troubleshooting</h1><ul>
+<li>安装AutoCAD时发生错误（错误代码1603）</li>
+</ul>
+<p>解决办法：卸载所有 Visual C++ 安装文件，再安装AutoCAD。</p>
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Github Handbook</title>
+    <url>/posts/4b73fed1/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Github-Desktop"><a href="#Github-Desktop" class="headerlink" title="Github Desktop"></a>Github Desktop</h1><h2 id="设置代理"><a href="#设置代理" class="headerlink" title="设置代理"></a>设置代理</h2><ol>
+<li><p>找到文件 <code>C:\users\username\.gitconfig</code> ；</p>
+</li>
+<li><p>在文件最后加上如下代码（change 1080 to your own port #）</p>
+</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[http]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br><span class="line">[https]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br><span class="line">[git]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Getting Things Done</title>
+    <url>/posts/7694439f/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Getting Things Done (GTD) is a time management method, described in the book of the same title by productivity consultant <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS9ndGRndXk=">David Allen<i class="fa fa-external-link-alt"></i></span>.</p>
+<p>原理：大脑善于处理信息，提出想法，但是不善于存储信息，即我们常说的“好记性不如烂笔头”。</p>
+<p>推荐参考资料：</p>
+<ol>
+<li><p><span class="exturl" data-url="aHR0cHM6Ly9oYW1iZXJnLm5vL2d0ZA==">GTD in 15 minutes – A Pragmatic Guide to Getting Things Done<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+<li><p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9nQ3N3TXNPTmt3WQ==">Getting Things Done (GTD) by David Allen - Animated Book Summary And Review<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Experience</category>
+      </categories>
+      <tags>
+        <tag>Management</tag>
       </tags>
   </entry>
   <entry>
@@ -232,31 +232,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Origin Manual</title>
-    <url>/posts/19f30c78/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cub3JpZ2lubGFiLmNvbS8=">Origin<i class="fa fa-external-link-alt"></i></span> is a proprietary computer program for interactive scientific graphing and data analysis. </p>
-<p>It is produced by OriginLab Corporation, and runs on Microsoft Windows.</p>
-</blockquote>
-<h1 id="Function-plot"><a href="#Function-plot" class="headerlink" title="Function plot"></a>Function plot</h1><p>已知函数表达式，使用该功能可以直接绘图。</p>
-<p>路径：File –&gt; New –&gt; Function plot</p>
-<span id="more"></span> 
-
-<h1 id="2D-Plot"><a href="#2D-Plot" class="headerlink" title="2D Plot"></a>2D Plot</h1><h2 id="双y轴"><a href="#双y轴" class="headerlink" title="双y轴"></a>双y轴</h2><ol>
-<li>准备好数据，比如一列x，两列y（分别对应左右y轴）</li>
-<li>选择x和第一列y，默认作图，默认y轴在左侧</li>
-<li>在图中任意位置单击右键 –&gt; “New Layer(Axes)” –&gt; “Right-Y”</li>
-<li>确认选中 2 图层，菜单栏选择 “Graph” –&gt; “Layer Contents…” –&gt; 导入数据，确认即可。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Tool</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Maple</title>
     <url>/posts/45ba22af/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h1><p>单行注释：</p>
@@ -299,18 +274,28 @@
       </tags>
   </entry>
   <entry>
-    <title>鸵鸟现象</title>
-    <url>/posts/4a633a16/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>鸵鸟现象，指一种遇到难题就逃避的现象。其名称源自于鸵鸟在遇到危险时，将头埋在沙坑里，以为躲避了危险但实则毫无用处的现象。</p>
-<p>鸵鸟现象在生活中非常普遍，应对该现象的方法有：1. 给自己设定合适的缓冲时间，再着手解决问题；2. 勇敢面对难题，逐步、合理化解难题。</p>
-<span id="more"></span>
+    <title>Origin Manual</title>
+    <url>/posts/19f30c78/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cub3JpZ2lubGFiLmNvbS8=">Origin<i class="fa fa-external-link-alt"></i></span> is a proprietary computer program for interactive scientific graphing and data analysis. </p>
+<p>It is produced by OriginLab Corporation, and runs on Microsoft Windows.</p>
+</blockquote>
+<h1 id="Function-plot"><a href="#Function-plot" class="headerlink" title="Function plot"></a>Function plot</h1><p>已知函数表达式，使用该功能可以直接绘图。</p>
+<p>路径：File –&gt; New –&gt; Function plot</p>
+<span id="more"></span> 
 
-<img data-src='https://miro.medium.com/max/16000/1*zSttG88z_KVYsKh8Cy03Gg.png' width='70%'>]]></content>
+<h1 id="2D-Plot"><a href="#2D-Plot" class="headerlink" title="2D Plot"></a>2D Plot</h1><h2 id="双y轴"><a href="#双y轴" class="headerlink" title="双y轴"></a>双y轴</h2><ol>
+<li>准备好数据，比如一列x，两列y（分别对应左右y轴）</li>
+<li>选择x和第一列y，默认作图，默认y轴在左侧</li>
+<li>在图中任意位置单击右键 –&gt; “New Layer(Axes)” –&gt; “Right-Y”</li>
+<li>确认选中 2 图层，菜单栏选择 “Graph” –&gt; “Layer Contents…” –&gt; 导入数据，确认即可。</li>
+</ol>
+]]></content>
       <categories>
-        <category>Psychology</category>
+        <category>Tool</category>
       </categories>
       <tags>
-        <tag>Psychology</tag>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -332,17 +317,13 @@
       </categories>
   </entry>
   <entry>
-    <title>拖延症</title>
-    <url>/posts/b9417af0/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://miro.medium.com/max/4000/1*6borbZIo4NturcHmbix3rA.png' width='68%'>
+    <title>鸵鸟现象</title>
+    <url>/posts/4a633a16/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>鸵鸟现象，指一种遇到难题就逃避的现象。其名称源自于鸵鸟在遇到危险时，将头埋在沙坑里，以为躲避了危险但实则毫无用处的现象。</p>
+<p>鸵鸟现象在生活中非常普遍，应对该现象的方法有：1. 给自己设定合适的缓冲时间，再着手解决问题；2. 勇敢面对难题，逐步、合理化解难题。</p>
+<span id="more"></span>
 
-<p>拖延症是非常普遍的一种现象，一种对未来目标弊大于利的现象。</p>
-<p>造成拖延症的一个重要原因是，大脑过多地关注<b>当前的、短期的简单和舒适</b>，然而以未来的成功为（沉重的）代价。</p>
-<p>针对拖延症，一个建议：<b>Don’t wait</b>.</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/procrastination.jpg' width='68%'>
-
-<p>参考下面 <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS93YWl0YnV0d2h5">Tim Urban<i class="fa fa-external-link-alt"></i></span> 的 <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9hcmo3b1N0R0xrVQ==">TED 演讲<i class="fa fa-external-link-alt"></i></span>。</p>
-]]></content>
+<img data-src='https://miro.medium.com/max/16000/1*zSttG88z_KVYsKh8Cy03Gg.png' width='70%'>]]></content>
       <categories>
         <category>Psychology</category>
       </categories>
@@ -371,6 +352,59 @@
       <tags>
         <tag>Principle</tag>
         <tag>Password</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>拖延症</title>
+    <url>/posts/b9417af0/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://miro.medium.com/max/4000/1*6borbZIo4NturcHmbix3rA.png' width='68%'>
+
+<p>拖延症是非常普遍的一种现象，一种对未来目标弊大于利的现象。</p>
+<p>造成拖延症的一个重要原因是，大脑过多地关注<b>当前的、短期的简单和舒适</b>，然而以未来的成功为（沉重的）代价。</p>
+<p>针对拖延症，一个建议：<b>Don’t wait</b>.</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/procrastination.jpg' width='68%'>
+
+<p>参考下面 <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS93YWl0YnV0d2h5">Tim Urban<i class="fa fa-external-link-alt"></i></span> 的 <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9hcmo3b1N0R0xrVQ==">TED 演讲<i class="fa fa-external-link-alt"></i></span>。</p>
+]]></content>
+      <categories>
+        <category>Psychology</category>
+      </categories>
+      <tags>
+        <tag>Psychology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>RSA Algorithm</title>
+    <url>/posts/8421d30f/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>RSA algorithm is one of the Public key encryption (or Asymmetric cryptography) methods. RSA algorithm is widely used becasue of its security. But what is it’s foundemental theory? This post will expalin RSA algorithm in detail based on previous research.</p>
+<span id="more"></span>
+
+<h1 id="Simple-History-of-Encryption"><a href="#Simple-History-of-Encryption" class="headerlink" title="Simple History of Encryption"></a>Simple History of Encryption</h1><p>Before 1976, all encryption methods fellow the same rule:</p>
+<ol>
+<li>Alice chooses a certain encryption method, then encrypt <em>message</em>;</li>
+<li>Bob was told by Alice what the encryption method is, then decrypt <em>message</em>;</li>
+</ol>
+<p>Methods based on the above rules are named “Symmetric-key algorithm”. Alice has to tell Bob the information about the encryption method before Bob can decrypt the <em>message</em>, this contains a big potential risk which annoys people for such a long time.</p>
+<img data-src='https://i.loli.net/2021/05/27/lFuwXpNmWTnhZRJ.jpg' width='80%'>
+
+<p>In 1976, 2 American scholars, Whitfield Diffie and Martin Hellman proposed a brand new pattern that without transferring keys <em>message</em> can be decrypted, this method is named as Diffie–Hellman key exchange, also asymmetric cryptographic algorithm.</p>
+<p>未完待续…</p>
+<h1 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h1><ol>
+<li><a href="https://en.wikipedia.org/wiki/Public-key_cryptography">Public-key cryptography, <em>Wikipedia</em></a> </li>
+<li><a href="https://simple.wikipedia.org/wiki/RSA_algorithm">RSA algorithm, <em>Wikipedia</em></a> </li>
+<li>Rivest R L, Shamir A, Adleman L M. Cryptographic communications system and method: U.S. Patent 4,405,829[P]. 1983-9-20.</li>
+<li>RSA算法原理<span class="exturl" data-url="aHR0cDovL3d3dy5ydWFueWlmZW5nLmNvbS9ibG9nLzIwMTMvMDYvcnNhX2FsZ29yaXRobV9wYXJ0X29uZS5odG1s">(1)<i class="fa fa-external-link-alt"></i></span>&amp;<span class="exturl" data-url="aHR0cDovL3d3dy5ydWFueWlmZW5nLmNvbS9ibG9nLzIwMTMvMDcvcnNhX2FsZ29yaXRobV9wYXJ0X3R3by5odG1s">(2)<i class="fa fa-external-link-alt"></i></span> </li>
+<li>[YouTube] The RSA Encryption Algorithm <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS80emFodmNKOWdsZw==">(1)<i class="fa fa-external-link-alt"></i></span>&amp;<span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9vT2NUVlRwVXNQUQ==">(2)<i class="fa fa-external-link-alt"></i></span> </li>
+<li>[YouTube] <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS82SF85bDlOM0lYVQ==">Will Quantum Computers break encryption?<i class="fa fa-external-link-alt"></i></span> </li>
+<li>…</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Algorithm</category>
+      </categories>
+      <tags>
+        <tag>RSA</tag>
+        <tag>Cryptography</tag>
       </tags>
   </entry>
   <entry>
@@ -412,40 +446,6 @@
       </tags>
   </entry>
   <entry>
-    <title>RSA Algorithm</title>
-    <url>/posts/8421d30f/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>RSA algorithm is one of the Public key encryption (or Asymmetric cryptography) methods. RSA algorithm is widely used becasue of its security. But what is it’s foundemental theory? This post will expalin RSA algorithm in detail based on previous research.</p>
-<span id="more"></span>
-
-<h1 id="Simple-History-of-Encryption"><a href="#Simple-History-of-Encryption" class="headerlink" title="Simple History of Encryption"></a>Simple History of Encryption</h1><p>Before 1976, all encryption methods fellow the same rule:</p>
-<ol>
-<li>Alice chooses a certain encryption method, then encrypt <em>message</em>;</li>
-<li>Bob was told by Alice what the encryption method is, then decrypt <em>message</em>;</li>
-</ol>
-<p>Methods based on the above rules are named “Symmetric-key algorithm”. Alice has to tell Bob the information about the encryption method before Bob can decrypt the <em>message</em>, this contains a big potential risk which annoys people for such a long time.</p>
-<img data-src='https://i.loli.net/2021/05/27/lFuwXpNmWTnhZRJ.jpg' width='80%'>
-
-<p>In 1976, 2 American scholars, Whitfield Diffie and Martin Hellman proposed a brand new pattern that without transferring keys <em>message</em> can be decrypted, this method is named as Diffie–Hellman key exchange, also asymmetric cryptographic algorithm.</p>
-<p>未完待续…</p>
-<h1 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h1><ol>
-<li><a href="https://en.wikipedia.org/wiki/Public-key_cryptography">Public-key cryptography, <em>Wikipedia</em></a> </li>
-<li><a href="https://simple.wikipedia.org/wiki/RSA_algorithm">RSA algorithm, <em>Wikipedia</em></a> </li>
-<li>Rivest R L, Shamir A, Adleman L M. Cryptographic communications system and method: U.S. Patent 4,405,829[P]. 1983-9-20.</li>
-<li>RSA算法原理<span class="exturl" data-url="aHR0cDovL3d3dy5ydWFueWlmZW5nLmNvbS9ibG9nLzIwMTMvMDYvcnNhX2FsZ29yaXRobV9wYXJ0X29uZS5odG1s">(1)<i class="fa fa-external-link-alt"></i></span>&amp;<span class="exturl" data-url="aHR0cDovL3d3dy5ydWFueWlmZW5nLmNvbS9ibG9nLzIwMTMvMDcvcnNhX2FsZ29yaXRobV9wYXJ0X3R3by5odG1s">(2)<i class="fa fa-external-link-alt"></i></span> </li>
-<li>[YouTube] The RSA Encryption Algorithm <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS80emFodmNKOWdsZw==">(1)<i class="fa fa-external-link-alt"></i></span>&amp;<span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9vT2NUVlRwVXNQUQ==">(2)<i class="fa fa-external-link-alt"></i></span> </li>
-<li>[YouTube] <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS82SF85bDlOM0lYVQ==">Will Quantum Computers break encryption?<i class="fa fa-external-link-alt"></i></span> </li>
-<li>…</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Algorithm</category>
-      </categories>
-      <tags>
-        <tag>RSA</tag>
-        <tag>Cryptography</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《送东阳马生序》| 宋濂</title>
     <url>/posts/24612dba/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='http://qqpublic.qpic.cn/qq_public/0/0-2525091099-3BA0C2E3EA6ABDAD7606A32E81295994/0?fmt=jpg&size=87&h=933&w=884&ppv=1/0' width='50%'>
@@ -465,18 +465,180 @@
       </categories>
   </entry>
   <entry>
-    <title>Uncertainty</title>
-    <url>/posts/795e1c16/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security.    </p>
-</blockquote>
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cubWF0aC50ZW1wbGUuZWR1L35wYXVsb3MvaW5kZXguaHRtbA==">John Allen Paulos<i class="fa fa-external-link-alt"></i></span> </p>
+    <title>Tools</title>
+    <url>/posts/2b3bf173/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="作图工具"><a href="#作图工具" class="headerlink" title="作图工具"></a>作图工具</h1><ul>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy56dW9oYW90dS5jb20v">做好图<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9pbmtzY2FwZS5vcmcv">INKSPACE<i class="fa fa-external-link-alt"></i></span> <ul>
+<li>特点：矢量图</li>
+</ul>
+</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly90aGVpbnBhaW50LmNvbS8=">Inpaint<i class="fa fa-external-link-alt"></i></span> <ul>
+<li>特点：提供类似 photoshop 的基础功能，简单易用</li>
+</ul>
+</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9pbWFnZW1hZ2ljay5vcmcvaW5kZXgucGhw">ImageMagick<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<span id="more"></span>
+
+<h1 id="PDF处理工具"><a href="#PDF处理工具" class="headerlink" title="PDF处理工具"></a>PDF处理工具</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9zbWFsbHBkZi5jb20v">SmallPDF<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuaWxvdmVwZGYuY29tLw==">I Love PDF<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="文字编辑工具"><a href="#文字编辑工具" class="headerlink" title="文字编辑工具"></a>文字编辑工具</h1><ul>
+<li>Sublime Text</li>
+<li>Typora</li>
+<li>Microsoft Office</li>
+<li>WPS Office</li>
+<li>Notepad++</li>
+<li>Mark Text</li>
+</ul>
+<h2 id="LaTeX"><a href="#LaTeX" class="headerlink" title="LaTeX"></a>LaTeX</h2><ul>
+<li>Texmaker</li>
+<li>Lyx</li>
+</ul>
+<h1 id="文字转语音"><a href="#文字转语音" class="headerlink" title="文字转语音"></a>文字转语音</h1><ul>
+<li><p><span class="exturl" data-url="aHR0cDovL3d3dy5jcm9zcy1wbHVzLWEuY29tL2JhbGFib2xrYS5odG0=">Balabolka<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+<li><p><span class="exturl" data-url="aHR0cDovL3d3dy40NDN3LmNvbS90dHMv">朗读女<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+<li><p><span class="exturl" data-url="aHR0cHM6Ly93d3cuY29kZXIud29yay90ZXh0MmF1ZGlv">在线语音合成<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+</ul>
+<h1 id="思维导图工具"><a href="#思维导图工具" class="headerlink" title="思维导图工具"></a>思维导图工具</h1><ul>
+<li>Xmind ZEN</li>
+<li>Mindjet Manager</li>
+</ul>
+<h2 id="流程图"><a href="#流程图" class="headerlink" title="流程图"></a>流程图</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9vbmxpbmUudmlzdWFsLXBhcmFkaWdtLmNvbS9kaWFncmFtcy8=">Visual Paradigm<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly90aW1lLmdyYXBoaWNzLw==">Time Graphics<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudGlraS10b2tpLmNvbS8=">Tiki-Toki Timeline Maker<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGVseS5jb20v">Creately<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+<h1 id="下载工具"><a href="#下载工具" class="headerlink" title="下载工具"></a>下载工具</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuaW50ZXJuZXRkb3dubG9hZG1hbmFnZXIuY29tLw==">Internet Download Manager<i class="fa fa-external-link-alt"></i></span> </li>
+<li>Motrix</li>
+<li>qBittorrent</li>
+<li>bitcomet</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dWJlLWRsLm9yZy8=">Youtube-dl<i class="fa fa-external-link-alt"></i></span> <ul>
+<li>download Youtube videos or audios</li>
+</ul>
+</li>
+</ul>
+<h1 id="数学工具"><a href="#数学工具" class="headerlink" title="数学工具"></a>数学工具</h1><ul>
+<li>Mathpix Snip</li>
+<li>LaTexiT</li>
+</ul>
+<h1 id="演示工具"><a href="#演示工具" class="headerlink" title="演示工具"></a>演示工具</h1><ul>
+<li>Focusky</li>
+<li>PowerPoint</li>
+</ul>
+<h1 id="Color"><a href="#Color" class="headerlink" title="Color"></a>Color</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9jb2xvcnBpeC5lbi5zb2Z0b25pYy5jb20v">Colorpix<i class="fa fa-external-link-alt"></i></span>, Free and Streamlined Desktop Colour Formatting Tool</li>
+</ul>
+<h1 id="远程桌面"><a href="#远程桌面" class="headerlink" title="远程桌面"></a>远程桌面</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9zdW5sb2dpbi5vcmF5LmNvbS8=">向日葵远程控制<i class="fa fa-external-link-alt"></i></span></li>
+<li>TeamViewer</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3J1c3RkZXNrL3J1c3RkZXNr">RustDesk<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+<h1 id="鼠标录制"><a href="#鼠标录制" class="headerlink" title="鼠标录制"></a>鼠标录制</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly90aW55dGFzay5lbi5zb2Z0b25pYy5jb20v">TinyTask<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="视频后期"><a href="#视频后期" class="headerlink" title="视频后期"></a>视频后期</h1><ul>
+<li>剪映</li>
+<li>HitFilmExpress</li>
+<li>Camtasia</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuc2hvdGN1dGFwcC5jb20v">Shoucut<i class="fa fa-external-link-alt"></i></span> (open source)</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9oYW5kYnJha2UuZnIv">HandBrake<i class="fa fa-external-link-alt"></i></span> （功能：剪辑、压缩）</li>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy5wY2dlc2hpLmNvbS8=">格式工厂<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="音频后期"><a href="#音频后期" class="headerlink" title="音频后期"></a>音频后期</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuaXpvdG9wZS5jb20vZW4vcHJvZHVjdHMvcnguaHRtbA==">iZotope RX 8<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+<h1 id="录屏软件"><a href="#录屏软件" class="headerlink" title="录屏软件"></a>录屏软件</h1><h2 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9vaHNvZnQubmV0L2VuZy9vY2FtL2ludHJvLnBocD9jYXRlPTEwMDI=">oCam<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuaWV3YXkuY24vZXZjYXB0dXJlLmh0bWw=">EV录屏<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9tYXRoZXdzYWNoaW4uZ2l0aHViLmlvL0NhcHR1cmEv">Captura<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+<h1 id="截图工具"><a href="#截图工具" class="headerlink" title="截图工具"></a>截图工具</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9nZXRzaGFyZXguY29tLw==">ShareX<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuc25pcGFzdGUuY29tLw==">Snipaste<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+<h1 id="服务器管理工具"><a href="#服务器管理工具" class="headerlink" title="服务器管理工具"></a>服务器管理工具</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9maWxlemlsbGEtcHJvamVjdC5vcmcv">FileZilla<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="资讯类工具"><a href="#资讯类工具" class="headerlink" title="资讯类工具"></a>资讯类工具</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2lhbWFkYW1kZXYvYnlwYXNzLXBheXdhbGxzLWNocm9tZQ==">bypass-paywalls-chrome<i class="fa fa-external-link-alt"></i></span> <ul>
+<li>Function: skip subscription.</li>
+</ul>
+</li>
+</ul>
+<h1 id="系统安全"><a href="#系统安全" class="headerlink" title="系统安全"></a>系统安全</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9wcml2YXplci5jb20vZW4vaW5kZXgucGhw">PrivaZer<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="笔记类工具"><a href="#笔记类工具" class="headerlink" title="笔记类工具"></a>笔记类工具</h1><ul>
+<li>OneNote</li>
+<li>Code.io</li>
+<li>Notion</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9vYnNpZGlhbi5tZC8=">Obsidian.md<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="Windows-文件快速检索"><a href="#Windows-文件快速检索" class="headerlink" title="Windows 文件快速检索"></a>Windows 文件快速检索</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubGlzdGFyeS5jb20v">Listary<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudm9pZHRvb2xzLmNvbS8=">Everything<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy51ZGVyem8uaXQvbWFpbl9wcm9kdWN0cy9zcGFjZV9zbmlmZmVyLw==">SpaceSniffer<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+<h1 id="文献管理工具"><a href="#文献管理工具" class="headerlink" title="文献管理工具"></a>文献管理工具</h1><ul>
+<li><a href="www.zotero.org">Zotero</a> </li>
+</ul>
+<h1 id="文献计量"><a href="#文献计量" class="headerlink" title="文献计量"></a>文献计量</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudm9zdmlld2VyLmNvbS8=">VOSviewer<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+<h1 id="邮箱客户端"><a href="#邮箱客户端" class="headerlink" title="邮箱客户端"></a>邮箱客户端</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudGh1bmRlcmJpcmQubmV0Lw==">Thunderbird<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cDovL21haWwuMTYzLmNvbS9kYXNoaS9pbmRleC5odG1s">网易邮箱大师<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="文件同步工具"><a href="#文件同步工具" class="headerlink" title="文件同步工具"></a>文件同步工具</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9zeW5jdGhpbmcubmV0Lw==">Syncthing<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuamlhbmd1b3l1bi5jb20v">坚果云<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9mcmVlZmlsZXN5bmMub3JnLw==">Freefile Sync<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="日历"><a href="#日历" class="headerlink" title="日历"></a>日历</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9jYWxlbmRhci5nb29nbGUuY29tLw==">Google Calendar<i class="fa fa-external-link-alt"></i></span><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuZ3RpbWVyZXBvcnQuY29tLw==">GTimeReport<i class="fa fa-external-link-alt"></i></span>: generate google calendar report</li>
+</ul>
+</li>
+</ul>
+<h1 id="视频播放器"><a href="#视频播放器" class="headerlink" title="视频播放器"></a>视频播放器</h1><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9zcGxheWVyLm9yZy8=">SPlayer<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9wb3RwbGF5ZXIuZGF1bS5uZXQv">PotPlayer<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudmlkZW9sYW4ub3JnLw==">VLC media player<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="计算机管理"><a href="#计算机管理" class="headerlink" title="计算机管理"></a>计算机管理</h1><h2 id="固态硬盘"><a href="#固态硬盘" class="headerlink" title="固态硬盘"></a>固态硬盘</h2><ul>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy5kYXlhbnphaS5tZS9hcy1zc2QtYmVuY2htYXJrLmh0bWw=">AS SSD Benchmark<i class="fa fa-external-link-alt"></i></span>，固态硬盘测试工具</li>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy5kYXlhbnphaS5tZS9zc2QtZnJlc2guaHRtbA==">Abelssoft SSD Fresh<i class="fa fa-external-link-alt"></i></span>，固态硬盘优化工具</li>
+</ul>
+<h2 id="CPU"><a href="#CPU" class="headerlink" title="CPU"></a>CPU</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuY3B1aWQuY29tL3NvZnR3YXJlcy9jcHUtei5odG1s">CPU-Z<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h2 id="流量统计"><a href="#流量统计" class="headerlink" title="流量统计"></a>流量统计</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3pob25neWFuZzIxOS9UcmFmZmljTW9uaXRvcg==">TrafficMonitor<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+<h2 id="IP-trace"><a href="#IP-trace" class="headerlink" title="IP trace"></a>IP trace</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuaXBpcC5uZXQvcHJvZHVjdC9jbGllbnQuaHRtbA==">Best Trace<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<h1 id="实用软件推荐网站"><a href="#实用软件推荐网站" class="headerlink" title="实用软件推荐网站"></a>实用软件推荐网站</h1><ul>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy5jYXJyb3RjaG91LmJsb2cv">胡萝卜周<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cDovL2RheWFuemFpLm1lLw==">大眼仔<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9sYW9kLmNuLw==">老D博客<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuZ2hweW0uY29tLw==">果核剥壳<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy56aGFuc2hhb3lpLmNvbS8=">我爱分享网<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
 ]]></content>
       <categories>
-        <category>Experience</category>
+        <category>Tool</category>
       </categories>
       <tags>
-        <tag>Principle</tag>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -533,6 +695,21 @@
       </tags>
   </entry>
   <entry>
+    <title>Uncertainty</title>
+    <url>/posts/795e1c16/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security.    </p>
+</blockquote>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cubWF0aC50ZW1wbGUuZWR1L35wYXVsb3MvaW5kZXguaHRtbA==">John Allen Paulos<i class="fa fa-external-link-alt"></i></span> </p>
+]]></content>
+      <categories>
+        <category>Experience</category>
+      </categories>
+      <tags>
+        <tag>Principle</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Youth</title>
     <url>/posts/ca6442d1/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
@@ -549,180 +726,6 @@
       <categories>
         <category>Article</category>
       </categories>
-  </entry>
-  <entry>
-    <title>Tools</title>
-    <url>/posts/2b3bf173/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="作图工具"><a href="#作图工具" class="headerlink" title="作图工具"></a>作图工具</h1><ul>
-<li>  <span class="exturl" data-url="aHR0cDovL3d3dy56dW9oYW90dS5jb20v">做好图<i class="fa fa-external-link-alt"></i></span> </li>
-<li><span class="exturl" data-url="aHR0cHM6Ly9pbmtzY2FwZS5vcmcv">INKSPACE<i class="fa fa-external-link-alt"></i></span> <ul>
-<li>  特点：矢量图</li>
-</ul>
-</li>
-<li><span class="exturl" data-url="aHR0cHM6Ly90aGVpbnBhaW50LmNvbS8=">Inpaint<i class="fa fa-external-link-alt"></i></span> <ul>
-<li>  特点：提供类似 photoshop 的基础功能，简单易用</li>
-</ul>
-</li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9pbWFnZW1hZ2ljay5vcmcvaW5kZXgucGhw">ImageMagick<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<span id="more"></span>
-
-<h1 id="PDF处理工具"><a href="#PDF处理工具" class="headerlink" title="PDF处理工具"></a>PDF处理工具</h1><ul>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9zbWFsbHBkZi5jb20v">SmallPDF<i class="fa fa-external-link-alt"></i></span> </li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuaWxvdmVwZGYuY29tLw==">I Love PDF<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="文字编辑工具"><a href="#文字编辑工具" class="headerlink" title="文字编辑工具"></a>文字编辑工具</h1><ul>
-<li>  Sublime Text</li>
-<li>  Typora</li>
-<li>  Microsoft Office</li>
-<li>  WPS Office</li>
-<li>  Notepad++</li>
-<li>  Mark Text</li>
-</ul>
-<h2 id="LaTeX"><a href="#LaTeX" class="headerlink" title="LaTeX"></a>LaTeX</h2><ul>
-<li>Texmaker</li>
-<li>Lyx</li>
-</ul>
-<h1 id="文字转语音"><a href="#文字转语音" class="headerlink" title="文字转语音"></a>文字转语音</h1><ul>
-<li><p><span class="exturl" data-url="aHR0cDovL3d3dy5jcm9zcy1wbHVzLWEuY29tL2JhbGFib2xrYS5odG0=">Balabolka<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-<li><p><span class="exturl" data-url="aHR0cDovL3d3dy40NDN3LmNvbS90dHMv">朗读女<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-<li><p><span class="exturl" data-url="aHR0cHM6Ly93d3cuY29kZXIud29yay90ZXh0MmF1ZGlv">在线语音合成<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-</ul>
-<h1 id="思维导图工具"><a href="#思维导图工具" class="headerlink" title="思维导图工具"></a>思维导图工具</h1><ul>
-<li>  Xmind ZEN</li>
-<li>  Mindjet Manager</li>
-</ul>
-<h2 id="流程图"><a href="#流程图" class="headerlink" title="流程图"></a>流程图</h2><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly9vbmxpbmUudmlzdWFsLXBhcmFkaWdtLmNvbS9kaWFncmFtcy8=">Visual Paradigm<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly90aW1lLmdyYXBoaWNzLw==">Time Graphics<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudGlraS10b2tpLmNvbS8=">Tiki-Toki Timeline Maker<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGVseS5jb20v">Creately<i class="fa fa-external-link-alt"></i></span></li>
-</ul>
-<h1 id="下载工具"><a href="#下载工具" class="headerlink" title="下载工具"></a>下载工具</h1><ul>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuaW50ZXJuZXRkb3dubG9hZG1hbmFnZXIuY29tLw==">Internet Download Manager<i class="fa fa-external-link-alt"></i></span> </li>
-<li>  Motrix</li>
-<li>  qBittorrent</li>
-<li>  bitcomet</li>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dWJlLWRsLm9yZy8=">Youtube-dl<i class="fa fa-external-link-alt"></i></span> <ul>
-<li>  download Youtube videos or audios</li>
-</ul>
-</li>
-</ul>
-<h1 id="数学工具"><a href="#数学工具" class="headerlink" title="数学工具"></a>数学工具</h1><ul>
-<li>  Mathpix Snip</li>
-<li>  LaTexiT</li>
-</ul>
-<h1 id="演示工具"><a href="#演示工具" class="headerlink" title="演示工具"></a>演示工具</h1><ul>
-<li>  Focusky</li>
-<li>  PowerPoint</li>
-</ul>
-<h1 id="Color"><a href="#Color" class="headerlink" title="Color"></a>Color</h1><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly9jb2xvcnBpeC5lbi5zb2Z0b25pYy5jb20v">Colorpix<i class="fa fa-external-link-alt"></i></span>, Free and Streamlined Desktop Colour Formatting Tool</li>
-</ul>
-<h1 id="远程桌面"><a href="#远程桌面" class="headerlink" title="远程桌面"></a>远程桌面</h1><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly9zdW5sb2dpbi5vcmF5LmNvbS8=">向日葵远程控制<i class="fa fa-external-link-alt"></i></span></li>
-<li>TeamViewer</li>
-<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3J1c3RkZXNrL3J1c3RkZXNr">RustDesk<i class="fa fa-external-link-alt"></i></span></li>
-</ul>
-<h1 id="鼠标录制"><a href="#鼠标录制" class="headerlink" title="鼠标录制"></a>鼠标录制</h1><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly90aW55dGFzay5lbi5zb2Z0b25pYy5jb20v">TinyTask<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="视频后期"><a href="#视频后期" class="headerlink" title="视频后期"></a>视频后期</h1><ul>
-<li>  剪映</li>
-<li>  HitFilmExpress</li>
-<li>  Camtasia</li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuc2hvdGN1dGFwcC5jb20v">Shoucut<i class="fa fa-external-link-alt"></i></span> (open source)</li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9oYW5kYnJha2UuZnIv">HandBrake<i class="fa fa-external-link-alt"></i></span> （功能：剪辑、压缩）</li>
-<li>  <span class="exturl" data-url="aHR0cDovL3d3dy5wY2dlc2hpLmNvbS8=">格式工厂<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="音频后期"><a href="#音频后期" class="headerlink" title="音频后期"></a>音频后期</h1><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuaXpvdG9wZS5jb20vZW4vcHJvZHVjdHMvcnguaHRtbA==">iZotope RX 8<i class="fa fa-external-link-alt"></i></span></li>
-</ul>
-<h1 id="录屏软件"><a href="#录屏软件" class="headerlink" title="录屏软件"></a>录屏软件</h1><h2 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h2><ul>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9vaHNvZnQubmV0L2VuZy9vY2FtL2ludHJvLnBocD9jYXRlPTEwMDI=">oCam<i class="fa fa-external-link-alt"></i></span> </li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuaWV3YXkuY24vZXZjYXB0dXJlLmh0bWw=">EV录屏<i class="fa fa-external-link-alt"></i></span> </li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9tYXRoZXdzYWNoaW4uZ2l0aHViLmlvL0NhcHR1cmEv">Captura<i class="fa fa-external-link-alt"></i></span></li>
-</ul>
-<h1 id="截图工具"><a href="#截图工具" class="headerlink" title="截图工具"></a>截图工具</h1><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly9nZXRzaGFyZXguY29tLw==">ShareX<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuc25pcGFzdGUuY29tLw==">Snipaste<i class="fa fa-external-link-alt"></i></span></li>
-</ul>
-<h1 id="服务器管理工具"><a href="#服务器管理工具" class="headerlink" title="服务器管理工具"></a>服务器管理工具</h1><ul>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9maWxlemlsbGEtcHJvamVjdC5vcmcv">FileZilla<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="资讯类工具"><a href="#资讯类工具" class="headerlink" title="资讯类工具"></a>资讯类工具</h1><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2lhbWFkYW1kZXYvYnlwYXNzLXBheXdhbGxzLWNocm9tZQ==">bypass-paywalls-chrome<i class="fa fa-external-link-alt"></i></span> <ul>
-<li>Function: skip subscription.</li>
-</ul>
-</li>
-</ul>
-<h1 id="系统安全"><a href="#系统安全" class="headerlink" title="系统安全"></a>系统安全</h1><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly9wcml2YXplci5jb20vZW4vaW5kZXgucGhw">PrivaZer<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="笔记类工具"><a href="#笔记类工具" class="headerlink" title="笔记类工具"></a>笔记类工具</h1><ul>
-<li>  OneNote</li>
-<li>  Code.io</li>
-<li>  Notion</li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9vYnNpZGlhbi5tZC8=">Obsidian.md<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="Windows-文件快速检索"><a href="#Windows-文件快速检索" class="headerlink" title="Windows 文件快速检索"></a>Windows 文件快速检索</h1><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubGlzdGFyeS5jb20v">Listary<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudm9pZHRvb2xzLmNvbS8=">Everything<i class="fa fa-external-link-alt"></i></span> </li>
-<li><span class="exturl" data-url="aHR0cDovL3d3dy51ZGVyem8uaXQvbWFpbl9wcm9kdWN0cy9zcGFjZV9zbmlmZmVyLw==">SpaceSniffer<i class="fa fa-external-link-alt"></i></span></li>
-</ul>
-<h1 id="文献管理工具"><a href="#文献管理工具" class="headerlink" title="文献管理工具"></a>文献管理工具</h1><ul>
-<li>  <a href="www.zotero.org">Zotero</a> </li>
-</ul>
-<h1 id="文献计量"><a href="#文献计量" class="headerlink" title="文献计量"></a>文献计量</h1><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudm9zdmlld2VyLmNvbS8=">VOSviewer<i class="fa fa-external-link-alt"></i></span></li>
-</ul>
-<h1 id="邮箱客户端"><a href="#邮箱客户端" class="headerlink" title="邮箱客户端"></a>邮箱客户端</h1><ul>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cudGh1bmRlcmJpcmQubmV0Lw==">Thunderbird<i class="fa fa-external-link-alt"></i></span> </li>
-<li>  <span class="exturl" data-url="aHR0cDovL21haWwuMTYzLmNvbS9kYXNoaS9pbmRleC5odG1s">网易邮箱大师<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="文件同步工具"><a href="#文件同步工具" class="headerlink" title="文件同步工具"></a>文件同步工具</h1><ul>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9zeW5jdGhpbmcubmV0Lw==">Syncthing<i class="fa fa-external-link-alt"></i></span> </li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuamlhbmd1b3l1bi5jb20v">坚果云<i class="fa fa-external-link-alt"></i></span> </li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9mcmVlZmlsZXN5bmMub3JnLw==">Freefile Sync<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="日历"><a href="#日历" class="headerlink" title="日历"></a>日历</h1><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly9jYWxlbmRhci5nb29nbGUuY29tLw==">Google Calendar<i class="fa fa-external-link-alt"></i></span><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuZ3RpbWVyZXBvcnQuY29tLw==">GTimeReport<i class="fa fa-external-link-alt"></i></span>: generate google calendar report</li>
-</ul>
-</li>
-</ul>
-<h1 id="视频播放器"><a href="#视频播放器" class="headerlink" title="视频播放器"></a>视频播放器</h1><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly9zcGxheWVyLm9yZy8=">SPlayer<i class="fa fa-external-link-alt"></i></span> </li>
-<li><span class="exturl" data-url="aHR0cHM6Ly9wb3RwbGF5ZXIuZGF1bS5uZXQv">PotPlayer<i class="fa fa-external-link-alt"></i></span> </li>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cudmlkZW9sYW4ub3JnLw==">VLC media player<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h1 id="计算机管理"><a href="#计算机管理" class="headerlink" title="计算机管理"></a>计算机管理</h1><h2 id="固态硬盘"><a href="#固态硬盘" class="headerlink" title="固态硬盘"></a>固态硬盘</h2><ul>
-<li><span class="exturl" data-url="aHR0cDovL3d3dy5kYXlhbnphaS5tZS9hcy1zc2QtYmVuY2htYXJrLmh0bWw=">AS SSD Benchmark<i class="fa fa-external-link-alt"></i></span>，固态硬盘测试工具</li>
-<li><span class="exturl" data-url="aHR0cDovL3d3dy5kYXlhbnphaS5tZS9zc2QtZnJlc2guaHRtbA==">Abelssoft SSD Fresh<i class="fa fa-external-link-alt"></i></span>，固态硬盘优化工具</li>
-</ul>
-<h2 id="CPU"><a href="#CPU" class="headerlink" title="CPU"></a>CPU</h2><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuY3B1aWQuY29tL3NvZnR3YXJlcy9jcHUtei5odG1s">CPU-Z<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<h2 id="流量统计"><a href="#流量统计" class="headerlink" title="流量统计"></a>流量统计</h2><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3pob25neWFuZzIxOS9UcmFmZmljTW9uaXRvcg==">TrafficMonitor<i class="fa fa-external-link-alt"></i></span></li>
-</ul>
-<h1 id="实用软件推荐网站"><a href="#实用软件推荐网站" class="headerlink" title="实用软件推荐网站"></a>实用软件推荐网站</h1><ul>
-<li>  <span class="exturl" data-url="aHR0cDovL3d3dy5jYXJyb3RjaG91LmJsb2cv">胡萝卜周<i class="fa fa-external-link-alt"></i></span></li>
-<li>  <span class="exturl" data-url="aHR0cDovL2RheWFuemFpLm1lLw==">大眼仔<i class="fa fa-external-link-alt"></i></span></li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly9sYW9kLmNuLw==">老D博客<i class="fa fa-external-link-alt"></i></span></li>
-<li>  <span class="exturl" data-url="aHR0cHM6Ly93d3cuZ2hweW0uY29tLw==">果核剥壳<i class="fa fa-external-link-alt"></i></span> </li>
-<li>  <span class="exturl" data-url="aHR0cDovL3d3dy56aGFuc2hhb3lpLmNvbS8=">我爱分享网<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-]]></content>
-      <categories>
-        <category>Tool</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
   </entry>
   <entry>
     <title>职场经验分享</title>
@@ -1058,25 +1061,6 @@
       </tags>
   </entry>
   <entry>
-    <title>粟耀莹·《从加州理工到高盛银行》</title>
-    <url>/posts/1f972e30/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>原文：<span class="exturl" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC90b3BpYy8xMDU0OTAyLw==">粟耀莹  从加州理工到高盛银行<i class="fa fa-external-link-alt"></i></span> </p>
-<p>粟耀莹的母亲是洪冬桂，台湾立法委员；父亲是粟明德，白崇禧义子，曾任蒋经国秘书；粟家与白家世交。</p>
-<span id="more"></span>
-
-<blockquote>
-<p>“我从来没有想要教书或作研究，我去加州理工，这个在世界上诺贝尔奖得主密度最大的地方，是为了接受其熏陶，以悟出如何得到诺贝尔奖的道理，并对我当年的偶象Feynman费因曼(著名的物理诺贝尔奖得主，著有Surely You’re Joking，Mr.Feynman 一书)生前待过最久的地方，进行模拜。“</p>
-</blockquote>
-<p>因为研究生课程免修考试通过，因此粟有时间多浏览物理领域的前沿内容（也曾经拜访叶乃裳教授），之后经过多方了解，认为物理与生物交叉的方向前景广阔，值得研究。但因为自己之前没有生物基础，所以就必须去生物系选修相关的课程，最初受到冷眼旁观，但是之后自己取得了很好的成绩，逐步得到各种人的赞赏。在科学之外，她发现还有一个宽广而多彩的世界，商业是一个足可与科学抗衡的行业。 </p>
-]]></content>
-      <categories>
-        <category>Comment</category>
-      </categories>
-      <tags>
-        <tag>Comment</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Brain Game | Challenge your Mind</title>
     <url>/posts/e76f6c15/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="一句话拯救一百人"><a href="#一句话拯救一百人" class="headerlink" title="一句话拯救一百人"></a>一句话拯救一百人</h1><blockquote>
@@ -1166,6 +1150,50 @@
       </tags>
   </entry>
   <entry>
+    <title>粟耀莹·《从加州理工到高盛银行》</title>
+    <url>/posts/1f972e30/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>原文：<span class="exturl" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC90b3BpYy8xMDU0OTAyLw==">粟耀莹  从加州理工到高盛银行<i class="fa fa-external-link-alt"></i></span> </p>
+<p>粟耀莹的母亲是洪冬桂，台湾立法委员；父亲是粟明德，白崇禧义子，曾任蒋经国秘书；粟家与白家世交。</p>
+<span id="more"></span>
+
+<blockquote>
+<p>“我从来没有想要教书或作研究，我去加州理工，这个在世界上诺贝尔奖得主密度最大的地方，是为了接受其熏陶，以悟出如何得到诺贝尔奖的道理，并对我当年的偶象Feynman费因曼(著名的物理诺贝尔奖得主，著有Surely You’re Joking，Mr.Feynman 一书)生前待过最久的地方，进行模拜。“</p>
+</blockquote>
+<p>因为研究生课程免修考试通过，因此粟有时间多浏览物理领域的前沿内容（也曾经拜访叶乃裳教授），之后经过多方了解，认为物理与生物交叉的方向前景广阔，值得研究。但因为自己之前没有生物基础，所以就必须去生物系选修相关的课程，最初受到冷眼旁观，但是之后自己取得了很好的成绩，逐步得到各种人的赞赏。在科学之外，她发现还有一个宽广而多彩的世界，商业是一个足可与科学抗衡的行业。 </p>
+]]></content>
+      <categories>
+        <category>Comment</category>
+      </categories>
+      <tags>
+        <tag>Comment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>About Consulting Industry</title>
+    <url>/posts/82164401/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/consulting%20industry%20pic1.jpg?raw=true' width='80%'>
+
+<p><em><strong>What kind of people is not suitable for consulting industry? (<span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9EZnZydC0zSUF4VQ==">Mika Kim’s YouTube channel<i class="fa fa-external-link-alt"></i></span>)</strong></em></p>
+<span id="more"></span>
+
+<ol>
+<li>Not good at working with different people</li>
+<li>Don’t like change and competition </li>
+<li>Want a work life balance? Of course, you don’t have work life balance </li>
+<li>Say yes to every task.</li>
+<li>You hate writing. You will need to write a lot.</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Business</category>
+      </categories>
+      <tags>
+        <tag>Management</tag>
+        <tag>Career</tag>
+        <tag>Job Hunting</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>How to Choose a Dissertation Topic For Your Doctoral Degree</title>
     <url>/posts/5bbeeda3/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="选题的优雅法则"><a href="#选题的优雅法则" class="headerlink" title="选题的优雅法则"></a>选题的优雅法则</h1><blockquote>
@@ -1225,31 +1253,6 @@
       </tags>
   </entry>
   <entry>
-    <title>About Consulting Industry</title>
-    <url>/posts/82164401/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/consulting%20industry%20pic1.jpg?raw=true' width='80%'>
-
-<p><em><strong>What kind of people is not suitable for consulting industry? (<span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9EZnZydC0zSUF4VQ==">Mika Kim’s YouTube channel<i class="fa fa-external-link-alt"></i></span>)</strong></em></p>
-<span id="more"></span>
-
-<ol>
-<li>Not good at working with different people</li>
-<li>Don’t like change and competition </li>
-<li>Want a work life balance? Of course, you don’t have work life balance </li>
-<li>Say yes to every task.</li>
-<li>You hate writing. You will need to write a lot.</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Business</category>
-      </categories>
-      <tags>
-        <tag>Management</tag>
-        <tag>Career</tag>
-        <tag>Job Hunting</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>如何区分数据科学、机器学习、人工智能？</title>
     <url>/posts/421a5bc1/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>David Robinson 在其博客<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="http://varianceexplained.org/r/ds-ml-ai/">[1]</span></a></sup>中给出一种区分方法：</p>
@@ -1286,22 +1289,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Follow Your Passion or NOT</title>
-    <url>/posts/12adc43e/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>When it comes to topics about choice, we are always told to <strong>follow our passion</strong>. </p>
-<p>But recently in an <span class="exturl" data-url="aHR0cHM6Ly9ub2FocGluaW9uLnN1YnN0YWNrLmNvbS9wL2ludGVydmlldy1tYXJjLWFuZHJlZXNzZW4tdmMtYW5k">interview<i class="fa fa-external-link-alt"></i></span>, <span class="exturl" data-url="aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWFyY19BbmRyZWVzc2Vu">Marc Andreessen<i class="fa fa-external-link-alt"></i></span> gave a different view:</p>
-<blockquote>
-<p><strong>Interviewer</strong>: If you could give some advice – career advice, or otherwise – to a smart 23-year-old American today, what would it be?</p>
-<p><strong>M.A.</strong>: <em>Don’t follow your passion. Seriously. Don’t follow your passion. Your passion is likely more dumb and useless than anything else. Your passion should be your hobby, not your work. Do it in your spare time.</em></p>
-<p><em>Instead, at work, seek to contribute. Find the hottest, most vibrant part of the economy you can and figure out how you can contribute best and most. Make yourself of value to the people around you, to your customers and coworkers, and try to increase that value every day.</em></p>
-<p><em>It can sometimes feel that all the exciting things have already happened, that the frontier is closed, that we’re at the end of technological history and there’s nothing left to do but maintain what already exists. This is just a failure of imagination. In fact, the opposite is true. We’re surrounding by rotting incumbents that will all need to be replaced by new technologies. Let’s get on it.</em></p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>Experience</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Edward O. Thorp</title>
     <url>/posts/66089607/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-03-edward-o-thorp.jpg?raw=true' width='68%'>
@@ -1322,6 +1309,37 @@
         <tag>Finance</tag>
         <tag>Math</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Godfather</title>
+    <url>/posts/f2e7ea61/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>This story is about father and son.<br>This story is about family.</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/godfather.jpg' width='80%'>
+
+<p>Provided by the Danish National Symphony Orchestra.</p>
+<iframe width=80% src="https://www.youtube.com/embed/X-jdl9hcCeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+      <categories>
+        <category>Music</category>
+      </categories>
+      <tags>
+        <tag>Music</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Follow Your Passion or NOT</title>
+    <url>/posts/12adc43e/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>When it comes to topics about choice, we are always told to <strong>follow our passion</strong>. </p>
+<p>But recently in an <span class="exturl" data-url="aHR0cHM6Ly9ub2FocGluaW9uLnN1YnN0YWNrLmNvbS9wL2ludGVydmlldy1tYXJjLWFuZHJlZXNzZW4tdmMtYW5k">interview<i class="fa fa-external-link-alt"></i></span>, <span class="exturl" data-url="aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWFyY19BbmRyZWVzc2Vu">Marc Andreessen<i class="fa fa-external-link-alt"></i></span> gave a different view:</p>
+<blockquote>
+<p><strong>Interviewer</strong>: If you could give some advice – career advice, or otherwise – to a smart 23-year-old American today, what would it be?</p>
+<p><strong>M.A.</strong>: <em>Don’t follow your passion. Seriously. Don’t follow your passion. Your passion is likely more dumb and useless than anything else. Your passion should be your hobby, not your work. Do it in your spare time.</em></p>
+<p><em>Instead, at work, seek to contribute. Find the hottest, most vibrant part of the economy you can and figure out how you can contribute best and most. Make yourself of value to the people around you, to your customers and coworkers, and try to increase that value every day.</em></p>
+<p><em>It can sometimes feel that all the exciting things have already happened, that the frontier is closed, that we’re at the end of technological history and there’s nothing left to do but maintain what already exists. This is just a failure of imagination. In fact, the opposite is true. We’re surrounding by rotting incumbents that will all need to be replaced by new technologies. Let’s get on it.</em></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Experience</category>
+      </categories>
   </entry>
   <entry>
     <title>About Richard Feynman</title>
@@ -1345,21 +1363,6 @@
       <tags>
         <tag>Scientist</tag>
         <tag>History</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Godfather</title>
-    <url>/posts/f2e7ea61/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>This story is about father and son.<br>This story is about family.</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/godfather.jpg' width='80%'>
-
-<p>Provided by the Danish National Symphony Orchestra.</p>
-<iframe width=80% src="https://www.youtube.com/embed/X-jdl9hcCeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
-      <categories>
-        <category>Music</category>
-      </categories>
-      <tags>
-        <tag>Music</tag>
       </tags>
   </entry>
   <entry>
@@ -1404,6 +1407,17 @@
       </tags>
   </entry>
   <entry>
+    <title>胜者即是正义 Cut</title>
+    <url>/posts/40ca55ab/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><iframe src="//player.bilibili.com/player.html?aid=33000653&bvid=BV1pW411U7R9&cid=57762427&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+      <categories>
+        <category>电视剧</category>
+      </categories>
+      <tags>
+        <tag>电视剧</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Html Tutorial</title>
     <url>/posts/22f164dc/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Hyperlink"><a href="#Hyperlink" class="headerlink" title="Hyperlink"></a>Hyperlink</h1><p>Syntex:</p>
@@ -1424,17 +1438,6 @@
       <tags>
         <tag>Skill</tag>
         <tag>Html</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>胜者即是正义 Cut</title>
-    <url>/posts/40ca55ab/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><iframe src="//player.bilibili.com/player.html?aid=33000653&bvid=BV1pW411U7R9&cid=57762427&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
-      <categories>
-        <category>电视剧</category>
-      </categories>
-      <tags>
-        <tag>电视剧</tag>
       </tags>
   </entry>
   <entry>
@@ -1460,6 +1463,30 @@
       </categories>
       <tags>
         <tag>OS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Logo Collection</title>
+    <url>/posts/7dd4449d/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Tsinghua%20logo.png' width='68%'>
+
+<span id="more"></span>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/CNMM-LOGO.png' width='68%'>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Purdue%20logo.png' width='68%'>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/TEEP%20logo.png' width='68%'>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/THU%20TEEP%20Logo.jpg' width='68%'>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Tsinghua_Aerospace_LOGO.JPG' width='68%'>
+]]></content>
+      <categories>
+        <category>Resource</category>
+      </categories>
+      <tags>
+        <tag>Resource</tag>
       </tags>
   </entry>
   <entry>
@@ -1529,30 +1556,6 @@ Hello world.
       </tags>
   </entry>
   <entry>
-    <title>Logo Collection</title>
-    <url>/posts/7dd4449d/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Tsinghua%20logo.png' width='68%'>
-
-<span id="more"></span>
-
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/CNMM-LOGO.png' width='68%'>
-
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Purdue%20logo.png' width='68%'>
-
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/TEEP%20logo.png' width='68%'>
-
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/THU%20TEEP%20Logo.jpg' width='68%'>
-
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Tsinghua_Aerospace_LOGO.JPG' width='68%'>
-]]></content>
-      <categories>
-        <category>Resource</category>
-      </categories>
-      <tags>
-        <tag>Resource</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Matlab Tutorial</title>
     <url>/posts/3b670e92/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Matlab-介绍"><a href="#Matlab-介绍" class="headerlink" title="Matlab 介绍"></a>Matlab 介绍</h1><p>MATLAB（Matrix Laboratory，矩阵实验室）是由美国The MathWorks公司出品的商业数学软件。MATLAB是一种用于算法开发、数据可视化、数据分析以及数值计算的高级技术计算语言和交互式环境。除矩阵运算、绘制函数/数据图像等常用功能外，MATLAB还可用来创建用户界面，以及调用其它语言（包括C、C++、Java、Python、FORTRAN）编写的程序。</p>
@@ -1592,29 +1595,6 @@ Hello world.
       </tags>
   </entry>
   <entry>
-    <title>Music Collection</title>
-    <url>/posts/68f6e242/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong Password, Try Later | 抱歉, 这个密码看着不太对, 请再试试." data-whm="Error | 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="132b2755c7f1fdacd988fdf8ea2994a20f33fef101283cb3100c0c1700836291">24014bcf5611e5fe61cbe1a03a36998a99d5dd0feffd4d84146bd514e005d0983aa46a3d68cd34e2b5446d9692f85f980dad1c3decf117f735a1d2003d73b28d3aa4b1c34a779aa3e927f117547a2a871af939658c399256dbae76880a15704c515b03633dbbb8ea540ec1494dda301407dc850801e3ded1887e4da4f4d29104d6a85816f801411e1715387d12c431ef59123368e2fb7db3ece3e4cf37c8ce648bcf96c9de875d64834d31161e095753c404c8f737eeeff48d5b240295d4e3ceb9de3c39be6f275f402032f8413c18699a171a5fe58e118adabf3f1d3e73098296fa42d2b6ffe4b27b454353ed5548cb6842110ceea756c46fe07c82478653d4bd08bbe5887f12b1cdb02686e09ad5d90a1b2fa909fe627e493104de701156b3bba14d89b5f51c3dce0daadbf8a7fbea4de911455a3669a8066d49b01d8ac77c7fb59230410acf851ac9ad521950948f3eb1ab92a9d28541b4443da8147730af1f48037890f0e210ab57c9bdf58fa20400e85417a0c973a9b79ceae9a599bc24977327f4e9f9ba0cc89595128c8b946c14332702eb847e7f06cf53f7f99300e965431c1fdc811759f9b39931e8e5d33a783d91a91d26d3d1f575a61c72a0c5b2683228563dc35335c5628c3bdbe699f6a63c6b9d98573d69f4bf9256fede2cb775fb755199e19578ccc81c41e4d3c266232e587bb693ba75c59c2d2af207d755653b24cd3f8c4b038a2b2ccb2bf2ed80fab05b8f27e99a3587686a3900d2e8d92b92547b9111b4149a936d2967830232dbdac22b191b19b7ffdd49756ab3301399e9fca4ef213f90dfc062a138e2fba7a43dee7910e80a60bc52413469e933f12830878d90852d6fa431a145f86d9279517420021a873121e73229cb1df91f715f1ac59911e32f6c2b1441086aef8aac4a2d58023793a11bc2312f057e69538f464c154a0c9c990d53f2b0cbbf8e4c8dd5b4d80735ba94c7331c9a2cec915f1a</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-up">
-      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-up">输入密码，解密后阅读 | Type Password To Decrypt This Article</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Music</category>
-      </categories>
-      <tags>
-        <tag>Password</tag>
-        <tag>Music</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>两晋南北朝</title>
     <url>/posts/fc8d6db8/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>这段历史的特征：混乱；王朝短命；</p>
@@ -1650,31 +1630,6 @@ Hello world.
       </categories>
       <tags>
         <tag>History</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>英剧《Peaky Blinders》</title>
-    <url>/posts/3efbd27d/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>中文译名：浴血黑帮</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/thomas_shelby.jpg' width='80%'>
-
-<p>Thomas Shelby 性格特点中值得借鉴的部分：</p>
-<ol>
-<li><strong>解决问题</strong></li>
-<li><strong>距离感</strong></li>
-<li><strong>节奏感</strong></li>
-<li><strong>控制情绪</strong></li>
-</ol>
-<p>推荐资料：</p>
-<ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9yTGF0YVlZQzRvTQ==">【浴血黑帮】人物篇 | 凡人皆有一死，神除外 | Thomas Shelby<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-]]></content>
-      <categories>
-        <category>电视剧</category>
-      </categories>
-      <tags>
-        <tag>电视剧</tag>
       </tags>
   </entry>
   <entry>
@@ -1747,6 +1702,54 @@ Hello world.
       <tags>
         <tag>Skill</tag>
         <tag>Scientist</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Music Collection</title>
+    <url>/posts/68f6e242/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong Password, Try Later | 抱歉, 这个密码看着不太对, 请再试试." data-whm="Error | 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="132b2755c7f1fdacd988fdf8ea2994a20f33fef101283cb3100c0c1700836291">24014bcf5611e5fe61cbe1a03a36998a99d5dd0feffd4d84146bd514e005d0983aa46a3d68cd34e2b5446d9692f85f980dad1c3decf117f735a1d2003d73b28d3aa4b1c34a779aa3e927f117547a2a871af939658c399256dbae76880a15704c515b03633dbbb8ea540ec1494dda301407dc850801e3ded1887e4da4f4d29104d6a85816f801411e1715387d12c431ef59123368e2fb7db3ece3e4cf37c8ce648bcf96c9de875d64834d31161e095753c404c8f737eeeff48d5b240295d4e3ceb9de3c39be6f275f402032f8413c18699a171a5fe58e118adabf3f1d3e73098296fa42d2b6ffe4b27b454353ed5548cb6842110ceea756c46fe07c82478653d4bd08bbe5887f12b1cdb02686e09ad5d90a1b2fa909fe627e493104de701156b3bba14d89b5f51c3dce0daadbf8a7fbea4de911455a3669a8066d49b01d8ac77c7fb59230410acf851ac9ad521950948f3eb1ab92a9d28541b4443da8147730af1f48037890f0e210ab57c9bdf58fa20400e85417a0c973a9b79ceae9a599bc24977327f4e9f9ba0cc89595128c8b946c14332702eb847e7f06cf53f7f99300e965431c1fdc811759f9b39931e8e5d33a783d91a91d26d3d1f575a61c72a0c5b2683228563dc35335c5628c3bdbe699f6a63c6b9d98573d69f4bf9256fede2cb775fb755199e19578ccc81c41e4d3c266232e587bb693ba75c59c2d2af207d755653b24cd3f8c4b038a2b2ccb2bf2ed80fab05b8f27e99a3587686a3900d2e8d92b92547b9111b4149a936d2967830232dbdac22b191b19b7ffdd49756ab3301399e9fca4ef213f90dfc062a138e2fba7a43dee7910e80a60bc52413469e933f12830878d90852d6fa431a145f86d9279517420021a873121e73229cb1df91f715f1ac59911e32f6c2b1441086aef8aac4a2d58023793a11bc2312f057e69538f464c154a0c9c990d53f2b0cbbf8e4c8dd5b4d80735ba94c7331c9a2cec915f1a</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-up">
+      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-up">输入密码，解密后阅读 | Type Password To Decrypt This Article</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Music</category>
+      </categories>
+      <tags>
+        <tag>Password</tag>
+        <tag>Music</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>英剧《Peaky Blinders》</title>
+    <url>/posts/3efbd27d/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>中文译名：浴血黑帮</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/thomas_shelby.jpg' width='80%'>
+
+<p>Thomas Shelby 性格特点中值得借鉴的部分：</p>
+<ol>
+<li><strong>解决问题</strong></li>
+<li><strong>距离感</strong></li>
+<li><strong>节奏感</strong></li>
+<li><strong>控制情绪</strong></li>
+</ol>
+<p>推荐资料：</p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9yTGF0YVlZQzRvTQ==">【浴血黑帮】人物篇 | 凡人皆有一死，神除外 | Thomas Shelby<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+]]></content>
+      <categories>
+        <category>电视剧</category>
+      </categories>
+      <tags>
+        <tag>电视剧</tag>
       </tags>
   </entry>
   <entry>
@@ -1878,6 +1881,143 @@ Hello world.
       <tags>
         <tag>Password</tag>
         <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Some Specific Tips About Technical Writing | Kip S. Thorne</title>
+    <url>/posts/46966eb9/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://www.cco.caltech.edu/~kip/scripts/images/KipDraw2.jpg'>
+
+<blockquote>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cuY2NvLmNhbHRlY2guZWR1L35raXAvaW5kZXguaHRtbC8=">Kip S. Thorne<i class="fa fa-external-link-alt"></i></span> </p>
+<p>The Feynman Professor of Theoretical Physics, Emeritus</p>
+<p>California Institute of Technology</p>
+<blockquote>
+<p>基普·索恩（Kip Thorne），美国理论物理学家，加州理工学院教授。2017年因“对LIGO探测器及引力波探测的决定性贡献”，与莱纳·魏斯及巴里·巴里什共同获得诺贝尔物理学奖。</p>
+</blockquote>
+</blockquote>
+<span id="more"></span>
+
+<p>我在1987年，为博士研究生和博士后写了这份文件。其中的大多数内容在今天依然适用。—— 基普·索恩，2018年10月</p>
+<h1 id="写作过程"><a href="#写作过程" class="headerlink" title="写作过程"></a>写作过程</h1><ol>
+<li>确定你的读者，并仔细思考应该如何与他们交流。</li>
+<li>确定文章的目标。</li>
+<li>认真选择发表的期刊。与之相关的问题是：它能被你所期望的读者们读到吗？它要收版面费吗？它接受电子手稿吗？(这可以避免恼人的排版错误和校对过程)</li>
+<li>在写作之前，要确认自己明白期刊或者出版商的写作格式要求。<ol>
+<li>阅读格式说明手册。</li>
+<li>找一些这个期刊或者出版商出版的文章或者图书，作为格式参考。</li>
+</ol>
+</li>
+<li>确定你的文章应当完善到什么程度，并为之努力。要记住，“完美是优秀的敌人”，但是“马虎会毁了你的信誉”。</li>
+<li>列出文章的大纲：<ol>
+<li>首先，列出一个长长的列表，包含所有的项目。可以先不要管顺序。</li>
+<li>接下来，确定几个主要类别（它们将成为文章的各个章节），以便将这些项目归类。将每个项目移到其中一个类别中。</li>
+<li>调整并组织每个类别中的项目。 </li>
+<li>完成整个文章的大纲。</li>
+</ol>
+</li>
+<li>不同的人喜欢不同的写作方法。Kip自己喜欢的写作方法大概为： <ol>
+<li>首先，我写出一个粗糙的引言。</li>
+<li>然后，我在文章的正文部分做大量的工作，并不断进行修改。正文会“有组织地”成长，并随着发展而变化。我研究工作的大部分是在写正文时完成的——这是我为了使我的想法变清晰而不断努力的自然结果。完成后，正文与我原始大纲中所设想的文章几乎很少有相似之处。</li>
+<li>正文完成后，我将回到引言部分并完全重写它。</li>
+<li>最后我才写摘要。</li>
+<li>现在文章就在电脑上了（要么是因为它最初就是在电脑上写的，要么是因为有人对其进行了文字处理）。除非在极端情况下，否则我不会将文章交给那些需要用活字重排全文的期刊或者出版商发表。因此，要么使用电子手稿，要么用相机影印，电脑上的版本就是最终的发表的版本。</li>
+<li>然后，我至少要遍历整个论文两次，从头开始检查所有方程式（不看原始的推导）。这使文章更加可靠，并可以发现拼写错误和数学错误。</li>
+</ol>
+</li>
+<li>在发表之前，请他人对文章进行评论。 </li>
+</ol>
+<h1 id="文章的组织结构"><a href="#文章的组织结构" class="headerlink" title="文章的组织结构"></a>文章的组织结构</h1><ol>
+<li>文章要呈现的内容通常在逻辑结构上并不是线性的。要考虑使用图形、脚注、附录和方框（仿照MTW【译者注：MTW是指Charles Misner，Kip Thorne，John Wheeler合著的《Gravitation》一书】那样）作为工具，在文章中呈现这种非线性的重要内容。</li>
+<li>不同的读者将会阅读文章的不同部分。按照下面的规则写：<ol>
+<li>标题会被庞大的读者群体阅读。它应该提供有关论文主题的明确信息，并应吸引很大一部分读者进一步阅读。</li>
+<li>摘要会被大量的读者阅读。应当让其中的非专业人士可以理解摘要的大部分内容。尝试吸引尽可能多的读者以进一步阅读。同时，提供足够的细节，以使相关方向的专家想要进一步阅读。他们通常是您最希望呈现给的读者。考虑摘要的篇幅，尽量的准确。确保它包含文章的所有要点。</li>
+<li>引言将由中等程度的大量读者所阅读。与摘要一样，要让包括非专业人士在内的读者都容易理解。关于如何写一个可以吸引大量读者的引言，斯蒂芬·霍金(Stephen Hawking)1973年以后（也就是在《时空的大尺度结构》之后）的文章，就是很好的参考范例。要考虑将引言写成“引言和总结”。指明在正文的哪些地方，可以找到与引言中描述的项目相对应的技术细节。</li>
+<li>插图将被那些泛读的读者所浏览，并且经常被那些阅读摘要的读者所研究。要考虑写一个合适的插图说明，使读者无需阅读文章就可以理解插图。</li>
+<li>正文面对的是对您来说最重要的读者，也就是文章主题方面的专家。不要浪费他们太多时间，去呈现他们已经知道的内容，除非这是一篇综述文章。确保正文对他们来说非常清晰，并且如他们期望的那样简洁。确保正文和附录可以提供足够的细节，以使真正的专家可以毫不费力地重复出您所做的工作。当然，也不要提供过量的细节使得非专家也可以轻松地重复出您所做的工作。除非您写的是综述或者教学文章，或者专家读者确实需要这些内容。将必要的细节放在附录中，以免妨碍文章主体内容的呈现。</li>
+</ol>
+</li>
+<li>适时地使用章节和小章节来引导读者。</li>
+</ol>
+<h1 id="插图"><a href="#插图" class="headerlink" title="插图"></a>插图</h1><ol>
+<li>在科技论文中，插图是呈现信息的一个非常强大的工具。为绘制一个出色的插图而花费几个小时甚至几天时间都是值得的。约翰·惠勒（John Wheeler）和罗杰·彭罗斯（Roger Penrose）就是榜样，他们的插图非常有效。可以找来看看。</li>
+<li>彭罗斯在三维物体方面，是一位出色的专家。他会利用透视、阴影、点刻法、以及精心放置的不种厚度的线条来绘制物体。可以从他的图形中学习这些技巧，并尝试模仿。</li>
+<li>考虑使用计算机来生成图形。如果做得好，它们会比人绘制的图形效果更好。对于二维图形，Macintosh上的Macpaint和Macdraw之类的东西就足够了。而优质的三维绘图软件包才刚刚开始以合理的价格提供。</li>
+</ol>
+<h1 id="方程"><a href="#方程" class="headerlink" title="方程"></a>方程</h1><ol>
+<li>如果你将要面对排字工人，那么有一些特别的建议：在格式说明手册中或在期刊或出版商的已发表文章中查找可用的字体，并相应地编排你的公式。提交文章时，请附上一份副本，上面要为排字工人或编辑人员清楚地标明各种特殊符号的含义。如果数学很复杂，则为了确保审稿编辑没有出现严重错误，请要求在排字处理之前，先给你发送审稿版本进行检查。检查毛条校样时，以几种不同的方式检查每个公式，以查找打字错误。要检查提交的原稿，检查你的原始计算，甚至在时间允许的情况下，从头开始重新推导每个方程，并对照毛条校样对其进行检查。如果等式中存在大量错别字，请要求提供第二次的校样。不要以为出版人员第二次就一定能正确处理它们。</li>
+<li>除非显而易见，否则在文章中要为读者提供有关如何得到方程的详细说明。例如，“通过组合方程式（17），（36）和（12），然后根据边界条件（35）积分并选择积分常数，我们得到…”。</li>
+<li>在大多数期刊和书籍中，方程被视为行文的一部分，并且必须有标点符号（方程的末尾应该有逗号，分号或句号）。检查是否正确标上了标点。</li>
+<li>数学符号通常不应该用作动词。例如，不要写“When the sky is blue, A=B.”而应该写“When the sky is blue, A is equal to B.”如果出现例外，则应仔细考虑清楚。</li>
+<li>句子通常不应以数学符号开头。例如，不要写“H is used to denote the horizon, while J denotes infinity.”而应该写为”The symbol H is used to denote the horizon, while J denotes infinity.” 。</li>
+<li>不要在文本中间使用组合方程, 任何组合方程都应单独写为显示方程。</li>
+<li>当方程太长而无法放在一行上时，请仔细谨慎地选择要在哪里换行，以及开头如何与前行对齐。</li>
+<li>仔细确定哪些符号要用斜体，哪些符号要使用罗马体，哪些使用粗体等等。具体请参见格式说明手册或者示例文章。比如，在下标和上标中，由两个或两个以上字母组成的字符串，如果代表的是单词或短语，那么通常应当使用罗马体，而不是斜体。</li>
+<li>如果要将文章提交给《Physical Review》，那么在对您的文章进行文字处理之前要仔细阅读《Phys. Rev. Compuscript Manual》手册，并且最好从刚开始写文章时就尝试遵守其规则。这将减少你后面的痛苦。注意，我们电脑上的troff宏包是与Phys. Rev. 兼容的。 </li>
+<li>给每个可能被读者引用的方程做编号。否则，读者使用您的论文时将非常不方便</li>
+</ol>
+<h1 id="引用他人的工作"><a href="#引用他人的工作" class="headerlink" title="引用他人的工作"></a>引用他人的工作</h1><ol>
+<li>如果工作是由别人完成的，请确保对别人给予了完整的认可和尊重。没有比这更重要的科学礼节。要非常清楚地表明您文章中的哪些是新的内容，哪些不是。如果不是新的内容，请清楚地标明引用。</li>
+<li>引用长篇文章或书籍时，请引用具体的章节、页码或等式，使得读者可以在其中找到您要引用的内容。</li>
+</ol>
+<h1 id="行文"><a href="#行文" class="headerlink" title="行文"></a>行文</h1><ol>
+<li><p>努力使你的行文平滑顺畅，即使在（尤其是在）非常技术性的论述中也是如此。一个重要的方法是仔细措辞，特别是在段落的开头，以某种方式（通常是细微地）回溯到前一个句子或段落。如果没有这样的“连接措辞”，文章看起来会像是从一个项目跳到另一个项目。读者可能会对你的思路是从哪来的到哪去的感到迷惑。</p>
+</li>
+<li><p>使用下面的技巧使逻辑上复杂的材料变得清晰容易阅读：</p>
+<ol>
+<li>在一个长的论述的开始处，使用一个介绍性段落。说明从现在开始要有一个长的论述，并且粗略指明这个长的论述会有多长，以及解释它会由哪些部分组成。</li>
+<li>在论述的每个部分的开头，使用一个句子说明该部分是关于什么的。而在末尾部分，使用一个句子来说明这个部分结束了，你将要继续进行下一个部分。</li>
+<li>在行文和标点中使用“平行结构”（也就是说同一结构连续使用两次或多次），用以表明某些项目彼此相关。</li>
+<li>对具有逻辑关系的项目（比如句子的从句）使用编号。使用（i），（ii），（iii）或（a），（b），（c）来编号。不要使用（1），（2），（3）来编号，因为这可能会和方程的编号混淆。</li>
+<li>将长且复杂的句子分解成几个短句。除非你使用了并行结构或编号使得长句子易于理解。</li>
+</ol>
+</li>
+<li><p>考虑你想要呈现给的那些读者，使用适合他们习惯的写作风格。在这方面，一个失败的例子是霍金(Hawking)和埃利斯(Ellis)的《时空的大尺度结构》。虽然是写给物理学家读的，但它的大部分内容是用数学家的语言和风格习惯写成。霍金告诉我，回想起来，他后悔使用这种风格。与之形成鲜明对比的是霍金最近的论文，以及彭罗斯(Penrose)为物理学家所写的那些论文。同样，适合理论物理学家的风格通常并不适合《The Astrophysical Journal》的读者。</p>
+</li>
+<li><p>尽量避免使用性别代词，尤其是阳性代词（he,、him、his），除非是特指某一个男性。最好使用”one”、”one’s”或者”they”、”them”和”theirs”。    </p>
+<p>例如：不要写“The reader will understand this if he has studied Hawking and Ellis”，而应写成“Readers will understand this if they have studied Hawking and Ellis”。但是也不要忘了英语的语法，不要写成”The reader will understand this if they have studied Hawking and Ellis.” 。</p>
+</li>
+<li><p>其他一些需要注意的点： </p>
+<ol>
+<li><p>在同一句或相邻句子中同一单词的多次出现，会在读者的脑海中相互“共鸣”，从而打扰读者的思考。避免使用这种会引起“共鸣”的单词组合。除非你是利用平行结构为表达复杂的论述而故意使用它们，或者将其作为“连接器”以使行文流畅。 </p>
+</li>
+<li><p>通常应当避免在段落中改变语态，例如从主动变为被动或变成祈使。也应当避免改变设想中的动作执行人，比如从“one”变为“they”或“you”。</p>
+</li>
+<li><p>通常应避免使用双重否定，不只是说一个否定紧接另一个否定，还有在一个句子的单个从句中使用两个否定词。</p>
+</li>
+<li><p>通常应当避免使用分裂不定式，当然并不绝对。</p>
+</li>
+<li><p>通常应当避免使用悬垂分词。</p>
+</li>
+<li><p>通常，应将单词或短语的所有的修饰语以及逻辑上与其紧密联系的事物，放置在其附近。不要把它们悬垂在句子中某个遥远的地方。    </p>
+<p>例如：句子“We shall study spacetimes that are, in some suitable sense to be described below, similar to Schwarzschild.”中”are”是悬垂的。为了避免悬垂，可以写成“We shall study spacetimes that, in some suitable sense to be described below, are similar to Schwarzschild.”。</p>
+</li>
+<li><p>通常，应当避免将单词或短语的修饰语拆分开来，将一部分修饰语放在其前面，另一部分却放在其后面。而应该将它们全部放在单词或短语的同一边。</p>
+<p>例如：句子“These equations, when written in terms of partial derivatives, become a system of first order linear partial differential equations, after we combine with Eq. (17).”中的“become a system of first order linear partial differential equations”是被修饰的部分，修饰语分别跟在它的前面和后面。所以这句话可以改写成“These equations, when written in terms of partial derivatives, and when combined with Eq. (17), become a system of first order linear partial differential equations.” 。</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cuY2NvLmNhbHRlY2guZWR1L35raXAvc2NyaXB0cy9LaXBUZWNoV3JpdGluZ1RpcHMucGRm">阅读原文<i class="fa fa-external-link-alt"></i></span> </p>
+]]></content>
+      <categories>
+        <category>Research</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>TED Talks Select</title>
+    <url>/posts/49f00be9/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS93LUhZWnY2SHpBcw==">The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9NZFpBTVN5bl9Bcw==">The Skill of Humor | Andrew Tarvin | TEDxTAMU<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+]]></content>
+      <categories>
+        <category>Speech</category>
+      </categories>
+      <tags>
+        <tag>Speech</tag>
+        <tag>Lecture</tag>
       </tags>
   </entry>
   <entry>
@@ -2028,143 +2168,6 @@ Hello world.
       </categories>
   </entry>
   <entry>
-    <title>Some Specific Tips About Technical Writing | Kip S. Thorne</title>
-    <url>/posts/46966eb9/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://www.cco.caltech.edu/~kip/scripts/images/KipDraw2.jpg'>
-
-<blockquote>
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cuY2NvLmNhbHRlY2guZWR1L35raXAvaW5kZXguaHRtbC8=">Kip S. Thorne<i class="fa fa-external-link-alt"></i></span> </p>
-<p>The Feynman Professor of Theoretical Physics, Emeritus</p>
-<p>California Institute of Technology</p>
-<blockquote>
-<p>基普·索恩（Kip Thorne），美国理论物理学家，加州理工学院教授。2017年因“对LIGO探测器及引力波探测的决定性贡献”，与莱纳·魏斯及巴里·巴里什共同获得诺贝尔物理学奖。</p>
-</blockquote>
-</blockquote>
-<span id="more"></span>
-
-<p>我在1987年，为博士研究生和博士后写了这份文件。其中的大多数内容在今天依然适用。—— 基普·索恩，2018年10月</p>
-<h1 id="写作过程"><a href="#写作过程" class="headerlink" title="写作过程"></a>写作过程</h1><ol>
-<li>确定你的读者，并仔细思考应该如何与他们交流。</li>
-<li>确定文章的目标。</li>
-<li>认真选择发表的期刊。与之相关的问题是：它能被你所期望的读者们读到吗？它要收版面费吗？它接受电子手稿吗？(这可以避免恼人的排版错误和校对过程)</li>
-<li>在写作之前，要确认自己明白期刊或者出版商的写作格式要求。<ol>
-<li>阅读格式说明手册。</li>
-<li>找一些这个期刊或者出版商出版的文章或者图书，作为格式参考。</li>
-</ol>
-</li>
-<li>确定你的文章应当完善到什么程度，并为之努力。要记住，“完美是优秀的敌人”，但是“马虎会毁了你的信誉”。</li>
-<li>列出文章的大纲：<ol>
-<li>首先，列出一个长长的列表，包含所有的项目。可以先不要管顺序。</li>
-<li>接下来，确定几个主要类别（它们将成为文章的各个章节），以便将这些项目归类。将每个项目移到其中一个类别中。</li>
-<li>调整并组织每个类别中的项目。 </li>
-<li>完成整个文章的大纲。</li>
-</ol>
-</li>
-<li>不同的人喜欢不同的写作方法。Kip自己喜欢的写作方法大概为： <ol>
-<li>首先，我写出一个粗糙的引言。</li>
-<li>然后，我在文章的正文部分做大量的工作，并不断进行修改。正文会“有组织地”成长，并随着发展而变化。我研究工作的大部分是在写正文时完成的——这是我为了使我的想法变清晰而不断努力的自然结果。完成后，正文与我原始大纲中所设想的文章几乎很少有相似之处。</li>
-<li>正文完成后，我将回到引言部分并完全重写它。</li>
-<li>最后我才写摘要。</li>
-<li>现在文章就在电脑上了（要么是因为它最初就是在电脑上写的，要么是因为有人对其进行了文字处理）。除非在极端情况下，否则我不会将文章交给那些需要用活字重排全文的期刊或者出版商发表。因此，要么使用电子手稿，要么用相机影印，电脑上的版本就是最终的发表的版本。</li>
-<li>然后，我至少要遍历整个论文两次，从头开始检查所有方程式（不看原始的推导）。这使文章更加可靠，并可以发现拼写错误和数学错误。</li>
-</ol>
-</li>
-<li>在发表之前，请他人对文章进行评论。 </li>
-</ol>
-<h1 id="文章的组织结构"><a href="#文章的组织结构" class="headerlink" title="文章的组织结构"></a>文章的组织结构</h1><ol>
-<li>文章要呈现的内容通常在逻辑结构上并不是线性的。要考虑使用图形、脚注、附录和方框（仿照MTW【译者注：MTW是指Charles Misner，Kip Thorne，John Wheeler合著的《Gravitation》一书】那样）作为工具，在文章中呈现这种非线性的重要内容。</li>
-<li>不同的读者将会阅读文章的不同部分。按照下面的规则写：<ol>
-<li>标题会被庞大的读者群体阅读。它应该提供有关论文主题的明确信息，并应吸引很大一部分读者进一步阅读。</li>
-<li>摘要会被大量的读者阅读。应当让其中的非专业人士可以理解摘要的大部分内容。尝试吸引尽可能多的读者以进一步阅读。同时，提供足够的细节，以使相关方向的专家想要进一步阅读。他们通常是您最希望呈现给的读者。考虑摘要的篇幅，尽量的准确。确保它包含文章的所有要点。</li>
-<li>引言将由中等程度的大量读者所阅读。与摘要一样，要让包括非专业人士在内的读者都容易理解。关于如何写一个可以吸引大量读者的引言，斯蒂芬·霍金(Stephen Hawking)1973年以后（也就是在《时空的大尺度结构》之后）的文章，就是很好的参考范例。要考虑将引言写成“引言和总结”。指明在正文的哪些地方，可以找到与引言中描述的项目相对应的技术细节。</li>
-<li>插图将被那些泛读的读者所浏览，并且经常被那些阅读摘要的读者所研究。要考虑写一个合适的插图说明，使读者无需阅读文章就可以理解插图。</li>
-<li>正文面对的是对您来说最重要的读者，也就是文章主题方面的专家。不要浪费他们太多时间，去呈现他们已经知道的内容，除非这是一篇综述文章。确保正文对他们来说非常清晰，并且如他们期望的那样简洁。确保正文和附录可以提供足够的细节，以使真正的专家可以毫不费力地重复出您所做的工作。当然，也不要提供过量的细节使得非专家也可以轻松地重复出您所做的工作。除非您写的是综述或者教学文章，或者专家读者确实需要这些内容。将必要的细节放在附录中，以免妨碍文章主体内容的呈现。</li>
-</ol>
-</li>
-<li>适时地使用章节和小章节来引导读者。</li>
-</ol>
-<h1 id="插图"><a href="#插图" class="headerlink" title="插图"></a>插图</h1><ol>
-<li>在科技论文中，插图是呈现信息的一个非常强大的工具。为绘制一个出色的插图而花费几个小时甚至几天时间都是值得的。约翰·惠勒（John Wheeler）和罗杰·彭罗斯（Roger Penrose）就是榜样，他们的插图非常有效。可以找来看看。</li>
-<li>彭罗斯在三维物体方面，是一位出色的专家。他会利用透视、阴影、点刻法、以及精心放置的不种厚度的线条来绘制物体。可以从他的图形中学习这些技巧，并尝试模仿。</li>
-<li>考虑使用计算机来生成图形。如果做得好，它们会比人绘制的图形效果更好。对于二维图形，Macintosh上的Macpaint和Macdraw之类的东西就足够了。而优质的三维绘图软件包才刚刚开始以合理的价格提供。</li>
-</ol>
-<h1 id="方程"><a href="#方程" class="headerlink" title="方程"></a>方程</h1><ol>
-<li>如果你将要面对排字工人，那么有一些特别的建议：在格式说明手册中或在期刊或出版商的已发表文章中查找可用的字体，并相应地编排你的公式。提交文章时，请附上一份副本，上面要为排字工人或编辑人员清楚地标明各种特殊符号的含义。如果数学很复杂，则为了确保审稿编辑没有出现严重错误，请要求在排字处理之前，先给你发送审稿版本进行检查。检查毛条校样时，以几种不同的方式检查每个公式，以查找打字错误。要检查提交的原稿，检查你的原始计算，甚至在时间允许的情况下，从头开始重新推导每个方程，并对照毛条校样对其进行检查。如果等式中存在大量错别字，请要求提供第二次的校样。不要以为出版人员第二次就一定能正确处理它们。</li>
-<li>除非显而易见，否则在文章中要为读者提供有关如何得到方程的详细说明。例如，“通过组合方程式（17），（36）和（12），然后根据边界条件（35）积分并选择积分常数，我们得到…”。</li>
-<li>在大多数期刊和书籍中，方程被视为行文的一部分，并且必须有标点符号（方程的末尾应该有逗号，分号或句号）。检查是否正确标上了标点。</li>
-<li>数学符号通常不应该用作动词。例如，不要写“When the sky is blue, A=B.”而应该写“When the sky is blue, A is equal to B.”如果出现例外，则应仔细考虑清楚。</li>
-<li>句子通常不应以数学符号开头。例如，不要写“H is used to denote the horizon, while J denotes infinity.”而应该写为”The symbol H is used to denote the horizon, while J denotes infinity.” 。</li>
-<li>不要在文本中间使用组合方程, 任何组合方程都应单独写为显示方程。</li>
-<li>当方程太长而无法放在一行上时，请仔细谨慎地选择要在哪里换行，以及开头如何与前行对齐。</li>
-<li>仔细确定哪些符号要用斜体，哪些符号要使用罗马体，哪些使用粗体等等。具体请参见格式说明手册或者示例文章。比如，在下标和上标中，由两个或两个以上字母组成的字符串，如果代表的是单词或短语，那么通常应当使用罗马体，而不是斜体。</li>
-<li>如果要将文章提交给《Physical Review》，那么在对您的文章进行文字处理之前要仔细阅读《Phys. Rev. Compuscript Manual》手册，并且最好从刚开始写文章时就尝试遵守其规则。这将减少你后面的痛苦。注意，我们电脑上的troff宏包是与Phys. Rev. 兼容的。 </li>
-<li>给每个可能被读者引用的方程做编号。否则，读者使用您的论文时将非常不方便</li>
-</ol>
-<h1 id="引用他人的工作"><a href="#引用他人的工作" class="headerlink" title="引用他人的工作"></a>引用他人的工作</h1><ol>
-<li>如果工作是由别人完成的，请确保对别人给予了完整的认可和尊重。没有比这更重要的科学礼节。要非常清楚地表明您文章中的哪些是新的内容，哪些不是。如果不是新的内容，请清楚地标明引用。</li>
-<li>引用长篇文章或书籍时，请引用具体的章节、页码或等式，使得读者可以在其中找到您要引用的内容。</li>
-</ol>
-<h1 id="行文"><a href="#行文" class="headerlink" title="行文"></a>行文</h1><ol>
-<li><p>努力使你的行文平滑顺畅，即使在（尤其是在）非常技术性的论述中也是如此。一个重要的方法是仔细措辞，特别是在段落的开头，以某种方式（通常是细微地）回溯到前一个句子或段落。如果没有这样的“连接措辞”，文章看起来会像是从一个项目跳到另一个项目。读者可能会对你的思路是从哪来的到哪去的感到迷惑。</p>
-</li>
-<li><p>使用下面的技巧使逻辑上复杂的材料变得清晰容易阅读：</p>
-<ol>
-<li>在一个长的论述的开始处，使用一个介绍性段落。说明从现在开始要有一个长的论述，并且粗略指明这个长的论述会有多长，以及解释它会由哪些部分组成。</li>
-<li>在论述的每个部分的开头，使用一个句子说明该部分是关于什么的。而在末尾部分，使用一个句子来说明这个部分结束了，你将要继续进行下一个部分。</li>
-<li>在行文和标点中使用“平行结构”（也就是说同一结构连续使用两次或多次），用以表明某些项目彼此相关。</li>
-<li>对具有逻辑关系的项目（比如句子的从句）使用编号。使用（i），（ii），（iii）或（a），（b），（c）来编号。不要使用（1），（2），（3）来编号，因为这可能会和方程的编号混淆。</li>
-<li>将长且复杂的句子分解成几个短句。除非你使用了并行结构或编号使得长句子易于理解。</li>
-</ol>
-</li>
-<li><p>考虑你想要呈现给的那些读者，使用适合他们习惯的写作风格。在这方面，一个失败的例子是霍金(Hawking)和埃利斯(Ellis)的《时空的大尺度结构》。虽然是写给物理学家读的，但它的大部分内容是用数学家的语言和风格习惯写成。霍金告诉我，回想起来，他后悔使用这种风格。与之形成鲜明对比的是霍金最近的论文，以及彭罗斯(Penrose)为物理学家所写的那些论文。同样，适合理论物理学家的风格通常并不适合《The Astrophysical Journal》的读者。</p>
-</li>
-<li><p>尽量避免使用性别代词，尤其是阳性代词（he,、him、his），除非是特指某一个男性。最好使用”one”、”one’s”或者”they”、”them”和”theirs”。    </p>
-<p>例如：不要写“The reader will understand this if he has studied Hawking and Ellis”，而应写成“Readers will understand this if they have studied Hawking and Ellis”。但是也不要忘了英语的语法，不要写成”The reader will understand this if they have studied Hawking and Ellis.” 。</p>
-</li>
-<li><p>其他一些需要注意的点： </p>
-<ol>
-<li><p>在同一句或相邻句子中同一单词的多次出现，会在读者的脑海中相互“共鸣”，从而打扰读者的思考。避免使用这种会引起“共鸣”的单词组合。除非你是利用平行结构为表达复杂的论述而故意使用它们，或者将其作为“连接器”以使行文流畅。 </p>
-</li>
-<li><p>通常应当避免在段落中改变语态，例如从主动变为被动或变成祈使。也应当避免改变设想中的动作执行人，比如从“one”变为“they”或“you”。</p>
-</li>
-<li><p>通常应避免使用双重否定，不只是说一个否定紧接另一个否定，还有在一个句子的单个从句中使用两个否定词。</p>
-</li>
-<li><p>通常应当避免使用分裂不定式，当然并不绝对。</p>
-</li>
-<li><p>通常应当避免使用悬垂分词。</p>
-</li>
-<li><p>通常，应将单词或短语的所有的修饰语以及逻辑上与其紧密联系的事物，放置在其附近。不要把它们悬垂在句子中某个遥远的地方。    </p>
-<p>例如：句子“We shall study spacetimes that are, in some suitable sense to be described below, similar to Schwarzschild.”中”are”是悬垂的。为了避免悬垂，可以写成“We shall study spacetimes that, in some suitable sense to be described below, are similar to Schwarzschild.”。</p>
-</li>
-<li><p>通常，应当避免将单词或短语的修饰语拆分开来，将一部分修饰语放在其前面，另一部分却放在其后面。而应该将它们全部放在单词或短语的同一边。</p>
-<p>例如：句子“These equations, when written in terms of partial derivatives, become a system of first order linear partial differential equations, after we combine with Eq. (17).”中的“become a system of first order linear partial differential equations”是被修饰的部分，修饰语分别跟在它的前面和后面。所以这句话可以改写成“These equations, when written in terms of partial derivatives, and when combined with Eq. (17), become a system of first order linear partial differential equations.” 。</p>
-</li>
-</ol>
-</li>
-</ol>
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cuY2NvLmNhbHRlY2guZWR1L35raXAvc2NyaXB0cy9LaXBUZWNoV3JpdGluZ1RpcHMucGRm">阅读原文<i class="fa fa-external-link-alt"></i></span> </p>
-]]></content>
-      <categories>
-        <category>Research</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>TED Talks Select</title>
-    <url>/posts/49f00be9/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS93LUhZWnY2SHpBcw==">The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU<i class="fa fa-external-link-alt"></i></span> </li>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9NZFpBTVN5bl9Bcw==">The Skill of Humor | Andrew Tarvin | TEDxTAMU<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-]]></content>
-      <categories>
-        <category>Speech</category>
-      </categories>
-      <tags>
-        <tag>Speech</tag>
-        <tag>Lecture</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>What It Takes | S. A. Schwarzman</title>
     <url>/posts/edb01621/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://i.loli.net/2021/06/04/EcefrZsFYPNUzvR.jpg' width='80%'>
@@ -2231,6 +2234,25 @@ Hello world.
       </categories>
       <tags>
         <tag>Finance</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>选择大于努力？</title>
+    <url>/posts/5f8e5b1e/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>近年来，流行一句话，“<strong>选择大于努力</strong>”。</p>
+<p>最近，从一个视频博主那里（<span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS84TktmMzhqSmtpWQ==">越哥说电影《永不放弃》<i class="fa fa-external-link-alt"></i></span>）看到一段话，引起很深的共鸣，摘录如下。</p>
+<blockquote>
+<p>有时候，我们看着这样的励志电影，一方面感受到了一些鼓舞和激励，另一方面，大脑又会“聪明”地奉劝自己，努力有什么用，又不一定能成功，时代不一样啦，我的性格不适合做XXX。</p>
+<p>一想到这些客观而又合理的情况，我们就多了一些心安理得的躺平的理由。而当你在考虑做一件事值不值得的时候，它其实已经不值得了，近些年来我发现一个很有意思的现象，越是聪明的人越会花更多的精力去寻找捷径，还经常把一句话放在嘴边，选择比努力更重要。诚然，这话有一定道理，但也不要过分依赖于它。否则，只会陷入到一种思维陷阱里，我没有做成一件事，一定是我没选择对，所以我需要重新选择。但有时候啊，选择来选择去，只会让自己越来越浮躁，越来越怀疑自己。</p>
+<p>对于人生以及事业规划，我个人的经验是，如果有两条路，一条路好走，一条路不好走，我会选择那条不好走的。因为不好走的路，一旦走通了，你就是第一人，而且在这个过程中，你所收获到的心灵成长和人生回报，是会超出你的想象的。如果你正处于迷茫期，不妨认真思考一下我的提议。走好选择的路，而非选择好走的路。</p>
+</blockquote>
+<p>选择更难走的路，与 Stephen A. Schwarzman 在其自传《<em>What It Takes</em>》中描述的观念不谋而合。</p>
+]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
+      <tags>
+        <tag>Career</tag>
       </tags>
   </entry>
   <entry>
@@ -2385,25 +2407,6 @@ Hello world.
       </tags>
   </entry>
   <entry>
-    <title>选择大于努力？</title>
-    <url>/posts/5f8e5b1e/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>近年来，流行一句话，“<strong>选择大于努力</strong>”。</p>
-<p>最近，从一个视频博主那里（<span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS84TktmMzhqSmtpWQ==">越哥说电影《永不放弃》<i class="fa fa-external-link-alt"></i></span>）看到一段话，引起很深的共鸣，摘录如下。</p>
-<blockquote>
-<p>有时候，我们看着这样的励志电影，一方面感受到了一些鼓舞和激励，另一方面，大脑又会“聪明”地奉劝自己，努力有什么用，又不一定能成功，时代不一样啦，我的性格不适合做XXX。</p>
-<p>一想到这些客观而又合理的情况，我们就多了一些心安理得的躺平的理由。而当你在考虑做一件事值不值得的时候，它其实已经不值得了，近些年来我发现一个很有意思的现象，越是聪明的人越会花更多的精力去寻找捷径，还经常把一句话放在嘴边，选择比努力更重要。诚然，这话有一定道理，但也不要过分依赖于它。否则，只会陷入到一种思维陷阱里，我没有做成一件事，一定是我没选择对，所以我需要重新选择。但有时候啊，选择来选择去，只会让自己越来越浮躁，越来越怀疑自己。</p>
-<p>对于人生以及事业规划，我个人的经验是，如果有两条路，一条路好走，一条路不好走，我会选择那条不好走的。因为不好走的路，一旦走通了，你就是第一人，而且在这个过程中，你所收获到的心灵成长和人生回报，是会超出你的想象的。如果你正处于迷茫期，不妨认真思考一下我的提议。走好选择的路，而非选择好走的路。</p>
-</blockquote>
-<p>选择更难走的路，与 Stephen A. Schwarzman 在其自传《<em>What It Takes</em>》中描述的观念不谋而合。</p>
-]]></content>
-      <categories>
-        <category>Article</category>
-      </categories>
-      <tags>
-        <tag>Career</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>增广贤文</title>
     <url>/posts/d41c0df3/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
@@ -2452,6 +2455,28 @@ Hello world.
       </tags>
   </entry>
   <entry>
+    <title>与科研中的挫败感和谐共处</title>
+    <url>/posts/7e24545e/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="心态上"><a href="#心态上" class="headerlink" title="心态上"></a>心态上</h1><ol>
+<li>   认清、接纳自己的无知，科研本身是在探索未知的事物。</li>
+<li>   合理预期科研工作的难度，作科研难，做好的科研更难。</li>
+</ol>
+<h1 id="行为上"><a href="#行为上" class="headerlink" title="行为上"></a>行为上</h1><ol>
+<li>实现有效的“愚蠢”，从一次次的“愚蠢”中学习，获得进步。</li>
+</ol>
+<span id="more"></span>
+
+
+
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ol>
+<li>SCHWARTZ M A. The Importance of Stupidity in Scientific Research[J]. Journal of Cell Science, 2008, 121(11): 1771–1771. DOI:<span class="exturl" data-url="aHR0cHM6Ly9kb2kub3JnLzEwLjEyNDIvamNzLjAzMzM0MA==">10.1242/jcs.033340<i class="fa fa-external-link-alt"></i></span>.</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Research</category>
+      </categories>
+  </entry>
+  <entry>
     <title>学术上的老人与海 | 张五常 | Share</title>
     <url>/posts/8f3e500e/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
@@ -2486,28 +2511,6 @@ Hello world.
 ]]></content>
   </entry>
   <entry>
-    <title>与科研中的挫败感和谐共处</title>
-    <url>/posts/7e24545e/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="心态上"><a href="#心态上" class="headerlink" title="心态上"></a>心态上</h1><ol>
-<li>   认清、接纳自己的无知，科研本身是在探索未知的事物。</li>
-<li>   合理预期科研工作的难度，作科研难，做好的科研更难。</li>
-</ol>
-<h1 id="行为上"><a href="#行为上" class="headerlink" title="行为上"></a>行为上</h1><ol>
-<li>实现有效的“愚蠢”，从一次次的“愚蠢”中学习，获得进步。</li>
-</ol>
-<span id="more"></span>
-
-
-
-<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ol>
-<li>SCHWARTZ M A. The Importance of Stupidity in Scientific Research[J]. Journal of Cell Science, 2008, 121(11): 1771–1771. DOI:<span class="exturl" data-url="aHR0cHM6Ly9kb2kub3JnLzEwLjEyNDIvamNzLjAzMzM0MA==">10.1242/jcs.033340<i class="fa fa-external-link-alt"></i></span>.</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Research</category>
-      </categories>
-  </entry>
-  <entry>
     <title>张志顺八部金刚功</title>
     <url>/posts/c879afe2/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
@@ -2524,6 +2527,23 @@ Hello world.
       </categories>
       <tags>
         <tag>锻炼</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>法无定法</title>
+    <url>/posts/afd5310b/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>法无定法出自《金刚经》，这里给出其中一种解释。</p>
+</blockquote>
+<span id="more"></span>
+<p>有一个小偷本事高强，儿子长大了，就缠着要他传衣钵。有一天被儿子缠不过了，就答应当天夜里带他去偷。父子偷偷摸进了一家人家，发现房间内有个大柜子，这个父亲想办法把锁打开了，叫儿子进去拿东西。儿子进了柜子，这个父亲立刻把柜门关上锁住，并且大叫有贼啊………然后自己跑掉了。这一家人被吵醒都起来了，点起灯火到处找，有个丫头拿着蜡烛进了房间，柜子中的儿子情急智生，就用口技学老鼠打架，吱吱吱吵个不停。丫头叫了起来，太太，不得了啦！小偷没看见，柜子里有老鼠作窝啊！立刻拿钥匙开锁，这个小偷的儿子冲出来，一口气吧蜡烛吹灭，就跑掉了。跑回家中看见老子躺在那里睡觉，儿子就把他叫醒，质问他为什么这样書自己的儿子！这个父亲说：你不是出来了吗？你成功啦！衣钵传给你啦！他说小偷无定法，只要你逃得出来，就成功了。</p>
+<p>要成佛没有定法，随便修哪都一样，自己想办法。</p>
+]]></content>
+      <categories>
+        <category>Religion</category>
+      </categories>
+      <tags>
+        <tag>宗教</tag>
       </tags>
   </entry>
   <entry>
@@ -2560,23 +2580,6 @@ Hello world.
       </categories>
       <tags>
         <tag>Study</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>法无定法</title>
-    <url>/posts/afd5310b/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>法无定法出自《金刚经》，这里给出其中一种解释。</p>
-</blockquote>
-<span id="more"></span>
-<p>有一个小偷本事高强，儿子长大了，就缠着要他传衣钵。有一天被儿子缠不过了，就答应当天夜里带他去偷。父子偷偷摸进了一家人家，发现房间内有个大柜子，这个父亲想办法把锁打开了，叫儿子进去拿东西。儿子进了柜子，这个父亲立刻把柜门关上锁住，并且大叫有贼啊………然后自己跑掉了。这一家人被吵醒都起来了，点起灯火到处找，有个丫头拿着蜡烛进了房间，柜子中的儿子情急智生，就用口技学老鼠打架，吱吱吱吵个不停。丫头叫了起来，太太，不得了啦！小偷没看见，柜子里有老鼠作窝啊！立刻拿钥匙开锁，这个小偷的儿子冲出来，一口气吧蜡烛吹灭，就跑掉了。跑回家中看见老子躺在那里睡觉，儿子就把他叫醒，质问他为什么这样書自己的儿子！这个父亲说：你不是出来了吗？你成功啦！衣钵传给你啦！他说小偷无定法，只要你逃得出来，就成功了。</p>
-<p>要成佛没有定法，随便修哪都一样，自己想办法。</p>
-]]></content>
-      <categories>
-        <category>Religion</category>
-      </categories>
-      <tags>
-        <tag>宗教</tag>
       </tags>
   </entry>
   <entry>
