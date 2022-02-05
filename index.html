@@ -345,7 +345,27 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Adobe-Illustrator"><a href="#Adobe-Illustrator" class="headerlink" title="Adobe Illustrator"></a>Adobe Illustrator</h1><h1 id="PhotoShop"><a href="#PhotoShop" class="headerlink" title="PhotoShop"></a>PhotoShop</h1><h2 id="修改特定图片的分辨率和DPI"><a href="#修改特定图片的分辨率和DPI" class="headerlink" title="修改特定图片的分辨率和DPI"></a>修改特定图片的分辨率和DPI</h2><ol>
+          <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Adobe-Illustrator"><a href="#Adobe-Illustrator" class="headerlink" title="Adobe Illustrator"></a>Adobe Illustrator</h1><h2 id="编辑数学公式和希腊字母"><a href="#编辑数学公式和希腊字母" class="headerlink" title="编辑数学公式和希腊字母"></a>编辑数学公式和希腊字母</h2><h3 id="方法一：导入-svg-格式的公式图片"><a href="#方法一：导入-svg-格式的公式图片" class="headerlink" title="方法一：导入 svg 格式的公式图片"></a>方法一：导入 svg 格式的公式图片</h3><p>生成数学公式或希腊字母的图片格式（最好是 <code>png</code> 格式）→将图片导入到软件中→使用图像描摹功能（对象→图像描摹→建立并扩展）将图片矢量化→取消矢量图像编组，删除白色背景→重新编组，移动到合适位置。</p>
+<p>直接导入svg格式会出现字母异常，因此导入png然后矢量化处理是更好的方式，可以使用<span class="exturl" data-url="aHR0cHM6Ly9sYXRleGxpdmUuY29tLw==">LaTeX公式编辑器<i class="fa fa-external-link-alt"></i></span>在线生成png格式的公式或希腊字母。</p>
+<p>参考：<span class="exturl" data-url="aHR0cHM6Ly90ZXguc3RhY2tleGNoYW5nZS5jb20vcXVlc3Rpb25zLzkwMDE3L2hvdy1kby1pLWdldC1tYXRoZW1hdGljYWwtZm9udHMtdG8taWxsdXN0cmF0b3I=">How do I get mathematical fonts to Illustrator?<i class="fa fa-external-link-alt"></i></span></p>
+<p>Steps in detail (<em>When I was writing my dissertation on string theory I encountered the same issue. I managed to develop a pipeline which seems to work quite well</em>):</p>
+<ol>
+<li>Draw your graphs/images in Illustrator.</li>
+<li>Use <span class="exturl" data-url="aHR0cDovL2xhdGV4MnBuZy5jb20v">http://latex2png.com/<i class="fa fa-external-link-alt"></i></span>. Type your latex equation in there, then preview at 2000 dpi.</li>
+<li>Save the image, then load into Illustrator. Alternatively, you can speed things up by using a screencapture software (e.g. ShareX) so you can skip the image saving+loading process.</li>
+<li>When in Illustrator, select your imported equation image and choose Object –&gt; Image Trace –&gt; Make and Expand. It is very important to obtain a high dpi image for this step to work favorably.</li>
+<li>Your equation should now be a vector graphic.</li>
+<li>Select your new vector graphic equation and choose Object –&gt; Ungroup. This will separate the white spaces in your equation from the black content that you need.</li>
+<li>Select the white spaces and delete them.</li>
+<li>You now have a fully editable equation looking exactly like it does in Latex. You can scale/adjust and colour to your requirements.</li>
+</ol>
+<h3 id="方法二：从-PowerPoint-中直接拷贝"><a href="#方法二：从-PowerPoint-中直接拷贝" class="headerlink" title="方法二：从 PowerPoint 中直接拷贝"></a>方法二：从 PowerPoint 中直接拷贝</h3><p>在 PowerPoint 中键入公式，选中，直接拷贝到 Adobe Illustrator 中。</p>
+<h2 id="学习资料"><a href="#学习资料" class="headerlink" title="学习资料"></a>学习资料</h2><ol>
+<li><span class="exturl" data-url="aHR0cHM6Ly9oZWxweC5hZG9iZS5jb20vc3VwcG9ydC9pbGx1c3RyYXRvci5odG1s">Adobe Illustrator Learn &amp; Support<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXB4NDExczd6YS8=">AI教程，新手入门系列，bilibili<i class="fa fa-external-link-alt"></i></span></li>
+<li>Adobe公司, 牛国庆. Adobe Illustrator CC经典教程[M]. 人民邮电出版社, 2014.</li>
+</ol>
+<h1 id="PhotoShop"><a href="#PhotoShop" class="headerlink" title="PhotoShop"></a>PhotoShop</h1><h2 id="修改特定图片的分辨率和DPI"><a href="#修改特定图片的分辨率和DPI" class="headerlink" title="修改特定图片的分辨率和DPI"></a>修改特定图片的分辨率和DPI</h2><ol>
 <li>将图片拖入Photoshop；</li>
 <li>“图像” $\rightarrow$ “图像大小” $\rightarrow$ 调整宽度、高度与分辨率为目标值；</li>
 <li>“文件” $\rightarrow$ “存储”，保存为指定格式和大小，即可；</li>
