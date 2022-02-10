@@ -57,6 +57,60 @@
       </tags>
   </entry>
   <entry>
+    <title>Richard Feynman</title>
+    <url>/posts/1305b606/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>A video about Feynman: <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9QMXd3MUlYUmZUQQ==">Physics is fun to image by Richard Feynman<i class="fa fa-external-link-alt"></i></span></p>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>人物</category>
+      </categories>
+      <tags>
+        <tag>人物</tag>
+        <tag>科学家</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Getting Things Done</title>
+    <url>/posts/7694439f/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Getting Things Done (GTD) is a time management method, described in the book of the same title by productivity consultant <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS9ndGRndXk=">David Allen<i class="fa fa-external-link-alt"></i></span>.</p>
+<p>原理：大脑善于处理信息，提出想法，但是不善于存储信息，即我们常说的“好记性不如烂笔头”。</p>
+<p>推荐参考资料：</p>
+<ol>
+<li><p><span class="exturl" data-url="aHR0cHM6Ly9oYW1iZXJnLm5vL2d0ZA==">GTD in 15 minutes – A Pragmatic Guide to Getting Things Done<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+<li><p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9nQ3N3TXNPTmt3WQ==">Getting Things Done (GTD) by David Allen - Animated Book Summary And Review<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Experience</category>
+      </categories>
+      <tags>
+        <tag>Management</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Github Handbook</title>
+    <url>/posts/4b73fed1/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Github-Desktop"><a href="#Github-Desktop" class="headerlink" title="Github Desktop"></a>Github Desktop</h1><h2 id="设置代理"><a href="#设置代理" class="headerlink" title="设置代理"></a>设置代理</h2><ol>
+<li><p>找到文件 <code>C:\users\username\.gitconfig</code> ；</p>
+</li>
+<li><p>在文件最后加上如下代码（change 1080 to your own port #）</p>
+</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[http]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br><span class="line">[https]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br><span class="line">[git]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>步步高的生存之道：企业的诚信意识</title>
     <url>/posts/f79c265f/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
@@ -163,37 +217,20 @@
       </tags>
   </entry>
   <entry>
-    <title>Richard Feynman</title>
-    <url>/posts/1305b606/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>A video about Feynman: <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9QMXd3MUlYUmZUQQ==">Physics is fun to image by Richard Feynman<i class="fa fa-external-link-alt"></i></span></p>
+    <title>James Simons</title>
+    <url>/posts/49d99ecb/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>A TED video about James Simons: <span class="exturl" data-url="aHR0cHM6Ly93d3cudGVkLmNvbS90YWxrcy9qaW1fc2ltb25zX2FfcmFyZV9pbnRlcnZpZXdfd2l0aF90aGVfbWF0aGVtYXRpY2lhbl93aG9fY3JhY2tlZF93YWxsX3N0cmVldA==">The mathematician who cracked Wall Street<i class="fa fa-external-link-alt"></i></span></p>
 <span id="more"></span>
+
+<p>James Simons 被誉为对冲基金之父，使用数学建模算法横扫华尔街。人生前段时间从事破译密码的工作，曾经在Princeton做数学家。后来，因为在对待越战的观点上与上级发生冲突，被炒鱿鱼。数学家的职业生涯中曾经与陈省身一同合作提出Chern-Simons理论，提出之初并没有想到会有哪些重大的应用，但是大概十年后，在物理领域尤其是string theory领域产生了巨大的反响。后来，对数学家的生活感到有些厌倦，同时也是因为自己的经济状况不是很满意，也许是直到30多岁了也没有很多的积蓄，因此组织一批科学家创办了文艺复兴技术公司，长久以来是华尔街最火爆的对冲基金。他们在预测股票走势的过程中分析了大量的数据，可以说是大数据应用的先驱。James也提到，适用于六七十年代的model可能在就是年代就不再适用了，没有一个model是可以长久适用下去的，这也告诉我们世界上哪有什么一劳永逸的事情？如果你觉得生活没压力了，那是因为有别人在帮你承担着生活的压力。James的性格在整个访谈的过程中都非常随和，性格有点痞气，但非常接地气，平易近人。Elon Musk曾经说 take physics seriously, James也认为需要take math seriously. 我很赞同这两位的观点，毕竟世界是靠着这两种东西运转的。我觉得应该 take everything seriously. 从James的身上，还是有很多东西值得学习的。</p>
 ]]></content>
       <categories>
         <category>人物</category>
       </categories>
       <tags>
         <tag>人物</tag>
-        <tag>科学家</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Getting Things Done</title>
-    <url>/posts/7694439f/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Getting Things Done (GTD) is a time management method, described in the book of the same title by productivity consultant <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS9ndGRndXk=">David Allen<i class="fa fa-external-link-alt"></i></span>.</p>
-<p>原理：大脑善于处理信息，提出想法，但是不善于存储信息，即我们常说的“好记性不如烂笔头”。</p>
-<p>推荐参考资料：</p>
-<ol>
-<li><p><span class="exturl" data-url="aHR0cHM6Ly9oYW1iZXJnLm5vL2d0ZA==">GTD in 15 minutes – A Pragmatic Guide to Getting Things Done<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-<li><p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9nQ3N3TXNPTmt3WQ==">Getting Things Done (GTD) by David Allen - Animated Book Summary And Review<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Experience</category>
-      </categories>
-      <tags>
-        <tag>Management</tag>
+        <tag>Scientist</tag>
+        <tag>Finance</tag>
       </tags>
   </entry>
   <entry>
@@ -225,26 +262,6 @@
       </categories>
       <tags>
         <tag>Physics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Github Handbook</title>
-    <url>/posts/4b73fed1/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Github-Desktop"><a href="#Github-Desktop" class="headerlink" title="Github Desktop"></a>Github Desktop</h1><h2 id="设置代理"><a href="#设置代理" class="headerlink" title="设置代理"></a>设置代理</h2><ol>
-<li><p>找到文件 <code>C:\users\username\.gitconfig</code> ；</p>
-</li>
-<li><p>在文件最后加上如下代码（change 1080 to your own port #）</p>
-</li>
-</ol>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[http]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br><span class="line">[https]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br><span class="line">[git]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br></pre></td></tr></table></figure>
-
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>Tool</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -352,23 +369,6 @@
       </tags>
   </entry>
   <entry>
-    <title>James Simons</title>
-    <url>/posts/49d99ecb/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>A TED video about James Simons: <span class="exturl" data-url="aHR0cHM6Ly93d3cudGVkLmNvbS90YWxrcy9qaW1fc2ltb25zX2FfcmFyZV9pbnRlcnZpZXdfd2l0aF90aGVfbWF0aGVtYXRpY2lhbl93aG9fY3JhY2tlZF93YWxsX3N0cmVldA==">The mathematician who cracked Wall Street<i class="fa fa-external-link-alt"></i></span></p>
-<span id="more"></span>
-
-<p>James Simons 被誉为对冲基金之父，使用数学建模算法横扫华尔街。人生前段时间从事破译密码的工作，曾经在Princeton做数学家。后来，因为在对待越战的观点上与上级发生冲突，被炒鱿鱼。数学家的职业生涯中曾经与陈省身一同合作提出Chern-Simons理论，提出之初并没有想到会有哪些重大的应用，但是大概十年后，在物理领域尤其是string theory领域产生了巨大的反响。后来，对数学家的生活感到有些厌倦，同时也是因为自己的经济状况不是很满意，也许是直到30多岁了也没有很多的积蓄，因此组织一批科学家创办了文艺复兴技术公司，长久以来是华尔街最火爆的对冲基金。他们在预测股票走势的过程中分析了大量的数据，可以说是大数据应用的先驱。James也提到，适用于六七十年代的model可能在就是年代就不再适用了，没有一个model是可以长久适用下去的，这也告诉我们世界上哪有什么一劳永逸的事情？如果你觉得生活没压力了，那是因为有别人在帮你承担着生活的压力。James的性格在整个访谈的过程中都非常随和，性格有点痞气，但非常接地气，平易近人。Elon Musk曾经说 take physics seriously, James也认为需要take math seriously. 我很赞同这两位的观点，毕竟世界是靠着这两种东西运转的。我觉得应该 take everything seriously. 从James的身上，还是有很多东西值得学习的。</p>
-]]></content>
-      <categories>
-        <category>人物</category>
-      </categories>
-      <tags>
-        <tag>人物</tag>
-        <tag>Scientist</tag>
-        <tag>Finance</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Lloyd Blankfein Gives Commencement Address at 2013 LaGuardia Community College</title>
     <url>/posts/3f4b9228/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://content.fortune.com/wp-content/uploads/2014/08/167933662-1.jpg' width='80%'>
@@ -463,6 +463,91 @@
       <tags>
         <tag>Speech</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Origin Manual</title>
+    <url>/posts/19f30c78/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cub3JpZ2lubGFiLmNvbS8=">Origin<i class="fa fa-external-link-alt"></i></span> is a proprietary computer program for interactive scientific graphing and data analysis. </p>
+<p>It is produced by OriginLab Corporation, and runs on Microsoft Windows.</p>
+</blockquote>
+<h1 id="Function-plot"><a href="#Function-plot" class="headerlink" title="Function plot"></a>Function plot</h1><p>已知函数表达式，使用该功能可以直接绘图。</p>
+<p>路径：File –&gt; New –&gt; Function plot</p>
+<span id="more"></span> 
+
+<h1 id="2D-Plot"><a href="#2D-Plot" class="headerlink" title="2D Plot"></a>2D Plot</h1><h2 id="双y轴"><a href="#双y轴" class="headerlink" title="双y轴"></a>双y轴</h2><ol>
+<li>准备好数据，比如一列x，两列y（分别对应左右y轴）</li>
+<li>选择x和第一列y，默认作图，默认y轴在左侧</li>
+<li>在图中任意位置单击右键 –&gt; “New Layer(Axes)” –&gt; “Right-Y”</li>
+<li>确认选中 2 图层，菜单栏选择 “Graph” –&gt; “Layer Contents…” –&gt; 导入数据，确认即可。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Maple</title>
+    <url>/posts/45ba22af/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h1><p>单行注释：</p>
+<figure class="highlight"><table><tr><td class="code"><pre><span class="line"># ...</span><br></pre></td></tr></table></figure>
+
+<p>多行注释</p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">(*</span><br><span class="line">...</span><br><span class="line">*)</span><br></pre></td></tr></table></figure>
+
+<h1 id="Maple-最优化模块"><a href="#Maple-最优化模块" class="headerlink" title="Maple 最优化模块"></a>Maple 最优化模块</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">restart;</span><br><span class="line"></span><br><span class="line">with(Optimization);</span><br><span class="line"></span><br><span class="line">Interactive();</span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<h1 id="绘图"><a href="#绘图" class="headerlink" title="绘图"></a>绘图</h1><h2 id="2D-绘图"><a href="#2D-绘图" class="headerlink" title="2D 绘图"></a>2D 绘图</h2><ul>
+<li>单个函数绘图</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">restart;</span><br><span class="line">fx:&#x3D; x;</span><br><span class="line">plot(fx,x&#x3D;0..10);</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>多个函数绘图</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">restart;</span><br><span class="line">f1:&#x3D; x;</span><br><span class="line">f2:&#x3D; x^2 ;</span><br><span class="line">plot(&#123;f1,f2&#125;,x&#x3D;0..10);</span><br></pre></td></tr></table></figure>
+
+<h1 id="求解"><a href="#求解" class="headerlink" title="求解"></a>求解</h1><h2 id="常微分方程"><a href="#常微分方程" class="headerlink" title="常微分方程"></a>常微分方程</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubWFwbGVzb2Z0LmNvbS9zdXBwb3J0L2hlbHAvbWFwbGUvdmlldy5hc3B4P3BhdGg9ZHNvbHZl">dsolve<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+<h1 id="一些函数"><a href="#一些函数" class="headerlink" title="一些函数"></a>一些函数</h1><h2 id="求值"><a href="#求值" class="headerlink" title="求值"></a>求值</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubWFwbGVzb2Z0LmNvbS9zdXBwb3J0L2hlbHAvbWFwbGUvdmlldy5hc3B4P3BhdGg9ZXZhbGY=">evalf<i class="fa fa-external-link-alt"></i></span>：对函数进行估值</li>
+</ul>
+<h2 id="赋值"><a href="#赋值" class="headerlink" title="赋值"></a>赋值</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubWFwbGVzb2Z0LmNvbS9zdXBwb3J0L2hlbHAvbWFwbGUvdmlldy5hc3B4P3BhdGg9c3Vicw==">subs<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+<p>示例如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">restart;</span><br><span class="line">equ :&#x3D; &#123;x + y &#x3D; 5, 2*x + 3*y &#x3D; 21&#125;;</span><br><span class="line">var :&#x3D; &#123;x, y&#125;;</span><br><span class="line">sol :&#x3D; solve(equ, var);</span><br><span class="line">a :&#x3D; subs(sol, x);</span><br><span class="line">b :&#x3D; subs(sol, y);</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>破窑赋</title>
+    <url>/posts/ba1514/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>介绍：《破窑赋》，又名《劝世章》，是近代人们假托北宋大臣吕蒙正的作品，吕蒙正曾任当时太子（即位后为宋真宗）的太子太傅，这篇文章假托吕蒙正为了劝诫太子而创作的。作者以吕蒙正的语气自述从贫苦到富贵的经历，并列举了历史上诸多名人的起伏命运，来说明一种自然循环的人生思想。此文题材不是赋，文辞对仗近乎于元曲里面的俚语，与明清章回体小说的标题也很相似，与精通易理之人的命理对答词很相似，与明清时期成书的《增广贤文》里面的内容、形式都很接近，经后人考据《宋史》亦无相关记载。 吕蒙正（944-1011），字圣功，河南洛阳（今属河南省）人。生于后晋出帝开运三年，卒于宋真宗大中祥符四年。宋太宗太平兴国二年（977年）丁丑科状元。</p>
+</blockquote>
+<span id="more"></span>
+
+<p>正文： 天有不测风云，人有旦夕祸福。蜈蚣百足，行不及蛇；雄鸡两翼，飞不过鸦，马有千里之程，无骑不能自往；人有冲天之志，非运不能自通。盖闻：人生在世，富贵不能淫，贫贱不能移。文章盖世，孔子困厄于陈邦；武略超群，太公钓于渭水。颜渊命短，殊非凶恶之徒；盗跖年长，岂是善良之辈。尧帝明圣，却生不肖之儿；瞽叟愚顽，反生大孝之子。张良原是布衣，萧何称谓县吏。晏子身无五尺，封为齐国宰相；孔明居卧草庐，能作蜀汉军师。楚王虽雄，难免乌江自刎；汉王虽弱，竟有万里江山。李广有射虎之威，到老无封；冯唐有乘龙之才，一生不遇。韩信未遇之时，无一日三餐，及至运行，腰悬三尺玉印，一旦时衰，死于阴人之手。</p>
+<p>有先贫而后富，有老壮而少衰。满腹文章，白发竟然不中；才疏学浅，少年及第登科。深院宫娥，运退反为妓妾；风流妓女，时来配作夫人。青春美女，却招愚蠢之夫；俊秀郎君，反配粗丑之妇。蛟龙未遇，潜水于鱼鳖之间；君子失时，拱手于小人之下。衣服虽破，常存仪礼之容；面带懮愁，每抱怀安之量。时遭不遇，只宜安贫守份；心若不欺，必然扬眉吐气。初贫君子，天然骨骼生成；乍富小人，不脱贫寒肌体。</p>
+<p>天不得时，日月无光；地不得时，草木不生；水不得时，风浪不平；人不得时，利运不通。注福注禄，命里已安排定，富贵谁不欲？人若不依根基八字，岂能为卿为相？</p>
+<p>吾昔寓居洛阳，朝求僧餐，暮宿破窑，思衣不可遮其体，思食不可济其饥，上人憎，下人厌，人道我贱，非我不弃也。今居朝堂，官至极品，位置三公，身虽鞠躬于一人之下，而列职于千万人之上，有挞百僚之杖，有斩鄙吝之剑，思衣而有罗锦千箱，思食而有珍馐百味，出则壮士执鞭，入则佳人捧觞，上人宠，下人拥。人道我贵，非我之能也，此乃时也！运也！命也！</p>
+<p>嗟呼！人生在世，富贵不可尽用，贫贱不可自欺，听由天地循环，周而复始焉。</p>
+]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
   </entry>
   <entry>
     <title>麻省理工学院(MIT)研究生学习指导：怎样做研究生 | 转载自网络</title>
@@ -598,31 +683,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Origin Manual</title>
-    <url>/posts/19f30c78/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cub3JpZ2lubGFiLmNvbS8=">Origin<i class="fa fa-external-link-alt"></i></span> is a proprietary computer program for interactive scientific graphing and data analysis. </p>
-<p>It is produced by OriginLab Corporation, and runs on Microsoft Windows.</p>
-</blockquote>
-<h1 id="Function-plot"><a href="#Function-plot" class="headerlink" title="Function plot"></a>Function plot</h1><p>已知函数表达式，使用该功能可以直接绘图。</p>
-<p>路径：File –&gt; New –&gt; Function plot</p>
-<span id="more"></span> 
-
-<h1 id="2D-Plot"><a href="#2D-Plot" class="headerlink" title="2D Plot"></a>2D Plot</h1><h2 id="双y轴"><a href="#双y轴" class="headerlink" title="双y轴"></a>双y轴</h2><ol>
-<li>准备好数据，比如一列x，两列y（分别对应左右y轴）</li>
-<li>选择x和第一列y，默认作图，默认y轴在左侧</li>
-<li>在图中任意位置单击右键 –&gt; “New Layer(Axes)” –&gt; “Right-Y”</li>
-<li>确认选中 2 图层，菜单栏选择 “Graph” –&gt; “Layer Contents…” –&gt; 导入数据，确认即可。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Tool</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>鸵鸟现象</title>
     <url>/posts/4a633a16/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>鸵鸟现象，指一种遇到难题就逃避的现象。其名称源自于鸵鸟在遇到危险时，将头埋在沙坑里，以为躲避了危险但实则毫无用处的现象。</p>
@@ -630,85 +690,6 @@
 <span id="more"></span>
 
 <img data-src='https://miro.medium.com/max/16000/1*zSttG88z_KVYsKh8Cy03Gg.png' width='70%'>]]></content>
-      <categories>
-        <category>Psychology</category>
-      </categories>
-      <tags>
-        <tag>Psychology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Maple</title>
-    <url>/posts/45ba22af/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h1><p>单行注释：</p>
-<figure class="highlight"><table><tr><td class="code"><pre><span class="line"># ...</span><br></pre></td></tr></table></figure>
-
-<p>多行注释</p>
-<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">(*</span><br><span class="line">...</span><br><span class="line">*)</span><br></pre></td></tr></table></figure>
-
-<h1 id="Maple-最优化模块"><a href="#Maple-最优化模块" class="headerlink" title="Maple 最优化模块"></a>Maple 最优化模块</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">restart;</span><br><span class="line"></span><br><span class="line">with(Optimization);</span><br><span class="line"></span><br><span class="line">Interactive();</span><br></pre></td></tr></table></figure>
-
-<span id="more"></span>
-
-<h1 id="绘图"><a href="#绘图" class="headerlink" title="绘图"></a>绘图</h1><h2 id="2D-绘图"><a href="#2D-绘图" class="headerlink" title="2D 绘图"></a>2D 绘图</h2><ul>
-<li>单个函数绘图</li>
-</ul>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">restart;</span><br><span class="line">fx:&#x3D; x;</span><br><span class="line">plot(fx,x&#x3D;0..10);</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>多个函数绘图</li>
-</ul>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">restart;</span><br><span class="line">f1:&#x3D; x;</span><br><span class="line">f2:&#x3D; x^2 ;</span><br><span class="line">plot(&#123;f1,f2&#125;,x&#x3D;0..10);</span><br></pre></td></tr></table></figure>
-
-<h1 id="求解"><a href="#求解" class="headerlink" title="求解"></a>求解</h1><h2 id="常微分方程"><a href="#常微分方程" class="headerlink" title="常微分方程"></a>常微分方程</h2><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubWFwbGVzb2Z0LmNvbS9zdXBwb3J0L2hlbHAvbWFwbGUvdmlldy5hc3B4P3BhdGg9ZHNvbHZl">dsolve<i class="fa fa-external-link-alt"></i></span></li>
-</ul>
-<h1 id="一些函数"><a href="#一些函数" class="headerlink" title="一些函数"></a>一些函数</h1><h2 id="求值"><a href="#求值" class="headerlink" title="求值"></a>求值</h2><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubWFwbGVzb2Z0LmNvbS9zdXBwb3J0L2hlbHAvbWFwbGUvdmlldy5hc3B4P3BhdGg9ZXZhbGY=">evalf<i class="fa fa-external-link-alt"></i></span>：对函数进行估值</li>
-</ul>
-<h2 id="赋值"><a href="#赋值" class="headerlink" title="赋值"></a>赋值</h2><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubWFwbGVzb2Z0LmNvbS9zdXBwb3J0L2hlbHAvbWFwbGUvdmlldy5hc3B4P3BhdGg9c3Vicw==">subs<i class="fa fa-external-link-alt"></i></span></li>
-</ul>
-<p>示例如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">restart;</span><br><span class="line">equ :&#x3D; &#123;x + y &#x3D; 5, 2*x + 3*y &#x3D; 21&#125;;</span><br><span class="line">var :&#x3D; &#123;x, y&#125;;</span><br><span class="line">sol :&#x3D; solve(equ, var);</span><br><span class="line">a :&#x3D; subs(sol, x);</span><br><span class="line">b :&#x3D; subs(sol, y);</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>Tool</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>破窑赋</title>
-    <url>/posts/ba1514/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>介绍：《破窑赋》，又名《劝世章》，是近代人们假托北宋大臣吕蒙正的作品，吕蒙正曾任当时太子（即位后为宋真宗）的太子太傅，这篇文章假托吕蒙正为了劝诫太子而创作的。作者以吕蒙正的语气自述从贫苦到富贵的经历，并列举了历史上诸多名人的起伏命运，来说明一种自然循环的人生思想。此文题材不是赋，文辞对仗近乎于元曲里面的俚语，与明清章回体小说的标题也很相似，与精通易理之人的命理对答词很相似，与明清时期成书的《增广贤文》里面的内容、形式都很接近，经后人考据《宋史》亦无相关记载。 吕蒙正（944-1011），字圣功，河南洛阳（今属河南省）人。生于后晋出帝开运三年，卒于宋真宗大中祥符四年。宋太宗太平兴国二年（977年）丁丑科状元。</p>
-</blockquote>
-<span id="more"></span>
-
-<p>正文： 天有不测风云，人有旦夕祸福。蜈蚣百足，行不及蛇；雄鸡两翼，飞不过鸦，马有千里之程，无骑不能自往；人有冲天之志，非运不能自通。盖闻：人生在世，富贵不能淫，贫贱不能移。文章盖世，孔子困厄于陈邦；武略超群，太公钓于渭水。颜渊命短，殊非凶恶之徒；盗跖年长，岂是善良之辈。尧帝明圣，却生不肖之儿；瞽叟愚顽，反生大孝之子。张良原是布衣，萧何称谓县吏。晏子身无五尺，封为齐国宰相；孔明居卧草庐，能作蜀汉军师。楚王虽雄，难免乌江自刎；汉王虽弱，竟有万里江山。李广有射虎之威，到老无封；冯唐有乘龙之才，一生不遇。韩信未遇之时，无一日三餐，及至运行，腰悬三尺玉印，一旦时衰，死于阴人之手。</p>
-<p>有先贫而后富，有老壮而少衰。满腹文章，白发竟然不中；才疏学浅，少年及第登科。深院宫娥，运退反为妓妾；风流妓女，时来配作夫人。青春美女，却招愚蠢之夫；俊秀郎君，反配粗丑之妇。蛟龙未遇，潜水于鱼鳖之间；君子失时，拱手于小人之下。衣服虽破，常存仪礼之容；面带懮愁，每抱怀安之量。时遭不遇，只宜安贫守份；心若不欺，必然扬眉吐气。初贫君子，天然骨骼生成；乍富小人，不脱贫寒肌体。</p>
-<p>天不得时，日月无光；地不得时，草木不生；水不得时，风浪不平；人不得时，利运不通。注福注禄，命里已安排定，富贵谁不欲？人若不依根基八字，岂能为卿为相？</p>
-<p>吾昔寓居洛阳，朝求僧餐，暮宿破窑，思衣不可遮其体，思食不可济其饥，上人憎，下人厌，人道我贱，非我不弃也。今居朝堂，官至极品，位置三公，身虽鞠躬于一人之下，而列职于千万人之上，有挞百僚之杖，有斩鄙吝之剑，思衣而有罗锦千箱，思食而有珍馐百味，出则壮士执鞭，入则佳人捧觞，上人宠，下人拥。人道我贵，非我之能也，此乃时也！运也！命也！</p>
-<p>嗟呼！人生在世，富贵不可尽用，贫贱不可自欺，听由天地循环，周而复始焉。</p>
-]]></content>
-      <categories>
-        <category>Article</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>拖延症</title>
-    <url>/posts/b9417af0/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://miro.medium.com/max/4000/1*6borbZIo4NturcHmbix3rA.png' width='68%'>
-
-<p>拖延症是非常普遍的一种现象，一种对未来目标弊大于利的现象。</p>
-<p>造成拖延症的一个重要原因是，大脑过多地关注<b>当前的、短期的简单和舒适</b>，然而以未来的成功为（沉重的）代价。</p>
-<p>针对拖延症，一个建议：<b>Don’t wait</b>.</p>
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/procrastination.jpg' width='68%'>
-
-<p>参考下面 <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS93YWl0YnV0d2h5">Tim Urban<i class="fa fa-external-link-alt"></i></span> 的 <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9hcmo3b1N0R0xrVQ==">TED 演讲<i class="fa fa-external-link-alt"></i></span>。</p>
-]]></content>
       <categories>
         <category>Psychology</category>
       </categories>
@@ -775,35 +756,22 @@
       </tags>
   </entry>
   <entry>
-    <title>Randy Pausch</title>
-    <url>/posts/27ff1deb/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Tips-for-Working-Successfully-in-a-Group"><a href="#Tips-for-Working-Successfully-in-a-Group" class="headerlink" title="Tips for Working Successfully in a Group"></a>Tips for Working Successfully in a Group</h1><p>By Randy Pausch, for the <em>Building Virtual Worlds</em> course at Carnegie Mellon, Spring 1998</p>
-<p><strong>Meet people properly</strong>.  It all starts with the introduction.  Then, exchange contact information, and make sure you know how to pronounce everyone’s names.  Exchange phones, and find out what hours are acceptable to call during.</p>
-<span id="more"></span>
+    <title>拖延症</title>
+    <url>/posts/b9417af0/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://miro.medium.com/max/4000/1*6borbZIo4NturcHmbix3rA.png' width='68%'>
 
-<p><strong>Find things you have in common</strong>.   You can almost always find something in common with another person, and starting from that baseline, it’s much easier to then address issues where you have differences.  This is why cities like professional sports teams, which are socially galvanizing forces that cut across boundaries of race and wealth.  If nothing else, you probably have in common things like the weather.</p>
-<p><strong>Make meeting conditions good</strong>.  Have a large surface to write on, make sure the room is quiet and warm enough, and that there aren’t lots of distractions.  Make sure no one is hungry, cold, or tired.  Meet over a meal if you can; food <em>softens</em> a meeting.  That’s why they “do lunch” in Hollywood.</p>
-<p><strong>Let everyone talk</strong>.  Even if you think what they’re saying is stupid.  Cutting someone off is rude, and not worth whatever small time gain you might make.  Don’t finish someone’s sentences for him or her; they can do it for themselves.  And remember: talking louder or faster doesn’t make your idea any better.</p>
-<p><strong>Check your egos at the door</strong>.  When you discuss ideas, immediately label them and write them down.  The labels should be descriptive of the idea, not the originator: “the troll bridge story,” not “Jane’s story.”</p>
-<p><strong>Praise each other</strong>.  Find something nice to say, even if it’s a stretch.  Even the worst of ideas has a silver lining inside it, if you just look hard enough.  Focus on the good, praise it, and then raise any objections or concerns you have about the rest of it.   </p>
-<p><strong>Put it in writing</strong>.  Always write down who is responsible for what, by when.  Be <em>concrete</em>.  Arrange meetings by email, and establish accountability.  Never assume that someone’s roommate will deliver a phone message. Also, remember that “politics is when you have more than 2 people” – with that in mind, always CC (carbon copy) any piece of email within the group, or to me, to <strong>all members</strong> of the group.  This rule should <em>never</em> be violated; don’t try to guess what your group mates might or might not want to hear about.</p>
-<p><strong>Be open and honest</strong>.  Talk with your group members if there’s a problem, and talk with me if you think you need help.  The whole point of this course is that it’s tough to work across cultures.  If we all go into it knowing that’s an issue, we should be comfortable discussing problems when they arise – after all, that’s what this course is really about. Be forgiving when people make mistakes, but don’t be afraid to raise the issues when they come up,</p>
-<p><strong>Avoid conflict at all costs</strong>. When stress occurs and tempers flare, take a short break. Clear your heads, apologize, and take another stab at it.  Apologize for upsetting your peers, even if you think someone else was primarily at fault; the goal is to work together, not start a legal battle over whose transgressions were worse. It takes two to have an argument, so be the peacemaker.</p>
-<p><strong>Phrase alternatives as questions</strong>.  Instead of “I think we should do A, not B,” try “What if we did A, instead of B?”  That allows people to offer comments, rather than defend one choice.</p>
-<h1 id="Talks"><a href="#Talks" class="headerlink" title="Talks"></a>Talks</h1><ol>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9SY1l2NXg2Z1pUQQ==">Randy Pausch Inspires Graduates, 2008<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9qLWE3TFJ3cXdOdw==">Randy Pausch ABC Special about the “Last Lecture”, 2008<i class="fa fa-external-link-alt"></i></span></li>
-</ol>
-<h1 id="News"><a href="#News" class="headerlink" title="News"></a>News</h1><ol>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuY211LmVkdS9yYW5keXNsZWN0dXJlL3N0b3J5Lw==">Randy’s Story, CMU<i class="fa fa-external-link-alt"></i></span></li>
-</ol>
+<p>拖延症是非常普遍的一种现象，一种对未来目标弊大于利的现象。</p>
+<p>造成拖延症的一个重要原因是，大脑过多地关注<b>当前的、短期的简单和舒适</b>，然而以未来的成功为（沉重的）代价。</p>
+<p>针对拖延症，一个建议：<b>Don’t wait</b>.</p>
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/procrastination.jpg' width='68%'>
+
+<p>参考下面 <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS93YWl0YnV0d2h5">Tim Urban<i class="fa fa-external-link-alt"></i></span> 的 <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9hcmo3b1N0R0xrVQ==">TED 演讲<i class="fa fa-external-link-alt"></i></span>。</p>
 ]]></content>
       <categories>
-        <category>人物</category>
+        <category>Psychology</category>
       </categories>
       <tags>
-        <tag>人物</tag>
-        <tag>励志</tag>
+        <tag>Psychology</tag>
       </tags>
   </entry>
   <entry>
@@ -845,6 +813,38 @@
       </tags>
   </entry>
   <entry>
+    <title>Randy Pausch</title>
+    <url>/posts/27ff1deb/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Tips-for-Working-Successfully-in-a-Group"><a href="#Tips-for-Working-Successfully-in-a-Group" class="headerlink" title="Tips for Working Successfully in a Group"></a>Tips for Working Successfully in a Group</h1><p>By Randy Pausch, for the <em>Building Virtual Worlds</em> course at Carnegie Mellon, Spring 1998</p>
+<p><strong>Meet people properly</strong>.  It all starts with the introduction.  Then, exchange contact information, and make sure you know how to pronounce everyone’s names.  Exchange phones, and find out what hours are acceptable to call during.</p>
+<span id="more"></span>
+
+<p><strong>Find things you have in common</strong>.   You can almost always find something in common with another person, and starting from that baseline, it’s much easier to then address issues where you have differences.  This is why cities like professional sports teams, which are socially galvanizing forces that cut across boundaries of race and wealth.  If nothing else, you probably have in common things like the weather.</p>
+<p><strong>Make meeting conditions good</strong>.  Have a large surface to write on, make sure the room is quiet and warm enough, and that there aren’t lots of distractions.  Make sure no one is hungry, cold, or tired.  Meet over a meal if you can; food <em>softens</em> a meeting.  That’s why they “do lunch” in Hollywood.</p>
+<p><strong>Let everyone talk</strong>.  Even if you think what they’re saying is stupid.  Cutting someone off is rude, and not worth whatever small time gain you might make.  Don’t finish someone’s sentences for him or her; they can do it for themselves.  And remember: talking louder or faster doesn’t make your idea any better.</p>
+<p><strong>Check your egos at the door</strong>.  When you discuss ideas, immediately label them and write them down.  The labels should be descriptive of the idea, not the originator: “the troll bridge story,” not “Jane’s story.”</p>
+<p><strong>Praise each other</strong>.  Find something nice to say, even if it’s a stretch.  Even the worst of ideas has a silver lining inside it, if you just look hard enough.  Focus on the good, praise it, and then raise any objections or concerns you have about the rest of it.   </p>
+<p><strong>Put it in writing</strong>.  Always write down who is responsible for what, by when.  Be <em>concrete</em>.  Arrange meetings by email, and establish accountability.  Never assume that someone’s roommate will deliver a phone message. Also, remember that “politics is when you have more than 2 people” – with that in mind, always CC (carbon copy) any piece of email within the group, or to me, to <strong>all members</strong> of the group.  This rule should <em>never</em> be violated; don’t try to guess what your group mates might or might not want to hear about.</p>
+<p><strong>Be open and honest</strong>.  Talk with your group members if there’s a problem, and talk with me if you think you need help.  The whole point of this course is that it’s tough to work across cultures.  If we all go into it knowing that’s an issue, we should be comfortable discussing problems when they arise – after all, that’s what this course is really about. Be forgiving when people make mistakes, but don’t be afraid to raise the issues when they come up,</p>
+<p><strong>Avoid conflict at all costs</strong>. When stress occurs and tempers flare, take a short break. Clear your heads, apologize, and take another stab at it.  Apologize for upsetting your peers, even if you think someone else was primarily at fault; the goal is to work together, not start a legal battle over whose transgressions were worse. It takes two to have an argument, so be the peacemaker.</p>
+<p><strong>Phrase alternatives as questions</strong>.  Instead of “I think we should do A, not B,” try “What if we did A, instead of B?”  That allows people to offer comments, rather than defend one choice.</p>
+<h1 id="Talks"><a href="#Talks" class="headerlink" title="Talks"></a>Talks</h1><ol>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9SY1l2NXg2Z1pUQQ==">Randy Pausch Inspires Graduates, 2008<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9qLWE3TFJ3cXdOdw==">Randy Pausch ABC Special about the “Last Lecture”, 2008<i class="fa fa-external-link-alt"></i></span></li>
+</ol>
+<h1 id="News"><a href="#News" class="headerlink" title="News"></a>News</h1><ol>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuY211LmVkdS9yYW5keXNsZWN0dXJlL3N0b3J5Lw==">Randy’s Story, CMU<i class="fa fa-external-link-alt"></i></span></li>
+</ol>
+]]></content>
+      <categories>
+        <category>人物</category>
+      </categories>
+      <tags>
+        <tag>人物</tag>
+        <tag>励志</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《送东阳马生序》| 宋濂</title>
     <url>/posts/24612dba/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='http://qqpublic.qpic.cn/qq_public/0/0-2525091099-3BA0C2E3EA6ABDAD7606A32E81295994/0?fmt=jpg&size=87&h=933&w=884&ppv=1/0' width='50%'>
@@ -862,6 +862,21 @@
       <categories>
         <category>Celebrity</category>
       </categories>
+  </entry>
+  <entry>
+    <title>Uncertainty</title>
+    <url>/posts/795e1c16/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security.    </p>
+</blockquote>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cubWF0aC50ZW1wbGUuZWR1L35wYXVsb3MvaW5kZXguaHRtbA==">John Allen Paulos<i class="fa fa-external-link-alt"></i></span> </p>
+]]></content>
+      <categories>
+        <category>Experience</category>
+      </categories>
+      <tags>
+        <tag>Principle</tag>
+      </tags>
   </entry>
   <entry>
     <title>Tools</title>
@@ -1095,18 +1110,25 @@
       </tags>
   </entry>
   <entry>
-    <title>Uncertainty</title>
-    <url>/posts/795e1c16/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security.    </p>
-</blockquote>
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cubWF0aC50ZW1wbGUuZWR1L35wYXVsb3MvaW5kZXguaHRtbA==">John Allen Paulos<i class="fa fa-external-link-alt"></i></span> </p>
-]]></content>
+    <title>职场经验分享</title>
+    <url>/posts/d9b6479c/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong Password, Try Later | 抱歉, 这个密码看着不太对, 请再试试." data-whm="Error | 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="afff1236b20c5b7aba9d175b0cd8e46e0e4d2579581c755b8883c9dd555104ee">24014bcf5611e5fe61cbe1a03a36998a99d5dd0feffd4d84146bd514e005d0983aa46a3d68cd34e2b5446d9692f85f980dad1c3decf117f735a1d2003d73b28d3aa4b1c34a779aa3e927f117547a2a871af939658c399256dbae76880a15704c515b03633dbbb8ea540ec1494dda301450ae5c6f4a06d1ea5a131771c7356dba0bfa67539dc16ec10f69e365bb344f12cfc52c8adf1ac67540eb433770e33d1a1ce1f98e8e2ca49851866e94a066617dfcf943b41932dc889a054e897c0b9a0b340fdcc837f7e970fcbb0ba3548e6c3d25a928012772bc0a29ac8f1e2c041c128343d168b0c150ee69bf0da950492ab7b4e1914f1ff878b4b0b3cc2a2adfc824c2aaf863bc9c78f181f3155744d780cd8373cc9931ca1a7b81777b572c65a4511b1c42db528c8643eece9c18f8925256f7f17f7c8c23e83a9cc7a2d606926e88bcf1b65ac453e3c246ba708664befc6ebeb96c44fa653e2bcf15d492d9aa5638dc7b09c397f66c802fdcf2de307ee206034a0c28ceac24ac9f0f962a7d0b52d5ae3da991d50823fff27adc0b4211cfce935b896793318b2047c9f33d0173f1c6aff1d4b466deef244e767901ae2e74c71c7ffbee208f6968f9414c7321b936280dc5270f0efcbca6d7a6ef8a7534392fac57212478699e8b6a3cb4a6bb489f8fb99edc9168a6277ed97c9d6e5116dae6aa6f994184f2ea5ff61b17129f781d1a6599b055131876260ee435b7528cd7c9f40959e015b3986db22f3c297d11ac68edb163a00da26d8c9e409699984b2be976e1824a77977b687f5754f283e9a50418af6685268502db3a88ef8f72ecc12897bf6244477324fa23f791f25920918f8c7eaba4accece0297183b9f1fd923d92ccfc88e41959535ad50cfb746e8145bde049019bfe9635866b14684064c3d6a95d3223e9f9e43c46acc91568d6b676218e0689800439d3dac6c7ebcd0621a80942523ffc853b8aaceec3d217ae3ec2df5281e28890f2ba441d0bd44f22f35c62861f9e0ffded0beb25ee7441ac56f0ab33a9a24ffcdceeb455806e109244df83c117b00e0a8319797290c8e398f8c75061babe91dcef937cceb1365ed087fc4753890be10d713636f1d6bbf7110b76150bf9494f8d38dba03206819c8155ef5b4b0607fa5172a7941689bccb93d3ad92b22cb8718a838a107996d4c240c67c2ba146c2c4001b3b1bb133ca4769305f6646d8e476bac90ea5ff7dc00cafe1bdb2ab72d8d720a5a07baa4b96857bc54fea79e64608163650c80e8de85c832ed176519180d711661ce2b99077bf04ad32a3eb77fac3f395ee2a1c97d95b14b026cca9f91fb55ad0acc26f924bd5ae7e8a4a050867a2d3ecb9a0bfc2ee07e0e256bc47bdfc654eacf50ef2bd56b1fd3f88dc759bc298a852f6038e067f31980b6c9395aa833f23eb1d89b1dc78657ff11f1799c42b111fbab7260b06d0f8d6a0deeac279661ac12486f3284dfd1e506e1dea8ae4f5d7610ccd19cee3a1543590625a4506880b87fdfeb9f8ca66f7a5fe38b2da760ed5c6da64d1b2d7563eb433aab7808c705eeecc910c3681f5157bad3903a2a5bf4169ffc66aa886d7c613021442a4aadeb868ca8e65cd7b157176757059f070e549587c0c443707172dafaa980059c70d252d632a91eba2bc15d6351453d05e1f816148ede2038890e265d0dd78d89f9c072e9f6f861ba9307c7da2fc3a48525bc862c19160f9e2c135dde658a1f06a4ba2b64ce027e14ba96d840cd24e7438da65b012be642cd423014440195d8679ae76126a5d94bd4eb3e5b10ef173a45f08676f3f4d671105ab48311eef7e9bdad351b7c9156b56bcee4dfbe7675b00980925d46e5b9c7bcc667515d15fe160ab0995c9b080a9d1ee17e5218a5d009833e8578cab04d37d9402b9010c3c522b667a37436742ec2decb282c2e3b5e2e47f1cedc954c15b557cc397bc12a42581fdeaeb32ee6b730e91bc75e3f16e37ab4b8215ed6ba6b65d02fb594aa22261fa352bcc94fe5130cdad2a63aa04a5a289b33b1f6fe3a12bf3bda3e87f8993d8734c0464e057b5a365d7b85917e3b6988b52b603d35539b0f837a46271826d283435b9ffd98047d87622077abc36745cc8288589d79faee9e78eabda43dd5e861ba5573c9a1039a3ce3e8e02b9da1e13591ff01961028c0e5a9a98dedb1fcabe07350c2e05c1e456386de3e1d948aefbb597d0815128c73453838e0a64e0e39a6d5761551444484a371494a9dd9dcf691d0d38d60f5adc26ac3efa58b7f16d1fc10e9ed695b37e8a88ee7e73bb72f8741901ab132662f84c4bf02c3308bfd8087650630e00b81d297ff4c74f664d48a3708e0885a9863bcab063071129aaf3efbc979bedc07c2d7c21d92d57ab4e720e62b856a55ec1c6ce9f95a172557e2c4a3d9e9d8d866d7162e2bab3cf4be12c4141c4f6dbe165cf34511665a89c799b53df1f93bc5a1751610dff429efa5270aefd1ddba4b60f1745d01c4e5be758196bd65a148b79bdd1c23a173f8680a911d87e4a2bec017921e6eb2e6f2335f4fc95cffb9c2d5456f2293e3fab2cc5f9a7cb11ead274eebb0939318374b106637bc6203abbcbaea99a002ddffe43e89a979983ddce54bd8612bd7f31e53e1a86aa17af482cfa1f5585c70c965f117b110857fee60ea58f725f3cfb136e18f74353eaad1e4a1eea0c9d87b55a9ff456e545d47d899d2fc094af90e897a5ac3fc522f18569411f86fcbea908a13c7638a11d9d536edc8090f59938bd190fd520fff5b37b9b8c4e8da36d7d80e00659f9b45543400b530a77bfb8d3f18b94b243b8447f72addbe4f2691b9645812b1c4d15c863d03af3ea53c79f9ca7146e102178e46cfdd4a0b9521b176fbc5cb55b7a43e3a120be4f5520112d7436b8d0873e3595914d6fc6138231c7b5d6dbd6956a187628001bdbfec47715253bbf205887c223fb495bcbc48fb448651abc03473626b8f66830e5c01bcde1f8eef3f60d39c607dc8395c8d9e91374f5b584085524a86e64a188247b0b220f9498f32ac1587a6429add02733b922db47a1d94a4680505b172efee6ba993f6e650c255ec1caa7b4dc5d38e57146b31154b8f4942c1511ecd516f0d74e16137bd40d6071cb73887b8b54624b91b773dc21b1886a251f2ff1e</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-up">
+      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-up">输入密码，解密后阅读 | Type Password To Decrypt This Article</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>Experience</category>
       </categories>
       <tags>
-        <tag>Principle</tag>
+        <tag>Password</tag>
       </tags>
   </entry>
   <entry>
@@ -1128,26 +1150,12 @@
       </categories>
   </entry>
   <entry>
-    <title>职场经验分享</title>
-    <url>/posts/d9b6479c/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong Password, Try Later | 抱歉, 这个密码看着不太对, 请再试试." data-whm="Error | 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="afff1236b20c5b7aba9d175b0cd8e46e0e4d2579581c755b8883c9dd555104ee">24014bcf5611e5fe61cbe1a03a36998a99d5dd0feffd4d84146bd514e005d0983aa46a3d68cd34e2b5446d9692f85f980dad1c3decf117f735a1d2003d73b28d3aa4b1c34a779aa3e927f117547a2a871af939658c399256dbae76880a15704c515b03633dbbb8ea540ec1494dda301450ae5c6f4a06d1ea5a131771c7356dba0bfa67539dc16ec10f69e365bb344f12cfc52c8adf1ac67540eb433770e33d1a1ce1f98e8e2ca49851866e94a066617dfcf943b41932dc889a054e897c0b9a0b340fdcc837f7e970fcbb0ba3548e6c3d25a928012772bc0a29ac8f1e2c041c128343d168b0c150ee69bf0da950492ab7b4e1914f1ff878b4b0b3cc2a2adfc824c2aaf863bc9c78f181f3155744d780cd8373cc9931ca1a7b81777b572c65a4511b1c42db528c8643eece9c18f8925256f7f17f7c8c23e83a9cc7a2d606926e88bcf1b65ac453e3c246ba708664befc6ebeb96c44fa653e2bcf15d492d9aa5638dc7b09c397f66c802fdcf2de307ee206034a0c28ceac24ac9f0f962a7d0b52d5ae3da991d50823fff27adc0b4211cfce935b896793318b2047c9f33d0173f1c6aff1d4b466deef244e767901ae2e74c71c7ffbee208f6968f9414c7321b936280dc5270f0efcbca6d7a6ef8a7534392fac57212478699e8b6a3cb4a6bb489f8fb99edc9168a6277ed97c9d6e5116dae6aa6f994184f2ea5ff61b17129f781d1a6599b055131876260ee435b7528cd7c9f40959e015b3986db22f3c297d11ac68edb163a00da26d8c9e409699984b2be976e1824a77977b687f5754f283e9a50418af6685268502db3a88ef8f72ecc12897bf6244477324fa23f791f25920918f8c7eaba4accece0297183b9f1fd923d92ccfc88e41959535ad50cfb746e8145bde049019bfe9635866b14684064c3d6a95d3223e9f9e43c46acc91568d6b676218e0689800439d3dac6c7ebcd0621a80942523ffc853b8aaceec3d217ae3ec2df5281e28890f2ba441d0bd44f22f35c62861f9e0ffded0beb25ee7441ac56f0ab33a9a24ffcdceeb455806e109244df83c117b00e0a8319797290c8e398f8c75061babe91dcef937cceb1365ed087fc4753890be10d713636f1d6bbf7110b76150bf9494f8d38dba03206819c8155ef5b4b0607fa5172a7941689bccb93d3ad92b22cb8718a838a107996d4c240c67c2ba146c2c4001b3b1bb133ca4769305f6646d8e476bac90ea5ff7dc00cafe1bdb2ab72d8d720a5a07baa4b96857bc54fea79e64608163650c80e8de85c832ed176519180d711661ce2b99077bf04ad32a3eb77fac3f395ee2a1c97d95b14b026cca9f91fb55ad0acc26f924bd5ae7e8a4a050867a2d3ecb9a0bfc2ee07e0e256bc47bdfc654eacf50ef2bd56b1fd3f88dc759bc298a852f6038e067f31980b6c9395aa833f23eb1d89b1dc78657ff11f1799c42b111fbab7260b06d0f8d6a0deeac279661ac12486f3284dfd1e506e1dea8ae4f5d7610ccd19cee3a1543590625a4506880b87fdfeb9f8ca66f7a5fe38b2da760ed5c6da64d1b2d7563eb433aab7808c705eeecc910c3681f5157bad3903a2a5bf4169ffc66aa886d7c613021442a4aadeb868ca8e65cd7b157176757059f070e549587c0c443707172dafaa980059c70d252d632a91eba2bc15d6351453d05e1f816148ede2038890e265d0dd78d89f9c072e9f6f861ba9307c7da2fc3a48525bc862c19160f9e2c135dde658a1f06a4ba2b64ce027e14ba96d840cd24e7438da65b012be642cd423014440195d8679ae76126a5d94bd4eb3e5b10ef173a45f08676f3f4d671105ab48311eef7e9bdad351b7c9156b56bcee4dfbe7675b00980925d46e5b9c7bcc667515d15fe160ab0995c9b080a9d1ee17e5218a5d009833e8578cab04d37d9402b9010c3c522b667a37436742ec2decb282c2e3b5e2e47f1cedc954c15b557cc397bc12a42581fdeaeb32ee6b730e91bc75e3f16e37ab4b8215ed6ba6b65d02fb594aa22261fa352bcc94fe5130cdad2a63aa04a5a289b33b1f6fe3a12bf3bda3e87f8993d8734c0464e057b5a365d7b85917e3b6988b52b603d35539b0f837a46271826d283435b9ffd98047d87622077abc36745cc8288589d79faee9e78eabda43dd5e861ba5573c9a1039a3ce3e8e02b9da1e13591ff01961028c0e5a9a98dedb1fcabe07350c2e05c1e456386de3e1d948aefbb597d0815128c73453838e0a64e0e39a6d5761551444484a371494a9dd9dcf691d0d38d60f5adc26ac3efa58b7f16d1fc10e9ed695b37e8a88ee7e73bb72f8741901ab132662f84c4bf02c3308bfd8087650630e00b81d297ff4c74f664d48a3708e0885a9863bcab063071129aaf3efbc979bedc07c2d7c21d92d57ab4e720e62b856a55ec1c6ce9f95a172557e2c4a3d9e9d8d866d7162e2bab3cf4be12c4141c4f6dbe165cf34511665a89c799b53df1f93bc5a1751610dff429efa5270aefd1ddba4b60f1745d01c4e5be758196bd65a148b79bdd1c23a173f8680a911d87e4a2bec017921e6eb2e6f2335f4fc95cffb9c2d5456f2293e3fab2cc5f9a7cb11ead274eebb0939318374b106637bc6203abbcbaea99a002ddffe43e89a979983ddce54bd8612bd7f31e53e1a86aa17af482cfa1f5585c70c965f117b110857fee60ea58f725f3cfb136e18f74353eaad1e4a1eea0c9d87b55a9ff456e545d47d899d2fc094af90e897a5ac3fc522f18569411f86fcbea908a13c7638a11d9d536edc8090f59938bd190fd520fff5b37b9b8c4e8da36d7d80e00659f9b45543400b530a77bfb8d3f18b94b243b8447f72addbe4f2691b9645812b1c4d15c863d03af3ea53c79f9ca7146e102178e46cfdd4a0b9521b176fbc5cb55b7a43e3a120be4f5520112d7436b8d0873e3595914d6fc6138231c7b5d6dbd6956a187628001bdbfec47715253bbf205887c223fb495bcbc48fb448651abc03473626b8f66830e5c01bcde1f8eef3f60d39c607dc8395c8d9e91374f5b584085524a86e64a188247b0b220f9498f32ac1587a6429add02733b922db47a1d94a4680505b172efee6ba993f6e650c255ec1caa7b4dc5d38e57146b31154b8f4942c1511ecd516f0d74e16137bd40d6071cb73887b8b54624b91b773dc21b1886a251f2ff1e</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-up">
-      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-up">输入密码，解密后阅读 | Type Password To Decrypt This Article</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Experience</category>
-      </categories>
-      <tags>
-        <tag>Password</tag>
-      </tags>
+    <title>About Edward</title>
+    <url>/posts/b8066abd/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>世界上只有一种真正的英雄主义，就是认清了生活的真相后，依然热爱生活。</p>
+<center><a href="https://lichuang.me/about/">Click here</a></center>
+
+]]></content>
   </entry>
   <entry>
     <title>Academic Jokes</title>
@@ -1249,12 +1257,55 @@
       </tags>
   </entry>
   <entry>
-    <title>About Edward</title>
-    <url>/posts/b8066abd/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>世界上只有一种真正的英雄主义，就是认清了生活的真相后，依然热爱生活。</p>
-<center><a href="https://lichuang.me/about/">Click here</a></center>
-
+    <title>Adobe Software</title>
+    <url>/posts/cf829b6f/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Adobe-Illustrator"><a href="#Adobe-Illustrator" class="headerlink" title="Adobe Illustrator"></a>Adobe Illustrator</h1><h2 id="编辑数学公式和希腊字母"><a href="#编辑数学公式和希腊字母" class="headerlink" title="编辑数学公式和希腊字母"></a>编辑数学公式和希腊字母</h2><h3 id="方法一：导入-svg-格式的公式图片"><a href="#方法一：导入-svg-格式的公式图片" class="headerlink" title="方法一：导入 svg 格式的公式图片"></a>方法一：导入 svg 格式的公式图片</h3><p>生成数学公式或希腊字母的图片格式（最好是 <code>png</code> 格式）→将图片导入到软件中→使用图像描摹功能（对象→图像描摹→建立并扩展）将图片矢量化→取消矢量图像编组，删除白色背景→重新编组，移动到合适位置。</p>
+<p>直接导入svg格式会出现字母异常，因此导入png然后矢量化处理是更好的方式，可以使用<span class="exturl" data-url="aHR0cHM6Ly9sYXRleGxpdmUuY29tLw==">LaTeX公式编辑器<i class="fa fa-external-link-alt"></i></span>在线生成png格式的公式或希腊字母。</p>
+<p>参考：<span class="exturl" data-url="aHR0cHM6Ly90ZXguc3RhY2tleGNoYW5nZS5jb20vcXVlc3Rpb25zLzkwMDE3L2hvdy1kby1pLWdldC1tYXRoZW1hdGljYWwtZm9udHMtdG8taWxsdXN0cmF0b3I=">How do I get mathematical fonts to Illustrator?<i class="fa fa-external-link-alt"></i></span></p>
+<p>Steps in detail (<em>When I was writing my dissertation on string theory I encountered the same issue. I managed to develop a pipeline which seems to work quite well</em>):</p>
+<ol>
+<li>Draw your graphs/images in Illustrator.</li>
+<li>Use <span class="exturl" data-url="aHR0cDovL2xhdGV4MnBuZy5jb20v">http://latex2png.com/<i class="fa fa-external-link-alt"></i></span>. Type your latex equation in there, then preview at 2000 dpi.</li>
+<li>Save the image, then load into Illustrator. Alternatively, you can speed things up by using a screencapture software (e.g. ShareX) so you can skip the image saving+loading process.</li>
+<li>When in Illustrator, select your imported equation image and choose Object –&gt; Image Trace –&gt; Make and Expand. It is very important to obtain a high dpi image for this step to work favorably.</li>
+<li>Your equation should now be a vector graphic.</li>
+<li>Select your new vector graphic equation and choose Object –&gt; Ungroup. This will separate the white spaces in your equation from the black content that you need.</li>
+<li>Select the white spaces and delete them.</li>
+<li>You now have a fully editable equation looking exactly like it does in Latex. You can scale/adjust and colour to your requirements.</li>
+</ol>
+<h3 id="方法二：从-PowerPoint-中直接拷贝"><a href="#方法二：从-PowerPoint-中直接拷贝" class="headerlink" title="方法二：从 PowerPoint 中直接拷贝"></a>方法二：从 PowerPoint 中直接拷贝</h3><p>在 PowerPoint 中键入公式，选中，直接拷贝到 Adobe Illustrator 中。</p>
+<h2 id="布尔运算"><a href="#布尔运算" class="headerlink" title="布尔运算"></a>布尔运算</h2><p>打开软件，新建文件，选择“<strong>窗口</strong>”在“<strong>路径查找器</strong>”前打勾，这是做布尔运算的工具，之后选择两个需要做布尔运算的图形，在路径查找器中选择合适的操作即可。</p>
+<h2 id="学习资料"><a href="#学习资料" class="headerlink" title="学习资料"></a>学习资料</h2><ol>
+<li><span class="exturl" data-url="aHR0cHM6Ly9oZWxweC5hZG9iZS5jb20vc3VwcG9ydC9pbGx1c3RyYXRvci5odG1s">Adobe Illustrator Learn &amp; Support<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXB4NDExczd6YS8=">AI教程，新手入门系列，bilibili<i class="fa fa-external-link-alt"></i></span></li>
+<li>Adobe公司, 牛国庆. Adobe Illustrator CC经典教程[M]. 人民邮电出版社, 2014.</li>
+</ol>
+<h1 id="PhotoShop"><a href="#PhotoShop" class="headerlink" title="PhotoShop"></a>PhotoShop</h1><h2 id="修改特定图片的分辨率和DPI"><a href="#修改特定图片的分辨率和DPI" class="headerlink" title="修改特定图片的分辨率和DPI"></a>修改特定图片的分辨率和DPI</h2><ol>
+<li>将图片拖入Photoshop；</li>
+<li>“图像” $\rightarrow$ “图像大小” $\rightarrow$ 调整宽度、高度与分辨率为目标值；</li>
+<li>“文件” $\rightarrow$ “存储”，保存为指定格式和大小，即可；</li>
+</ol>
+<p><em>备注：Adobe Illustrator与 Photoshop 的主要区别在于，Illustrator 基于矢量作图，而 Photoshop 基于像素点作图，因此在科研中 Illustrator 更常用。</em></p>
 ]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Japanese art of Kintsugi</title>
+    <url>/posts/bb49c41d/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Kintsugi is the Japanese art of putting broken pottery pieces back together with gold — built on the idea that in embracing flaws and imperfections, you can create an even stronger, more beautiful piece of art. </p>
+]]></content>
+      <categories>
+        <category>Principle</category>
+      </categories>
+      <tags>
+        <tag>Principle</tag>
+        <tag>Career</tag>
+      </tags>
   </entry>
   <entry>
     <title>Modest Advice for Graduate Students</title>
@@ -1448,54 +1499,68 @@
       </tags>
   </entry>
   <entry>
-    <title>Adobe Software</title>
-    <url>/posts/cf829b6f/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Adobe-Illustrator"><a href="#Adobe-Illustrator" class="headerlink" title="Adobe Illustrator"></a>Adobe Illustrator</h1><h2 id="编辑数学公式和希腊字母"><a href="#编辑数学公式和希腊字母" class="headerlink" title="编辑数学公式和希腊字母"></a>编辑数学公式和希腊字母</h2><h3 id="方法一：导入-svg-格式的公式图片"><a href="#方法一：导入-svg-格式的公式图片" class="headerlink" title="方法一：导入 svg 格式的公式图片"></a>方法一：导入 svg 格式的公式图片</h3><p>生成数学公式或希腊字母的图片格式（最好是 <code>png</code> 格式）→将图片导入到软件中→使用图像描摹功能（对象→图像描摹→建立并扩展）将图片矢量化→取消矢量图像编组，删除白色背景→重新编组，移动到合适位置。</p>
-<p>直接导入svg格式会出现字母异常，因此导入png然后矢量化处理是更好的方式，可以使用<span class="exturl" data-url="aHR0cHM6Ly9sYXRleGxpdmUuY29tLw==">LaTeX公式编辑器<i class="fa fa-external-link-alt"></i></span>在线生成png格式的公式或希腊字母。</p>
-<p>参考：<span class="exturl" data-url="aHR0cHM6Ly90ZXguc3RhY2tleGNoYW5nZS5jb20vcXVlc3Rpb25zLzkwMDE3L2hvdy1kby1pLWdldC1tYXRoZW1hdGljYWwtZm9udHMtdG8taWxsdXN0cmF0b3I=">How do I get mathematical fonts to Illustrator?<i class="fa fa-external-link-alt"></i></span></p>
-<p>Steps in detail (<em>When I was writing my dissertation on string theory I encountered the same issue. I managed to develop a pipeline which seems to work quite well</em>):</p>
-<ol>
-<li>Draw your graphs/images in Illustrator.</li>
-<li>Use <span class="exturl" data-url="aHR0cDovL2xhdGV4MnBuZy5jb20v">http://latex2png.com/<i class="fa fa-external-link-alt"></i></span>. Type your latex equation in there, then preview at 2000 dpi.</li>
-<li>Save the image, then load into Illustrator. Alternatively, you can speed things up by using a screencapture software (e.g. ShareX) so you can skip the image saving+loading process.</li>
-<li>When in Illustrator, select your imported equation image and choose Object –&gt; Image Trace –&gt; Make and Expand. It is very important to obtain a high dpi image for this step to work favorably.</li>
-<li>Your equation should now be a vector graphic.</li>
-<li>Select your new vector graphic equation and choose Object –&gt; Ungroup. This will separate the white spaces in your equation from the black content that you need.</li>
-<li>Select the white spaces and delete them.</li>
-<li>You now have a fully editable equation looking exactly like it does in Latex. You can scale/adjust and colour to your requirements.</li>
-</ol>
-<h3 id="方法二：从-PowerPoint-中直接拷贝"><a href="#方法二：从-PowerPoint-中直接拷贝" class="headerlink" title="方法二：从 PowerPoint 中直接拷贝"></a>方法二：从 PowerPoint 中直接拷贝</h3><p>在 PowerPoint 中键入公式，选中，直接拷贝到 Adobe Illustrator 中。</p>
-<h2 id="布尔运算"><a href="#布尔运算" class="headerlink" title="布尔运算"></a>布尔运算</h2><p>打开软件，新建文件，选择“<strong>窗口</strong>”在“<strong>路径查找器</strong>”前打勾，这是做布尔运算的工具，之后选择两个需要做布尔运算的图形，在路径查找器中选择合适的操作即可。</p>
-<h2 id="学习资料"><a href="#学习资料" class="headerlink" title="学习资料"></a>学习资料</h2><ol>
-<li><span class="exturl" data-url="aHR0cHM6Ly9oZWxweC5hZG9iZS5jb20vc3VwcG9ydC9pbGx1c3RyYXRvci5odG1s">Adobe Illustrator Learn &amp; Support<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXB4NDExczd6YS8=">AI教程，新手入门系列，bilibili<i class="fa fa-external-link-alt"></i></span></li>
-<li>Adobe公司, 牛国庆. Adobe Illustrator CC经典教程[M]. 人民邮电出版社, 2014.</li>
-</ol>
-<h1 id="PhotoShop"><a href="#PhotoShop" class="headerlink" title="PhotoShop"></a>PhotoShop</h1><h2 id="修改特定图片的分辨率和DPI"><a href="#修改特定图片的分辨率和DPI" class="headerlink" title="修改特定图片的分辨率和DPI"></a>修改特定图片的分辨率和DPI</h2><ol>
-<li>将图片拖入Photoshop；</li>
-<li>“图像” $\rightarrow$ “图像大小” $\rightarrow$ 调整宽度、高度与分辨率为目标值；</li>
-<li>“文件” $\rightarrow$ “存储”，保存为指定格式和大小，即可；</li>
-</ol>
-<p><em>备注：Adobe Illustrator与 Photoshop 的主要区别在于，Illustrator 基于矢量作图，而 Photoshop 基于像素点作图，因此在科研中 Illustrator 更常用。</em></p>
+    <title>粟耀莹·《从加州理工到高盛银行》</title>
+    <url>/posts/1f972e30/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>原文：<span class="exturl" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC90b3BpYy8xMDU0OTAyLw==">粟耀莹  从加州理工到高盛银行<i class="fa fa-external-link-alt"></i></span> </p>
+<p>粟耀莹的母亲是洪冬桂，台湾立法委员；父亲是粟明德，白崇禧义子，曾任蒋经国秘书；粟家与白家世交。</p>
+<span id="more"></span>
+
+<blockquote>
+<p>“我从来没有想要教书或作研究，我去加州理工，这个在世界上诺贝尔奖得主密度最大的地方，是为了接受其熏陶，以悟出如何得到诺贝尔奖的道理，并对我当年的偶象Feynman费因曼(著名的物理诺贝尔奖得主，著有Surely You’re Joking，Mr.Feynman 一书)生前待过最久的地方，进行模拜。“</p>
+</blockquote>
+<p>因为研究生课程免修考试通过，因此粟有时间多浏览物理领域的前沿内容（也曾经拜访叶乃裳教授），之后经过多方了解，认为物理与生物交叉的方向前景广阔，值得研究。但因为自己之前没有生物基础，所以就必须去生物系选修相关的课程，最初受到冷眼旁观，但是之后自己取得了很好的成绩，逐步得到各种人的赞赏。在科学之外，她发现还有一个宽广而多彩的世界，商业是一个足可与科学抗衡的行业。 </p>
 ]]></content>
       <categories>
-        <category>Tool</category>
+        <category>Comment</category>
       </categories>
       <tags>
-        <tag>Skill</tag>
+        <tag>Comment</tag>
       </tags>
   </entry>
   <entry>
-    <title>Japanese art of Kintsugi</title>
-    <url>/posts/bb49c41d/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Kintsugi is the Japanese art of putting broken pottery pieces back together with gold — built on the idea that in embracing flaws and imperfections, you can create an even stronger, more beautiful piece of art. </p>
-]]></content>
+    <title>中国社会各阶级的分析 | 毛泽东</title>
+    <url>/posts/1e9a0a4c/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p> 本文完成于一九二五年十二月一日</p>
+</blockquote>
+<blockquote>
+<p>毛泽东此文是为反对当时党内存在着的两种倾向而写的。当时党内的第一种倾向，以陈独秀为代表，只注意同国民党合作，忘记了农民，这是右倾机会主义。第二种倾向，以张国焘为代表，只注意工人运动，同样忘记了农民，这是“左”倾机会主义。这两种机会主义都感觉自己力量不足，而不知道到何处去寻找力量，到何处去取得广大的同盟军。毛泽东指出中国无产阶级的最广大和最忠实的同盟军是农民，这样就解决了中国革命中的最主要的同盟军问题。毛泽东并且预见到当时的民族资产阶级是一个动摇的阶级，他们在革命高涨时将要分化，其右翼将要跑到帝国主义方面去。一九二七年所发生的事变，证明了这一点。</p>
+</blockquote>
+<p>谁是我们的敌人？谁是我们的朋友？这个问题是革命的首要问题。中国过去一切革命斗争成效甚少，其基本原因就是因为不能团结真正的朋友，以攻击真正的敌人。革命党是群众的向导，在革命中未有革命党领错了路而革命不失败的。我们的革命要有不领错路和一定成功的把握，不可不注意团结我们的真正的朋友，以攻击我们的真正的敌人。我们要分辨真正的敌友，不可不将中国社会各阶级的经济地位及其对于革命的态度，作一个大概的分析。</p>
+<p>中国社会各阶级的情况是怎样的呢？</p>
+<span id="more"></span>
+
+<p>地主阶级和买办阶级。在经济落后的半殖民地的中国，地主阶级和买办阶级完全是国际资产阶级的附庸，其生存和发展，是附属于帝国主义的。这些阶级代表中国最落后的和最反动的生产关系，阻碍中国生产力的发展。他们和中国革命的目的完全不兼容。特别是大地主阶级和大买办阶级，他们始终站在帝国主义一边，是极端的反革命派。其政治代表是国家主义派<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="国家主义派指中国青年党，当时以其外围组织“中国国家主义青年团”的名义公开进行活动。组织这个政团的是一些反动政客，他们投靠帝国主义和当权的反动派，把反对中国共产党和苏联当作职业。
+">[1]</span></a></sup>和国民党右派。</p>
+<p>中产阶级。这个阶级代表中国城乡资本主义的生产关系。中产阶级主要是指民族资产阶级，他们对于中国革命具有矛盾的态度：他们在受外资打击、军阀压迫感觉痛苦时，需要革命，赞成反帝国主义反军阀的革命运动；但是当着革命在国内有本国无产阶级的勇猛参加，在国外有国际无产阶级的积极援助，对于其欲达到大资产阶级地位的阶级的发展感觉到威胁时，他们又怀疑革命。其政治主张为实现民族资产阶级一阶级统治的国家。有一个自称为戴季陶<sup id="fnref:2"><a href="#fn:2" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="戴季陶（一八九一——一九四九），又名传贤，原籍浙江湖州，生于四川广汉。早年参加中国同盟会，从事过反对清政府和袁世凯的活动。后曾和蒋介石在上海共同经营交易所的投机事业。一九二五年随着孙中山的逝世和革命高潮的到来，他歪曲孙中山学说的革命内容，散布反对国共合作、反对工农革命运动的谬论，为后来蒋介石的反共活动作了准备。一九二七年南京国民政府成立后，历任国民政府委员、考试院院长等职。一九四九年二月，蒋介石的统治即将崩溃，戴季陶感到绝望而自杀。
+">[2]</span></a></sup>“真实信徒”的，在北京《晨报》<sup id="fnref:3"><a href="#fn:3" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="北京《晨报》，初名《晨钟报》，一九一六年八月创刊于北京，一九一八年十二月改名为《晨报》，一九二八年六月停刊。
+">[3]</span></a></sup>上发表议论说：“举起你的左手打倒帝国主义，举起你的右手打倒共产党。”这两句话，画出了这个阶级的矛盾惶遽状态。他们反对以阶级斗争学说解释国民党的民生主义，他们反对国民党联俄和容纳共产党<sup id="fnref:4"><a href="#fn:4" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label=" 一九二二年和一九二三年间，孙中山在共产党人的帮助下，决定改组国民党，实行国共合作，容纳共产党人参加国民党，并于一九二四年一月在广州召开国民党第一次全国代表大会，实行联俄、联共、扶助农工的三大政策。李大钊、谭平山、毛泽东、林伯渠、瞿秋白等共产党人参加了这次大会。他们曾经被选为国民党中央执行委员会的委员或候补委员，担任过国民党的许多领导工作，对于帮助国民党走上革命的道路，起了重大的作用。
+">[4]</span></a></sup>及左派分子。但是这个阶级的企图——实现民族资产阶级统治的国家，是完全行不通的，因为现在世界上的局面，是革命和反革命两大势力作最后斗争的局面。这两大势力竖起了两面大旗：一面是红色的革命的大旗，第三国际<sup id="fnref:5"><a href="#fn:5" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="第三国际即共产国际，一九一九年三月在列宁领导下成立。一九二二年中国共产党参加共产国际，成为它的一个支部。一九四三年五月，共产国际执行委员会主席团通过决定，提议解散共产国际，同年六月共产国际正式宣布解散。
+">[5]</span></a></sup>高举着，号召全世界一切被压迫阶级集合于其旗帜之下；一面是白色的反革命的大旗，国际联盟<sup id="fnref:6"><a href="#fn:6" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="国际联盟简称国联，一九二○年一月正式成立。先后参加的有六十多个国家。国际联盟标榜以“促进国际合作，维持国际和平与安全”为目的，实际上日益成为帝国主义国家推行侵略政策的工具。第二次世界大战爆发后无形瓦解，一九四六年四月正式宣布解散。
+">[6]</span></a></sup>高举着，号召全世界一切反革命分子集合于其旗帜之下。那些中间阶级，必定很快地分化，或者向左跑入革命派，或者向右跑入反革命派，没有他们“独立”的余地。所以，中国的中产阶级，以其本阶级为主体的“独立”革命思想，仅仅是一个幻想。</p>
+<p>小资产阶级。如自耕农<sup id="fnref:7"><a href="#fn:7" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="这里是指中农。
+">[7]</span></a></sup>，手工业主，小知识阶层——学生界、中小学教员、小员司、小事务员、小律师，小商人等都属于这一类。这一个阶级，在人数上，在阶级性上，都值得大大注意。自耕农和手工业主所经营的，都是小生产的经济。这个小资产阶级内的各阶层虽然同处在小资产阶级经济地位，但有三个不同的部分。第一部分是有余钱剩米的，即用其体力或脑力劳动所得，除自给外，每年有余剩。这种人发财观念极重，对赵公元帅礼拜最勤，虽不妄想发大财，却总想爬上中产阶级地位。他们看见那些受人尊敬的小财东，往往垂着一尺长的涎水。这种人胆子小，他们怕官，也有点怕革命。因为他们的经济地位和中产阶级颇接近，故对于中产阶级的宣传颇相信，对于革命取怀疑的态度。这一部分人在小资产阶级中占少数，是小资产阶级的右翼。第二部分是在经济上大体上可以自给的。这一部分人比较第一部分人大不相同，他们也想发财，但是赵公元帅<sup id="fnref:8"><a href="#fn:8" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="赵公元帅是中国民间传说的财神，叫赵公明。
+">[8]</span></a></sup>总不让他们发财，而且因为近年以来帝国主义、军阀、封建地主、买办大资产阶级的压迫和剥削，他们感觉现在的世界已经不是从前的世界。他们觉得现在如果只使用和从前相等的劳动，就会不能维持生活。必须增加劳动时间，每天起早散晚，对于职业加倍注意，方能维持生活。他们有点骂人了，骂洋人叫“洋鬼子”，骂军阀叫“抢钱司令”，骂土豪劣绅叫“为富不仁”。对于反帝国主义反军阀的运动，仅怀疑其未必成功（理由是：洋人和军阀的来头那么大），不肯贸然参加，取了中立的态度，但是绝不反对革命。这一部分人数甚多，大概占小资产阶级的一半。第三部分是生活下降的。这一部分人好些大概原先是所谓殷实人家，渐渐变得仅仅可以保住，渐渐变得生活下降了。他们每逢年终结账一次，就吃惊一次，说：“咳，又亏了！”这种人因为他们过去过着好日子，后来逐年下降，负债渐多，渐次过着凄凉的日子，“瞻念前途，不寒而栗”。这种人在精神上感觉的痛苦很大，因为他们有一个从前和现在相反的比较。这种人在革命运动中颇要紧，是一个数量不小的群众，是小资产阶级的左翼。以上所说小资产阶级的三部分，对于革命的态度，在平时各不相同；但到战时，即到革命潮流高涨、可以看得见胜利的曙光时，不但小资产阶级的左派参加革命，中派亦可参加革命，即右派分子受了无产阶级和小资产阶级左派的革命大潮所裹挟，也只得附和着革命。我们从一九二五年的五卅运动<sup id="fnref:9"><a href="#fn:9" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="指一九二五年五月三十日爆发的反帝爱国运动。一九二五年五月间，上海、青岛的日本纱厂先后发生工人罢工的斗争，遭到日本帝国主义和北洋军阀的镇压。上海内外棉第七厂日本资本家在五月十五日枪杀了工人顾正红，并伤工人十余人。二十九日青岛工人被反动政府屠杀八人。五月三十日，上海二千余学生分头在公共租界各马路进行宣传讲演，一百余名遭巡捕（租界内的警察）逮捕，被拘押在南京路老闸巡捕房内，引起了学生和市民的极大愤慨，有近万人聚集在巡捕房门口，要求释放被捕学生。英帝国主义的巡捕向群众开枪，打死打伤许多人。这就是震惊中外的五卅惨案。六月，英日等帝国主义在上海和其它地方继续进行屠杀。这些屠杀事件激起了全国人民的公愤。广大的工人、学生和部分工商业者，在许多城市和县镇举行游行示威和罢工、罢课、罢市，形成了全国规模的反帝爱国运动高潮。
+">[9]</span></a></sup>和各地农民运动的经验看来，这个断定是不错的。</p>
+<p>半无产阶级。此处所谓半无产阶级，包含：（一）绝大部分半自耕农<sup id="fnref:10"><a href="#fn:10" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="这里是指自己有一部分土地，同时租种一部分土地，或出卖一部分劳动力，或兼营小商的贫农。
+">[10]</span></a></sup>，（二）贫农，（三）小手工业者，（四）店员<sup id="fnref:11"><a href="#fn:11" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="店员有不同的阶层，他们一般不占有生产资料，生活来源的全部或者主要部分是依靠向店主出卖劳动力所取得的工资。毛泽东在这里所指的是店员中的一部分，还有一部分下层店员过着无产阶级的生活。
+">[11]</span></a></sup>，（五）小贩等五种。绝大部分半自耕农和贫农是农村中一个数量极大的群众。所谓农民问题，主要就是他们的问题。半自耕农、贫农和小手工业者所经营的，都是更细小的小生产的经济。绝大部分半自耕农和贫农虽同属半无产阶级，但其经济状况仍有上、中、下三个细别。半自耕农，其生活苦于自耕农，因其食粮每年大约有一半不够，须租别人田地，或者出卖一部分劳动力，或经营小商，以资弥补。春夏之间，青黄不接，高利向别人借债，重价向别人籴粮，较之自耕农的无求于人，自然景遇要苦，但是优于贫农。因为贫农无土地，每年耕种只得收获之一半或不足一半；半自耕农则租于别人的部分虽只收获一半或不足一半，然自有的部分却可全得。故半自耕农的革命性优于自耕农而不及贫农。贫农是农村中的佃农，受地主的剥削。其经济地位又分两部分。一部分贫农有比较充足的农具和相当数量的资金。此种农民，每年劳动结果，自己可得一半。不足部分，可以种杂粮、捞鱼虾、饲鸡豕，或出卖一部分劳动力，勉强维持生活，于艰难竭蹶之中，存聊以卒岁之想。故其生活苦于半自耕农，然较另一部分贫农为优。其革命性，则优于半自耕农而不及另一部分贫农。所谓另一部分贫农，则既无充足的农具，又无资金，肥料不足，土地歉收，送租之外，所得无几，更需要出卖一部分劳动力。荒时暴月，向亲友乞哀告怜，借得几斗几升，敷衍三日五日，债务丛集，如牛负重。他们是农民中极艰苦者，极易接受革命的宣传。小手工业者所以称为半无产阶级，是因为他们虽然自有简单的生产手段，且系一种自由职业，但他们也常常被迫出卖一部分劳动力，其经济地位略与农村中的贫农相当。因其家庭负担之重，工资和生活费用之不相称，时有贫困的压迫和失业的恐慌，和贫农亦大致相同。店员是商店的雇员，以微薄的薪资，供家庭的费用，物价年年增长，薪给往往须数年一增，偶与此辈倾谈，便见叫苦不迭。其地位和贫农及小手工业者不相上下，对于革命宣传极易接受。小贩不论肩挑叫卖，或街畔摊售，总之本小利微，吃着不够。其地位和贫农不相上下，其需要一个变更现状的革命，也和贫农相同。</p>
+<p>无产阶级。现代工业无产阶级约二百万人。中国因经济落后，故现代工业无产阶级人数不多。二百万左右的产业工人中，主要为铁路、矿山、海运、纺织、造船五种产业的工人，而其中很大一个数量是在外资产业的奴役下。工业无产阶级人数虽不多，却是中国新的生产力的代表者，是近代中国最进步的阶级，做了革命运动的领导力量。我们看四年以来的罢工运动，如海员罢工<sup id="fnref:12"><a href="#fn:12" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="指一九二二年香港和上海的海员罢工。香港海员罢工爆发于一月十二日，坚持了八个星期。最后，香港英帝国主义当局被迫答应增加工资，恢复原工会，释放被捕工人，抚恤在罢工中死难烈士的家属。上海海员罢工于八月五日开始，坚持了三个星期，也得到胜利。
+">[12]</span></a></sup>、铁路罢工<sup id="fnref:13"><a href="#fn:13" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="指一九二二年和一九二三年中国共产党领导的各主要铁路线的工人罢工。在罢工过程中，工人群众的觉悟迅速提高，要求改善生活的经济斗争迅速发展为反对军阀的政治斗争。一九二三年二月四日，京汉铁路工人为争取组织总工会的自由，举行总罢工。其它许多铁路的工人也纷纷响应。二月七日，英帝国主义支持的北洋军阀吴佩孚、萧耀南等，残酷地屠杀京汉铁路的工人，造成了二七惨案。
+">[13]</span></a></sup>、开滦和焦作煤矿罢工<sup id="fnref:14"><a href="#fn:14" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="开滦煤矿是直隶省（今河北省）开平、滦县一带煤矿的总称，当时为英帝国主义者所控制。开滦罢工指一九二二年十月、十一月间矿工三万余人举行的大罢工。英帝国主义者和北洋军阀对这次罢工进行残酷的镇压，工人死伤很多，但是仍然坚持斗争。最后，英帝国主义者不得不答应给工人增加一部分工资。焦作煤矿，在河南省北部，当时也为英帝国主义者所控制。焦作罢工指一九二五年七月爆发的罢工。这次罢工是为响应五卅运动而发动的，前后坚持七个多月。最后，英帝国主义者不得不承认工会有代表工人的权利，并且被迫接受增加工资、不无故开除工人和补偿工人因罢工所受的损失等项条件。
+">[14]</span></a></sup>、沙面罢工<sup id="fnref:15"><a href="#fn:15" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="沙面当时是英法帝国主义在广州的租界。一九二四年七月，统治沙面的帝国主义者颁布新警律，规定沙面的中国人出入租界必须携带贴有本人相片的执照，在租界内行动必须受各种苛刻的限制，但是外国人却可以自由出入活动。沙面工人于七月十五日宣告罢工，抗议这些无理措施。这次沙面罢工迫使英法帝国主义者取消了新警律。
+">[15]</span></a></sup>以及“五卅”后上海香港两处的大罢工<sup id="fnref:16"><a href="#fn:16" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="指一九二五年六月一日开始的上海大罢工和六月十九日开始的香港大罢工。这两处罢工是当时全国反帝爱国运动的支柱。前者有二十多万工人参加，坚持了三四个月；后者有二十五万工人参加，坚持了一年零四个月，是截至当时为止的世界工人运动史中时间最长的一次罢工。
+">[16]</span></a></sup>所表现的力量，就可知工业无产阶级在中国革命中所处地位的重要。他们所以能如此，第一个原因是集中。无论哪种人都不如他们的集中。第二个原因是经济地位低下。他们失了生产手段，剩下两手，绝了发财的望，又受着帝国主义、军阀、资产阶级的极残酷的待遇，所以他们特别能战斗。都市苦力工人的力量也很可注意。以码头搬运夫和人力车夫占多数，粪夫清道夫等亦属于这一类。他们除双手外，别无长物，其经济地位和产业工人相似，惟不及产业工人的集中和在生产上的重要。中国尚少新式的资本主义的农业。所谓农村无产阶级，是指长工、月工、零工等雇农而言。此等雇农不仅无土地，无农具，又无丝毫资金，只得营工度日。其劳动时间之长，工资之少，待遇之薄，职业之不安定，超过其它工人。此种人在乡村中是最感困难者，在农民运动中和贫农处于同一紧要的地位。</p>
+<p>此外，还有数量不小的游民无产者，为失了土地的农民和失了工作机会的手工业工人。他们是人类生活中最不安定者。他们在各地都有秘密组织，如闽粤的“三合会”，湘鄂黔蜀的“哥老会”，皖豫鲁等省的“大刀会”，直隶及东三省的“在理会”，上海等处的“青帮”<sup id="fnref:17"><a href="#fn:17" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="三合会、哥老会、大刀会、在理会、青帮是旧中国的一些民间秘密团体，参加者主要的是破产农民、失业手工业工人和流氓无产者。这类团体大都用宗教迷信为团聚成员的工具，采取家长制的组织形式，有的还拥有武装。参加这类团体的人，在社会生活中有互相援助的义务，有时还共同反抗压迫他们的地主、官僚和外国侵略者。但是，农民和手工业工人不可能依靠这类团体得到出路。同时，由于这类团体带有严重的封建性和盲目的破坏性，它们又往往容易被反动统治阶级和帝国主义势力所操纵和利用。随着工人阶级力量的壮大和中国共产党的成立，农民和手工业工人在共产党的领导之下逐步地建立了完全新式的群众组织，这类落后的团体就失掉了它们的存在价值。">[17]</span></a></sup>，都曾经是他们的政治和经济斗争的互助团体。处置这一批人，是中国的困难的问题之一。这一批人很能勇敢奋斗，但有破坏性，如引导得法，可以变成一种革命力量。</p>
+<p>综上所述，可知一切勾结帝国主义的军阀、官僚、买办阶级、大地主阶级以及附属于他们的一部分反动知识界，是我们的敌人。工业无产阶级是我们革命的领导力量。一切半无产阶级、小资产阶级，是我们最接近的朋友。那动摇不定的中产阶级，其右翼可能是我们的敌人，其左翼可能是我们的朋友——但我们要时常提防他们，不要让他们扰乱了我们的阵线。</p>
+<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">国家主义派指中国青年党，当时以其外围组织“中国国家主义青年团”的名义公开进行活动。组织这个政团的是一些反动政客，他们投靠帝国主义和当权的反动派，把反对中国共产党和苏联当作职业。<a href="#fnref:1" rev="footnote"> ↩</a></span></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">2.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">戴季陶（一八九一——一九四九），又名传贤，原籍浙江湖州，生于四川广汉。早年参加中国同盟会，从事过反对清政府和袁世凯的活动。后曾和蒋介石在上海共同经营交易所的投机事业。一九二五年随着孙中山的逝世和革命高潮的到来，他歪曲孙中山学说的革命内容，散布反对国共合作、反对工农革命运动的谬论，为后来蒋介石的反共活动作了准备。一九二七年南京国民政府成立后，历任国民政府委员、考试院院长等职。一九四九年二月，蒋介石的统治即将崩溃，戴季陶感到绝望而自杀。<a href="#fnref:2" rev="footnote"> ↩</a></span></li><li id="fn:3"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">3.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">北京《晨报》，初名《晨钟报》，一九一六年八月创刊于北京，一九一八年十二月改名为《晨报》，一九二八年六月停刊。<a href="#fnref:3" rev="footnote"> ↩</a></span></li><li id="fn:4"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">4.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">一九二二年和一九二三年间，孙中山在共产党人的帮助下，决定改组国民党，实行国共合作，容纳共产党人参加国民党，并于一九二四年一月在广州召开国民党第一次全国代表大会，实行联俄、联共、扶助农工的三大政策。李大钊、谭平山、毛泽东、林伯渠、瞿秋白等共产党人参加了这次大会。他们曾经被选为国民党中央执行委员会的委员或候补委员，担任过国民党的许多领导工作，对于帮助国民党走上革命的道路，起了重大的作用。<a href="#fnref:4" rev="footnote"> ↩</a></span></li><li id="fn:5"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">5.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">第三国际即共产国际，一九一九年三月在列宁领导下成立。一九二二年中国共产党参加共产国际，成为它的一个支部。一九四三年五月，共产国际执行委员会主席团通过决定，提议解散共产国际，同年六月共产国际正式宣布解散。<a href="#fnref:5" rev="footnote"> ↩</a></span></li><li id="fn:6"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">6.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">国际联盟简称国联，一九二○年一月正式成立。先后参加的有六十多个国家。国际联盟标榜以“促进国际合作，维持国际和平与安全”为目的，实际上日益成为帝国主义国家推行侵略政策的工具。第二次世界大战爆发后无形瓦解，一九四六年四月正式宣布解散。<a href="#fnref:6" rev="footnote"> ↩</a></span></li><li id="fn:7"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">7.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">这里是指中农。<a href="#fnref:7" rev="footnote"> ↩</a></span></li><li id="fn:8"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">8.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">赵公元帅是中国民间传说的财神，叫赵公明。<a href="#fnref:8" rev="footnote"> ↩</a></span></li><li id="fn:9"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">9.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">指一九二五年五月三十日爆发的反帝爱国运动。一九二五年五月间，上海、青岛的日本纱厂先后发生工人罢工的斗争，遭到日本帝国主义和北洋军阀的镇压。上海内外棉第七厂日本资本家在五月十五日枪杀了工人顾正红，并伤工人十余人。二十九日青岛工人被反动政府屠杀八人。五月三十日，上海二千余学生分头在公共租界各马路进行宣传讲演，一百余名遭巡捕（租界内的警察）逮捕，被拘押在南京路老闸巡捕房内，引起了学生和市民的极大愤慨，有近万人聚集在巡捕房门口，要求释放被捕学生。英帝国主义的巡捕向群众开枪，打死打伤许多人。这就是震惊中外的五卅惨案。六月，英日等帝国主义在上海和其它地方继续进行屠杀。这些屠杀事件激起了全国人民的公愤。广大的工人、学生和部分工商业者，在许多城市和县镇举行游行示威和罢工、罢课、罢市，形成了全国规模的反帝爱国运动高潮。<a href="#fnref:9" rev="footnote"> ↩</a></span></li><li id="fn:10"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">10.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">这里是指自己有一部分土地，同时租种一部分土地，或出卖一部分劳动力，或兼营小商的贫农。<a href="#fnref:10" rev="footnote"> ↩</a></span></li><li id="fn:11"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">11.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">店员有不同的阶层，他们一般不占有生产资料，生活来源的全部或者主要部分是依靠向店主出卖劳动力所取得的工资。毛泽东在这里所指的是店员中的一部分，还有一部分下层店员过着无产阶级的生活。<a href="#fnref:11" rev="footnote"> ↩</a></span></li><li id="fn:12"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">12.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">指一九二二年香港和上海的海员罢工。香港海员罢工爆发于一月十二日，坚持了八个星期。最后，香港英帝国主义当局被迫答应增加工资，恢复原工会，释放被捕工人，抚恤在罢工中死难烈士的家属。上海海员罢工于八月五日开始，坚持了三个星期，也得到胜利。<a href="#fnref:12" rev="footnote"> ↩</a></span></li><li id="fn:13"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">13.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">指一九二二年和一九二三年中国共产党领导的各主要铁路线的工人罢工。在罢工过程中，工人群众的觉悟迅速提高，要求改善生活的经济斗争迅速发展为反对军阀的政治斗争。一九二三年二月四日，京汉铁路工人为争取组织总工会的自由，举行总罢工。其它许多铁路的工人也纷纷响应。二月七日，英帝国主义支持的北洋军阀吴佩孚、萧耀南等，残酷地屠杀京汉铁路的工人，造成了二七惨案。<a href="#fnref:13" rev="footnote"> ↩</a></span></li><li id="fn:14"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">14.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">开滦煤矿是直隶省（今河北省）开平、滦县一带煤矿的总称，当时为英帝国主义者所控制。开滦罢工指一九二二年十月、十一月间矿工三万余人举行的大罢工。英帝国主义者和北洋军阀对这次罢工进行残酷的镇压，工人死伤很多，但是仍然坚持斗争。最后，英帝国主义者不得不答应给工人增加一部分工资。焦作煤矿，在河南省北部，当时也为英帝国主义者所控制。焦作罢工指一九二五年七月爆发的罢工。这次罢工是为响应五卅运动而发动的，前后坚持七个多月。最后，英帝国主义者不得不承认工会有代表工人的权利，并且被迫接受增加工资、不无故开除工人和补偿工人因罢工所受的损失等项条件。<a href="#fnref:14" rev="footnote"> ↩</a></span></li><li id="fn:15"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">15.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">沙面当时是英法帝国主义在广州的租界。一九二四年七月，统治沙面的帝国主义者颁布新警律，规定沙面的中国人出入租界必须携带贴有本人相片的执照，在租界内行动必须受各种苛刻的限制，但是外国人却可以自由出入活动。沙面工人于七月十五日宣告罢工，抗议这些无理措施。这次沙面罢工迫使英法帝国主义者取消了新警律。<a href="#fnref:15" rev="footnote"> ↩</a></span></li><li id="fn:16"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">16.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">指一九二五年六月一日开始的上海大罢工和六月十九日开始的香港大罢工。这两处罢工是当时全国反帝爱国运动的支柱。前者有二十多万工人参加，坚持了三四个月；后者有二十五万工人参加，坚持了一年零四个月，是截至当时为止的世界工人运动史中时间最长的一次罢工。<a href="#fnref:16" rev="footnote"> ↩</a></span></li><li id="fn:17"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">17.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">三合会、哥老会、大刀会、在理会、青帮是旧中国的一些民间秘密团体，参加者主要的是破产农民、失业手工业工人和流氓无产者。这类团体大都用宗教迷信为团聚成员的工具，采取家长制的组织形式，有的还拥有武装。参加这类团体的人，在社会生活中有互相援助的义务，有时还共同反抗压迫他们的地主、官僚和外国侵略者。但是，农民和手工业工人不可能依靠这类团体得到出路。同时，由于这类团体带有严重的封建性和盲目的破坏性，它们又往往容易被反动统治阶级和帝国主义势力所操纵和利用。随着工人阶级力量的壮大和中国共产党的成立，农民和手工业工人在共产党的领导之下逐步地建立了完全新式的群众组织，这类落后的团体就失掉了它们的存在价值。<a href="#fnref:17" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
       <categories>
-        <category>Principle</category>
+        <category>Article</category>
       </categories>
       <tags>
-        <tag>Principle</tag>
-        <tag>Career</tag>
+        <tag>History</tag>
+        <tag>Politics</tag>
+        <tag>Mao Zedong</tag>
       </tags>
   </entry>
   <entry>
@@ -1588,71 +1653,6 @@
       </tags>
   </entry>
   <entry>
-    <title>粟耀莹·《从加州理工到高盛银行》</title>
-    <url>/posts/1f972e30/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>原文：<span class="exturl" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC90b3BpYy8xMDU0OTAyLw==">粟耀莹  从加州理工到高盛银行<i class="fa fa-external-link-alt"></i></span> </p>
-<p>粟耀莹的母亲是洪冬桂，台湾立法委员；父亲是粟明德，白崇禧义子，曾任蒋经国秘书；粟家与白家世交。</p>
-<span id="more"></span>
-
-<blockquote>
-<p>“我从来没有想要教书或作研究，我去加州理工，这个在世界上诺贝尔奖得主密度最大的地方，是为了接受其熏陶，以悟出如何得到诺贝尔奖的道理，并对我当年的偶象Feynman费因曼(著名的物理诺贝尔奖得主，著有Surely You’re Joking，Mr.Feynman 一书)生前待过最久的地方，进行模拜。“</p>
-</blockquote>
-<p>因为研究生课程免修考试通过，因此粟有时间多浏览物理领域的前沿内容（也曾经拜访叶乃裳教授），之后经过多方了解，认为物理与生物交叉的方向前景广阔，值得研究。但因为自己之前没有生物基础，所以就必须去生物系选修相关的课程，最初受到冷眼旁观，但是之后自己取得了很好的成绩，逐步得到各种人的赞赏。在科学之外，她发现还有一个宽广而多彩的世界，商业是一个足可与科学抗衡的行业。 </p>
-]]></content>
-      <categories>
-        <category>Comment</category>
-      </categories>
-      <tags>
-        <tag>Comment</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>中国社会各阶级的分析 | 毛泽东</title>
-    <url>/posts/1e9a0a4c/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p> 本文完成于一九二五年十二月一日</p>
-</blockquote>
-<blockquote>
-<p>毛泽东此文是为反对当时党内存在着的两种倾向而写的。当时党内的第一种倾向，以陈独秀为代表，只注意同国民党合作，忘记了农民，这是右倾机会主义。第二种倾向，以张国焘为代表，只注意工人运动，同样忘记了农民，这是“左”倾机会主义。这两种机会主义都感觉自己力量不足，而不知道到何处去寻找力量，到何处去取得广大的同盟军。毛泽东指出中国无产阶级的最广大和最忠实的同盟军是农民，这样就解决了中国革命中的最主要的同盟军问题。毛泽东并且预见到当时的民族资产阶级是一个动摇的阶级，他们在革命高涨时将要分化，其右翼将要跑到帝国主义方面去。一九二七年所发生的事变，证明了这一点。</p>
-</blockquote>
-<p>谁是我们的敌人？谁是我们的朋友？这个问题是革命的首要问题。中国过去一切革命斗争成效甚少，其基本原因就是因为不能团结真正的朋友，以攻击真正的敌人。革命党是群众的向导，在革命中未有革命党领错了路而革命不失败的。我们的革命要有不领错路和一定成功的把握，不可不注意团结我们的真正的朋友，以攻击我们的真正的敌人。我们要分辨真正的敌友，不可不将中国社会各阶级的经济地位及其对于革命的态度，作一个大概的分析。</p>
-<p>中国社会各阶级的情况是怎样的呢？</p>
-<span id="more"></span>
-
-<p>地主阶级和买办阶级。在经济落后的半殖民地的中国，地主阶级和买办阶级完全是国际资产阶级的附庸，其生存和发展，是附属于帝国主义的。这些阶级代表中国最落后的和最反动的生产关系，阻碍中国生产力的发展。他们和中国革命的目的完全不兼容。特别是大地主阶级和大买办阶级，他们始终站在帝国主义一边，是极端的反革命派。其政治代表是国家主义派<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="国家主义派指中国青年党，当时以其外围组织“中国国家主义青年团”的名义公开进行活动。组织这个政团的是一些反动政客，他们投靠帝国主义和当权的反动派，把反对中国共产党和苏联当作职业。
-">[1]</span></a></sup>和国民党右派。</p>
-<p>中产阶级。这个阶级代表中国城乡资本主义的生产关系。中产阶级主要是指民族资产阶级，他们对于中国革命具有矛盾的态度：他们在受外资打击、军阀压迫感觉痛苦时，需要革命，赞成反帝国主义反军阀的革命运动；但是当着革命在国内有本国无产阶级的勇猛参加，在国外有国际无产阶级的积极援助，对于其欲达到大资产阶级地位的阶级的发展感觉到威胁时，他们又怀疑革命。其政治主张为实现民族资产阶级一阶级统治的国家。有一个自称为戴季陶<sup id="fnref:2"><a href="#fn:2" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="戴季陶（一八九一——一九四九），又名传贤，原籍浙江湖州，生于四川广汉。早年参加中国同盟会，从事过反对清政府和袁世凯的活动。后曾和蒋介石在上海共同经营交易所的投机事业。一九二五年随着孙中山的逝世和革命高潮的到来，他歪曲孙中山学说的革命内容，散布反对国共合作、反对工农革命运动的谬论，为后来蒋介石的反共活动作了准备。一九二七年南京国民政府成立后，历任国民政府委员、考试院院长等职。一九四九年二月，蒋介石的统治即将崩溃，戴季陶感到绝望而自杀。
-">[2]</span></a></sup>“真实信徒”的，在北京《晨报》<sup id="fnref:3"><a href="#fn:3" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="北京《晨报》，初名《晨钟报》，一九一六年八月创刊于北京，一九一八年十二月改名为《晨报》，一九二八年六月停刊。
-">[3]</span></a></sup>上发表议论说：“举起你的左手打倒帝国主义，举起你的右手打倒共产党。”这两句话，画出了这个阶级的矛盾惶遽状态。他们反对以阶级斗争学说解释国民党的民生主义，他们反对国民党联俄和容纳共产党<sup id="fnref:4"><a href="#fn:4" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label=" 一九二二年和一九二三年间，孙中山在共产党人的帮助下，决定改组国民党，实行国共合作，容纳共产党人参加国民党，并于一九二四年一月在广州召开国民党第一次全国代表大会，实行联俄、联共、扶助农工的三大政策。李大钊、谭平山、毛泽东、林伯渠、瞿秋白等共产党人参加了这次大会。他们曾经被选为国民党中央执行委员会的委员或候补委员，担任过国民党的许多领导工作，对于帮助国民党走上革命的道路，起了重大的作用。
-">[4]</span></a></sup>及左派分子。但是这个阶级的企图——实现民族资产阶级统治的国家，是完全行不通的，因为现在世界上的局面，是革命和反革命两大势力作最后斗争的局面。这两大势力竖起了两面大旗：一面是红色的革命的大旗，第三国际<sup id="fnref:5"><a href="#fn:5" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="第三国际即共产国际，一九一九年三月在列宁领导下成立。一九二二年中国共产党参加共产国际，成为它的一个支部。一九四三年五月，共产国际执行委员会主席团通过决定，提议解散共产国际，同年六月共产国际正式宣布解散。
-">[5]</span></a></sup>高举着，号召全世界一切被压迫阶级集合于其旗帜之下；一面是白色的反革命的大旗，国际联盟<sup id="fnref:6"><a href="#fn:6" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="国际联盟简称国联，一九二○年一月正式成立。先后参加的有六十多个国家。国际联盟标榜以“促进国际合作，维持国际和平与安全”为目的，实际上日益成为帝国主义国家推行侵略政策的工具。第二次世界大战爆发后无形瓦解，一九四六年四月正式宣布解散。
-">[6]</span></a></sup>高举着，号召全世界一切反革命分子集合于其旗帜之下。那些中间阶级，必定很快地分化，或者向左跑入革命派，或者向右跑入反革命派，没有他们“独立”的余地。所以，中国的中产阶级，以其本阶级为主体的“独立”革命思想，仅仅是一个幻想。</p>
-<p>小资产阶级。如自耕农<sup id="fnref:7"><a href="#fn:7" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="这里是指中农。
-">[7]</span></a></sup>，手工业主，小知识阶层——学生界、中小学教员、小员司、小事务员、小律师，小商人等都属于这一类。这一个阶级，在人数上，在阶级性上，都值得大大注意。自耕农和手工业主所经营的，都是小生产的经济。这个小资产阶级内的各阶层虽然同处在小资产阶级经济地位，但有三个不同的部分。第一部分是有余钱剩米的，即用其体力或脑力劳动所得，除自给外，每年有余剩。这种人发财观念极重，对赵公元帅礼拜最勤，虽不妄想发大财，却总想爬上中产阶级地位。他们看见那些受人尊敬的小财东，往往垂着一尺长的涎水。这种人胆子小，他们怕官，也有点怕革命。因为他们的经济地位和中产阶级颇接近，故对于中产阶级的宣传颇相信，对于革命取怀疑的态度。这一部分人在小资产阶级中占少数，是小资产阶级的右翼。第二部分是在经济上大体上可以自给的。这一部分人比较第一部分人大不相同，他们也想发财，但是赵公元帅<sup id="fnref:8"><a href="#fn:8" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="赵公元帅是中国民间传说的财神，叫赵公明。
-">[8]</span></a></sup>总不让他们发财，而且因为近年以来帝国主义、军阀、封建地主、买办大资产阶级的压迫和剥削，他们感觉现在的世界已经不是从前的世界。他们觉得现在如果只使用和从前相等的劳动，就会不能维持生活。必须增加劳动时间，每天起早散晚，对于职业加倍注意，方能维持生活。他们有点骂人了，骂洋人叫“洋鬼子”，骂军阀叫“抢钱司令”，骂土豪劣绅叫“为富不仁”。对于反帝国主义反军阀的运动，仅怀疑其未必成功（理由是：洋人和军阀的来头那么大），不肯贸然参加，取了中立的态度，但是绝不反对革命。这一部分人数甚多，大概占小资产阶级的一半。第三部分是生活下降的。这一部分人好些大概原先是所谓殷实人家，渐渐变得仅仅可以保住，渐渐变得生活下降了。他们每逢年终结账一次，就吃惊一次，说：“咳，又亏了！”这种人因为他们过去过着好日子，后来逐年下降，负债渐多，渐次过着凄凉的日子，“瞻念前途，不寒而栗”。这种人在精神上感觉的痛苦很大，因为他们有一个从前和现在相反的比较。这种人在革命运动中颇要紧，是一个数量不小的群众，是小资产阶级的左翼。以上所说小资产阶级的三部分，对于革命的态度，在平时各不相同；但到战时，即到革命潮流高涨、可以看得见胜利的曙光时，不但小资产阶级的左派参加革命，中派亦可参加革命，即右派分子受了无产阶级和小资产阶级左派的革命大潮所裹挟，也只得附和着革命。我们从一九二五年的五卅运动<sup id="fnref:9"><a href="#fn:9" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="指一九二五年五月三十日爆发的反帝爱国运动。一九二五年五月间，上海、青岛的日本纱厂先后发生工人罢工的斗争，遭到日本帝国主义和北洋军阀的镇压。上海内外棉第七厂日本资本家在五月十五日枪杀了工人顾正红，并伤工人十余人。二十九日青岛工人被反动政府屠杀八人。五月三十日，上海二千余学生分头在公共租界各马路进行宣传讲演，一百余名遭巡捕（租界内的警察）逮捕，被拘押在南京路老闸巡捕房内，引起了学生和市民的极大愤慨，有近万人聚集在巡捕房门口，要求释放被捕学生。英帝国主义的巡捕向群众开枪，打死打伤许多人。这就是震惊中外的五卅惨案。六月，英日等帝国主义在上海和其它地方继续进行屠杀。这些屠杀事件激起了全国人民的公愤。广大的工人、学生和部分工商业者，在许多城市和县镇举行游行示威和罢工、罢课、罢市，形成了全国规模的反帝爱国运动高潮。
-">[9]</span></a></sup>和各地农民运动的经验看来，这个断定是不错的。</p>
-<p>半无产阶级。此处所谓半无产阶级，包含：（一）绝大部分半自耕农<sup id="fnref:10"><a href="#fn:10" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="这里是指自己有一部分土地，同时租种一部分土地，或出卖一部分劳动力，或兼营小商的贫农。
-">[10]</span></a></sup>，（二）贫农，（三）小手工业者，（四）店员<sup id="fnref:11"><a href="#fn:11" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="店员有不同的阶层，他们一般不占有生产资料，生活来源的全部或者主要部分是依靠向店主出卖劳动力所取得的工资。毛泽东在这里所指的是店员中的一部分，还有一部分下层店员过着无产阶级的生活。
-">[11]</span></a></sup>，（五）小贩等五种。绝大部分半自耕农和贫农是农村中一个数量极大的群众。所谓农民问题，主要就是他们的问题。半自耕农、贫农和小手工业者所经营的，都是更细小的小生产的经济。绝大部分半自耕农和贫农虽同属半无产阶级，但其经济状况仍有上、中、下三个细别。半自耕农，其生活苦于自耕农，因其食粮每年大约有一半不够，须租别人田地，或者出卖一部分劳动力，或经营小商，以资弥补。春夏之间，青黄不接，高利向别人借债，重价向别人籴粮，较之自耕农的无求于人，自然景遇要苦，但是优于贫农。因为贫农无土地，每年耕种只得收获之一半或不足一半；半自耕农则租于别人的部分虽只收获一半或不足一半，然自有的部分却可全得。故半自耕农的革命性优于自耕农而不及贫农。贫农是农村中的佃农，受地主的剥削。其经济地位又分两部分。一部分贫农有比较充足的农具和相当数量的资金。此种农民，每年劳动结果，自己可得一半。不足部分，可以种杂粮、捞鱼虾、饲鸡豕，或出卖一部分劳动力，勉强维持生活，于艰难竭蹶之中，存聊以卒岁之想。故其生活苦于半自耕农，然较另一部分贫农为优。其革命性，则优于半自耕农而不及另一部分贫农。所谓另一部分贫农，则既无充足的农具，又无资金，肥料不足，土地歉收，送租之外，所得无几，更需要出卖一部分劳动力。荒时暴月，向亲友乞哀告怜，借得几斗几升，敷衍三日五日，债务丛集，如牛负重。他们是农民中极艰苦者，极易接受革命的宣传。小手工业者所以称为半无产阶级，是因为他们虽然自有简单的生产手段，且系一种自由职业，但他们也常常被迫出卖一部分劳动力，其经济地位略与农村中的贫农相当。因其家庭负担之重，工资和生活费用之不相称，时有贫困的压迫和失业的恐慌，和贫农亦大致相同。店员是商店的雇员，以微薄的薪资，供家庭的费用，物价年年增长，薪给往往须数年一增，偶与此辈倾谈，便见叫苦不迭。其地位和贫农及小手工业者不相上下，对于革命宣传极易接受。小贩不论肩挑叫卖，或街畔摊售，总之本小利微，吃着不够。其地位和贫农不相上下，其需要一个变更现状的革命，也和贫农相同。</p>
-<p>无产阶级。现代工业无产阶级约二百万人。中国因经济落后，故现代工业无产阶级人数不多。二百万左右的产业工人中，主要为铁路、矿山、海运、纺织、造船五种产业的工人，而其中很大一个数量是在外资产业的奴役下。工业无产阶级人数虽不多，却是中国新的生产力的代表者，是近代中国最进步的阶级，做了革命运动的领导力量。我们看四年以来的罢工运动，如海员罢工<sup id="fnref:12"><a href="#fn:12" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="指一九二二年香港和上海的海员罢工。香港海员罢工爆发于一月十二日，坚持了八个星期。最后，香港英帝国主义当局被迫答应增加工资，恢复原工会，释放被捕工人，抚恤在罢工中死难烈士的家属。上海海员罢工于八月五日开始，坚持了三个星期，也得到胜利。
-">[12]</span></a></sup>、铁路罢工<sup id="fnref:13"><a href="#fn:13" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="指一九二二年和一九二三年中国共产党领导的各主要铁路线的工人罢工。在罢工过程中，工人群众的觉悟迅速提高，要求改善生活的经济斗争迅速发展为反对军阀的政治斗争。一九二三年二月四日，京汉铁路工人为争取组织总工会的自由，举行总罢工。其它许多铁路的工人也纷纷响应。二月七日，英帝国主义支持的北洋军阀吴佩孚、萧耀南等，残酷地屠杀京汉铁路的工人，造成了二七惨案。
-">[13]</span></a></sup>、开滦和焦作煤矿罢工<sup id="fnref:14"><a href="#fn:14" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="开滦煤矿是直隶省（今河北省）开平、滦县一带煤矿的总称，当时为英帝国主义者所控制。开滦罢工指一九二二年十月、十一月间矿工三万余人举行的大罢工。英帝国主义者和北洋军阀对这次罢工进行残酷的镇压，工人死伤很多，但是仍然坚持斗争。最后，英帝国主义者不得不答应给工人增加一部分工资。焦作煤矿，在河南省北部，当时也为英帝国主义者所控制。焦作罢工指一九二五年七月爆发的罢工。这次罢工是为响应五卅运动而发动的，前后坚持七个多月。最后，英帝国主义者不得不承认工会有代表工人的权利，并且被迫接受增加工资、不无故开除工人和补偿工人因罢工所受的损失等项条件。
-">[14]</span></a></sup>、沙面罢工<sup id="fnref:15"><a href="#fn:15" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="沙面当时是英法帝国主义在广州的租界。一九二四年七月，统治沙面的帝国主义者颁布新警律，规定沙面的中国人出入租界必须携带贴有本人相片的执照，在租界内行动必须受各种苛刻的限制，但是外国人却可以自由出入活动。沙面工人于七月十五日宣告罢工，抗议这些无理措施。这次沙面罢工迫使英法帝国主义者取消了新警律。
-">[15]</span></a></sup>以及“五卅”后上海香港两处的大罢工<sup id="fnref:16"><a href="#fn:16" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="指一九二五年六月一日开始的上海大罢工和六月十九日开始的香港大罢工。这两处罢工是当时全国反帝爱国运动的支柱。前者有二十多万工人参加，坚持了三四个月；后者有二十五万工人参加，坚持了一年零四个月，是截至当时为止的世界工人运动史中时间最长的一次罢工。
-">[16]</span></a></sup>所表现的力量，就可知工业无产阶级在中国革命中所处地位的重要。他们所以能如此，第一个原因是集中。无论哪种人都不如他们的集中。第二个原因是经济地位低下。他们失了生产手段，剩下两手，绝了发财的望，又受着帝国主义、军阀、资产阶级的极残酷的待遇，所以他们特别能战斗。都市苦力工人的力量也很可注意。以码头搬运夫和人力车夫占多数，粪夫清道夫等亦属于这一类。他们除双手外，别无长物，其经济地位和产业工人相似，惟不及产业工人的集中和在生产上的重要。中国尚少新式的资本主义的农业。所谓农村无产阶级，是指长工、月工、零工等雇农而言。此等雇农不仅无土地，无农具，又无丝毫资金，只得营工度日。其劳动时间之长，工资之少，待遇之薄，职业之不安定，超过其它工人。此种人在乡村中是最感困难者，在农民运动中和贫农处于同一紧要的地位。</p>
-<p>此外，还有数量不小的游民无产者，为失了土地的农民和失了工作机会的手工业工人。他们是人类生活中最不安定者。他们在各地都有秘密组织，如闽粤的“三合会”，湘鄂黔蜀的“哥老会”，皖豫鲁等省的“大刀会”，直隶及东三省的“在理会”，上海等处的“青帮”<sup id="fnref:17"><a href="#fn:17" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="三合会、哥老会、大刀会、在理会、青帮是旧中国的一些民间秘密团体，参加者主要的是破产农民、失业手工业工人和流氓无产者。这类团体大都用宗教迷信为团聚成员的工具，采取家长制的组织形式，有的还拥有武装。参加这类团体的人，在社会生活中有互相援助的义务，有时还共同反抗压迫他们的地主、官僚和外国侵略者。但是，农民和手工业工人不可能依靠这类团体得到出路。同时，由于这类团体带有严重的封建性和盲目的破坏性，它们又往往容易被反动统治阶级和帝国主义势力所操纵和利用。随着工人阶级力量的壮大和中国共产党的成立，农民和手工业工人在共产党的领导之下逐步地建立了完全新式的群众组织，这类落后的团体就失掉了它们的存在价值。">[17]</span></a></sup>，都曾经是他们的政治和经济斗争的互助团体。处置这一批人，是中国的困难的问题之一。这一批人很能勇敢奋斗，但有破坏性，如引导得法，可以变成一种革命力量。</p>
-<p>综上所述，可知一切勾结帝国主义的军阀、官僚、买办阶级、大地主阶级以及附属于他们的一部分反动知识界，是我们的敌人。工业无产阶级是我们革命的领导力量。一切半无产阶级、小资产阶级，是我们最接近的朋友。那动摇不定的中产阶级，其右翼可能是我们的敌人，其左翼可能是我们的朋友——但我们要时常提防他们，不要让他们扰乱了我们的阵线。</p>
-<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">国家主义派指中国青年党，当时以其外围组织“中国国家主义青年团”的名义公开进行活动。组织这个政团的是一些反动政客，他们投靠帝国主义和当权的反动派，把反对中国共产党和苏联当作职业。<a href="#fnref:1" rev="footnote"> ↩</a></span></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">2.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">戴季陶（一八九一——一九四九），又名传贤，原籍浙江湖州，生于四川广汉。早年参加中国同盟会，从事过反对清政府和袁世凯的活动。后曾和蒋介石在上海共同经营交易所的投机事业。一九二五年随着孙中山的逝世和革命高潮的到来，他歪曲孙中山学说的革命内容，散布反对国共合作、反对工农革命运动的谬论，为后来蒋介石的反共活动作了准备。一九二七年南京国民政府成立后，历任国民政府委员、考试院院长等职。一九四九年二月，蒋介石的统治即将崩溃，戴季陶感到绝望而自杀。<a href="#fnref:2" rev="footnote"> ↩</a></span></li><li id="fn:3"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">3.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">北京《晨报》，初名《晨钟报》，一九一六年八月创刊于北京，一九一八年十二月改名为《晨报》，一九二八年六月停刊。<a href="#fnref:3" rev="footnote"> ↩</a></span></li><li id="fn:4"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">4.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">一九二二年和一九二三年间，孙中山在共产党人的帮助下，决定改组国民党，实行国共合作，容纳共产党人参加国民党，并于一九二四年一月在广州召开国民党第一次全国代表大会，实行联俄、联共、扶助农工的三大政策。李大钊、谭平山、毛泽东、林伯渠、瞿秋白等共产党人参加了这次大会。他们曾经被选为国民党中央执行委员会的委员或候补委员，担任过国民党的许多领导工作，对于帮助国民党走上革命的道路，起了重大的作用。<a href="#fnref:4" rev="footnote"> ↩</a></span></li><li id="fn:5"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">5.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">第三国际即共产国际，一九一九年三月在列宁领导下成立。一九二二年中国共产党参加共产国际，成为它的一个支部。一九四三年五月，共产国际执行委员会主席团通过决定，提议解散共产国际，同年六月共产国际正式宣布解散。<a href="#fnref:5" rev="footnote"> ↩</a></span></li><li id="fn:6"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">6.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">国际联盟简称国联，一九二○年一月正式成立。先后参加的有六十多个国家。国际联盟标榜以“促进国际合作，维持国际和平与安全”为目的，实际上日益成为帝国主义国家推行侵略政策的工具。第二次世界大战爆发后无形瓦解，一九四六年四月正式宣布解散。<a href="#fnref:6" rev="footnote"> ↩</a></span></li><li id="fn:7"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">7.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">这里是指中农。<a href="#fnref:7" rev="footnote"> ↩</a></span></li><li id="fn:8"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">8.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">赵公元帅是中国民间传说的财神，叫赵公明。<a href="#fnref:8" rev="footnote"> ↩</a></span></li><li id="fn:9"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">9.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">指一九二五年五月三十日爆发的反帝爱国运动。一九二五年五月间，上海、青岛的日本纱厂先后发生工人罢工的斗争，遭到日本帝国主义和北洋军阀的镇压。上海内外棉第七厂日本资本家在五月十五日枪杀了工人顾正红，并伤工人十余人。二十九日青岛工人被反动政府屠杀八人。五月三十日，上海二千余学生分头在公共租界各马路进行宣传讲演，一百余名遭巡捕（租界内的警察）逮捕，被拘押在南京路老闸巡捕房内，引起了学生和市民的极大愤慨，有近万人聚集在巡捕房门口，要求释放被捕学生。英帝国主义的巡捕向群众开枪，打死打伤许多人。这就是震惊中外的五卅惨案。六月，英日等帝国主义在上海和其它地方继续进行屠杀。这些屠杀事件激起了全国人民的公愤。广大的工人、学生和部分工商业者，在许多城市和县镇举行游行示威和罢工、罢课、罢市，形成了全国规模的反帝爱国运动高潮。<a href="#fnref:9" rev="footnote"> ↩</a></span></li><li id="fn:10"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">10.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">这里是指自己有一部分土地，同时租种一部分土地，或出卖一部分劳动力，或兼营小商的贫农。<a href="#fnref:10" rev="footnote"> ↩</a></span></li><li id="fn:11"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">11.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">店员有不同的阶层，他们一般不占有生产资料，生活来源的全部或者主要部分是依靠向店主出卖劳动力所取得的工资。毛泽东在这里所指的是店员中的一部分，还有一部分下层店员过着无产阶级的生活。<a href="#fnref:11" rev="footnote"> ↩</a></span></li><li id="fn:12"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">12.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">指一九二二年香港和上海的海员罢工。香港海员罢工爆发于一月十二日，坚持了八个星期。最后，香港英帝国主义当局被迫答应增加工资，恢复原工会，释放被捕工人，抚恤在罢工中死难烈士的家属。上海海员罢工于八月五日开始，坚持了三个星期，也得到胜利。<a href="#fnref:12" rev="footnote"> ↩</a></span></li><li id="fn:13"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">13.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">指一九二二年和一九二三年中国共产党领导的各主要铁路线的工人罢工。在罢工过程中，工人群众的觉悟迅速提高，要求改善生活的经济斗争迅速发展为反对军阀的政治斗争。一九二三年二月四日，京汉铁路工人为争取组织总工会的自由，举行总罢工。其它许多铁路的工人也纷纷响应。二月七日，英帝国主义支持的北洋军阀吴佩孚、萧耀南等，残酷地屠杀京汉铁路的工人，造成了二七惨案。<a href="#fnref:13" rev="footnote"> ↩</a></span></li><li id="fn:14"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">14.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">开滦煤矿是直隶省（今河北省）开平、滦县一带煤矿的总称，当时为英帝国主义者所控制。开滦罢工指一九二二年十月、十一月间矿工三万余人举行的大罢工。英帝国主义者和北洋军阀对这次罢工进行残酷的镇压，工人死伤很多，但是仍然坚持斗争。最后，英帝国主义者不得不答应给工人增加一部分工资。焦作煤矿，在河南省北部，当时也为英帝国主义者所控制。焦作罢工指一九二五年七月爆发的罢工。这次罢工是为响应五卅运动而发动的，前后坚持七个多月。最后，英帝国主义者不得不承认工会有代表工人的权利，并且被迫接受增加工资、不无故开除工人和补偿工人因罢工所受的损失等项条件。<a href="#fnref:14" rev="footnote"> ↩</a></span></li><li id="fn:15"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">15.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">沙面当时是英法帝国主义在广州的租界。一九二四年七月，统治沙面的帝国主义者颁布新警律，规定沙面的中国人出入租界必须携带贴有本人相片的执照，在租界内行动必须受各种苛刻的限制，但是外国人却可以自由出入活动。沙面工人于七月十五日宣告罢工，抗议这些无理措施。这次沙面罢工迫使英法帝国主义者取消了新警律。<a href="#fnref:15" rev="footnote"> ↩</a></span></li><li id="fn:16"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">16.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">指一九二五年六月一日开始的上海大罢工和六月十九日开始的香港大罢工。这两处罢工是当时全国反帝爱国运动的支柱。前者有二十多万工人参加，坚持了三四个月；后者有二十五万工人参加，坚持了一年零四个月，是截至当时为止的世界工人运动史中时间最长的一次罢工。<a href="#fnref:16" rev="footnote"> ↩</a></span></li><li id="fn:17"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">17.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">三合会、哥老会、大刀会、在理会、青帮是旧中国的一些民间秘密团体，参加者主要的是破产农民、失业手工业工人和流氓无产者。这类团体大都用宗教迷信为团聚成员的工具，采取家长制的组织形式，有的还拥有武装。参加这类团体的人，在社会生活中有互相援助的义务，有时还共同反抗压迫他们的地主、官僚和外国侵略者。但是，农民和手工业工人不可能依靠这类团体得到出路。同时，由于这类团体带有严重的封建性和盲目的破坏性，它们又往往容易被反动统治阶级和帝国主义势力所操纵和利用。随着工人阶级力量的壮大和中国共产党的成立，农民和手工业工人在共产党的领导之下逐步地建立了完全新式的群众组织，这类落后的团体就失掉了它们的存在价值。<a href="#fnref:17" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
-      <categories>
-        <category>Article</category>
-      </categories>
-      <tags>
-        <tag>History</tag>
-        <tag>Politics</tag>
-        <tag>Mao Zedong</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>How to Choose a Dissertation Topic For Your Doctoral Degree</title>
     <url>/posts/5bbeeda3/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="选题的优雅法则"><a href="#选题的优雅法则" class="headerlink" title="选题的优雅法则"></a>选题的优雅法则</h1><blockquote>
@@ -1737,42 +1737,6 @@
       </tags>
   </entry>
   <entry>
-    <title>如何区分数据科学、机器学习、人工智能？</title>
-    <url>/posts/421a5bc1/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>David Robinson 在其博客<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="http://varianceexplained.org/r/ds-ml-ai/">[1]</span></a></sup>中给出一种区分方法：</p>
-<ul>
-<li><em>Data science</em> produces insights.<ul>
-<li>Data science is distinguished from the other two fields because its goal is an especially human one: to gain insight and understanding.</li>
-</ul>
-</li>
-<li><em>Machine learning</em> produces predictions.</li>
-<li><em>Artificial intelligence</em> produces actions.</li>
-</ul>
-<span id="more"></span>
-
-<img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-03-data-science.png?raw=true' width='50%'>
-
-
-
-
-
-
-
-
-
-
-
-<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">http://varianceexplained.org/r/ds-ml-ai/<a href="#fnref:1" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
-      <categories>
-        <category>Algorithm</category>
-      </categories>
-      <tags>
-        <tag>Artificial Intelligence</tag>
-        <tag>Machine Learning</tag>
-        <tag>Data Science</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Edward O. Thorp</title>
     <url>/posts/66089607/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-03-edward-o-thorp.jpg?raw=true' width='68%'>
@@ -1819,20 +1783,40 @@
       </tags>
   </entry>
   <entry>
-    <title>Follow Your Passion or NOT</title>
-    <url>/posts/12adc43e/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>When it comes to topics about choice, we are always told to <strong>follow our passion</strong>. </p>
-<p>But recently in an <span class="exturl" data-url="aHR0cHM6Ly9ub2FocGluaW9uLnN1YnN0YWNrLmNvbS9wL2ludGVydmlldy1tYXJjLWFuZHJlZXNzZW4tdmMtYW5k">interview<i class="fa fa-external-link-alt"></i></span>, <span class="exturl" data-url="aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWFyY19BbmRyZWVzc2Vu">Marc Andreessen<i class="fa fa-external-link-alt"></i></span> gave a different view:</p>
-<blockquote>
-<p><strong>Interviewer</strong>: If you could give some advice – career advice, or otherwise – to a smart 23-year-old American today, what would it be?</p>
-<p><strong>M.A.</strong>: <em>Don’t follow your passion. Seriously. Don’t follow your passion. Your passion is likely more dumb and useless than anything else. Your passion should be your hobby, not your work. Do it in your spare time.</em></p>
-<p><em>Instead, at work, seek to contribute. Find the hottest, most vibrant part of the economy you can and figure out how you can contribute best and most. Make yourself of value to the people around you, to your customers and coworkers, and try to increase that value every day.</em></p>
-<p><em>It can sometimes feel that all the exciting things have already happened, that the frontier is closed, that we’re at the end of technological history and there’s nothing left to do but maintain what already exists. This is just a failure of imagination. In fact, the opposite is true. We’re surrounding by rotting incumbents that will all need to be replaced by new technologies. Let’s get on it.</em></p>
-</blockquote>
-]]></content>
+    <title>如何区分数据科学、机器学习、人工智能？</title>
+    <url>/posts/421a5bc1/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>David Robinson 在其博客<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="http://varianceexplained.org/r/ds-ml-ai/">[1]</span></a></sup>中给出一种区分方法：</p>
+<ul>
+<li><em>Data science</em> produces insights.<ul>
+<li>Data science is distinguished from the other two fields because its goal is an especially human one: to gain insight and understanding.</li>
+</ul>
+</li>
+<li><em>Machine learning</em> produces predictions.</li>
+<li><em>Artificial intelligence</em> produces actions.</li>
+</ul>
+<span id="more"></span>
+
+<img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-03-data-science.png?raw=true' width='50%'>
+
+
+
+
+
+
+
+
+
+
+
+<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">http://varianceexplained.org/r/ds-ml-ai/<a href="#fnref:1" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
       <categories>
-        <category>Experience</category>
+        <category>Algorithm</category>
       </categories>
+      <tags>
+        <tag>Artificial Intelligence</tag>
+        <tag>Machine Learning</tag>
+        <tag>Data Science</tag>
+      </tags>
   </entry>
   <entry>
     <title>Godfather</title>
@@ -1848,6 +1832,22 @@
       <tags>
         <tag>Music</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Follow Your Passion or NOT</title>
+    <url>/posts/12adc43e/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>When it comes to topics about choice, we are always told to <strong>follow our passion</strong>. </p>
+<p>But recently in an <span class="exturl" data-url="aHR0cHM6Ly9ub2FocGluaW9uLnN1YnN0YWNrLmNvbS9wL2ludGVydmlldy1tYXJjLWFuZHJlZXNzZW4tdmMtYW5k">interview<i class="fa fa-external-link-alt"></i></span>, <span class="exturl" data-url="aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWFyY19BbmRyZWVzc2Vu">Marc Andreessen<i class="fa fa-external-link-alt"></i></span> gave a different view:</p>
+<blockquote>
+<p><strong>Interviewer</strong>: If you could give some advice – career advice, or otherwise – to a smart 23-year-old American today, what would it be?</p>
+<p><strong>M.A.</strong>: <em>Don’t follow your passion. Seriously. Don’t follow your passion. Your passion is likely more dumb and useless than anything else. Your passion should be your hobby, not your work. Do it in your spare time.</em></p>
+<p><em>Instead, at work, seek to contribute. Find the hottest, most vibrant part of the economy you can and figure out how you can contribute best and most. Make yourself of value to the people around you, to your customers and coworkers, and try to increase that value every day.</em></p>
+<p><em>It can sometimes feel that all the exciting things have already happened, that the frontier is closed, that we’re at the end of technological history and there’s nothing left to do but maintain what already exists. This is just a failure of imagination. In fact, the opposite is true. We’re surrounding by rotting incumbents that will all need to be replaced by new technologies. Let’s get on it.</em></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Experience</category>
+      </categories>
   </entry>
   <entry>
     <title>How to Work Hard | Paul Graham</title>
@@ -2166,6 +2166,26 @@
       </tags>
   </entry>
   <entry>
+    <title>金光咒</title>
+    <url>/posts/3d5c968c/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>神咒曰：<br><strong>天地玄宗，万炁本根，广修万善，证吾神通，三界内外，唯道独尊，身有金光，护映吾身，视之不见，听之不闻，包罗天地，养育群生，受持一遍，身有光明。三界侍卫，五帝司迎，万神朝礼，役使雷霆，鬼妖丧胆，精怪亡形。内有霹雳，雷神隐鸣，通慧交彻，五炁腾腾，金光速现，覆护真人。</strong> </p>
+<span id="more"></span>
+
+<p>金光神咒（也称为小金光法）是道教一种修身、调神、辟邪、增阳涤阴的修法。有利于保护修真者的身心，所需的时间短，每日静坐或站桩时均可抽时间修习，火候灵活掌握自行调控。此方法也可贯穿于任何修持中，金光形成后可以抵御外魔侵体或干扰修行的行为。其中妙用，修炼日久自知。初修、孤修者均应先修好此法。先调动自己身内之心神阳气，形成防御场自我保护。</p>
+<p>金光咒是道教八大神咒之一，不光是科仪和玄门日诵的重要内容，同时也在民间法教中广为流传，许多门派皆有此法。金光法的用途很多，普遍都认为是一种修身、护体、辟邪、占场，方便炼功和修法的功法。</p>
+<p>金光神咒暗藏修炼之法，因传承各异，各门派的金光神咒都略有不同，作用和威力相差颇大，修法也不尽相同。有的是边念咒边掐诀，有的需要掐著宫位元念咒，有的就是直接念咒，不需要掐诀，也不掐宫位。不同门派的金光法，符、印、诀也有所不同，有的就是一张符，有的是分阴符和阳符，阴日吃阴符，阳日吃阳符等，各有特色。</p>
+<p>金光神咒法不但可以修出光明，同时也修炼心性、德性。在修炼金光法之时，重道德是修炼的大原则，在修炼过程冲，一刻也不能离开德性的培养。以重德为本，有德为基，守德为阶。可以说重德是打开修真修法大门的宝匙，有德是功力提高的重要基础，守德是功力精进的阶梯。</p>
+<p>金光神咒法可和其他功法同修，不会产生衝突。金光法是一个非常基础、功效宏大、非常重要的功法。道教很多功法都要金光神咒法为基础，简单的如开光，用金光神咒法可以给法器、神像等开光，有很强的护身作用。</p>
+<p>同时金光神咒也有著极强的风水化煞的效果，尤其是看阴宅的时候，更需要金光神咒来护身，尤其是人家的阴宅动土起坟迁坟，煞气极大，若无金光护身，地理师容易中煞而生病。金光神咒法，可以启动坛前阴兵护卫，在面临危险之时，达到预警作用，保命护身。高层次的功夫，如调动阴兵护卫、隐炼法宝、摄魂等等，都需要金光神咒法的辅助。开光、风水化煞、催动不应灵符、祈福改运、斗法等都需要金光神咒法的辅助。</p>
+]]></content>
+      <categories>
+        <category>Religion</category>
+      </categories>
+      <tags>
+        <tag>道教</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>iZOTOPE Rx Tutorial</title>
     <url>/posts/72a91e7a/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="分离背景音与人声"><a href="#分离背景音与人声" class="headerlink" title="分离背景音与人声"></a>分离背景音与人声</h1><ol>
@@ -2185,6 +2205,58 @@
       </categories>
       <tags>
         <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>英语学习方法（学术领域）</title>
+    <url>/posts/59e365f3/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="如何提高英文的科研写作能力"><a href="#如何提高英文的科研写作能力" class="headerlink" title="如何提高英文的科研写作能力"></a>如何提高英文的科研写作能力</h1><blockquote>
+<p>本文系转载，作者是清华大学教授施一公，<span class="exturl" data-url="aHR0cDovL2Jsb2cuc2NpZW5jZW5ldC5jbi9ibG9nLTQ2MjEyLTM0OTkzMi5odG1s">点击访问原文<i class="fa fa-external-link-alt"></i></span> 。</p>
+</blockquote>
+<p>作为一个科研工作者，在国际学术期刊上发表科研论文是与同行交流、取得国际影响的必经之路。有些国内的科学家，实验做得很漂亮，但常常苦恼于论文的写作力不从心，成为国际交流的一大障碍。本文从博主的亲身体验出发，给博士生、博士后、以及年轻的PI提供一个借鉴。文章最后做简短总结。</p>
+<p>我大学时的同班同学都知道，那时我的英语不算好（英语四级考试仅为“良”），写作尤其糟糕。初到美国之时，对英文环境适应得很差，读一篇JBC的文章要五、六个小时，还常常不理解其中一些关键词句的意思,心里压力极大。</p>
+<span id="more"></span>
+
+<p>很幸运，我在约翰霍普金斯大学（Johns Hopkins University）攻读博士学位时，1991年4月遇到了学兄和启蒙老师John Desjarlais。听了我的苦恼后，John告诉我，“Spend 45 minutes every day reading Washington Post, and you will be cruising with your written English in two years”(每天花45分钟读《华盛顿邮报》,两年后你的写作能力会得心应手)。这条建议正合我意 - 我原本就对新闻感兴趣！于是，我每天上午安排完第一批实验后，都会在十点左右花一小时的时间阅读《华盛顿邮报》，主要看A版(新闻版)。刚开始，我一个小时只能读两、三个短消息或一个长篇报道，中间还不得不经常查字典看生词。但不知不觉间，我的阅读能力明显提高，1992年老布什与克林顿竞选总统，我跟踪新闻，常常一个小时能读上几个版面的消息或四、五个长篇报道，有时还把刚看到的新闻绘声绘色地讲给师兄师姐听。</p>
+<p>阅读直接提升了我的英文写作能力。看完一些新闻后，我常常产生动笔写自己感想的冲动。92年巴塞罗那奥运会，中国游泳队取得了四金五银的好成绩，美国主要媒体纷纷指责这是中国运动员服用违禁药物，但没有任何检测的证据，完全凭美国运动员的感觉。此事让我很气愤，我生平第一次给《华盛顿邮报》和《巴尔的摩太阳报》（The Baltimore Sun）各写了一封信，评论报道的不公平。没想到两天后《巴尔的摩太阳报》居然原封不动的把我的信刊登在“读者来信”栏目，同事祝贺，我也洋洋得意。受到此事鼓励，我在此后三年多的日子里，常常动笔，有些文章发表在报刊上（大部分投稿石沉大海），也曾代表中国留学生写信向校方争取过中国学生的利益。有时还有意外的惊喜。95年的一天，一位朋友打电话告诉我：今天出版的《巴尔的摩太阳报》上有我的评论文章！我急匆匆赶到街头买来5份报纸，果然，在A版的倒数第二页，以15x15厘米的篇幅发表了我一个多星期前寄给报社、本以为不会发表的一篇抨击吴宏达的文章。</p>
+<p>以上是简述我个人英文写作提升的一段过程。但是，科研论文不同于读者来信，有其专业特点、甚至是固定格式。1994年，我第一次完整地写科研论文，感觉很差。好不容易写完的文章，连我自己都不愿意读第二遍；勉强修改之后，交给了老板Jeremy Berg。他拖了三周没看我的文章，我实在忍不住了、去催他，上午9点，Jeremy告诉我：今天看！11点，我去他办公室催，秘书拦住我，说Jeremy正在办理重要事务，两点前不得打扰。我心里惴惴，不知Jeremy在干什么。下午一点半，Jeremy急匆匆过来找我，拿了一叠纸， “This is the draft. Please let me know what you think. We can aim for a Science report.”（这是初稿，你看看如何，我们可以试试《科学》）我仔细一看，天啊！一共7页，四个多小时Jeremy已经把文章的整体写完了，只是缺少Method和 references。让我郁闷的是，他根本没有用我的初稿。</p>
+<p>【<em>其实，写文章贵在一气呵成。我也沿袭了Jeremy的风格。2006年10月，在我们处于劣势的激烈竞争中，有两个课题面临被 scoop的危险，我曾经两次、一晚上赶一篇文章。10月15日，傍晚8点左右开始写、通宵，第二天早晨10点完成一篇按照《细胞》杂志格式的论文，包括abstract, introduction, results, discussion,仔细阅读一遍后于下午4点半完成网上投稿。这篇文章最终发表在12月份《自然》的子刊《结构与分子生物学》上（电子版于11月10日发表）。另一篇，10月18日，晚6点开始写、通宵，第二天早晨8点完成，上午9点半完成投稿，最终发表在12月15日的《细胞》上。当然，能通宵完成一篇文章，还有一个重要前提，就是对研究领域非常熟悉，对文章整体的大概思路已经深思熟虑，所有的Figures都事先做好了。这些前期工作即使全身心投入也需要3-4天。</em>】</p>
+<p>从1994年自己写第一篇科研论文的艰难到现在写起来得心应手、驾轻就熟，我总结出如下经验：</p>
+<p>1．要写好科研论文，必须先养成读英文文章的习惯，争取每天30-60分钟。刚开始可以选择以读英文报纸、英文新闻为主，逐渐转为读专业杂志。我会在近期专门写一篇博客文章介绍一套行之有效的增强读专业杂志能力的办法。</p>
+<p>2．写科研论文，最重要的是逻辑。逻辑的形成来自对实验数据的总体分析。必须先讨论出一套清晰的思路，然后按照思路来做图(Figures)，最后才能执笔。</p>
+<p>3．具体写作时，先按照思路（即Figures）写一个以subheading为主的框架，然后开始具体写作。第一稿，切忌追求每一句话的完美，更不要追求词语的华丽，而主要留心逻辑（logic flow），注意前后句的逻辑关系、相邻两段的逻辑关系。写作时，全力以赴，尽可能不受外界事情干扰（关闭手机、座机），争取在最短时间内拿出第一稿。还要注意：一句话不可太长。</p>
+<p>4．学会照葫芦画瓢。没有人天生会写优秀的科研论文，都是从别人那里学来的。学习别人的文章要注意专业领域的不同，有些领域（包括我所在的结构生物学）有它内在的写作规律。科研文章里的一些话是定式，比如 “To investigate the mechanism of …, we performed …”, “These results support the former, but not the latter, hypothesis …”, “Despite recent progress, how … remains to be elucidated …” 等等。用两次以后，就逐渐学会灵活运用了。在向别人学习时，切忌抄袭。在美国一些机构，连续7个英文单词在一起和别人的完全一样，原则上就被认为抄袭（plagiarism）。</p>
+<p>5．第一稿写完后，给自己不要超过一天的休息时间，开始修改第二稿。修改时，还是以逻辑为主，但对每一句话都要推敲一下，对abstract和正文中的关键语句要字斟句酌。学会用“Thesaurus”（同义词替换）以避免过多重复。第二稿的修改极为关键，再往后就不会大改了。</p>
+<p>6．第二稿以后的修改，主要注重具体的字句，不会改变整体逻辑了。投稿前，一定要整体读一遍，对个别词句略作改动。记住：<em><strong>学术期刊一般不会因为具体的语法错误拒绝一篇文章，但一定会因为逻辑混乱而拒绝一篇文章</strong></em>。</p>
+<p>这套方法行之有效，我对所有的学生和博士后都会如此教导。我的第一个博士后是柴继杰，1999年加入我在普林斯顿大学的实验室。继杰当时的英文阅读和写作能力很差。我对他的第一个建议就是，“每天花半小时读英文报纸”。难能可贵的是：他坚持下来了！经过几年的努力，2004年继杰已经能写出不错的grant proposal，2006年他的第一篇独立科研论文发表在《Molecular Cell》上，随后相继在《自然》发表两篇、在其它一流学术期刊发表十多篇论文。写作能力开始成熟。</p>
+<p>发表论文是一件值得高兴的事情，但要明白：论文只是一个载体，是为了向同行们宣告你的科研发现，是科学领域交流的重要工具。所以，在科研论文写作时，一定要谨记于心的就是：用最简单的话表达最明白的意思，但一定要逻辑严谨！其实，中文和英文论文皆如此！</p>
+<h1 id="学生如何提高专业英文阅读能力"><a href="#学生如何提高专业英文阅读能力" class="headerlink" title="学生如何提高专业英文阅读能力"></a>学生如何提高专业英文阅读能力</h1><blockquote>
+<p>本文系转载，作者是清华大学教授施一公，<span class="exturl" data-url="aHR0cDovL2Jsb2cuc2NpZW5jZW5ldC5jbi9ibG9nLTQ2MjEyLTM1MDQ5Ni5odG1s">点击访问原文<i class="fa fa-external-link-alt"></i></span> 。</p>
+</blockquote>
+<p>从小到大，我感性思维多一些，不善于读书。85至89年在清华生物系读本科期间，从未读过任何一种英文专业期刊。我受到的与英文阅读相关的训练一共只有两个。一是我在1986年暑假期间选修的时任系主任的蒲慕明老师开设的《生物英语》系列讲座，隐隐约约记得蒲先生让我们阅读一些诸如DNA双螺旋发现之类的科普性英文文章，很有意思。但时间较短，暑假过后也没有养成读英文文章的习惯。二是《生物化学》这门课。与现在的清华生命学院形成鲜明对比，我上大学期间的所有基础课和专业课都是采用中文教材、中文讲课，只有郑昌学老师讲授的《生物化学》采用了Lehninger的《Principles of Biochemistry》，而且郑老师要求我们每个学生每次课后阅读10-20页教材。我们同学大多感觉到专业英文阅读有所提高。</p>
+<p>1990年4月至7月初，我在依阿华州Ames小镇的Iowa State University度过了初到美国的前三个月，其中大部分时间在Herbert Fromm教授的实验室做轮转（rotation），跟随刘峰和董群夫妻两人做研究（刘峰现在University of Texas Health Science Center做教授）。当时感觉最困难的就是读专业论文。有一次，Fromm教授要求我在组会上讲解一篇《Journal of Biological Chemistry》的文章，我提前两天开始阅读，第一遍花了足足六个小时，许多生词只能依靠英汉词典，文章中的有些关键内容还没有完全读懂，当时的感觉是JBC的文章怎么这么长、这么难懂？！真有点苦不堪言。为了能给Fromm教授和师兄师姐留下好印象，第二天又花了好几个小时读第二遍，还做了总结。第三天我在组会上的表现总算没有给清华丢脸。但是，前前后后，真搞不清楚自己为了这一篇文章到底花了多少时间！</p>
+<p>90年7月我转学到约翰霍普金斯大学以后，与本科来自北大的虞一华同在IPMB program。虞一华大我一岁，来巴尔地摩之前已经在夏威夷大学读了一年的研究生，对于科研论文的阅读比我强多了。他常常在IPMB的办公室里拿着《科学》和《自然》周刊津津有味地阅读，看得我很眼馋，也不理解其中那些枯燥的文章有什么意思。他告诉我：他在读很有意思的科学新闻。科学新闻能有什么意思？虞一华给我讲了好几个故事：洛克菲勒大学校长诺贝尔奖得主David Baltimore如何深陷泥潭、人类基因组测序如何争辩激烈、HIV病毒究竟是谁发现的，等等。我还真没有想到学术期刊上会有这么多我也应该看得懂的内容！从那时起，每一期新的《科学》和《自然》一到，我也开始尝试着阅读里面的新闻和研究进展介绍，这些内容往往出现在“News &amp; Comment”“Research News”“News &amp; Views”“Perspectives”等栏目，文笔平实，相对于专业的科研论文很容易读懂。有时，我还把读到的科研新闻讲给我的同事朋友们听，而同事的提问和互动对我又是更好的鼓励。除了《科学》和《自然》，我也常常翻看《科学美国人》(“Scientific American”)。</p>
+<p>与《细胞》(Cell)、《生物化学期刊》（JBC）等非常专业的期刊不同，《科学》和《自然》里面有相当一部分内容是用来做科普教育的。《科学》周刊的“Perspectives”和《自然》周刊的“News &amp; Views”栏目都是对重要科学论文的深入浅出的介绍，一般1-3页，读起来比较通俗易懂，较易入门。读完这些文章后，再读原始的科学论文，感觉好多了！而且可以把自己的体会与专家的分析比较一下，找找差距，有时甚至也能找回来一点自信！</p>
+<p>从1998年在普林斯顿大学任职到现在清华大学做教授，我总是告诉自己实验室的所有年轻人（包括本科生、硕士生、博士生、博士后）下面这几点读科研论文的体会，也希望我的学生跟我学：</p>
+<p>1．请每位学生每周关注《科学》和《自然》。（生命科学界的学生还应该留心《细胞》）。如果时间有限，每周花一个小时读读这两种周刊里的文章标题以及与自己研究领域相关的科研论文的abstract,即可！这样做可以保证一个学生基本上能够跟踪本领域最重要的发现和进展，同时开阔视野，大概知道其它领域的动态。</p>
+<p>2．在时间充足的情况下，可以细读《科学》和《自然》里的新闻及科研论文。如果该科研论文有“News &amp; Views”或“Perspectives”来介绍，请先读这些文章，这类导读的文章会提炼问题，就好比是老师事先给学生讲解一番论文的来龙去脉，对学生阅读原始论文有很大帮助。</p>
+<p>3．在读具体的科研论文时，最重要的是了解文章的主线逻辑。文章中的所有Figures都是按照这个主线逻辑展开描述的。所以，我一般先读“introduction”部分，然后很快地看一遍Figures。大概知道这条主线之后，才一字一句地去读“results”和“discussion”。</p>
+<p>4．当遇到一些实验或结果分析很晦涩难懂时，不必花太多时间深究，而力求一气把文章读完。也许你的问题在后面的内容中自然就有解答。这与听学术讲座非常相似！你如果想每个细节都听懂，留心每一个技术细节，那你听学术讲座不仅会很累，而且也许会为了深究一个小技术环节而影响了对整个讲座逻辑推理及核心结论的理解。</p>
+<p>5．对个别重要的文章和自己领域内的科研论文，应该精读。对与自己课题相关的每一篇论文则必须字斟句酌地读。这些论文，不仅要完全读懂，理解每一个实验的细节、分析、结论，还必须联想到这些实验和结论对自己的课题的影响和启发，提出自己的观点。</p>
+<p>6．科学论文的阅读水平是循序渐进的。每个人开始都会很吃力，所以你有这种感觉不要气馁。坚持很重要，你一定会渐入佳境。当你有问题时或有绝妙分析时，应该与师兄师姐或找导师讨论。</p>
+<p>7．科研训练的一个重要组成部分就是科研论文的阅读。每一个博士生必须经过严格的科研论文阅读的训练。除了你自己的习惯性阅读外，你应该在研究生阶段选修以阅读分析专业文献为主的一至两门课，在实验室内也要有定期的科研论文讨论（Journal Club）。如果你的实验室还没有这种讨论，你们学生可以自发地组织起来。</p>
+<p>8．前面几条都是讨论如何提高科研论文的阅读能力，但是一旦入了门，就要学会critical reading。不要迷信已发表的论文，哪怕是发表在非常好的期刊上。要时刻提醒自己：该论文逻辑是否严谨，数据是否可靠，实验证据是否支持结论，你是否能想出更好的实验，你是否可以在此论文的基础上提出新的重要问题？等等。</p>
+<p>天外有天，读科研论文是一件很简单、但也很深奥的事情。一般的学生常常满足于读懂、读透一篇好的论文，优秀的学生则会举一反三、通过查找references纵深了解整个领域的历史、现状，并展望该领域未来的可能进展。</p>
+<p>我从1990年对学术论文一窍不通到96年博士后期间的得心应手，还常常帮助同事分析，自以为水平了得。但是有一件事让我看到了自己的严重不足，颇为羞愧。1996年，是SMAD蛋白发现及TGF-b信号转导研究的最激动人心的一年，哈佛医学院的Whitman实验室在十月份的《自然》杂志上以“Article”的形式发表了一篇名为“A transcriptional partner for MAD proteins in TGF-b signaling”的文章。读完之后，正好遇到TGF-b领域的著名学者Joan Massague,我对Joan评论说：I’m not so sure why this paper deserves a full article in Nature. They just identified another Smad-interacting protein, and the data quality is mediocre. 完全出乎我的意料，Joan马上回应我：I disagree! This paper links the cytoplasmic Smad protein into the nucleus and identifies a transcription factor as its interacting protein. Now the TGF-b signaling pathway is complete. It is a beautiful Nature article! 这件事对我触动极大：原来大师的视野和品位远远在我之上。从那以后，我也开始从整个领域的发展方面来权衡一篇文章的重要性，这件事对我今后为国际重要学术期刊审稿、自己实验室选择研究课题都起到了相当重要的作用。</p>
+<p>如今，我阅读一篇本领域内的科研论文，非常顺利，而且常常可以看出一些作者没有想到或分析到的关键点。回想从前，感慨万千，感谢蒲慕明、郑昌学、虞一华、John Desjarlais、Jeremy Berg、Joan Massague等一批老师和同事对我的帮助。我很留心，也很用心。</p>
+<p>希望所有的学生也能通过努力和坚持对英文科研论文的阅读得心应手！</p>
+]]></content>
+      <categories>
+        <category>Experience</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+        <tag>Study</tag>
       </tags>
   </entry>
   <entry>
@@ -2209,23 +2281,14 @@
       </tags>
   </entry>
   <entry>
-    <title>金光咒</title>
-    <url>/posts/3d5c968c/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>神咒曰：<br><strong>天地玄宗，万炁本根，广修万善，证吾神通，三界内外，唯道独尊，身有金光，护映吾身，视之不见，听之不闻，包罗天地，养育群生，受持一遍，身有光明。三界侍卫，五帝司迎，万神朝礼，役使雷霆，鬼妖丧胆，精怪亡形。内有霹雳，雷神隐鸣，通慧交彻，五炁腾腾，金光速现，覆护真人。</strong> </p>
-<span id="more"></span>
-
-<p>金光神咒（也称为小金光法）是道教一种修身、调神、辟邪、增阳涤阴的修法。有利于保护修真者的身心，所需的时间短，每日静坐或站桩时均可抽时间修习，火候灵活掌握自行调控。此方法也可贯穿于任何修持中，金光形成后可以抵御外魔侵体或干扰修行的行为。其中妙用，修炼日久自知。初修、孤修者均应先修好此法。先调动自己身内之心神阳气，形成防御场自我保护。</p>
-<p>金光咒是道教八大神咒之一，不光是科仪和玄门日诵的重要内容，同时也在民间法教中广为流传，许多门派皆有此法。金光法的用途很多，普遍都认为是一种修身、护体、辟邪、占场，方便炼功和修法的功法。</p>
-<p>金光神咒暗藏修炼之法，因传承各异，各门派的金光神咒都略有不同，作用和威力相差颇大，修法也不尽相同。有的是边念咒边掐诀，有的需要掐著宫位元念咒，有的就是直接念咒，不需要掐诀，也不掐宫位。不同门派的金光法，符、印、诀也有所不同，有的就是一张符，有的是分阴符和阳符，阴日吃阴符，阳日吃阳符等，各有特色。</p>
-<p>金光神咒法不但可以修出光明，同时也修炼心性、德性。在修炼金光法之时，重道德是修炼的大原则，在修炼过程冲，一刻也不能离开德性的培养。以重德为本，有德为基，守德为阶。可以说重德是打开修真修法大门的宝匙，有德是功力提高的重要基础，守德是功力精进的阶梯。</p>
-<p>金光神咒法可和其他功法同修，不会产生衝突。金光法是一个非常基础、功效宏大、非常重要的功法。道教很多功法都要金光神咒法为基础，简单的如开光，用金光神咒法可以给法器、神像等开光，有很强的护身作用。</p>
-<p>同时金光神咒也有著极强的风水化煞的效果，尤其是看阴宅的时候，更需要金光神咒来护身，尤其是人家的阴宅动土起坟迁坟，煞气极大，若无金光护身，地理师容易中煞而生病。金光神咒法，可以启动坛前阴兵护卫，在面临危险之时，达到预警作用，保命护身。高层次的功夫，如调动阴兵护卫、隐炼法宝、摄魂等等，都需要金光神咒法的辅助。开光、风水化煞、催动不应灵符、祈福改运、斗法等都需要金光神咒法的辅助。</p>
-]]></content>
+    <title>胜者即是正义 Cut</title>
+    <url>/posts/40ca55ab/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><iframe src="//player.bilibili.com/player.html?aid=33000653&bvid=BV1pW411U7R9&cid=57762427&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
       <categories>
-        <category>Religion</category>
+        <category>电视剧</category>
       </categories>
       <tags>
-        <tag>道教</tag>
+        <tag>电视剧</tag>
       </tags>
   </entry>
   <entry>
@@ -2338,69 +2401,6 @@
       </tags>
   </entry>
   <entry>
-    <title>英语学习方法（学术领域）</title>
-    <url>/posts/59e365f3/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="如何提高英文的科研写作能力"><a href="#如何提高英文的科研写作能力" class="headerlink" title="如何提高英文的科研写作能力"></a>如何提高英文的科研写作能力</h1><blockquote>
-<p>本文系转载，作者是清华大学教授施一公，<span class="exturl" data-url="aHR0cDovL2Jsb2cuc2NpZW5jZW5ldC5jbi9ibG9nLTQ2MjEyLTM0OTkzMi5odG1s">点击访问原文<i class="fa fa-external-link-alt"></i></span> 。</p>
-</blockquote>
-<p>作为一个科研工作者，在国际学术期刊上发表科研论文是与同行交流、取得国际影响的必经之路。有些国内的科学家，实验做得很漂亮，但常常苦恼于论文的写作力不从心，成为国际交流的一大障碍。本文从博主的亲身体验出发，给博士生、博士后、以及年轻的PI提供一个借鉴。文章最后做简短总结。</p>
-<p>我大学时的同班同学都知道，那时我的英语不算好（英语四级考试仅为“良”），写作尤其糟糕。初到美国之时，对英文环境适应得很差，读一篇JBC的文章要五、六个小时，还常常不理解其中一些关键词句的意思,心里压力极大。</p>
-<span id="more"></span>
-
-<p>很幸运，我在约翰霍普金斯大学（Johns Hopkins University）攻读博士学位时，1991年4月遇到了学兄和启蒙老师John Desjarlais。听了我的苦恼后，John告诉我，“Spend 45 minutes every day reading Washington Post, and you will be cruising with your written English in two years”(每天花45分钟读《华盛顿邮报》,两年后你的写作能力会得心应手)。这条建议正合我意 - 我原本就对新闻感兴趣！于是，我每天上午安排完第一批实验后，都会在十点左右花一小时的时间阅读《华盛顿邮报》，主要看A版(新闻版)。刚开始，我一个小时只能读两、三个短消息或一个长篇报道，中间还不得不经常查字典看生词。但不知不觉间，我的阅读能力明显提高，1992年老布什与克林顿竞选总统，我跟踪新闻，常常一个小时能读上几个版面的消息或四、五个长篇报道，有时还把刚看到的新闻绘声绘色地讲给师兄师姐听。</p>
-<p>阅读直接提升了我的英文写作能力。看完一些新闻后，我常常产生动笔写自己感想的冲动。92年巴塞罗那奥运会，中国游泳队取得了四金五银的好成绩，美国主要媒体纷纷指责这是中国运动员服用违禁药物，但没有任何检测的证据，完全凭美国运动员的感觉。此事让我很气愤，我生平第一次给《华盛顿邮报》和《巴尔的摩太阳报》（The Baltimore Sun）各写了一封信，评论报道的不公平。没想到两天后《巴尔的摩太阳报》居然原封不动的把我的信刊登在“读者来信”栏目，同事祝贺，我也洋洋得意。受到此事鼓励，我在此后三年多的日子里，常常动笔，有些文章发表在报刊上（大部分投稿石沉大海），也曾代表中国留学生写信向校方争取过中国学生的利益。有时还有意外的惊喜。95年的一天，一位朋友打电话告诉我：今天出版的《巴尔的摩太阳报》上有我的评论文章！我急匆匆赶到街头买来5份报纸，果然，在A版的倒数第二页，以15x15厘米的篇幅发表了我一个多星期前寄给报社、本以为不会发表的一篇抨击吴宏达的文章。</p>
-<p>以上是简述我个人英文写作提升的一段过程。但是，科研论文不同于读者来信，有其专业特点、甚至是固定格式。1994年，我第一次完整地写科研论文，感觉很差。好不容易写完的文章，连我自己都不愿意读第二遍；勉强修改之后，交给了老板Jeremy Berg。他拖了三周没看我的文章，我实在忍不住了、去催他，上午9点，Jeremy告诉我：今天看！11点，我去他办公室催，秘书拦住我，说Jeremy正在办理重要事务，两点前不得打扰。我心里惴惴，不知Jeremy在干什么。下午一点半，Jeremy急匆匆过来找我，拿了一叠纸， “This is the draft. Please let me know what you think. We can aim for a Science report.”（这是初稿，你看看如何，我们可以试试《科学》）我仔细一看，天啊！一共7页，四个多小时Jeremy已经把文章的整体写完了，只是缺少Method和 references。让我郁闷的是，他根本没有用我的初稿。</p>
-<p>【<em>其实，写文章贵在一气呵成。我也沿袭了Jeremy的风格。2006年10月，在我们处于劣势的激烈竞争中，有两个课题面临被 scoop的危险，我曾经两次、一晚上赶一篇文章。10月15日，傍晚8点左右开始写、通宵，第二天早晨10点完成一篇按照《细胞》杂志格式的论文，包括abstract, introduction, results, discussion,仔细阅读一遍后于下午4点半完成网上投稿。这篇文章最终发表在12月份《自然》的子刊《结构与分子生物学》上（电子版于11月10日发表）。另一篇，10月18日，晚6点开始写、通宵，第二天早晨8点完成，上午9点半完成投稿，最终发表在12月15日的《细胞》上。当然，能通宵完成一篇文章，还有一个重要前提，就是对研究领域非常熟悉，对文章整体的大概思路已经深思熟虑，所有的Figures都事先做好了。这些前期工作即使全身心投入也需要3-4天。</em>】</p>
-<p>从1994年自己写第一篇科研论文的艰难到现在写起来得心应手、驾轻就熟，我总结出如下经验：</p>
-<p>1．要写好科研论文，必须先养成读英文文章的习惯，争取每天30-60分钟。刚开始可以选择以读英文报纸、英文新闻为主，逐渐转为读专业杂志。我会在近期专门写一篇博客文章介绍一套行之有效的增强读专业杂志能力的办法。</p>
-<p>2．写科研论文，最重要的是逻辑。逻辑的形成来自对实验数据的总体分析。必须先讨论出一套清晰的思路，然后按照思路来做图(Figures)，最后才能执笔。</p>
-<p>3．具体写作时，先按照思路（即Figures）写一个以subheading为主的框架，然后开始具体写作。第一稿，切忌追求每一句话的完美，更不要追求词语的华丽，而主要留心逻辑（logic flow），注意前后句的逻辑关系、相邻两段的逻辑关系。写作时，全力以赴，尽可能不受外界事情干扰（关闭手机、座机），争取在最短时间内拿出第一稿。还要注意：一句话不可太长。</p>
-<p>4．学会照葫芦画瓢。没有人天生会写优秀的科研论文，都是从别人那里学来的。学习别人的文章要注意专业领域的不同，有些领域（包括我所在的结构生物学）有它内在的写作规律。科研文章里的一些话是定式，比如 “To investigate the mechanism of …, we performed …”, “These results support the former, but not the latter, hypothesis …”, “Despite recent progress, how … remains to be elucidated …” 等等。用两次以后，就逐渐学会灵活运用了。在向别人学习时，切忌抄袭。在美国一些机构，连续7个英文单词在一起和别人的完全一样，原则上就被认为抄袭（plagiarism）。</p>
-<p>5．第一稿写完后，给自己不要超过一天的休息时间，开始修改第二稿。修改时，还是以逻辑为主，但对每一句话都要推敲一下，对abstract和正文中的关键语句要字斟句酌。学会用“Thesaurus”（同义词替换）以避免过多重复。第二稿的修改极为关键，再往后就不会大改了。</p>
-<p>6．第二稿以后的修改，主要注重具体的字句，不会改变整体逻辑了。投稿前，一定要整体读一遍，对个别词句略作改动。记住：<em><strong>学术期刊一般不会因为具体的语法错误拒绝一篇文章，但一定会因为逻辑混乱而拒绝一篇文章</strong></em>。</p>
-<p>这套方法行之有效，我对所有的学生和博士后都会如此教导。我的第一个博士后是柴继杰，1999年加入我在普林斯顿大学的实验室。继杰当时的英文阅读和写作能力很差。我对他的第一个建议就是，“每天花半小时读英文报纸”。难能可贵的是：他坚持下来了！经过几年的努力，2004年继杰已经能写出不错的grant proposal，2006年他的第一篇独立科研论文发表在《Molecular Cell》上，随后相继在《自然》发表两篇、在其它一流学术期刊发表十多篇论文。写作能力开始成熟。</p>
-<p>发表论文是一件值得高兴的事情，但要明白：论文只是一个载体，是为了向同行们宣告你的科研发现，是科学领域交流的重要工具。所以，在科研论文写作时，一定要谨记于心的就是：用最简单的话表达最明白的意思，但一定要逻辑严谨！其实，中文和英文论文皆如此！</p>
-<h1 id="学生如何提高专业英文阅读能力"><a href="#学生如何提高专业英文阅读能力" class="headerlink" title="学生如何提高专业英文阅读能力"></a>学生如何提高专业英文阅读能力</h1><blockquote>
-<p>本文系转载，作者是清华大学教授施一公，<span class="exturl" data-url="aHR0cDovL2Jsb2cuc2NpZW5jZW5ldC5jbi9ibG9nLTQ2MjEyLTM1MDQ5Ni5odG1s">点击访问原文<i class="fa fa-external-link-alt"></i></span> 。</p>
-</blockquote>
-<p>从小到大，我感性思维多一些，不善于读书。85至89年在清华生物系读本科期间，从未读过任何一种英文专业期刊。我受到的与英文阅读相关的训练一共只有两个。一是我在1986年暑假期间选修的时任系主任的蒲慕明老师开设的《生物英语》系列讲座，隐隐约约记得蒲先生让我们阅读一些诸如DNA双螺旋发现之类的科普性英文文章，很有意思。但时间较短，暑假过后也没有养成读英文文章的习惯。二是《生物化学》这门课。与现在的清华生命学院形成鲜明对比，我上大学期间的所有基础课和专业课都是采用中文教材、中文讲课，只有郑昌学老师讲授的《生物化学》采用了Lehninger的《Principles of Biochemistry》，而且郑老师要求我们每个学生每次课后阅读10-20页教材。我们同学大多感觉到专业英文阅读有所提高。</p>
-<p>1990年4月至7月初，我在依阿华州Ames小镇的Iowa State University度过了初到美国的前三个月，其中大部分时间在Herbert Fromm教授的实验室做轮转（rotation），跟随刘峰和董群夫妻两人做研究（刘峰现在University of Texas Health Science Center做教授）。当时感觉最困难的就是读专业论文。有一次，Fromm教授要求我在组会上讲解一篇《Journal of Biological Chemistry》的文章，我提前两天开始阅读，第一遍花了足足六个小时，许多生词只能依靠英汉词典，文章中的有些关键内容还没有完全读懂，当时的感觉是JBC的文章怎么这么长、这么难懂？！真有点苦不堪言。为了能给Fromm教授和师兄师姐留下好印象，第二天又花了好几个小时读第二遍，还做了总结。第三天我在组会上的表现总算没有给清华丢脸。但是，前前后后，真搞不清楚自己为了这一篇文章到底花了多少时间！</p>
-<p>90年7月我转学到约翰霍普金斯大学以后，与本科来自北大的虞一华同在IPMB program。虞一华大我一岁，来巴尔地摩之前已经在夏威夷大学读了一年的研究生，对于科研论文的阅读比我强多了。他常常在IPMB的办公室里拿着《科学》和《自然》周刊津津有味地阅读，看得我很眼馋，也不理解其中那些枯燥的文章有什么意思。他告诉我：他在读很有意思的科学新闻。科学新闻能有什么意思？虞一华给我讲了好几个故事：洛克菲勒大学校长诺贝尔奖得主David Baltimore如何深陷泥潭、人类基因组测序如何争辩激烈、HIV病毒究竟是谁发现的，等等。我还真没有想到学术期刊上会有这么多我也应该看得懂的内容！从那时起，每一期新的《科学》和《自然》一到，我也开始尝试着阅读里面的新闻和研究进展介绍，这些内容往往出现在“News &amp; Comment”“Research News”“News &amp; Views”“Perspectives”等栏目，文笔平实，相对于专业的科研论文很容易读懂。有时，我还把读到的科研新闻讲给我的同事朋友们听，而同事的提问和互动对我又是更好的鼓励。除了《科学》和《自然》，我也常常翻看《科学美国人》(“Scientific American”)。</p>
-<p>与《细胞》(Cell)、《生物化学期刊》（JBC）等非常专业的期刊不同，《科学》和《自然》里面有相当一部分内容是用来做科普教育的。《科学》周刊的“Perspectives”和《自然》周刊的“News &amp; Views”栏目都是对重要科学论文的深入浅出的介绍，一般1-3页，读起来比较通俗易懂，较易入门。读完这些文章后，再读原始的科学论文，感觉好多了！而且可以把自己的体会与专家的分析比较一下，找找差距，有时甚至也能找回来一点自信！</p>
-<p>从1998年在普林斯顿大学任职到现在清华大学做教授，我总是告诉自己实验室的所有年轻人（包括本科生、硕士生、博士生、博士后）下面这几点读科研论文的体会，也希望我的学生跟我学：</p>
-<p>1．请每位学生每周关注《科学》和《自然》。（生命科学界的学生还应该留心《细胞》）。如果时间有限，每周花一个小时读读这两种周刊里的文章标题以及与自己研究领域相关的科研论文的abstract,即可！这样做可以保证一个学生基本上能够跟踪本领域最重要的发现和进展，同时开阔视野，大概知道其它领域的动态。</p>
-<p>2．在时间充足的情况下，可以细读《科学》和《自然》里的新闻及科研论文。如果该科研论文有“News &amp; Views”或“Perspectives”来介绍，请先读这些文章，这类导读的文章会提炼问题，就好比是老师事先给学生讲解一番论文的来龙去脉，对学生阅读原始论文有很大帮助。</p>
-<p>3．在读具体的科研论文时，最重要的是了解文章的主线逻辑。文章中的所有Figures都是按照这个主线逻辑展开描述的。所以，我一般先读“introduction”部分，然后很快地看一遍Figures。大概知道这条主线之后，才一字一句地去读“results”和“discussion”。</p>
-<p>4．当遇到一些实验或结果分析很晦涩难懂时，不必花太多时间深究，而力求一气把文章读完。也许你的问题在后面的内容中自然就有解答。这与听学术讲座非常相似！你如果想每个细节都听懂，留心每一个技术细节，那你听学术讲座不仅会很累，而且也许会为了深究一个小技术环节而影响了对整个讲座逻辑推理及核心结论的理解。</p>
-<p>5．对个别重要的文章和自己领域内的科研论文，应该精读。对与自己课题相关的每一篇论文则必须字斟句酌地读。这些论文，不仅要完全读懂，理解每一个实验的细节、分析、结论，还必须联想到这些实验和结论对自己的课题的影响和启发，提出自己的观点。</p>
-<p>6．科学论文的阅读水平是循序渐进的。每个人开始都会很吃力，所以你有这种感觉不要气馁。坚持很重要，你一定会渐入佳境。当你有问题时或有绝妙分析时，应该与师兄师姐或找导师讨论。</p>
-<p>7．科研训练的一个重要组成部分就是科研论文的阅读。每一个博士生必须经过严格的科研论文阅读的训练。除了你自己的习惯性阅读外，你应该在研究生阶段选修以阅读分析专业文献为主的一至两门课，在实验室内也要有定期的科研论文讨论（Journal Club）。如果你的实验室还没有这种讨论，你们学生可以自发地组织起来。</p>
-<p>8．前面几条都是讨论如何提高科研论文的阅读能力，但是一旦入了门，就要学会critical reading。不要迷信已发表的论文，哪怕是发表在非常好的期刊上。要时刻提醒自己：该论文逻辑是否严谨，数据是否可靠，实验证据是否支持结论，你是否能想出更好的实验，你是否可以在此论文的基础上提出新的重要问题？等等。</p>
-<p>天外有天，读科研论文是一件很简单、但也很深奥的事情。一般的学生常常满足于读懂、读透一篇好的论文，优秀的学生则会举一反三、通过查找references纵深了解整个领域的历史、现状，并展望该领域未来的可能进展。</p>
-<p>我从1990年对学术论文一窍不通到96年博士后期间的得心应手，还常常帮助同事分析，自以为水平了得。但是有一件事让我看到了自己的严重不足，颇为羞愧。1996年，是SMAD蛋白发现及TGF-b信号转导研究的最激动人心的一年，哈佛医学院的Whitman实验室在十月份的《自然》杂志上以“Article”的形式发表了一篇名为“A transcriptional partner for MAD proteins in TGF-b signaling”的文章。读完之后，正好遇到TGF-b领域的著名学者Joan Massague,我对Joan评论说：I’m not so sure why this paper deserves a full article in Nature. They just identified another Smad-interacting protein, and the data quality is mediocre. 完全出乎我的意料，Joan马上回应我：I disagree! This paper links the cytoplasmic Smad protein into the nucleus and identifies a transcription factor as its interacting protein. Now the TGF-b signaling pathway is complete. It is a beautiful Nature article! 这件事对我触动极大：原来大师的视野和品位远远在我之上。从那以后，我也开始从整个领域的发展方面来权衡一篇文章的重要性，这件事对我今后为国际重要学术期刊审稿、自己实验室选择研究课题都起到了相当重要的作用。</p>
-<p>如今，我阅读一篇本领域内的科研论文，非常顺利，而且常常可以看出一些作者没有想到或分析到的关键点。回想从前，感慨万千，感谢蒲慕明、郑昌学、虞一华、John Desjarlais、Jeremy Berg、Joan Massague等一批老师和同事对我的帮助。我很留心，也很用心。</p>
-<p>希望所有的学生也能通过努力和坚持对英文科研论文的阅读得心应手！</p>
-]]></content>
-      <categories>
-        <category>Experience</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-        <tag>Study</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>胜者即是正义 Cut</title>
-    <url>/posts/40ca55ab/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><iframe src="//player.bilibili.com/player.html?aid=33000653&bvid=BV1pW411U7R9&cid=57762427&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
-      <categories>
-        <category>电视剧</category>
-      </categories>
-      <tags>
-        <tag>电视剧</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Linux OS Tutorials</title>
     <url>/posts/df7c1428/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="如何获得管理员权限"><a href="#如何获得管理员权限" class="headerlink" title="如何获得管理员权限"></a>如何获得管理员权限</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">sudo su root</span><br></pre></td></tr></table></figure>
@@ -2423,87 +2423,6 @@
       </categories>
       <tags>
         <tag>OS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Logo Collection</title>
-    <url>/posts/7dd4449d/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Tsinghua%20logo.png' width='68%'>
-
-<span id="more"></span>
-
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/CNMM-LOGO.png' width='68%'>
-
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Purdue%20logo.png' width='68%'>
-
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/TEEP%20logo.png' width='68%'>
-
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/THU%20TEEP%20Logo.jpg' width='68%'>
-
-<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Tsinghua_Aerospace_LOGO.JPG' width='68%'>
-]]></content>
-      <categories>
-        <category>Resource</category>
-      </categories>
-      <tags>
-        <tag>Resource</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Duty, Honor, Country | General Douglas MacArthur, 1962</title>
-    <url>/posts/8dbface4/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p><em>General Douglas MacArthur</em></p>
-<p><em>Sylvanus Thayer Award Acceptance Address</em></p>
-<p><em>delivered 12 May 1962, West Point, NY</em></p>
-<hr>
-<p>General Westmoreland, General Grove, distinguished guests, and gentlemen of the Corps!</p>
-<p>As I was leaving the hotel this morning, a doorman asked me, “Where are you bound for, General?” And when I replied, “West Point,” he remarked, “Beautiful place. Have you ever been there before?”</p>
-<p>No human being could fail to be deeply moved by such a tribute as this [Thayer Award]. Coming from a profession I have served so long, and a people I have loved so well, it fills me with an emotion I cannot express. But this award is not intended primarily to honor a personality, but to symbolize a great moral code – the code of conduct and chivalry of those who guard this beloved land of culture and ancient descent. That is the animation of this medallion. For all eyes and for all time, it is an expression of the ethics of the American soldier. That I should be integrated in this way with so noble an ideal arouses a sense of pride and yet of humility which will be with me always.</p>
-<p>Duty, Honor, Country: Those three hallowed words reverently dictate what you ought to be, what you can be, what you will be. They are your rallying points: to build courage when courage seems to fail; to regain faith when there seems to be little cause for faith; to create hope when hope becomes forlorn.</p>
-<p>Unhappily, I possess neither that eloquence of diction, that poetry of imagination, nor that brilliance of metaphor to tell you all that they mean.</p>
-<p>The unbelievers will say they are but words, but a slogan, but a flamboyant phrase. Every pedant, every demagogue, every cynic, every hypocrite, every troublemaker, and I am sorry to say, some others of an entirely different character, will try to downgrade them even to the extent of mockery and ridicule.</p>
-<p>But these are some of the things they do: They build your basic character. They mold you for your future roles as the custodians of the nation’s defense. They make you strong enough to know when you are weak, and brave enough to face yourself when you are afraid. They teach you to be proud and unbending in honest failure, but humble and gentle in success; not to substitute words for actions, not to seek the path of comfort, but to face the stress and spur of difficulty and challenge; to learn to stand up in the storm but to have compassion on those who fall; to master yourself before you seek to master others; to have a heart that is clean, a goal that is high; to learn to laugh, yet never forget how to weep; to reach into the future yet never neglect the past; to be serious yet never to take yourself too seriously; to be modest so that you will remember the simplicity of true greatness, the open mind of true wisdom, the meekness of true strength.</p>
-<p>They give you a temper of the will, a quality of the imagination, a vigor of the emotions, a freshness of the deep springs of life, a temperamental predominance of courage over timidity, of an appetite for adventure over love of ease. They create in your heart the sense of wonder, the unfailing hope of what next, and the joy and inspiration of life. They teach you in this way to be an officer and a gentleman.</p>
-<p>And what sort of soldiers are those you are to lead? Are they reliable? Are they brave? Are they capable of victory? Their story is known to all of you. It is the story of the American man-at-arms. My estimate of him was formed on the battlefield many, many years ago, and has never changed. I regarded him then as I regard him now – as one of the world’s noblest figures, not only as one of the finest military characters, but also as one of the most stainless. His name and fame are the birthright of every American citizen. In his youth and strength, his love and loyalty, he gave all that mortality can give.</p>
-<p>He needs no eulogy from me or from any other man. He has written his own history and written it in red on his enemy’s breast. But when I think of his patience under adversity, of his courage under fire, and of his modesty in victory, I am filled with an emotion of admiration I cannot put into words. He belongs to history as furnishing one of the greatest examples of successful patriotism. He belongs to posterity as the instructor of future generations in the principles of liberty and freedom. He belongs to the present, to us, by his virtues and by his achievements. In 20 campaigns, on a hundred battlefields, around a thousand campfires, I have witnessed that enduring fortitude, that patriotic self-abnegation, and that invincible determination which have carved his statue in the hearts of his people. From one end of the world to the other he has drained deep the chalice of courage.</p>
-<p>As I listened to those songs [from the glee club], in memory’s eye I could see those staggering columns of the First World War, bending under soggy packs, on many a weary march from dripping dusk to drizzling dawn, slogging ankle-deep through the mire of shell-shocked roads, to form grimly for the attack, blue-lipped, covered with sludge and mud, chilled by the wind and rain, driving home to their objective, and for many, to the judgment seat of  God.</p>
-<p>I do not know the dignity of their birth, but I do know the glory of their death. They died unquestioning, uncomplaining, with faith in their hearts, and on their lips the hope that we would go on to victory. Always, for them: Duty, Honor, Country; always their blood and sweat and tears, as we sought the way and the light and the truth.</p>
-<p>And 20 years after, on the other side of the globe, again the filth of murky foxholes, the stench of ghostly trenches, the slime of dripping dugouts; those boiling suns of relentless heat, those torrential rains of devastating storms; the loneliness and utter desolation of jungle trails; the bitterness of long separation from those they loved and cherished; the deadly pestilence of tropical disease; the horror of stricken areas of war; their resolute and determined defense, their swift and sure attack, their indomitable purpose, their complete and decisive victory – always victory. Always through the bloody haze of their last reverberating shot, the vision of gaunt, ghastly men reverently following your password of:</p>
-<p>Duty, Honor, Country.</p>
-<p>The code which those words perpetuate embraces the highest moral laws and will stand the test of any ethics or philosophies ever promulgated for the uplift of mankind. Its requirements are for the things that are right, and its restraints are from the things that are wrong.</p>
-<p>The soldier, above all other men, is required to practice the greatest act of religious training – sacrifice.</p>
-<p>In battle and in the face of danger and death, he discloses those divine attributes which his Maker gave when he created man in his own image. No physical courage and no brute instinct can take the place of the Divine help which alone can sustain him.</p>
-<p>However horrible the incidents of war may be, the soldier who is called upon to offer and to give his life for his country is the noblest development of mankind.</p>
-<p>You now face a new world – a world of change. The thrust into outer space of the satellite, spheres, and missiles mark the beginning of another epoch in the long story of mankind. In the five or more billions of years the scientists tell us it has taken to form the earth, in the three or more billion years of development of the human race, there has never been a more abrupt or staggering evolution. We deal now not with things of this world alone, but with the illimitable distances and as yet unfathomed mysteries of the universe. We are reaching out for a new and boundless frontier.</p>
-<p>We speak in strange terms: of harnessing the cosmic energy; of making winds and tides work for us; of creating unheard synthetic materials to supplement or even replace our old standard basics; to purify sea water for our drink; of mining ocean floors for new fields of wealth and food; of disease preventatives to expand life into the hundreds of years; of controlling the weather for a more equitable distribution of heat and cold, of rain and shine; of space ships to the moon; of the primary target in war, no longer limited to the armed forces of an enemy, but instead to include his civil populations; of ultimate conflict between a united human race and the sinister forces of some other planetary galaxy; of such dreams and fantasies as to make life the most exciting of all time.</p>
-<p>And through all this welter of change and development, your mission remains fixed, determined, inviolable: it is to win our wars.</p>
-<p>Everything else in your professional career is but corollary to this vital dedication. All other public purposes, all other public projects, all other public needs, great or small, will find others for their accomplishment. But you are the ones who are trained to fight. Yours is the profession of arms,  the will to win, the sure knowledge that in war there is no substitute for victory; that if you lose, the nation will be destroyed; that the very obsession of your public service must be:</p>
-<p>Duty, Honor, Country.</p>
-<p>Others will debate the controversial issues, national and international, which divide men’s minds; but serene, calm, aloof, you stand as the Nation’s war-guardian, as its lifeguard from the raging tides of international conflict, as its gladiator in the arena of battle. For a century and a half you have defended, guarded, and protected its hallowed traditions of liberty and freedom, of right and justice.</p>
-<p>Let civilian voices argue the merits or demerits of our processes of government; whether our strength is being sapped by deficit financing, indulged in too long, by federal paternalism grown too mighty, by power groups grown too arrogant, by politics grown too corrupt, by crime grown too rampant, by morals grown too low, by taxes grown too high, by extremists grown too violent; whether our personal liberties are as thorough and complete as they should be. These great national problems are not for your professional participation or military solution. Your guidepost stands out like a ten-fold beacon in the night:</p>
-<p>Duty, Honor, Country.</p>
-<p>You are the leaven which binds together the entire fabric of our national system of defense. From your ranks come the great captains who hold the nation’s destiny in their hands the moment the war tocsin sounds. The Long Gray Line has never failed us. Were you to do so, a million ghosts in olive drab, in brown khaki, in blue and gray, would rise from their white crosses thundering those magic words:</p>
-<p>Duty, Honor, Country.</p>
-<p>This does not mean that you are war mongers.</p>
-<p>On the contrary, the soldier, above all other people, prays for peace, for he must suffer and bear the deepest wounds and scars of war.</p>
-<p>But always in our ears ring the ominous words of Plato, that wisest of all philosophers: “Only the dead have seen the end of war.”1</p>
-<p>The shadows are lengthening for me. The twilight is here. My days of old have vanished, tone and tint. They have gone glimmering through the dreams of things that were. Their memory is one of wondrous beauty, watered by tears, and coaxed and caressed by the smiles of yesterday. I listen vainly, but with thirsty ears, for the witching melody of faint bugles blowing reveille, of far drums beating the long roll. In my dreams I hear again the crash of guns, the rattle of musketry, the strange, mournful mutter of the battlefield.</p>
-<p>But in the evening of my memory, always I come back to West Point.</p>
-<p>Always there echoes and re-echoes: Duty, Honor, Country.</p>
-<p>Today marks my final roll call with you, but I want you to know that when I cross the river my last conscious thoughts will be of The Corps, and The Corps, and The Corps.</p>
-<p>I bid you farewell.</p>
-<hr>
-<p>Reference</p>
-<ol>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuYW1lcmljYW5yaGV0b3JpYy5jb20vc3BlZWNoZXMvZG91Z2xhc21hY2FydGh1cnRoYXllcmF3YXJkLmh0bWw=">https://www.americanrhetoric.com/speeches/douglasmacarthurthayeraward.html<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuanN1bXMuZWR1L2Fyb3RjL2R1dHktaG9ub3ItY291bnRyeS8=">https://www.jsums.edu/arotc/duty-honor-country/<i class="fa fa-external-link-alt"></i></span></li>
-</ol>
-]]></content>
-      <categories>
-        <category>Speech</category>
-      </categories>
-      <tags>
-        <tag>Speech</tag>
       </tags>
   </entry>
   <entry>
@@ -2573,6 +2492,87 @@ Hello world.
       </tags>
   </entry>
   <entry>
+    <title>Duty, Honor, Country | General Douglas MacArthur, 1962</title>
+    <url>/posts/8dbface4/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p><em>General Douglas MacArthur</em></p>
+<p><em>Sylvanus Thayer Award Acceptance Address</em></p>
+<p><em>delivered 12 May 1962, West Point, NY</em></p>
+<hr>
+<p>General Westmoreland, General Grove, distinguished guests, and gentlemen of the Corps!</p>
+<p>As I was leaving the hotel this morning, a doorman asked me, “Where are you bound for, General?” And when I replied, “West Point,” he remarked, “Beautiful place. Have you ever been there before?”</p>
+<p>No human being could fail to be deeply moved by such a tribute as this [Thayer Award]. Coming from a profession I have served so long, and a people I have loved so well, it fills me with an emotion I cannot express. But this award is not intended primarily to honor a personality, but to symbolize a great moral code – the code of conduct and chivalry of those who guard this beloved land of culture and ancient descent. That is the animation of this medallion. For all eyes and for all time, it is an expression of the ethics of the American soldier. That I should be integrated in this way with so noble an ideal arouses a sense of pride and yet of humility which will be with me always.</p>
+<p>Duty, Honor, Country: Those three hallowed words reverently dictate what you ought to be, what you can be, what you will be. They are your rallying points: to build courage when courage seems to fail; to regain faith when there seems to be little cause for faith; to create hope when hope becomes forlorn.</p>
+<p>Unhappily, I possess neither that eloquence of diction, that poetry of imagination, nor that brilliance of metaphor to tell you all that they mean.</p>
+<p>The unbelievers will say they are but words, but a slogan, but a flamboyant phrase. Every pedant, every demagogue, every cynic, every hypocrite, every troublemaker, and I am sorry to say, some others of an entirely different character, will try to downgrade them even to the extent of mockery and ridicule.</p>
+<p>But these are some of the things they do: They build your basic character. They mold you for your future roles as the custodians of the nation’s defense. They make you strong enough to know when you are weak, and brave enough to face yourself when you are afraid. They teach you to be proud and unbending in honest failure, but humble and gentle in success; not to substitute words for actions, not to seek the path of comfort, but to face the stress and spur of difficulty and challenge; to learn to stand up in the storm but to have compassion on those who fall; to master yourself before you seek to master others; to have a heart that is clean, a goal that is high; to learn to laugh, yet never forget how to weep; to reach into the future yet never neglect the past; to be serious yet never to take yourself too seriously; to be modest so that you will remember the simplicity of true greatness, the open mind of true wisdom, the meekness of true strength.</p>
+<p>They give you a temper of the will, a quality of the imagination, a vigor of the emotions, a freshness of the deep springs of life, a temperamental predominance of courage over timidity, of an appetite for adventure over love of ease. They create in your heart the sense of wonder, the unfailing hope of what next, and the joy and inspiration of life. They teach you in this way to be an officer and a gentleman.</p>
+<p>And what sort of soldiers are those you are to lead? Are they reliable? Are they brave? Are they capable of victory? Their story is known to all of you. It is the story of the American man-at-arms. My estimate of him was formed on the battlefield many, many years ago, and has never changed. I regarded him then as I regard him now – as one of the world’s noblest figures, not only as one of the finest military characters, but also as one of the most stainless. His name and fame are the birthright of every American citizen. In his youth and strength, his love and loyalty, he gave all that mortality can give.</p>
+<p>He needs no eulogy from me or from any other man. He has written his own history and written it in red on his enemy’s breast. But when I think of his patience under adversity, of his courage under fire, and of his modesty in victory, I am filled with an emotion of admiration I cannot put into words. He belongs to history as furnishing one of the greatest examples of successful patriotism. He belongs to posterity as the instructor of future generations in the principles of liberty and freedom. He belongs to the present, to us, by his virtues and by his achievements. In 20 campaigns, on a hundred battlefields, around a thousand campfires, I have witnessed that enduring fortitude, that patriotic self-abnegation, and that invincible determination which have carved his statue in the hearts of his people. From one end of the world to the other he has drained deep the chalice of courage.</p>
+<p>As I listened to those songs [from the glee club], in memory’s eye I could see those staggering columns of the First World War, bending under soggy packs, on many a weary march from dripping dusk to drizzling dawn, slogging ankle-deep through the mire of shell-shocked roads, to form grimly for the attack, blue-lipped, covered with sludge and mud, chilled by the wind and rain, driving home to their objective, and for many, to the judgment seat of  God.</p>
+<p>I do not know the dignity of their birth, but I do know the glory of their death. They died unquestioning, uncomplaining, with faith in their hearts, and on their lips the hope that we would go on to victory. Always, for them: Duty, Honor, Country; always their blood and sweat and tears, as we sought the way and the light and the truth.</p>
+<p>And 20 years after, on the other side of the globe, again the filth of murky foxholes, the stench of ghostly trenches, the slime of dripping dugouts; those boiling suns of relentless heat, those torrential rains of devastating storms; the loneliness and utter desolation of jungle trails; the bitterness of long separation from those they loved and cherished; the deadly pestilence of tropical disease; the horror of stricken areas of war; their resolute and determined defense, their swift and sure attack, their indomitable purpose, their complete and decisive victory – always victory. Always through the bloody haze of their last reverberating shot, the vision of gaunt, ghastly men reverently following your password of:</p>
+<p>Duty, Honor, Country.</p>
+<p>The code which those words perpetuate embraces the highest moral laws and will stand the test of any ethics or philosophies ever promulgated for the uplift of mankind. Its requirements are for the things that are right, and its restraints are from the things that are wrong.</p>
+<p>The soldier, above all other men, is required to practice the greatest act of religious training – sacrifice.</p>
+<p>In battle and in the face of danger and death, he discloses those divine attributes which his Maker gave when he created man in his own image. No physical courage and no brute instinct can take the place of the Divine help which alone can sustain him.</p>
+<p>However horrible the incidents of war may be, the soldier who is called upon to offer and to give his life for his country is the noblest development of mankind.</p>
+<p>You now face a new world – a world of change. The thrust into outer space of the satellite, spheres, and missiles mark the beginning of another epoch in the long story of mankind. In the five or more billions of years the scientists tell us it has taken to form the earth, in the three or more billion years of development of the human race, there has never been a more abrupt or staggering evolution. We deal now not with things of this world alone, but with the illimitable distances and as yet unfathomed mysteries of the universe. We are reaching out for a new and boundless frontier.</p>
+<p>We speak in strange terms: of harnessing the cosmic energy; of making winds and tides work for us; of creating unheard synthetic materials to supplement or even replace our old standard basics; to purify sea water for our drink; of mining ocean floors for new fields of wealth and food; of disease preventatives to expand life into the hundreds of years; of controlling the weather for a more equitable distribution of heat and cold, of rain and shine; of space ships to the moon; of the primary target in war, no longer limited to the armed forces of an enemy, but instead to include his civil populations; of ultimate conflict between a united human race and the sinister forces of some other planetary galaxy; of such dreams and fantasies as to make life the most exciting of all time.</p>
+<p>And through all this welter of change and development, your mission remains fixed, determined, inviolable: it is to win our wars.</p>
+<p>Everything else in your professional career is but corollary to this vital dedication. All other public purposes, all other public projects, all other public needs, great or small, will find others for their accomplishment. But you are the ones who are trained to fight. Yours is the profession of arms,  the will to win, the sure knowledge that in war there is no substitute for victory; that if you lose, the nation will be destroyed; that the very obsession of your public service must be:</p>
+<p>Duty, Honor, Country.</p>
+<p>Others will debate the controversial issues, national and international, which divide men’s minds; but serene, calm, aloof, you stand as the Nation’s war-guardian, as its lifeguard from the raging tides of international conflict, as its gladiator in the arena of battle. For a century and a half you have defended, guarded, and protected its hallowed traditions of liberty and freedom, of right and justice.</p>
+<p>Let civilian voices argue the merits or demerits of our processes of government; whether our strength is being sapped by deficit financing, indulged in too long, by federal paternalism grown too mighty, by power groups grown too arrogant, by politics grown too corrupt, by crime grown too rampant, by morals grown too low, by taxes grown too high, by extremists grown too violent; whether our personal liberties are as thorough and complete as they should be. These great national problems are not for your professional participation or military solution. Your guidepost stands out like a ten-fold beacon in the night:</p>
+<p>Duty, Honor, Country.</p>
+<p>You are the leaven which binds together the entire fabric of our national system of defense. From your ranks come the great captains who hold the nation’s destiny in their hands the moment the war tocsin sounds. The Long Gray Line has never failed us. Were you to do so, a million ghosts in olive drab, in brown khaki, in blue and gray, would rise from their white crosses thundering those magic words:</p>
+<p>Duty, Honor, Country.</p>
+<p>This does not mean that you are war mongers.</p>
+<p>On the contrary, the soldier, above all other people, prays for peace, for he must suffer and bear the deepest wounds and scars of war.</p>
+<p>But always in our ears ring the ominous words of Plato, that wisest of all philosophers: “Only the dead have seen the end of war.”1</p>
+<p>The shadows are lengthening for me. The twilight is here. My days of old have vanished, tone and tint. They have gone glimmering through the dreams of things that were. Their memory is one of wondrous beauty, watered by tears, and coaxed and caressed by the smiles of yesterday. I listen vainly, but with thirsty ears, for the witching melody of faint bugles blowing reveille, of far drums beating the long roll. In my dreams I hear again the crash of guns, the rattle of musketry, the strange, mournful mutter of the battlefield.</p>
+<p>But in the evening of my memory, always I come back to West Point.</p>
+<p>Always there echoes and re-echoes: Duty, Honor, Country.</p>
+<p>Today marks my final roll call with you, but I want you to know that when I cross the river my last conscious thoughts will be of The Corps, and The Corps, and The Corps.</p>
+<p>I bid you farewell.</p>
+<hr>
+<p>Reference</p>
+<ol>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuYW1lcmljYW5yaGV0b3JpYy5jb20vc3BlZWNoZXMvZG91Z2xhc21hY2FydGh1cnRoYXllcmF3YXJkLmh0bWw=">https://www.americanrhetoric.com/speeches/douglasmacarthurthayeraward.html<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuanN1bXMuZWR1L2Fyb3RjL2R1dHktaG9ub3ItY291bnRyeS8=">https://www.jsums.edu/arotc/duty-honor-country/<i class="fa fa-external-link-alt"></i></span></li>
+</ol>
+]]></content>
+      <categories>
+        <category>Speech</category>
+      </categories>
+      <tags>
+        <tag>Speech</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Logo Collection</title>
+    <url>/posts/7dd4449d/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Tsinghua%20logo.png' width='68%'>
+
+<span id="more"></span>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/CNMM-LOGO.png' width='68%'>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Purdue%20logo.png' width='68%'>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/TEEP%20logo.png' width='68%'>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/THU%20TEEP%20Logo.jpg' width='68%'>
+
+<img data-src='https://raw.githubusercontent.com/lichuang52001/oss/master/uPic/Tsinghua_Aerospace_LOGO.JPG' width='68%'>
+]]></content>
+      <categories>
+        <category>Resource</category>
+      </categories>
+      <tags>
+        <tag>Resource</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Matlab Tutorial</title>
     <url>/posts/3b670e92/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Matlab-介绍"><a href="#Matlab-介绍" class="headerlink" title="Matlab 介绍"></a>Matlab 介绍</h1><p>MATLAB（Matrix Laboratory，矩阵实验室）是由美国The MathWorks公司出品的商业数学软件。MATLAB是一种用于算法开发、数据可视化、数据分析以及数值计算的高级技术计算语言和交互式环境。除矩阵运算、绘制函数/数据图像等常用功能外，MATLAB还可用来创建用户界面，以及调用其它语言（包括C、C++、Java、Python、FORTRAN）编写的程序。</p>
@@ -2619,29 +2619,6 @@ Hello world.
       </categories>
       <tags>
         <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Music Collection</title>
-    <url>/posts/68f6e242/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong Password, Try Later | 抱歉, 这个密码看着不太对, 请再试试." data-whm="Error | 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="132b2755c7f1fdacd988fdf8ea2994a20f33fef101283cb3100c0c1700836291">24014bcf5611e5fe61cbe1a03a36998a99d5dd0feffd4d84146bd514e005d0983aa46a3d68cd34e2b5446d9692f85f980dad1c3decf117f735a1d2003d73b28d3aa4b1c34a779aa3e927f117547a2a871af939658c399256dbae76880a15704c515b03633dbbb8ea540ec1494dda301407dc850801e3ded1887e4da4f4d29104d6a85816f801411e1715387d12c431ef59123368e2fb7db3ece3e4cf37c8ce648bcf96c9de875d64834d31161e095753c404c8f737eeeff48d5b240295d4e3ceb9de3c39be6f275f402032f8413c18699a171a5fe58e118adabf3f1d3e73098296fa42d2b6ffe4b27b454353ed5548cb6842110ceea756c46fe07c82478653d4bd08bbe5887f12b1cdb02686e09ad5d90a1b2fa909fe627e493104de701156b3bba14d89b5f51c3dce0daadbf8a7fbea4de911455a3669a8066d49b01d8ac77c7fb59230410acf851ac9ad521950948f3eb1ab92a9d28541b4443da8147730af1f48037890f0e210ab57c9bdf58fa20400e85417a0c973a9b79ceae9a599bc24977327f4e9f9ba0cc89595128c8b946c14332702eb847e7f06cf53f7f99300e965431c1fdc811759f9b39931e8e5d33a783d91a91d26d3d1f575a61c72a0c5b2683228563dc35335c5628c3bdbe699f6a63c6b9d98573d69f4bf9256fede2cb775fb755199e19578ccc81c41e4d3c266232e587bb693ba75c59c2d2af207d755653b24cd3f8c4b038a2b2ccb2bf2ed80fab05b8f27e99a3587686a3900d2e8d92b92547b9111b4149a936d2967830232dbdac22b191b19b7ffdd49756ab3301399e9fca4ef213f90dfc062a138e2fba7a43dee7910e80a60bc52413469e933f12830878d90852d6fa431a145f86d9279517420021a873121e73229cb1df91f715f1ac59911e32f6c2b1441086aef8aac4a2d58023793a11bc2312f057e69538f464c154a0c9c990d53f2b0cbbf8e4c8dd5b4d80735ba94c7331c9a2cec915f1a</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-up">
-      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-up">输入密码，解密后阅读 | Type Password To Decrypt This Article</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Music</category>
-      </categories>
-      <tags>
-        <tag>Password</tag>
-        <tag>Music</tag>
       </tags>
   </entry>
   <entry>
@@ -2705,6 +2682,29 @@ Hello world.
       </categories>
       <tags>
         <tag>电视剧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Music Collection</title>
+    <url>/posts/68f6e242/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Wrong Password, Try Later | 抱歉, 这个密码看着不太对, 请再试试." data-whm="Error | 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="132b2755c7f1fdacd988fdf8ea2994a20f33fef101283cb3100c0c1700836291">24014bcf5611e5fe61cbe1a03a36998a99d5dd0feffd4d84146bd514e005d0983aa46a3d68cd34e2b5446d9692f85f980dad1c3decf117f735a1d2003d73b28d3aa4b1c34a779aa3e927f117547a2a871af939658c399256dbae76880a15704c515b03633dbbb8ea540ec1494dda301407dc850801e3ded1887e4da4f4d29104d6a85816f801411e1715387d12c431ef59123368e2fb7db3ece3e4cf37c8ce648bcf96c9de875d64834d31161e095753c404c8f737eeeff48d5b240295d4e3ceb9de3c39be6f275f402032f8413c18699a171a5fe58e118adabf3f1d3e73098296fa42d2b6ffe4b27b454353ed5548cb6842110ceea756c46fe07c82478653d4bd08bbe5887f12b1cdb02686e09ad5d90a1b2fa909fe627e493104de701156b3bba14d89b5f51c3dce0daadbf8a7fbea4de911455a3669a8066d49b01d8ac77c7fb59230410acf851ac9ad521950948f3eb1ab92a9d28541b4443da8147730af1f48037890f0e210ab57c9bdf58fa20400e85417a0c973a9b79ceae9a599bc24977327f4e9f9ba0cc89595128c8b946c14332702eb847e7f06cf53f7f99300e965431c1fdc811759f9b39931e8e5d33a783d91a91d26d3d1f575a61c72a0c5b2683228563dc35335c5628c3bdbe699f6a63c6b9d98573d69f4bf9256fede2cb775fb755199e19578ccc81c41e4d3c266232e587bb693ba75c59c2d2af207d755653b24cd3f8c4b038a2b2ccb2bf2ed80fab05b8f27e99a3587686a3900d2e8d92b92547b9111b4149a936d2967830232dbdac22b191b19b7ffdd49756ab3301399e9fca4ef213f90dfc062a138e2fba7a43dee7910e80a60bc52413469e933f12830878d90852d6fa431a145f86d9279517420021a873121e73229cb1df91f715f1ac59911e32f6c2b1441086aef8aac4a2d58023793a11bc2312f057e69538f464c154a0c9c990d53f2b0cbbf8e4c8dd5b4d80735ba94c7331c9a2cec915f1a</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-up">
+      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-up">输入密码，解密后阅读 | Type Password To Decrypt This Article</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Music</category>
+      </categories>
+      <tags>
+        <tag>Password</tag>
+        <tag>Music</tag>
       </tags>
   </entry>
   <entry>
@@ -3076,22 +3076,6 @@ Hello world.
       </categories>
   </entry>
   <entry>
-    <title>TED Talks Select</title>
-    <url>/posts/49f00be9/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS93LUhZWnY2SHpBcw==">The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU<i class="fa fa-external-link-alt"></i></span> </li>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9NZFpBTVN5bl9Bcw==">The Skill of Humor | Andrew Tarvin | TEDxTAMU<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-]]></content>
-      <categories>
-        <category>Speech</category>
-      </categories>
-      <tags>
-        <tag>Lecture</tag>
-        <tag>Speech</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Some Specific Tips About Technical Writing | Kip S. Thorne</title>
     <url>/posts/46966eb9/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://www.cco.caltech.edu/~kip/scripts/images/KipDraw2.jpg'>
@@ -3211,6 +3195,22 @@ Hello world.
       <categories>
         <category>Research</category>
       </categories>
+  </entry>
+  <entry>
+    <title>TED Talks Select</title>
+    <url>/posts/49f00be9/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS93LUhZWnY2SHpBcw==">The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU<i class="fa fa-external-link-alt"></i></span> </li>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9NZFpBTVN5bl9Bcw==">The Skill of Humor | Andrew Tarvin | TEDxTAMU<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+]]></content>
+      <categories>
+        <category>Speech</category>
+      </categories>
+      <tags>
+        <tag>Lecture</tag>
+        <tag>Speech</tag>
+      </tags>
   </entry>
   <entry>
     <title>What It Takes | S. A. Schwarzman</title>
@@ -3448,20 +3448,6 @@ Hello world.
       </tags>
   </entry>
   <entry>
-    <title>增广贤文</title>
-    <url>/posts/d41c0df3/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>《增广贤文》又名《昔时贤文》、《古今贤文》。书名最早见之于明代万历年间的戏曲《牡丹亭》，据此可推知此书最迟写成于万历年间。后经明、清两代文人不断增补，才成现在这个模样，称《增广昔时贤文》，通称《增广贤文》。作者未见任何书载，只知清同治年间儒生周希陶曾进行过重订。</p>
-</blockquote>
-<span id="more"></span>
-
-<p>昔时贤文，诲汝谆谆，集韵增广，多见多闻。<br>观今宜鉴古，无古不成今。<br>知己知彼，将心比心。<br>酒逢知己饮，诗向会人吟。<br>相识满天下，知心能几人。<br>相逢好似初相识，到老终无怨恨心。<br>近水知鱼性，近山识鸟音。<br>易涨易退山溪水，易反易覆小人心。<br>运去金成铁，时来铁似金，读书须用意，一字值千金。<br>逢人且说三分话，未可全抛一片心。<br>有意栽花花不发，无心插柳柳成阴。<br>画虎画皮难画骨，知人知面不知心。<br>钱财如粪土，仁义值千金。<br>流水下滩非有意，白云出岫本无心。<br>当时若不登高望，谁信东流海洋深。<br>路遥知马力，事久见人心。<br>两人一般心，无钱堪买金，一人一般心，有钱难买针。<br>相见易得好，久住难为人。<br>马行无力皆因瘦，人不风流只为贫。<br>饶人不是痴汉，痴汉不会饶人。<br>是亲不是亲，非亲却是亲。<br>美不美，乡中水，亲不亲，故乡人。<br>莺花犹怕春光老，岂可教人枉度春。<br>相逢不饮空归去，洞口桃花也笑人。<br>红粉佳人休使老，风流浪子莫教贫。<br>在家不会迎宾客，出外方知少主人。<br>黄芩无假，阿魏无真。<br>客来主不顾，应恐是痴人。<br>贫居闹市无人问，富在深山有远亲。<br>谁人背后无人说，哪个人前不说人。<br>有钱道真语，无钱语不真。<br>不信但看筵中酒，杯杯先劝有钱人。<br>闹里有钱，静处安身。<br>来如风雨，去似微尘。<br>长江后浪推前浪，世上新人赶旧人。<br>近水楼台先得月，向阳花木早逢春。<br>莫道君行早，更有早行人。<br>莫信直中直，须防仁不仁。<br>山中有直树，世上无直人。<br>自恨枝无叶，莫怨太阳偏。<br>大家都是命，半点不由人。<br>一年之计在于春，一日之计在于晨，一家之计在于和，一生之计在于勤。<br>责人之心责己，恕己之心恕人。<br>守口如瓶，防意如城。<br>宁可人负我，切莫我负人。<br>再三须慎意，第一莫欺心。<br>虎生犹可近，人熟不堪亲。<br>来说是非者，便是是非人。<br>远水难救近火，远亲不如近邻。<br>有茶有酒多兄弟，急难何曾见一人。<br>人情似纸张张薄，世事如棋局局新。<br>山中也有千年树，世上难逢百岁人。<br>力微休负重，言轻莫劝人。<br>无钱休入众，遭难莫寻亲。<br>平生莫作皱眉事，世上应无切齿人。<br>士者国之宝，儒为席上珍。<br>若要断酒法，醒眼看醉人。<br>求人须求大丈夫，济人须济急时无。<br>渴时一滴如甘露，醉后添杯不如无。<br>久住令人贱，频来亲也疏。<br>酒中不语真君子，财上分明大丈夫。<br>出家如初，成佛有馀。<br>积金千两，不如明解经书。<br>养子不教如养驴，养女不教如养猪。<br>有田不耕仓廪虚，有书不读子孙愚。<br>仓廪虚兮岁月乏，子孙愚兮礼义疏。<br>听君一席话，胜读十年书。<br>人不通今古，马牛如襟裾。<br>茫茫四海人无数，哪个男儿是丈夫。<br>白酒酿成缘好客，黄金散尽为收书。<br>救人一命，胜造七级浮屠。<br>城门失火，殃及池鱼。<br>庭前生瑞草，好事不如无。<br>欲求生富贵，须下死工夫。<br>百年成之不足，一旦败之有馀。<br>人心似铁，官法如炉。<br>善化不足，恶化有馀。<br>水太清则无鱼，人至察则无徒。<br>知者减半，省者全无。<br>在家由父，出家从夫。<br>痴人畏妇，贤女敬夫。<br>是非终日有，不听自然无。<br>宁可正而不足，不可邪而有馀。<br>宁可信其有，不可信其无。<br>竹篱茅舍风光好，道院僧堂终不如。<br>命里有时终须有，命里无时莫强求。<br>道院迎仙客，书堂隐相儒。<br>庭栽栖凤竹，池养化龙鱼。<br>结交须胜己，似我不如无。<br>但看三五日，相见不如初。<br>人情似水分高下，世事如云任卷舒。<br>会说说都是，不会说无礼。<br>磨刀恨不利，刀利伤人指。<br>求财恨不得，财多害自己。<br>知足常足，终身不辱。<br>知止常止，终身不耻。<br>有福伤财，无福伤己。<br>差之毫厘，失之千里。<br>若登高必自卑，若涉远必自迩。<br>三思而行，再思可矣。<br>使口不如自走，求人不如求己。<br>小时是兄弟，长大各乡里。<br>妒财莫妒食，怨生莫怨死。<br>人见白头嗔，我见白头喜。<br>多少少年亡，不到白头死。<br>墙有缝，壁有耳。<br>好事不出门，恶事传千里。<br>贼是小人，知过君子。<br>君子固穷，小人穷斯滥也。<br>贫穷自在，富贵多忧。<br>不以我为德，反以我为仇。<br>宁向直中取，不可曲中求。<br>人无远虑，必有近忧。<br>知我者谓我心忧，不知我者谓我何求。<br>晴天不肯去，只待雨淋头。<br>成事莫说，覆水难收。<br>是非只为多开口，烦恼皆因强出头。<br>忍得一时之气，免得百日之忧。<br>近来学得乌龟法，得缩头时且缩头。<br>惧法朝朝乐，欺公日日忧。<br>人生一世，草生一春。<br>黑发不知勤学早，白首方悔读书迟。<br>月到十五光明少，人到中年万事休。<br>儿孙自有儿孙福，莫为儿孙作马牛。<br>人生不满百，常怀千岁忧。<br>今朝有酒今朝醉，明日愁来明日忧。<br>路逢险处难回避，事到头来不自由。<br>药能医假病，酒不解真愁。<br>人贫不语，水平不流。<br>一家有女百家求，一马不行百马忧。<br>有花方酌酒，无月不登楼。<br>三杯通大道，一醉解千愁。<br>深山毕竟藏猛虎，大海终须纳细流。<br>惜花须检点，爱月不梳头。<br>大抵选他肌骨好，不擦红粉也风流。<br>受恩深处宜先退，得意浓时便可休。<br>莫待是非来入耳，从前恩爱反为仇。<br>留得五湖明月在，不愁无处下金钩。<br>休别有鱼处，莫恋浅滩头。<br>去时终须去，再三留不住。<br>忍一句，息一怒，饶一着，退一步。<br>三十不豪，四十不富，五十将来寻死路。<br>生不论魂，死不认尸。<br>父母恩深终有别，夫妻义重也分离。<br>人生似鸟同林宿，大限来时各自飞。<br>人善被人欺，马善被人骑。<br>人无横财不富，马无野草不肥。<br>人恶人怕天不怕，人善人欺天不欺。<br>善恶到头终有报，只争来早与来迟。<br>黄河尚有澄清日，岂可人无得运时。<br>得宠思辱，安居虑危。<br>念念有如临敌日，心心常似过桥时。<br>英雄行险道，富贵似花枝。<br>人情莫道春光好，只怕秋来有冷时。<br>送君千里，终须一别。<br>但将冷眼看螃蟹，看你横行到几时。<br>见事莫说，问事不知。<br>闲事休管，无事早归。<br>假缎染就真红色，也被旁人说是非。<br>善事可作，恶事莫为。<br>许人一物，千金不移。<br>龙生龙子，虎生豹儿。<br>龙游浅水遭虾戏，虎落平阳被犬欺。<br>一举首登龙虎榜，十年身到凤凰池。<br>十年窗下无人问，一举成名天下知。<br>酒债寻常行处有，人生七十古来稀。<br>养儿待老，积谷防饥。<br>鸡豚狗彘之畜，无失其时。<br>数家之口，可以无饥矣。<br>常将有日思无日，莫把无时当有时。<br>时来风送滕王阁，运去雷轰荐福碑。<br>入门休问荣枯事，观看容颜便得知。<br>官清书吏瘦，神灵庙祝肥。<br>息却雷霆之怒，罢却虎狼之威。<br>饶人算人之本，输人算人之机。<br>好言难得，恶语易施。<br>一言既出，驷马难追。<br>道吾好者是吾贼，道吾恶者是吾师。<br>路逢侠客须呈剑，不是才人莫献诗。<br>三人同行，必有我师，择其善者而从之，其不善者而改之。<br>少壮不努力，老大徒悲伤。<br>人有善愿，天必佑之。<br>莫饮卯时酒，昏昏醉到酉。<br>莫骂酉时妻，一夜受孤凄。<br>种麻得麻，种豆得豆。<br>天眼恢恢，疏而不漏。<br>见官莫向前，做客莫在后。<br>宁添一斗，莫添一口。<br>螳螂捕蝉，岂知黄雀在后。<br>不求金玉重重贵，但愿儿孙个个贤。<br>一日夫妻，百世姻缘。<br>百世修来同船渡，千世修来共枕眠。<br>杀人一万，自损三千。<br>伤人一语，利如刀割。<br>枯木逢春犹再发，人无两度再少年。<br>未晚先投宿，鸡鸣早看天。<br>将相胸前堪走马，公候肚里好撑船。<br>富人思来年，穷人思眼前。<br>世上若要人情好，赊去物件莫取钱。<br>死生有命，富贵在天。<br>击石原有火，不击乃无烟。<br>为学始知道，不学亦徒然。<br>莫笑他人老，终须还到老。<br>但能依本分，终须无烦恼。<br>君子爱财，取之有道。<br>贞妇爱色，纳之以礼。<br>善有善报，恶有恶报。<br>不是不报，日子不到。<br>人而无信，不知其可也。<br>一人道好，千人传实。<br>凡事要好，须问三老。<br>若争小可，便失大道。<br>年年防饥，夜夜防盗。<br>学者如禾如稻，不学者如蒿如草。<br>遇饮酒时须饮酒，得高歌处且高歌。<br>因风吹火，用力不多。<br>不因渔父引，怎得见波涛。<br>无求到处人情好，不饮从他酒价高。<br>知事少时烦恼少，识人多处是非多。<br>入山不怕伤人虎，只怕人情两面刀。<br>强中更有强中手，恶人须用恶人磨。<br>会使不在家豪富，风流不用着衣多。<br>光阴似箭，日月如梭。<br>天时不如地利，地利不如人和。<br>黄金未为贵，安乐值钱多。<br>世上万般皆下品，思量唯有读书高。<br>世间好语书说尽，天下名山僧占多。<br>为善最乐，为恶难逃。<br>羊有跪乳之恩，鸦有反哺之义。<br>你急他未急，人闲心不闲。<br>隐恶扬善，执其两端。<br>妻贤夫祸少，子孝父心宽。<br>既坠釜甑，反顾无益。<br>翻覆之水，收之实难。<br>人生知足何时足，人老偷闲且是闲。<br>但有绿杨堪系马，处处有路透长安。<br>见者易，学者难。<br>莫将容易得，便作等闲看。<br>用心计较般般错，退步思量事事难。<br>道路各别，养家一般。<br>从俭入奢易，从奢入俭难。<br>知音说与知音听，不是知音莫与弹。<br>点石化为金，人心犹未足。<br>信了肚，卖了屋。<br>他人观花，不涉你目。<br>他人碌碌，不涉你足。<br>谁人不爱子孙贤，谁人不爱千钟粟。<br>莫把真心空计较，五行不是这题目。<br>与人不和，劝人养鹅。<br>与人不睦，劝人架屋。<br>但行好事，莫问前程。<br>河狭水急，人急计生。<br>明知山有虎，莫向虎山行。<br>路不行不到，事不为不成。<br>人不劝不善，钟不打不鸣。<br>无钱方断酒，临老始看经。<br>点塔七层，不如暗处一灯。<br>万事劝人休瞒昧，举头三尺有神明。<br>但存方寸土，留与子孙耕。<br>灭却心头火，剔起佛前灯。<br>惺惺常不足，懵懵作公卿。<br>众星朗朗，不如孤月独明。<br>兄弟相害，不如自生。<br>合理可作，小利莫争。<br>牡丹花好空入目，枣花虽小结实成。<br>欺老莫欺小，欺人心不明。<br>随分耕锄收地利，他时饱满谢苍天。<br>得忍且忍，得耐且耐。<br>不忍不耐，小事成大。<br>相论逞英雄，家计渐渐退。<br>贤妇令夫贵，恶妇令夫败。<br>一人有庆，兆民咸赖。<br>人老心未老，人穷志莫穷。<br>人无千日好，花无百日红。<br>杀人可恕，情理难容。<br>乍富不知新受用，乍贫难改旧家风。<br>座上客常满，樽中酒不空。<br>屋漏更遭连年雨，行船又遇打头风。<br>笋因落箨方成竹，鱼为奔波始化龙。<br>记得少年骑竹马，看看又是白头翁。<br>礼义生于富足，盗贼出于贫穷。<br>天上众星皆拱北，世间无水不朝东。<br>君子安贫，达人知命。<br>忠言逆耳利于行，良药苦口利于病。<br>顺天者存，逆天者亡。<br>人为财死，鸟为食亡。<br>夫妻相合好，琴瑟与笙簧。<br>有儿贫不久，无子富不长。<br>善必寿老，恶必早亡。<br>爽口食多偏作药，快心事过恐生殃。<br>富贵定要安本分，贫穷不必枉思量。<br>画水无风空作浪，绣花虽好不闻香。<br>贪他一斗米，失却半年粮。<br>争他一脚豚，反失一肘羊。<br>龙归晚洞云犹湿，麝过春山草木香。<br>平生只会量人短，何不回头把自量。<br>见善如不及，见恶如探汤。<br>人贫志短，马瘦毛长。<br>自家心里急，他人未知忙。<br>贫无达士将金赠，病有高人说药方。<br>触来莫与说，事过心清凉。<br>秋至满山多秀色，春来无处不花香。<br>凡人不可貌相，海水不可斗量。<br>清清之水，为土所妨。<br>济济之士，为酒所伤。<br>蒿草之下，或有兰香。<br>茅茨之屋，或有侯王。<br>无限朱门生饿殍，几多白屋出卿相。<br>醉后乾坤大，壶中日月长。<br>万事皆已定，浮生空白茫。<br>千里送毫毛，礼轻仁义重。<br>一人传虚，百人传实。<br>世事明如镜，前程暗似漆。<br>光阴黄金难买，一世如驹过隙。<br>良田万顷，日食一升。<br>大厦千间，夜眠八尺。<br>千经万典，孝义为先。<br>一字入公门，九牛拖不出。<br>衙门八字开，有理无钱莫进来。<br>富从升合起，贫因不算来。<br>家中无才子，官从何处来。<br>万事不由人计较，一生都是命安排。<br>急行慢行，前程只有多少路。<br>人间私语，天闻若雷。<br>暗室亏心，神目如电。<br>一毫之恶，劝人莫作。<br>一毫之善，与人方便。<br>欺人是祸，饶人是福。<br>天眼恢恢，报应甚速。<br>圣贤言语，神钦鬼伏。<br>人各有心，心各有见。<br>口说不如身逢，耳闻不如目见。<br>养军千日，用在一朝。<br>国清才子贵，家富小儿骄。<br>利刀割体痕易合，恶语伤人恨不消。<br>公道世间唯白发，贵人头上不曾饶。<br>有钱堪出众，无衣懒出门。<br>为官须作相，及第必争先。<br>苗从地发，树向枝分。<br>父子和而家不退，兄弟和而家不分。<br>官有正条，民有和约。<br>闲时不烧香，急时抱佛脚。<br>幸生太平无事日，恐逢年老不多时。<br>国乱思良将，家贫思贤妻。<br>池塘积水须防旱，田地勤耕足养家。<br>根深不怕风摇动，树正无愁月影斜。<br>奉劝君子，各宜守己。<br>只此呈示，万无一失。</p>
-]]></content>
-      <categories>
-        <category>Article</category>
-      </categories>
-  </entry>
-  <entry>
     <title>选择大于努力？</title>
     <url>/posts/5f8e5b1e/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>近年来，流行一句话，“<strong>选择大于努力</strong>”。</p>
@@ -3479,6 +3465,20 @@ Hello world.
       <tags>
         <tag>Career</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>增广贤文</title>
+    <url>/posts/d41c0df3/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>《增广贤文》又名《昔时贤文》、《古今贤文》。书名最早见之于明代万历年间的戏曲《牡丹亭》，据此可推知此书最迟写成于万历年间。后经明、清两代文人不断增补，才成现在这个模样，称《增广昔时贤文》，通称《增广贤文》。作者未见任何书载，只知清同治年间儒生周希陶曾进行过重订。</p>
+</blockquote>
+<span id="more"></span>
+
+<p>昔时贤文，诲汝谆谆，集韵增广，多见多闻。<br>观今宜鉴古，无古不成今。<br>知己知彼，将心比心。<br>酒逢知己饮，诗向会人吟。<br>相识满天下，知心能几人。<br>相逢好似初相识，到老终无怨恨心。<br>近水知鱼性，近山识鸟音。<br>易涨易退山溪水，易反易覆小人心。<br>运去金成铁，时来铁似金，读书须用意，一字值千金。<br>逢人且说三分话，未可全抛一片心。<br>有意栽花花不发，无心插柳柳成阴。<br>画虎画皮难画骨，知人知面不知心。<br>钱财如粪土，仁义值千金。<br>流水下滩非有意，白云出岫本无心。<br>当时若不登高望，谁信东流海洋深。<br>路遥知马力，事久见人心。<br>两人一般心，无钱堪买金，一人一般心，有钱难买针。<br>相见易得好，久住难为人。<br>马行无力皆因瘦，人不风流只为贫。<br>饶人不是痴汉，痴汉不会饶人。<br>是亲不是亲，非亲却是亲。<br>美不美，乡中水，亲不亲，故乡人。<br>莺花犹怕春光老，岂可教人枉度春。<br>相逢不饮空归去，洞口桃花也笑人。<br>红粉佳人休使老，风流浪子莫教贫。<br>在家不会迎宾客，出外方知少主人。<br>黄芩无假，阿魏无真。<br>客来主不顾，应恐是痴人。<br>贫居闹市无人问，富在深山有远亲。<br>谁人背后无人说，哪个人前不说人。<br>有钱道真语，无钱语不真。<br>不信但看筵中酒，杯杯先劝有钱人。<br>闹里有钱，静处安身。<br>来如风雨，去似微尘。<br>长江后浪推前浪，世上新人赶旧人。<br>近水楼台先得月，向阳花木早逢春。<br>莫道君行早，更有早行人。<br>莫信直中直，须防仁不仁。<br>山中有直树，世上无直人。<br>自恨枝无叶，莫怨太阳偏。<br>大家都是命，半点不由人。<br>一年之计在于春，一日之计在于晨，一家之计在于和，一生之计在于勤。<br>责人之心责己，恕己之心恕人。<br>守口如瓶，防意如城。<br>宁可人负我，切莫我负人。<br>再三须慎意，第一莫欺心。<br>虎生犹可近，人熟不堪亲。<br>来说是非者，便是是非人。<br>远水难救近火，远亲不如近邻。<br>有茶有酒多兄弟，急难何曾见一人。<br>人情似纸张张薄，世事如棋局局新。<br>山中也有千年树，世上难逢百岁人。<br>力微休负重，言轻莫劝人。<br>无钱休入众，遭难莫寻亲。<br>平生莫作皱眉事，世上应无切齿人。<br>士者国之宝，儒为席上珍。<br>若要断酒法，醒眼看醉人。<br>求人须求大丈夫，济人须济急时无。<br>渴时一滴如甘露，醉后添杯不如无。<br>久住令人贱，频来亲也疏。<br>酒中不语真君子，财上分明大丈夫。<br>出家如初，成佛有馀。<br>积金千两，不如明解经书。<br>养子不教如养驴，养女不教如养猪。<br>有田不耕仓廪虚，有书不读子孙愚。<br>仓廪虚兮岁月乏，子孙愚兮礼义疏。<br>听君一席话，胜读十年书。<br>人不通今古，马牛如襟裾。<br>茫茫四海人无数，哪个男儿是丈夫。<br>白酒酿成缘好客，黄金散尽为收书。<br>救人一命，胜造七级浮屠。<br>城门失火，殃及池鱼。<br>庭前生瑞草，好事不如无。<br>欲求生富贵，须下死工夫。<br>百年成之不足，一旦败之有馀。<br>人心似铁，官法如炉。<br>善化不足，恶化有馀。<br>水太清则无鱼，人至察则无徒。<br>知者减半，省者全无。<br>在家由父，出家从夫。<br>痴人畏妇，贤女敬夫。<br>是非终日有，不听自然无。<br>宁可正而不足，不可邪而有馀。<br>宁可信其有，不可信其无。<br>竹篱茅舍风光好，道院僧堂终不如。<br>命里有时终须有，命里无时莫强求。<br>道院迎仙客，书堂隐相儒。<br>庭栽栖凤竹，池养化龙鱼。<br>结交须胜己，似我不如无。<br>但看三五日，相见不如初。<br>人情似水分高下，世事如云任卷舒。<br>会说说都是，不会说无礼。<br>磨刀恨不利，刀利伤人指。<br>求财恨不得，财多害自己。<br>知足常足，终身不辱。<br>知止常止，终身不耻。<br>有福伤财，无福伤己。<br>差之毫厘，失之千里。<br>若登高必自卑，若涉远必自迩。<br>三思而行，再思可矣。<br>使口不如自走，求人不如求己。<br>小时是兄弟，长大各乡里。<br>妒财莫妒食，怨生莫怨死。<br>人见白头嗔，我见白头喜。<br>多少少年亡，不到白头死。<br>墙有缝，壁有耳。<br>好事不出门，恶事传千里。<br>贼是小人，知过君子。<br>君子固穷，小人穷斯滥也。<br>贫穷自在，富贵多忧。<br>不以我为德，反以我为仇。<br>宁向直中取，不可曲中求。<br>人无远虑，必有近忧。<br>知我者谓我心忧，不知我者谓我何求。<br>晴天不肯去，只待雨淋头。<br>成事莫说，覆水难收。<br>是非只为多开口，烦恼皆因强出头。<br>忍得一时之气，免得百日之忧。<br>近来学得乌龟法，得缩头时且缩头。<br>惧法朝朝乐，欺公日日忧。<br>人生一世，草生一春。<br>黑发不知勤学早，白首方悔读书迟。<br>月到十五光明少，人到中年万事休。<br>儿孙自有儿孙福，莫为儿孙作马牛。<br>人生不满百，常怀千岁忧。<br>今朝有酒今朝醉，明日愁来明日忧。<br>路逢险处难回避，事到头来不自由。<br>药能医假病，酒不解真愁。<br>人贫不语，水平不流。<br>一家有女百家求，一马不行百马忧。<br>有花方酌酒，无月不登楼。<br>三杯通大道，一醉解千愁。<br>深山毕竟藏猛虎，大海终须纳细流。<br>惜花须检点，爱月不梳头。<br>大抵选他肌骨好，不擦红粉也风流。<br>受恩深处宜先退，得意浓时便可休。<br>莫待是非来入耳，从前恩爱反为仇。<br>留得五湖明月在，不愁无处下金钩。<br>休别有鱼处，莫恋浅滩头。<br>去时终须去，再三留不住。<br>忍一句，息一怒，饶一着，退一步。<br>三十不豪，四十不富，五十将来寻死路。<br>生不论魂，死不认尸。<br>父母恩深终有别，夫妻义重也分离。<br>人生似鸟同林宿，大限来时各自飞。<br>人善被人欺，马善被人骑。<br>人无横财不富，马无野草不肥。<br>人恶人怕天不怕，人善人欺天不欺。<br>善恶到头终有报，只争来早与来迟。<br>黄河尚有澄清日，岂可人无得运时。<br>得宠思辱，安居虑危。<br>念念有如临敌日，心心常似过桥时。<br>英雄行险道，富贵似花枝。<br>人情莫道春光好，只怕秋来有冷时。<br>送君千里，终须一别。<br>但将冷眼看螃蟹，看你横行到几时。<br>见事莫说，问事不知。<br>闲事休管，无事早归。<br>假缎染就真红色，也被旁人说是非。<br>善事可作，恶事莫为。<br>许人一物，千金不移。<br>龙生龙子，虎生豹儿。<br>龙游浅水遭虾戏，虎落平阳被犬欺。<br>一举首登龙虎榜，十年身到凤凰池。<br>十年窗下无人问，一举成名天下知。<br>酒债寻常行处有，人生七十古来稀。<br>养儿待老，积谷防饥。<br>鸡豚狗彘之畜，无失其时。<br>数家之口，可以无饥矣。<br>常将有日思无日，莫把无时当有时。<br>时来风送滕王阁，运去雷轰荐福碑。<br>入门休问荣枯事，观看容颜便得知。<br>官清书吏瘦，神灵庙祝肥。<br>息却雷霆之怒，罢却虎狼之威。<br>饶人算人之本，输人算人之机。<br>好言难得，恶语易施。<br>一言既出，驷马难追。<br>道吾好者是吾贼，道吾恶者是吾师。<br>路逢侠客须呈剑，不是才人莫献诗。<br>三人同行，必有我师，择其善者而从之，其不善者而改之。<br>少壮不努力，老大徒悲伤。<br>人有善愿，天必佑之。<br>莫饮卯时酒，昏昏醉到酉。<br>莫骂酉时妻，一夜受孤凄。<br>种麻得麻，种豆得豆。<br>天眼恢恢，疏而不漏。<br>见官莫向前，做客莫在后。<br>宁添一斗，莫添一口。<br>螳螂捕蝉，岂知黄雀在后。<br>不求金玉重重贵，但愿儿孙个个贤。<br>一日夫妻，百世姻缘。<br>百世修来同船渡，千世修来共枕眠。<br>杀人一万，自损三千。<br>伤人一语，利如刀割。<br>枯木逢春犹再发，人无两度再少年。<br>未晚先投宿，鸡鸣早看天。<br>将相胸前堪走马，公候肚里好撑船。<br>富人思来年，穷人思眼前。<br>世上若要人情好，赊去物件莫取钱。<br>死生有命，富贵在天。<br>击石原有火，不击乃无烟。<br>为学始知道，不学亦徒然。<br>莫笑他人老，终须还到老。<br>但能依本分，终须无烦恼。<br>君子爱财，取之有道。<br>贞妇爱色，纳之以礼。<br>善有善报，恶有恶报。<br>不是不报，日子不到。<br>人而无信，不知其可也。<br>一人道好，千人传实。<br>凡事要好，须问三老。<br>若争小可，便失大道。<br>年年防饥，夜夜防盗。<br>学者如禾如稻，不学者如蒿如草。<br>遇饮酒时须饮酒，得高歌处且高歌。<br>因风吹火，用力不多。<br>不因渔父引，怎得见波涛。<br>无求到处人情好，不饮从他酒价高。<br>知事少时烦恼少，识人多处是非多。<br>入山不怕伤人虎，只怕人情两面刀。<br>强中更有强中手，恶人须用恶人磨。<br>会使不在家豪富，风流不用着衣多。<br>光阴似箭，日月如梭。<br>天时不如地利，地利不如人和。<br>黄金未为贵，安乐值钱多。<br>世上万般皆下品，思量唯有读书高。<br>世间好语书说尽，天下名山僧占多。<br>为善最乐，为恶难逃。<br>羊有跪乳之恩，鸦有反哺之义。<br>你急他未急，人闲心不闲。<br>隐恶扬善，执其两端。<br>妻贤夫祸少，子孝父心宽。<br>既坠釜甑，反顾无益。<br>翻覆之水，收之实难。<br>人生知足何时足，人老偷闲且是闲。<br>但有绿杨堪系马，处处有路透长安。<br>见者易，学者难。<br>莫将容易得，便作等闲看。<br>用心计较般般错，退步思量事事难。<br>道路各别，养家一般。<br>从俭入奢易，从奢入俭难。<br>知音说与知音听，不是知音莫与弹。<br>点石化为金，人心犹未足。<br>信了肚，卖了屋。<br>他人观花，不涉你目。<br>他人碌碌，不涉你足。<br>谁人不爱子孙贤，谁人不爱千钟粟。<br>莫把真心空计较，五行不是这题目。<br>与人不和，劝人养鹅。<br>与人不睦，劝人架屋。<br>但行好事，莫问前程。<br>河狭水急，人急计生。<br>明知山有虎，莫向虎山行。<br>路不行不到，事不为不成。<br>人不劝不善，钟不打不鸣。<br>无钱方断酒，临老始看经。<br>点塔七层，不如暗处一灯。<br>万事劝人休瞒昧，举头三尺有神明。<br>但存方寸土，留与子孙耕。<br>灭却心头火，剔起佛前灯。<br>惺惺常不足，懵懵作公卿。<br>众星朗朗，不如孤月独明。<br>兄弟相害，不如自生。<br>合理可作，小利莫争。<br>牡丹花好空入目，枣花虽小结实成。<br>欺老莫欺小，欺人心不明。<br>随分耕锄收地利，他时饱满谢苍天。<br>得忍且忍，得耐且耐。<br>不忍不耐，小事成大。<br>相论逞英雄，家计渐渐退。<br>贤妇令夫贵，恶妇令夫败。<br>一人有庆，兆民咸赖。<br>人老心未老，人穷志莫穷。<br>人无千日好，花无百日红。<br>杀人可恕，情理难容。<br>乍富不知新受用，乍贫难改旧家风。<br>座上客常满，樽中酒不空。<br>屋漏更遭连年雨，行船又遇打头风。<br>笋因落箨方成竹，鱼为奔波始化龙。<br>记得少年骑竹马，看看又是白头翁。<br>礼义生于富足，盗贼出于贫穷。<br>天上众星皆拱北，世间无水不朝东。<br>君子安贫，达人知命。<br>忠言逆耳利于行，良药苦口利于病。<br>顺天者存，逆天者亡。<br>人为财死，鸟为食亡。<br>夫妻相合好，琴瑟与笙簧。<br>有儿贫不久，无子富不长。<br>善必寿老，恶必早亡。<br>爽口食多偏作药，快心事过恐生殃。<br>富贵定要安本分，贫穷不必枉思量。<br>画水无风空作浪，绣花虽好不闻香。<br>贪他一斗米，失却半年粮。<br>争他一脚豚，反失一肘羊。<br>龙归晚洞云犹湿，麝过春山草木香。<br>平生只会量人短，何不回头把自量。<br>见善如不及，见恶如探汤。<br>人贫志短，马瘦毛长。<br>自家心里急，他人未知忙。<br>贫无达士将金赠，病有高人说药方。<br>触来莫与说，事过心清凉。<br>秋至满山多秀色，春来无处不花香。<br>凡人不可貌相，海水不可斗量。<br>清清之水，为土所妨。<br>济济之士，为酒所伤。<br>蒿草之下，或有兰香。<br>茅茨之屋，或有侯王。<br>无限朱门生饿殍，几多白屋出卿相。<br>醉后乾坤大，壶中日月长。<br>万事皆已定，浮生空白茫。<br>千里送毫毛，礼轻仁义重。<br>一人传虚，百人传实。<br>世事明如镜，前程暗似漆。<br>光阴黄金难买，一世如驹过隙。<br>良田万顷，日食一升。<br>大厦千间，夜眠八尺。<br>千经万典，孝义为先。<br>一字入公门，九牛拖不出。<br>衙门八字开，有理无钱莫进来。<br>富从升合起，贫因不算来。<br>家中无才子，官从何处来。<br>万事不由人计较，一生都是命安排。<br>急行慢行，前程只有多少路。<br>人间私语，天闻若雷。<br>暗室亏心，神目如电。<br>一毫之恶，劝人莫作。<br>一毫之善，与人方便。<br>欺人是祸，饶人是福。<br>天眼恢恢，报应甚速。<br>圣贤言语，神钦鬼伏。<br>人各有心，心各有见。<br>口说不如身逢，耳闻不如目见。<br>养军千日，用在一朝。<br>国清才子贵，家富小儿骄。<br>利刀割体痕易合，恶语伤人恨不消。<br>公道世间唯白发，贵人头上不曾饶。<br>有钱堪出众，无衣懒出门。<br>为官须作相，及第必争先。<br>苗从地发，树向枝分。<br>父子和而家不退，兄弟和而家不分。<br>官有正条，民有和约。<br>闲时不烧香，急时抱佛脚。<br>幸生太平无事日，恐逢年老不多时。<br>国乱思良将，家贫思贤妻。<br>池塘积水须防旱，田地勤耕足养家。<br>根深不怕风摇动，树正无愁月影斜。<br>奉劝君子，各宜守己。<br>只此呈示，万无一失。</p>
+]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
   </entry>
   <entry>
     <title>文献管理软件：Zotero</title>
@@ -3571,42 +3571,6 @@ Hello world.
       </categories>
   </entry>
   <entry>
-    <title>张志顺八部金刚功</title>
-    <url>/posts/c879afe2/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>张至顺（1912年—2015年），原海南省道教协会名誉会长、西安万寿八仙宫名誉方丈，海南省玉蟾宫住持。生于1912年。七岁时值清末民初，战乱灾荒交加。因家境贫困离家乞讨。十二岁随师学艺，十七岁在陕西省华山遇师刘明苍道长而出家。在道观，张至顺从事杂役，终日劳苦，磨练心志，因道心清明和修炼上独辟蹊径，被师授以真传，为中国道教全真龙门正宗第二十一代传人。</p>
-</blockquote>
-<span id="more"></span>
-
-<h1 id="外八部金刚功"><a href="#外八部金刚功" class="headerlink" title="外八部金刚功"></a>外八部金刚功</h1><iframe src="https://www.youtube.com/embed/1NiISV36tMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<h1 id="内八部长寿功"><a href="#内八部长寿功" class="headerlink" title="内八部长寿功"></a>内八部长寿功</h1><iframe src="https://www.youtube.com/embed/9h2jQTDribI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-]]></content>
-      <categories>
-        <category>锻炼</category>
-      </categories>
-      <tags>
-        <tag>锻炼</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>法无定法</title>
-    <url>/posts/afd5310b/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>法无定法出自《金刚经》，这里给出其中一种解释。</p>
-</blockquote>
-<span id="more"></span>
-<p>有一个小偷本事高强，儿子长大了，就缠着要他传衣钵。有一天被儿子缠不过了，就答应当天夜里带他去偷。父子偷偷摸进了一家人家，发现房间内有个大柜子，这个父亲想办法把锁打开了，叫儿子进去拿东西。儿子进了柜子，这个父亲立刻把柜门关上锁住，并且大叫有贼啊………然后自己跑掉了。这一家人被吵醒都起来了，点起灯火到处找，有个丫头拿着蜡烛进了房间，柜子中的儿子情急智生，就用口技学老鼠打架，吱吱吱吵个不停。丫头叫了起来，太太，不得了啦！小偷没看见，柜子里有老鼠作窝啊！立刻拿钥匙开锁，这个小偷的儿子冲出来，一口气吧蜡烛吹灭，就跑掉了。跑回家中看见老子躺在那里睡觉，儿子就把他叫醒，质问他为什么这样書自己的儿子！这个父亲说：你不是出来了吗？你成功啦！衣钵传给你啦！他说小偷无定法，只要你逃得出来，就成功了。</p>
-<p>要成佛没有定法，随便修哪都一样，自己想办法。</p>
-]]></content>
-      <categories>
-        <category>Religion</category>
-      </categories>
-      <tags>
-        <tag>宗教</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【转载】你真的懂得如何学习吗？</title>
     <url>/posts/f55e7ae1/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
@@ -3640,6 +3604,42 @@ Hello world.
       </categories>
       <tags>
         <tag>Study</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>张志顺八部金刚功</title>
+    <url>/posts/c879afe2/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>张至顺（1912年—2015年），原海南省道教协会名誉会长、西安万寿八仙宫名誉方丈，海南省玉蟾宫住持。生于1912年。七岁时值清末民初，战乱灾荒交加。因家境贫困离家乞讨。十二岁随师学艺，十七岁在陕西省华山遇师刘明苍道长而出家。在道观，张至顺从事杂役，终日劳苦，磨练心志，因道心清明和修炼上独辟蹊径，被师授以真传，为中国道教全真龙门正宗第二十一代传人。</p>
+</blockquote>
+<span id="more"></span>
+
+<h1 id="外八部金刚功"><a href="#外八部金刚功" class="headerlink" title="外八部金刚功"></a>外八部金刚功</h1><iframe src="https://www.youtube.com/embed/1NiISV36tMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h1 id="内八部长寿功"><a href="#内八部长寿功" class="headerlink" title="内八部长寿功"></a>内八部长寿功</h1><iframe src="https://www.youtube.com/embed/9h2jQTDribI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+]]></content>
+      <categories>
+        <category>锻炼</category>
+      </categories>
+      <tags>
+        <tag>锻炼</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>法无定法</title>
+    <url>/posts/afd5310b/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>法无定法出自《金刚经》，这里给出其中一种解释。</p>
+</blockquote>
+<span id="more"></span>
+<p>有一个小偷本事高强，儿子长大了，就缠着要他传衣钵。有一天被儿子缠不过了，就答应当天夜里带他去偷。父子偷偷摸进了一家人家，发现房间内有个大柜子，这个父亲想办法把锁打开了，叫儿子进去拿东西。儿子进了柜子，这个父亲立刻把柜门关上锁住，并且大叫有贼啊………然后自己跑掉了。这一家人被吵醒都起来了，点起灯火到处找，有个丫头拿着蜡烛进了房间，柜子中的儿子情急智生，就用口技学老鼠打架，吱吱吱吵个不停。丫头叫了起来，太太，不得了啦！小偷没看见，柜子里有老鼠作窝啊！立刻拿钥匙开锁，这个小偷的儿子冲出来，一口气吧蜡烛吹灭，就跑掉了。跑回家中看见老子躺在那里睡觉，儿子就把他叫醒，质问他为什么这样書自己的儿子！这个父亲说：你不是出来了吗？你成功啦！衣钵传给你啦！他说小偷无定法，只要你逃得出来，就成功了。</p>
+<p>要成佛没有定法，随便修哪都一样，自己想办法。</p>
+]]></content>
+      <categories>
+        <category>Religion</category>
+      </categories>
+      <tags>
+        <tag>宗教</tag>
       </tags>
   </entry>
   <entry>
