@@ -99,6 +99,8 @@
 <hr>
 <p>General Westmoreland, General Grove, distinguished guests, and gentlemen of the Corps!</p>
 <p>As I was leaving the hotel this morning, a doorman asked me, “Where are you bound for, General?” And when I replied, “West Point,” he remarked, “Beautiful place. Have you ever been there before?”</p>
+<span id="more"></span>
+
 <p>No human being could fail to be deeply moved by such a tribute as this [Thayer Award]. Coming from a profession I have served so long, and a people I have loved so well, it fills me with an emotion I cannot express. But this award is not intended primarily to honor a personality, but to symbolize a great moral code – the code of conduct and chivalry of those who guard this beloved land of culture and ancient descent. That is the animation of this medallion. For all eyes and for all time, it is an expression of the ethics of the American soldier. That I should be integrated in this way with so noble an ideal arouses a sense of pride and yet of humility which will be with me always.</p>
 <p>Duty, Honor, Country: Those three hallowed words reverently dictate what you ought to be, what you can be, what you will be. They are your rallying points: to build courage when courage seems to fail; to regain faith when there seems to be little cause for faith; to create hope when hope becomes forlorn.</p>
 <p>Unhappily, I possess neither that eloquence of diction, that poetry of imagination, nor that brilliance of metaphor to tell you all that they mean.</p>
@@ -2173,7 +2175,7 @@ Hello world.
 <h1 id="创建文件夹"><a href="#创建文件夹" class="headerlink" title="创建文件夹"></a>创建文件夹</h1><ol>
 <li>进入 cmd</li>
 <li>cd 至目标文件夹</li>
-<li>md + ‘foldername’ 创建文件夹，多个’’foldername’用空格隔开可以一次性创建多个 folders</li>
+<li>md + ‘foldername’ 创建文件夹，多个 ‘foldername’ 用空格隔开可以一次性创建多个 folders</li>
 </ol>
 ]]></content>
       <categories>
