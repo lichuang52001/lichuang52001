@@ -57,6 +57,60 @@
       </tags>
   </entry>
   <entry>
+    <title>Getting Things Done</title>
+    <url>/posts/7694439f/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Getting Things Done (GTD) is a time management method, described in the book of the same title by productivity consultant <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS9ndGRndXk=">David Allen<i class="fa fa-external-link-alt"></i></span>.</p>
+<p>原理：大脑善于处理信息，提出想法，但是不善于存储信息，即我们常说的“好记性不如烂笔头”。</p>
+<p>推荐参考资料：</p>
+<ol>
+<li><p><span class="exturl" data-url="aHR0cHM6Ly9oYW1iZXJnLm5vL2d0ZA==">GTD in 15 minutes – A Pragmatic Guide to Getting Things Done<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+<li><p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9nQ3N3TXNPTmt3WQ==">Getting Things Done (GTD) by David Allen - Animated Book Summary And Review<i class="fa fa-external-link-alt"></i></span> </p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Experience</category>
+      </categories>
+      <tags>
+        <tag>Management</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Github Handbook</title>
+    <url>/posts/4b73fed1/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Github-Desktop"><a href="#Github-Desktop" class="headerlink" title="Github Desktop"></a>Github Desktop</h1><h2 id="设置代理"><a href="#设置代理" class="headerlink" title="设置代理"></a>设置代理</h2><ol>
+<li><p>找到文件 <code>C:\users\username\.gitconfig</code> ；</p>
+</li>
+<li><p>在文件最后加上如下代码（change 1080 to your own port #）</p>
+</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[http]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br><span class="line">[https]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br><span class="line">[git]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Richard Feynman</title>
+    <url>/posts/1305b606/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>A video about Feynman: <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9QMXd3MUlYUmZUQQ==">Physics is fun to image by Richard Feynman<i class="fa fa-external-link-alt"></i></span></p>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>人物</category>
+      </categories>
+      <tags>
+        <tag>人物</tag>
+        <tag>科学家</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>步步高的生存之道：企业的诚信意识</title>
     <url>/posts/f79c265f/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
@@ -163,54 +217,34 @@
       </tags>
   </entry>
   <entry>
-    <title>Github Handbook</title>
-    <url>/posts/4b73fed1/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Github-Desktop"><a href="#Github-Desktop" class="headerlink" title="Github Desktop"></a>Github Desktop</h1><h2 id="设置代理"><a href="#设置代理" class="headerlink" title="设置代理"></a>设置代理</h2><ol>
-<li><p>找到文件 <code>C:\users\username\.gitconfig</code> ；</p>
-</li>
-<li><p>在文件最后加上如下代码（change 1080 to your own port #）</p>
-</li>
+    <title>Hawking Memorial article</title>
+    <url>/posts/3dea12d7/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-04-hawking.jpg?raw=true' width='68%'>
+
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cucG5hcy5vcmcvY29udGVudC8xMTUvMjEvNTMwOQ==">Stephen Hawking (1942–2018): Toward a complete understanding of the universe<i class="fa fa-external-link-alt"></i></span> by James Hartle, 2018.</p>
+<span id="more"></span>
+
+<p>2 works by Hawking stand out:</p>
+<ul>
+<li>Beginning of the universe ;</li>
+</ul>
+<p>Quantum cosmology</p>
+<p>The beginning of universe: from <strong>4 space dimension → (decouple) 3 space dimension + 1 time dimension</strong>.</p>
+<ul>
+<li>The end of black holes ;</li>
+</ul>
+<p>Black holes are not black hole when take quantum mechanics into account, black holes will have temperature and radiation, “white hot” named by Hawking.</p>
+<p>Hawking’s ability outstanding:</p>
+<ol>
+<li>Focus on the essentials of problems ;</li>
+<li>Give up some “right” ideas ;</li>
 </ol>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[http]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br><span class="line">[https]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br><span class="line">[git]</span><br><span class="line">    proxy &#x3D; socks5:&#x2F;&#x2F;127.0.0.1:1080</span><br></pre></td></tr></table></figure>
-
-<span id="more"></span>
 ]]></content>
       <categories>
-        <category>Tool</category>
+        <category>Celebrity</category>
       </categories>
       <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Richard Feynman</title>
-    <url>/posts/1305b606/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>A video about Feynman: <span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9QMXd3MUlYUmZUQQ==">Physics is fun to image by Richard Feynman<i class="fa fa-external-link-alt"></i></span></p>
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>人物</category>
-      </categories>
-      <tags>
-        <tag>人物</tag>
-        <tag>科学家</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>James Simons</title>
-    <url>/posts/49d99ecb/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>A TED video about James Simons: <span class="exturl" data-url="aHR0cHM6Ly93d3cudGVkLmNvbS90YWxrcy9qaW1fc2ltb25zX2FfcmFyZV9pbnRlcnZpZXdfd2l0aF90aGVfbWF0aGVtYXRpY2lhbl93aG9fY3JhY2tlZF93YWxsX3N0cmVldA==">The mathematician who cracked Wall Street<i class="fa fa-external-link-alt"></i></span></p>
-<span id="more"></span>
-
-<p>James Simons 被誉为对冲基金之父，使用数学建模算法横扫华尔街。人生前段时间从事破译密码的工作，曾经在Princeton做数学家。后来，因为在对待越战的观点上与上级发生冲突，被炒鱿鱼。数学家的职业生涯中曾经与陈省身一同合作提出Chern-Simons理论，提出之初并没有想到会有哪些重大的应用，但是大概十年后，在物理领域尤其是string theory领域产生了巨大的反响。后来，对数学家的生活感到有些厌倦，同时也是因为自己的经济状况不是很满意，也许是直到30多岁了也没有很多的积蓄，因此组织一批科学家创办了文艺复兴技术公司，长久以来是华尔街最火爆的对冲基金。他们在预测股票走势的过程中分析了大量的数据，可以说是大数据应用的先驱。James也提到，适用于六七十年代的model可能在就是年代就不再适用了，没有一个model是可以长久适用下去的，这也告诉我们世界上哪有什么一劳永逸的事情？如果你觉得生活没压力了，那是因为有别人在帮你承担着生活的压力。James的性格在整个访谈的过程中都非常随和，性格有点痞气，但非常接地气，平易近人。Elon Musk曾经说 take physics seriously, James也认为需要take math seriously. 我很赞同这两位的观点，毕竟世界是靠着这两种东西运转的。我觉得应该 take everything seriously. 从James的身上，还是有很多东西值得学习的。</p>
-]]></content>
-      <categories>
-        <category>人物</category>
-      </categories>
-      <tags>
-        <tag>人物</tag>
-        <tag>Scientist</tag>
-        <tag>Finance</tag>
+        <tag>Physics</tag>
       </tags>
   </entry>
   <entry>
@@ -318,79 +352,20 @@
       </tags>
   </entry>
   <entry>
-    <title>Hawking Memorial article</title>
-    <url>/posts/3dea12d7/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-04-hawking.jpg?raw=true' width='68%'>
-
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cucG5hcy5vcmcvY29udGVudC8xMTUvMjEvNTMwOQ==">Stephen Hawking (1942–2018): Toward a complete understanding of the universe<i class="fa fa-external-link-alt"></i></span> by James Hartle, 2018.</p>
+    <title>James Simons</title>
+    <url>/posts/49d99ecb/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>A TED video about James Simons: <span class="exturl" data-url="aHR0cHM6Ly93d3cudGVkLmNvbS90YWxrcy9qaW1fc2ltb25zX2FfcmFyZV9pbnRlcnZpZXdfd2l0aF90aGVfbWF0aGVtYXRpY2lhbl93aG9fY3JhY2tlZF93YWxsX3N0cmVldA==">The mathematician who cracked Wall Street<i class="fa fa-external-link-alt"></i></span></p>
 <span id="more"></span>
 
-<p>2 works by Hawking stand out:</p>
-<ul>
-<li>Beginning of the universe ;</li>
-</ul>
-<p>Quantum cosmology</p>
-<p>The beginning of universe: from <strong>4 space dimension → (decouple) 3 space dimension + 1 time dimension</strong>.</p>
-<ul>
-<li>The end of black holes ;</li>
-</ul>
-<p>Black holes are not black hole when take quantum mechanics into account, black holes will have temperature and radiation, “white hot” named by Hawking.</p>
-<p>Hawking’s ability outstanding:</p>
-<ol>
-<li>Focus on the essentials of problems ;</li>
-<li>Give up some “right” ideas ;</li>
-</ol>
+<p>James Simons 被誉为对冲基金之父，使用数学建模算法横扫华尔街。人生前段时间从事破译密码的工作，曾经在Princeton做数学家。后来，因为在对待越战的观点上与上级发生冲突，被炒鱿鱼。数学家的职业生涯中曾经与陈省身一同合作提出Chern-Simons理论，提出之初并没有想到会有哪些重大的应用，但是大概十年后，在物理领域尤其是string theory领域产生了巨大的反响。后来，对数学家的生活感到有些厌倦，同时也是因为自己的经济状况不是很满意，也许是直到30多岁了也没有很多的积蓄，因此组织一批科学家创办了文艺复兴技术公司，长久以来是华尔街最火爆的对冲基金。他们在预测股票走势的过程中分析了大量的数据，可以说是大数据应用的先驱。James也提到，适用于六七十年代的model可能在就是年代就不再适用了，没有一个model是可以长久适用下去的，这也告诉我们世界上哪有什么一劳永逸的事情？如果你觉得生活没压力了，那是因为有别人在帮你承担着生活的压力。James的性格在整个访谈的过程中都非常随和，性格有点痞气，但非常接地气，平易近人。Elon Musk曾经说 take physics seriously, James也认为需要take math seriously. 我很赞同这两位的观点，毕竟世界是靠着这两种东西运转的。我觉得应该 take everything seriously. 从James的身上，还是有很多东西值得学习的。</p>
 ]]></content>
       <categories>
-        <category>Celebrity</category>
+        <category>人物</category>
       </categories>
       <tags>
-        <tag>Physics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Getting Things Done</title>
-    <url>/posts/7694439f/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Getting Things Done (GTD) is a time management method, described in the book of the same title by productivity consultant <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS9ndGRndXk=">David Allen<i class="fa fa-external-link-alt"></i></span>.</p>
-<p>原理：大脑善于处理信息，提出想法，但是不善于存储信息，即我们常说的“好记性不如烂笔头”。</p>
-<p>推荐参考资料：</p>
-<ol>
-<li><p><span class="exturl" data-url="aHR0cHM6Ly9oYW1iZXJnLm5vL2d0ZA==">GTD in 15 minutes – A Pragmatic Guide to Getting Things Done<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-<li><p><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9nQ3N3TXNPTmt3WQ==">Getting Things Done (GTD) by David Allen - Animated Book Summary And Review<i class="fa fa-external-link-alt"></i></span> </p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Experience</category>
-      </categories>
-      <tags>
-        <tag>Management</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Origin Manual</title>
-    <url>/posts/19f30c78/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cub3JpZ2lubGFiLmNvbS8=">Origin<i class="fa fa-external-link-alt"></i></span> is a proprietary computer program for interactive scientific graphing and data analysis. </p>
-<p>It is produced by OriginLab Corporation, and runs on Microsoft Windows.</p>
-</blockquote>
-<h1 id="Function-plot"><a href="#Function-plot" class="headerlink" title="Function plot"></a>Function plot</h1><p>已知函数表达式，使用该功能可以直接绘图。</p>
-<p>路径：File –&gt; New –&gt; Function plot</p>
-<span id="more"></span> 
-
-<h1 id="2D-Plot"><a href="#2D-Plot" class="headerlink" title="2D Plot"></a>2D Plot</h1><h2 id="双y轴"><a href="#双y轴" class="headerlink" title="双y轴"></a>双y轴</h2><ol>
-<li>准备好数据，比如一列x，两列y（分别对应左右y轴）</li>
-<li>选择x和第一列y，默认作图，默认y轴在左侧</li>
-<li>在图中任意位置单击右键 –&gt; “New Layer(Axes)” –&gt; “Right-Y”</li>
-<li>确认选中 2 图层，菜单栏选择 “Graph” –&gt; “Layer Contents…” –&gt; 导入数据，确认即可。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Tool</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
+        <tag>人物</tag>
+        <tag>Scientist</tag>
+        <tag>Finance</tag>
       </tags>
   </entry>
   <entry>
@@ -524,21 +499,6 @@
       <tags>
         <tag>Skill</tag>
         <tag>Scientist</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>鸵鸟现象</title>
-    <url>/posts/4a633a16/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>鸵鸟现象，指一种遇到难题就逃避的现象。其名称源自于鸵鸟在遇到危险时，将头埋在沙坑里，以为躲避了危险但实则毫无用处的现象。</p>
-<p>鸵鸟现象在生活中非常普遍，应对该现象的方法有：1. 给自己设定合适的缓冲时间，再着手解决问题；2. 勇敢面对难题，逐步、合理化解难题。</p>
-<span id="more"></span>
-
-<img data-src='https://miro.medium.com/max/16000/1*zSttG88z_KVYsKh8Cy03Gg.png' width='70%'>]]></content>
-      <categories>
-        <category>Psychology</category>
-      </categories>
-      <tags>
-        <tag>Psychology</tag>
       </tags>
   </entry>
   <entry>
@@ -680,22 +640,29 @@
       </tags>
   </entry>
   <entry>
-    <title>破窑赋</title>
-    <url>/posts/ba1514/</url>
+    <title>Origin Manual</title>
+    <url>/posts/19f30c78/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>介绍：《破窑赋》，又名《劝世章》，是近代人们假托北宋大臣吕蒙正的作品，吕蒙正曾任当时太子（即位后为宋真宗）的太子太傅，这篇文章假托吕蒙正为了劝诫太子而创作的。作者以吕蒙正的语气自述从贫苦到富贵的经历，并列举了历史上诸多名人的起伏命运，来说明一种自然循环的人生思想。此文题材不是赋，文辞对仗近乎于元曲里面的俚语，与明清章回体小说的标题也很相似，与精通易理之人的命理对答词很相似，与明清时期成书的《增广贤文》里面的内容、形式都很接近，经后人考据《宋史》亦无相关记载。 吕蒙正（944-1011），字圣功，河南洛阳（今属河南省）人。生于后晋出帝开运三年，卒于宋真宗大中祥符四年。宋太宗太平兴国二年（977年）丁丑科状元。</p>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cub3JpZ2lubGFiLmNvbS8=">Origin<i class="fa fa-external-link-alt"></i></span> is a proprietary computer program for interactive scientific graphing and data analysis. </p>
+<p>It is produced by OriginLab Corporation, and runs on Microsoft Windows.</p>
 </blockquote>
-<span id="more"></span>
+<h1 id="Function-plot"><a href="#Function-plot" class="headerlink" title="Function plot"></a>Function plot</h1><p>已知函数表达式，使用该功能可以直接绘图。</p>
+<p>路径：File –&gt; New –&gt; Function plot</p>
+<span id="more"></span> 
 
-<p>正文： 天有不测风云，人有旦夕祸福。蜈蚣百足，行不及蛇；雄鸡两翼，飞不过鸦，马有千里之程，无骑不能自往；人有冲天之志，非运不能自通。盖闻：人生在世，富贵不能淫，贫贱不能移。文章盖世，孔子困厄于陈邦；武略超群，太公钓于渭水。颜渊命短，殊非凶恶之徒；盗跖年长，岂是善良之辈。尧帝明圣，却生不肖之儿；瞽叟愚顽，反生大孝之子。张良原是布衣，萧何称谓县吏。晏子身无五尺，封为齐国宰相；孔明居卧草庐，能作蜀汉军师。楚王虽雄，难免乌江自刎；汉王虽弱，竟有万里江山。李广有射虎之威，到老无封；冯唐有乘龙之才，一生不遇。韩信未遇之时，无一日三餐，及至运行，腰悬三尺玉印，一旦时衰，死于阴人之手。</p>
-<p>有先贫而后富，有老壮而少衰。满腹文章，白发竟然不中；才疏学浅，少年及第登科。深院宫娥，运退反为妓妾；风流妓女，时来配作夫人。青春美女，却招愚蠢之夫；俊秀郎君，反配粗丑之妇。蛟龙未遇，潜水于鱼鳖之间；君子失时，拱手于小人之下。衣服虽破，常存仪礼之容；面带懮愁，每抱怀安之量。时遭不遇，只宜安贫守份；心若不欺，必然扬眉吐气。初贫君子，天然骨骼生成；乍富小人，不脱贫寒肌体。</p>
-<p>天不得时，日月无光；地不得时，草木不生；水不得时，风浪不平；人不得时，利运不通。注福注禄，命里已安排定，富贵谁不欲？人若不依根基八字，岂能为卿为相？</p>
-<p>吾昔寓居洛阳，朝求僧餐，暮宿破窑，思衣不可遮其体，思食不可济其饥，上人憎，下人厌，人道我贱，非我不弃也。今居朝堂，官至极品，位置三公，身虽鞠躬于一人之下，而列职于千万人之上，有挞百僚之杖，有斩鄙吝之剑，思衣而有罗锦千箱，思食而有珍馐百味，出则壮士执鞭，入则佳人捧觞，上人宠，下人拥。人道我贵，非我之能也，此乃时也！运也！命也！</p>
-<p>嗟呼！人生在世，富贵不可尽用，贫贱不可自欺，听由天地循环，周而复始焉。</p>
+<h1 id="2D-Plot"><a href="#2D-Plot" class="headerlink" title="2D Plot"></a>2D Plot</h1><h2 id="双y轴"><a href="#双y轴" class="headerlink" title="双y轴"></a>双y轴</h2><ol>
+<li>准备好数据，比如一列x，两列y（分别对应左右y轴）</li>
+<li>选择x和第一列y，默认作图，默认y轴在左侧</li>
+<li>在图中任意位置单击右键 –&gt; “New Layer(Axes)” –&gt; “Right-Y”</li>
+<li>确认选中 2 图层，菜单栏选择 “Graph” –&gt; “Layer Contents…” –&gt; 导入数据，确认即可。</li>
+</ol>
 ]]></content>
       <categories>
-        <category>Article</category>
+        <category>Tool</category>
       </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
   </entry>
   <entry>
     <title>Principles</title>
@@ -721,6 +688,39 @@
       </tags>
   </entry>
   <entry>
+    <title>鸵鸟现象</title>
+    <url>/posts/4a633a16/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>鸵鸟现象，指一种遇到难题就逃避的现象。其名称源自于鸵鸟在遇到危险时，将头埋在沙坑里，以为躲避了危险但实则毫无用处的现象。</p>
+<p>鸵鸟现象在生活中非常普遍，应对该现象的方法有：1. 给自己设定合适的缓冲时间，再着手解决问题；2. 勇敢面对难题，逐步、合理化解难题。</p>
+<span id="more"></span>
+
+<img data-src='https://miro.medium.com/max/16000/1*zSttG88z_KVYsKh8Cy03Gg.png' width='70%'>]]></content>
+      <categories>
+        <category>Psychology</category>
+      </categories>
+      <tags>
+        <tag>Psychology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>破窑赋</title>
+    <url>/posts/ba1514/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>介绍：《破窑赋》，又名《劝世章》，是近代人们假托北宋大臣吕蒙正的作品，吕蒙正曾任当时太子（即位后为宋真宗）的太子太傅，这篇文章假托吕蒙正为了劝诫太子而创作的。作者以吕蒙正的语气自述从贫苦到富贵的经历，并列举了历史上诸多名人的起伏命运，来说明一种自然循环的人生思想。此文题材不是赋，文辞对仗近乎于元曲里面的俚语，与明清章回体小说的标题也很相似，与精通易理之人的命理对答词很相似，与明清时期成书的《增广贤文》里面的内容、形式都很接近，经后人考据《宋史》亦无相关记载。 吕蒙正（944-1011），字圣功，河南洛阳（今属河南省）人。生于后晋出帝开运三年，卒于宋真宗大中祥符四年。宋太宗太平兴国二年（977年）丁丑科状元。</p>
+</blockquote>
+<span id="more"></span>
+
+<p>正文： 天有不测风云，人有旦夕祸福。蜈蚣百足，行不及蛇；雄鸡两翼，飞不过鸦，马有千里之程，无骑不能自往；人有冲天之志，非运不能自通。盖闻：人生在世，富贵不能淫，贫贱不能移。文章盖世，孔子困厄于陈邦；武略超群，太公钓于渭水。颜渊命短，殊非凶恶之徒；盗跖年长，岂是善良之辈。尧帝明圣，却生不肖之儿；瞽叟愚顽，反生大孝之子。张良原是布衣，萧何称谓县吏。晏子身无五尺，封为齐国宰相；孔明居卧草庐，能作蜀汉军师。楚王虽雄，难免乌江自刎；汉王虽弱，竟有万里江山。李广有射虎之威，到老无封；冯唐有乘龙之才，一生不遇。韩信未遇之时，无一日三餐，及至运行，腰悬三尺玉印，一旦时衰，死于阴人之手。</p>
+<p>有先贫而后富，有老壮而少衰。满腹文章，白发竟然不中；才疏学浅，少年及第登科。深院宫娥，运退反为妓妾；风流妓女，时来配作夫人。青春美女，却招愚蠢之夫；俊秀郎君，反配粗丑之妇。蛟龙未遇，潜水于鱼鳖之间；君子失时，拱手于小人之下。衣服虽破，常存仪礼之容；面带懮愁，每抱怀安之量。时遭不遇，只宜安贫守份；心若不欺，必然扬眉吐气。初贫君子，天然骨骼生成；乍富小人，不脱贫寒肌体。</p>
+<p>天不得时，日月无光；地不得时，草木不生；水不得时，风浪不平；人不得时，利运不通。注福注禄，命里已安排定，富贵谁不欲？人若不依根基八字，岂能为卿为相？</p>
+<p>吾昔寓居洛阳，朝求僧餐，暮宿破窑，思衣不可遮其体，思食不可济其饥，上人憎，下人厌，人道我贱，非我不弃也。今居朝堂，官至极品，位置三公，身虽鞠躬于一人之下，而列职于千万人之上，有挞百僚之杖，有斩鄙吝之剑，思衣而有罗锦千箱，思食而有珍馐百味，出则壮士执鞭，入则佳人捧觞，上人宠，下人拥。人道我贵，非我之能也，此乃时也！运也！命也！</p>
+<p>嗟呼！人生在世，富贵不可尽用，贫贱不可自欺，听由天地循环，周而复始焉。</p>
+]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
+  </entry>
+  <entry>
     <title>拖延症</title>
     <url>/posts/b9417af0/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://miro.medium.com/max/4000/1*6borbZIo4NturcHmbix3rA.png' width='68%'>
@@ -737,39 +737,6 @@
       </categories>
       <tags>
         <tag>Psychology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Randy Pausch</title>
-    <url>/posts/27ff1deb/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Tips-for-Working-Successfully-in-a-Group"><a href="#Tips-for-Working-Successfully-in-a-Group" class="headerlink" title="Tips for Working Successfully in a Group"></a>Tips for Working Successfully in a Group</h1><p>By Randy Pausch, for the <em>Building Virtual Worlds</em> course at Carnegie Mellon, Spring 1998</p>
-<p><strong>Meet people properly</strong>.  It all starts with the introduction.  Then, exchange contact information, and make sure you know how to pronounce everyone’s names.  Exchange phones, and find out what hours are acceptable to call during.</p>
-<span id="more"></span>
-
-<p><strong>Find things you have in common</strong>.   You can almost always find something in common with another person, and starting from that baseline, it’s much easier to then address issues where you have differences.  This is why cities like professional sports teams, which are socially galvanizing forces that cut across boundaries of race and wealth.  If nothing else, you probably have in common things like the weather.</p>
-<p><strong>Make meeting conditions good</strong>.  Have a large surface to write on, make sure the room is quiet and warm enough, and that there aren’t lots of distractions.  Make sure no one is hungry, cold, or tired.  Meet over a meal if you can; food <em>softens</em> a meeting.  That’s why they “do lunch” in Hollywood.</p>
-<p><strong>Let everyone talk</strong>.  Even if you think what they’re saying is stupid.  Cutting someone off is rude, and not worth whatever small time gain you might make.  Don’t finish someone’s sentences for him or her; they can do it for themselves.  And remember: talking louder or faster doesn’t make your idea any better.</p>
-<p><strong>Check your egos at the door</strong>.  When you discuss ideas, immediately label them and write them down.  The labels should be descriptive of the idea, not the originator: “the troll bridge story,” not “Jane’s story.”</p>
-<p><strong>Praise each other</strong>.  Find something nice to say, even if it’s a stretch.  Even the worst of ideas has a silver lining inside it, if you just look hard enough.  Focus on the good, praise it, and then raise any objections or concerns you have about the rest of it.   </p>
-<p><strong>Put it in writing</strong>.  Always write down who is responsible for what, by when.  Be <em>concrete</em>.  Arrange meetings by email, and establish accountability.  Never assume that someone’s roommate will deliver a phone message. Also, remember that “politics is when you have more than 2 people” – with that in mind, always CC (carbon copy) any piece of email within the group, or to me, to <strong>all members</strong> of the group.  This rule should <em>never</em> be violated; don’t try to guess what your group mates might or might not want to hear about.</p>
-<p><strong>Be open and honest</strong>.  Talk with your group members if there’s a problem, and talk with me if you think you need help.  The whole point of this course is that it’s tough to work across cultures.  If we all go into it knowing that’s an issue, we should be comfortable discussing problems when they arise – after all, that’s what this course is really about. Be forgiving when people make mistakes, but don’t be afraid to raise the issues when they come up,</p>
-<p><strong>Avoid conflict at all costs</strong>. When stress occurs and tempers flare, take a short break. Clear your heads, apologize, and take another stab at it.  Apologize for upsetting your peers, even if you think someone else was primarily at fault; the goal is to work together, not start a legal battle over whose transgressions were worse. It takes two to have an argument, so be the peacemaker.</p>
-<p><strong>Phrase alternatives as questions</strong>.  Instead of “I think we should do A, not B,” try “What if we did A, instead of B?”  That allows people to offer comments, rather than defend one choice.</p>
-<h1 id="Talks"><a href="#Talks" class="headerlink" title="Talks"></a>Talks</h1><ol>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9SY1l2NXg2Z1pUQQ==">Randy Pausch Inspires Graduates, 2008<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9qLWE3TFJ3cXdOdw==">Randy Pausch ABC Special about the “Last Lecture”, 2008<i class="fa fa-external-link-alt"></i></span></li>
-</ol>
-<h1 id="News"><a href="#News" class="headerlink" title="News"></a>News</h1><ol>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuY211LmVkdS9yYW5keXNsZWN0dXJlL3N0b3J5Lw==">Randy’s Story, CMU<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cDovL3d3dy5jcy5jbXUuZWR1L35wYXVzY2gv">Randy Pausch’s Web Site<i class="fa fa-external-link-alt"></i></span></li>
-</ol>
-]]></content>
-      <categories>
-        <category>人物</category>
-      </categories>
-      <tags>
-        <tag>人物</tag>
-        <tag>励志</tag>
       </tags>
   </entry>
   <entry>
@@ -808,42 +775,23 @@
       </tags>
   </entry>
   <entry>
-    <title>痛苦+反思=进步</title>
-    <url>/posts/751ee5dc/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>强烈推荐 Ray Dalio 的书《原则》，下文摘自本书中。</p>
-</blockquote>
-<p>人避免不了痛苦，尤其是在追求雄心勃勃的目标时。不管你相信与否，如果以正确的态度对待痛苦，感到痛苦就是你的幸运，因为这是一个信号——你需要寻找解决方案以便继续前进。如果你能形成一种条件反射，面对精神痛苦时能够自动地反思痛苦，而不是躲避痛苦，你就能够快速地学习和进化。直面那些由问题、错误和弱点导致的痛苦现实，会大幅提高你的效率，我相信，只要你看到了这种做法的好处，就不会再想以其它方式行事了。你只需要养成这样做的习惯。</p>
+    <title>《送东阳马生序》| 宋濂</title>
+    <url>/posts/24612dba/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='http://qqpublic.qpic.cn/qq_public/0/0-2525091099-3BA0C2E3EA6ABDAD7606A32E81295994/0?fmt=jpg&size=87&h=933&w=884&ppv=1/0' width='50%'>
+
 <span id="more"></span>
 
 
-<p>大多数人在痛苦时不愿反思，而一旦痛苦消失，他们的注意力就会转移，所以他们难以通过反思得到教益。如果你在痛苦时就能好好反思（这个要求也许太高），这非常好。如果你能够记得在痛苦消失后进行反思，这也很有价值。</p>
-<p>你面临的挑战将会考验你，强化你。如果你没有经历过失败，就说明你没有努力突破极限，而如果你不努力突破极限，你就不能最大限度地挖掘自己的潜能。努力突破极限有时失败有时成功，但总能带来益处。虽然这种做法不一定适合所有人，但假如适合你，那将会是一种美妙的体验，令人沉迷。生活不可避免地会带给你这样的考验，而你愿不愿意不断去尝试，取决于你自己。</p>
-<p>如果你选择在这条常常很痛苦的个人进化之路上拼搏，你将自然而然地不断“更上一层楼”。当你越过包围你的事物，到达了更高一层的境界，你就会发现，其实那些事物并没有你近看时所以为的那么重要。生活中的大多数东西都不过是“同类情况的重演”。你的层次越高，就能更加有效地应对现实，塑造符合你目标的结果。而曾经看起来无比复杂的东西，也会变得简单。</p>
-<img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2020-10-30-progress.png?raw=true' width="50%">
 
-<img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-16-mistakes.png?raw=true' width="50%">
-
-<hr>
-<p>不管你的特性是什么，总是有很多条道路适合你，所以不要固守一条道路。如果某条特定的路走不通，你只需要找到另一条适合自己特性的路。</p>
-<p>但大多数人缺乏勇气去直面自身弱点，也缺乏勇气做出这一改变所需的艰难的抉择。归根到底，这可以总结为以下5项抉择：</p>
-<ol>
-<li>不要混淆你的愿望和事实。</li>
-<li>不要为自身形象担心，只需关心能不能实现你的目标。 </li>
-<li>不要过于重视直接结果而忽视后续、再后续的结果。 </li>
-<li>不要让痛苦妨碍进步。 </li>
-<li>不要把不好的结果归咎于任何人，从自己身上找原因。</li>
-</ol>
-<img data-src='https://mmbiz.qpic.cn/mmbiz_png/QWVkSicmpIpniaichFFtOcSsANO0YBpNZn4SItmWLVnaoZslAJzM4AXHHe3S9v1pqoObQoGHgfkzugVXCI1icJ6eiag/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1' width="50%">
-
-<img data-src='https://mmbiz.qpic.cn/mmbiz_png/QWVkSicmpIpmjmlJYBBDrPYgISkic3yP410vquzD1okLB16U0UKys3YJ1th9icOUst4fMrMPRthAUib7td79IIskQw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1' width="50%">
+<p>余幼时即嗜学。家贫，无从致书以观，每假借于藏书之家，手自笔录，计日以还。<strong>天大寒，砚冰坚，手指不可屈伸，弗之怠</strong>。录毕，走送之，不敢稍逾约。以是人多以书假余，余因得遍观群书。</p>
+<p>既加冠，益慕圣贤之道，又患无硕师、名人与游，尝趋百里外，从乡之先达执经叩问。先达德隆望尊，门人弟子填其室，未尝稍降辞色。余立侍左右，援疑质理，俯身倾耳以请；或遇其叱咄，色愈恭，礼愈至，不敢出一言以复；俟其欣悦，则又请焉。故余虽愚，卒获有所闻。</p>
+<p>当余之从师也，尝负笈曳屣，行深山巨谷中。穷冬烈风，大雪深数尺，足肤皲裂而不知。至舍，四肢僵劲不能动，媵人持汤沃灌，以衾拥覆，久而乃和。寓逆旅，主人日再食，无鲜肥滋味之享。同舍生皆被绮绣，戴珠缨宝饰之帽，腰白玉之环，左佩刀，右备容臭，煜然若神人。<strong>余则缊袍敝衣处其间，略无慕艳意。以中有足乐者，不知口体之奉不若人也</strong>。盖余之勤且艰若此。今虽耄老，未有所成，犹幸预君子之列，而承天子之宠光，缀公卿之后，日侍坐备顾问，四海亦谬称其氏名，况才之过于余者乎？</p>
+<p>今诸生学于太学，县官日有廪稍之供，父母岁有裘葛之遗，无冻馁之患矣；坐大厦之下而诵《诗》《书》，无奔走之劳矣；有司业、博士为之师，未有问而不告、求而不得者也；凡所宜有之书，皆集于此，不必若余之手录、假诸人而后见也。其业有不精、德有不成者，非天质之卑，则心不若余之专耳，岂他人之过哉！</p>
+<p>东阳马生君则，在太学已二年，流辈甚称其贤。余朝京师，生以乡人子谒余，撰长书以为贽，辞甚畅达；与之论辩，言和而色夷。自谓少时用心于学甚劳，是可谓善学者矣。其将归见其亲也，余故道为学之难以告之。谓余勉乡人以学者，余之志也；诋我夸际遇之盛而骄乡人者，岂知予者哉！</p>
 ]]></content>
       <categories>
-        <category>Principle</category>
+        <category>Celebrity</category>
       </categories>
-      <tags>
-        <tag>Principle</tag>
-      </tags>
   </entry>
   <entry>
     <title>The illustrated guide to a Ph.D.</title>
@@ -899,56 +847,37 @@
       </tags>
   </entry>
   <entry>
-    <title>Uncertainty</title>
-    <url>/posts/795e1c16/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security.    </p>
-</blockquote>
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cubWF0aC50ZW1wbGUuZWR1L35wYXVsb3MvaW5kZXguaHRtbA==">John Allen Paulos<i class="fa fa-external-link-alt"></i></span> </p>
+    <title>Randy Pausch</title>
+    <url>/posts/27ff1deb/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Tips-for-Working-Successfully-in-a-Group"><a href="#Tips-for-Working-Successfully-in-a-Group" class="headerlink" title="Tips for Working Successfully in a Group"></a>Tips for Working Successfully in a Group</h1><p>By Randy Pausch, for the <em>Building Virtual Worlds</em> course at Carnegie Mellon, Spring 1998</p>
+<p><strong>Meet people properly</strong>.  It all starts with the introduction.  Then, exchange contact information, and make sure you know how to pronounce everyone’s names.  Exchange phones, and find out what hours are acceptable to call during.</p>
+<span id="more"></span>
+
+<p><strong>Find things you have in common</strong>.   You can almost always find something in common with another person, and starting from that baseline, it’s much easier to then address issues where you have differences.  This is why cities like professional sports teams, which are socially galvanizing forces that cut across boundaries of race and wealth.  If nothing else, you probably have in common things like the weather.</p>
+<p><strong>Make meeting conditions good</strong>.  Have a large surface to write on, make sure the room is quiet and warm enough, and that there aren’t lots of distractions.  Make sure no one is hungry, cold, or tired.  Meet over a meal if you can; food <em>softens</em> a meeting.  That’s why they “do lunch” in Hollywood.</p>
+<p><strong>Let everyone talk</strong>.  Even if you think what they’re saying is stupid.  Cutting someone off is rude, and not worth whatever small time gain you might make.  Don’t finish someone’s sentences for him or her; they can do it for themselves.  And remember: talking louder or faster doesn’t make your idea any better.</p>
+<p><strong>Check your egos at the door</strong>.  When you discuss ideas, immediately label them and write them down.  The labels should be descriptive of the idea, not the originator: “the troll bridge story,” not “Jane’s story.”</p>
+<p><strong>Praise each other</strong>.  Find something nice to say, even if it’s a stretch.  Even the worst of ideas has a silver lining inside it, if you just look hard enough.  Focus on the good, praise it, and then raise any objections or concerns you have about the rest of it.   </p>
+<p><strong>Put it in writing</strong>.  Always write down who is responsible for what, by when.  Be <em>concrete</em>.  Arrange meetings by email, and establish accountability.  Never assume that someone’s roommate will deliver a phone message. Also, remember that “politics is when you have more than 2 people” – with that in mind, always CC (carbon copy) any piece of email within the group, or to me, to <strong>all members</strong> of the group.  This rule should <em>never</em> be violated; don’t try to guess what your group mates might or might not want to hear about.</p>
+<p><strong>Be open and honest</strong>.  Talk with your group members if there’s a problem, and talk with me if you think you need help.  The whole point of this course is that it’s tough to work across cultures.  If we all go into it knowing that’s an issue, we should be comfortable discussing problems when they arise – after all, that’s what this course is really about. Be forgiving when people make mistakes, but don’t be afraid to raise the issues when they come up,</p>
+<p><strong>Avoid conflict at all costs</strong>. When stress occurs and tempers flare, take a short break. Clear your heads, apologize, and take another stab at it.  Apologize for upsetting your peers, even if you think someone else was primarily at fault; the goal is to work together, not start a legal battle over whose transgressions were worse. It takes two to have an argument, so be the peacemaker.</p>
+<p><strong>Phrase alternatives as questions</strong>.  Instead of “I think we should do A, not B,” try “What if we did A, instead of B?”  That allows people to offer comments, rather than defend one choice.</p>
+<h1 id="Talks"><a href="#Talks" class="headerlink" title="Talks"></a>Talks</h1><ol>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9SY1l2NXg2Z1pUQQ==">Randy Pausch Inspires Graduates, 2008<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9qLWE3TFJ3cXdOdw==">Randy Pausch ABC Special about the “Last Lecture”, 2008<i class="fa fa-external-link-alt"></i></span></li>
+</ol>
+<h1 id="News"><a href="#News" class="headerlink" title="News"></a>News</h1><ol>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuY211LmVkdS9yYW5keXNsZWN0dXJlL3N0b3J5Lw==">Randy’s Story, CMU<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cDovL3d3dy5jcy5jbXUuZWR1L35wYXVzY2gv">Randy Pausch’s Web Site<i class="fa fa-external-link-alt"></i></span></li>
+</ol>
 ]]></content>
       <categories>
-        <category>Experience</category>
+        <category>人物</category>
       </categories>
       <tags>
-        <tag>Principle</tag>
+        <tag>人物</tag>
+        <tag>励志</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>《送东阳马生序》| 宋濂</title>
-    <url>/posts/24612dba/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='http://qqpublic.qpic.cn/qq_public/0/0-2525091099-3BA0C2E3EA6ABDAD7606A32E81295994/0?fmt=jpg&size=87&h=933&w=884&ppv=1/0' width='50%'>
-
-<span id="more"></span>
-
-
-
-<p>余幼时即嗜学。家贫，无从致书以观，每假借于藏书之家，手自笔录，计日以还。<strong>天大寒，砚冰坚，手指不可屈伸，弗之怠</strong>。录毕，走送之，不敢稍逾约。以是人多以书假余，余因得遍观群书。</p>
-<p>既加冠，益慕圣贤之道，又患无硕师、名人与游，尝趋百里外，从乡之先达执经叩问。先达德隆望尊，门人弟子填其室，未尝稍降辞色。余立侍左右，援疑质理，俯身倾耳以请；或遇其叱咄，色愈恭，礼愈至，不敢出一言以复；俟其欣悦，则又请焉。故余虽愚，卒获有所闻。</p>
-<p>当余之从师也，尝负笈曳屣，行深山巨谷中。穷冬烈风，大雪深数尺，足肤皲裂而不知。至舍，四肢僵劲不能动，媵人持汤沃灌，以衾拥覆，久而乃和。寓逆旅，主人日再食，无鲜肥滋味之享。同舍生皆被绮绣，戴珠缨宝饰之帽，腰白玉之环，左佩刀，右备容臭，煜然若神人。<strong>余则缊袍敝衣处其间，略无慕艳意。以中有足乐者，不知口体之奉不若人也</strong>。盖余之勤且艰若此。今虽耄老，未有所成，犹幸预君子之列，而承天子之宠光，缀公卿之后，日侍坐备顾问，四海亦谬称其氏名，况才之过于余者乎？</p>
-<p>今诸生学于太学，县官日有廪稍之供，父母岁有裘葛之遗，无冻馁之患矣；坐大厦之下而诵《诗》《书》，无奔走之劳矣；有司业、博士为之师，未有问而不告、求而不得者也；凡所宜有之书，皆集于此，不必若余之手录、假诸人而后见也。其业有不精、德有不成者，非天质之卑，则心不若余之专耳，岂他人之过哉！</p>
-<p>东阳马生君则，在太学已二年，流辈甚称其贤。余朝京师，生以乡人子谒余，撰长书以为贽，辞甚畅达；与之论辩，言和而色夷。自谓少时用心于学甚劳，是可谓善学者矣。其将归见其亲也，余故道为学之难以告之。谓余勉乡人以学者，余之志也；诋我夸际遇之盛而骄乡人者，岂知予者哉！</p>
-]]></content>
-      <categories>
-        <category>Celebrity</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Youth</title>
-    <url>/posts/ca6442d1/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>原文链接：<span class="exturl" data-url="aHR0cHM6Ly93d3cudWFiLmVkdS91bGxtYW5tdXNldW0v">https://www.uab.edu/ullmanmuseum/<i class="fa fa-external-link-alt"></i></span> Author: Samuel Ullman</p>
-</blockquote>
-<p>Youth is not a time of life; it is a state of mind; it is not a matter of rosy cheeks, red lips and supple knees; it is a matter of the will, a quality of the imagination, a vigor of the emotions; it is the freshness of the deep springs of life.</p>
-<span id="more"></span>
-
-<p>Youth means a temperamental predominance of courage over timidity, of the appetite for adventure over the love of ease. This often exists in a man of 60 more than a boy of 20. Nobody grows old merely by a number of years. We grow old by deserting our ideals.</p>
-<p>Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul. Worry, fear, self-distrust bows the heart and turns the spirit back to dust.</p>
-<p>Whether 60 or 16, there is in every human being’s heart the lure of wonder, the unfailing child-like appetite of what’s next and the joy of the game of living. In the center of your heart and my heart there is a wireless station: so long as it receives messages of beauty, hope, cheer, courage and power from men and from the Infinite, so long are you young.</p>
-<p>When the aerials are down, and your spirit is covered with snows of cynicism and the ice of pessimism, then you are grown old, even at 20, but as long as your aerials are up, to catch waves of optimism, there is hope you may die young at 80.</p>
-]]></content>
-      <categories>
-        <category>Article</category>
-      </categories>
   </entry>
   <entry>
     <title>Tools</title>
@@ -1129,12 +1058,57 @@
       </tags>
   </entry>
   <entry>
-    <title>About Edward</title>
-    <url>/posts/b8066abd/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>世界上只有一种真正的英雄主义，就是认清了生活的真相后，依然热爱生活。</p>
-<center><a href="https://lichuang.me/about/">Click here</a></center>
+    <title>痛苦+反思=进步</title>
+    <url>/posts/751ee5dc/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>强烈推荐 Ray Dalio 的书《原则》，下文摘自本书中。</p>
+</blockquote>
+<p>人避免不了痛苦，尤其是在追求雄心勃勃的目标时。不管你相信与否，如果以正确的态度对待痛苦，感到痛苦就是你的幸运，因为这是一个信号——你需要寻找解决方案以便继续前进。如果你能形成一种条件反射，面对精神痛苦时能够自动地反思痛苦，而不是躲避痛苦，你就能够快速地学习和进化。直面那些由问题、错误和弱点导致的痛苦现实，会大幅提高你的效率，我相信，只要你看到了这种做法的好处，就不会再想以其它方式行事了。你只需要养成这样做的习惯。</p>
+<span id="more"></span>
 
+
+<p>大多数人在痛苦时不愿反思，而一旦痛苦消失，他们的注意力就会转移，所以他们难以通过反思得到教益。如果你在痛苦时就能好好反思（这个要求也许太高），这非常好。如果你能够记得在痛苦消失后进行反思，这也很有价值。</p>
+<p>你面临的挑战将会考验你，强化你。如果你没有经历过失败，就说明你没有努力突破极限，而如果你不努力突破极限，你就不能最大限度地挖掘自己的潜能。努力突破极限有时失败有时成功，但总能带来益处。虽然这种做法不一定适合所有人，但假如适合你，那将会是一种美妙的体验，令人沉迷。生活不可避免地会带给你这样的考验，而你愿不愿意不断去尝试，取决于你自己。</p>
+<p>如果你选择在这条常常很痛苦的个人进化之路上拼搏，你将自然而然地不断“更上一层楼”。当你越过包围你的事物，到达了更高一层的境界，你就会发现，其实那些事物并没有你近看时所以为的那么重要。生活中的大多数东西都不过是“同类情况的重演”。你的层次越高，就能更加有效地应对现实，塑造符合你目标的结果。而曾经看起来无比复杂的东西，也会变得简单。</p>
+<img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2020-10-30-progress.png?raw=true' width="50%">
+
+<img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-16-mistakes.png?raw=true' width="50%">
+
+<hr>
+<p>不管你的特性是什么，总是有很多条道路适合你，所以不要固守一条道路。如果某条特定的路走不通，你只需要找到另一条适合自己特性的路。</p>
+<p>但大多数人缺乏勇气去直面自身弱点，也缺乏勇气做出这一改变所需的艰难的抉择。归根到底，这可以总结为以下5项抉择：</p>
+<ol>
+<li>不要混淆你的愿望和事实。</li>
+<li>不要为自身形象担心，只需关心能不能实现你的目标。 </li>
+<li>不要过于重视直接结果而忽视后续、再后续的结果。 </li>
+<li>不要让痛苦妨碍进步。 </li>
+<li>不要把不好的结果归咎于任何人，从自己身上找原因。</li>
+</ol>
+<img data-src='https://mmbiz.qpic.cn/mmbiz_png/QWVkSicmpIpniaichFFtOcSsANO0YBpNZn4SItmWLVnaoZslAJzM4AXHHe3S9v1pqoObQoGHgfkzugVXCI1icJ6eiag/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1' width="50%">
+
+<img data-src='https://mmbiz.qpic.cn/mmbiz_png/QWVkSicmpIpmjmlJYBBDrPYgISkic3yP410vquzD1okLB16U0UKys3YJ1th9icOUst4fMrMPRthAUib7td79IIskQw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1' width="50%">
 ]]></content>
+      <categories>
+        <category>Principle</category>
+      </categories>
+      <tags>
+        <tag>Principle</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Uncertainty</title>
+    <url>/posts/795e1c16/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security.    </p>
+</blockquote>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cubWF0aC50ZW1wbGUuZWR1L35wYXVsb3MvaW5kZXguaHRtbA==">John Allen Paulos<i class="fa fa-external-link-alt"></i></span> </p>
+]]></content>
+      <categories>
+        <category>Experience</category>
+      </categories>
+      <tags>
+        <tag>Principle</tag>
+      </tags>
   </entry>
   <entry>
     <title>职场经验分享</title>
@@ -1159,6 +1133,32 @@
       </tags>
   </entry>
   <entry>
+    <title>Youth</title>
+    <url>/posts/ca6442d1/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>原文链接：<span class="exturl" data-url="aHR0cHM6Ly93d3cudWFiLmVkdS91bGxtYW5tdXNldW0v">https://www.uab.edu/ullmanmuseum/<i class="fa fa-external-link-alt"></i></span> Author: Samuel Ullman</p>
+</blockquote>
+<p>Youth is not a time of life; it is a state of mind; it is not a matter of rosy cheeks, red lips and supple knees; it is a matter of the will, a quality of the imagination, a vigor of the emotions; it is the freshness of the deep springs of life.</p>
+<span id="more"></span>
+
+<p>Youth means a temperamental predominance of courage over timidity, of the appetite for adventure over the love of ease. This often exists in a man of 60 more than a boy of 20. Nobody grows old merely by a number of years. We grow old by deserting our ideals.</p>
+<p>Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul. Worry, fear, self-distrust bows the heart and turns the spirit back to dust.</p>
+<p>Whether 60 or 16, there is in every human being’s heart the lure of wonder, the unfailing child-like appetite of what’s next and the joy of the game of living. In the center of your heart and my heart there is a wireless station: so long as it receives messages of beauty, hope, cheer, courage and power from men and from the Infinite, so long are you young.</p>
+<p>When the aerials are down, and your spirit is covered with snows of cynicism and the ice of pessimism, then you are grown old, even at 20, but as long as your aerials are up, to catch waves of optimism, there is hope you may die young at 80.</p>
+]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>About Edward</title>
+    <url>/posts/b8066abd/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>世界上只有一种真正的英雄主义，就是认清了生活的真相后，依然热爱生活。</p>
+<center><a href="https://lichuang.me/about/">Click here</a></center>
+
+]]></content>
+  </entry>
+  <entry>
     <title>Academic Jokes</title>
     <url>/posts/e178610c/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><ul>
@@ -1181,57 +1181,6 @@
         <tag>Scientist</tag>
         <tag>Joke</tag>
         <tag>History</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Japanese art of Kintsugi</title>
-    <url>/posts/bb49c41d/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Kintsugi is the Japanese art of putting broken pottery pieces back together with gold — built on the idea that in embracing flaws and imperfections, you can create an even stronger, more beautiful piece of art. </p>
-]]></content>
-      <categories>
-        <category>Principle</category>
-      </categories>
-      <tags>
-        <tag>Principle</tag>
-        <tag>Career</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Adobe Software</title>
-    <url>/posts/cf829b6f/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Adobe-Illustrator"><a href="#Adobe-Illustrator" class="headerlink" title="Adobe Illustrator"></a>Adobe Illustrator</h1><h2 id="编辑数学公式和希腊字母"><a href="#编辑数学公式和希腊字母" class="headerlink" title="编辑数学公式和希腊字母"></a>编辑数学公式和希腊字母</h2><h3 id="方法一：导入-svg-格式的公式图片"><a href="#方法一：导入-svg-格式的公式图片" class="headerlink" title="方法一：导入 svg 格式的公式图片"></a>方法一：导入 svg 格式的公式图片</h3><p>生成数学公式或希腊字母的图片格式（最好是 <code>png</code> 格式）→将图片导入到软件中→使用图像描摹功能（对象→图像描摹→建立并扩展）将图片矢量化→取消矢量图像编组，删除白色背景→重新编组，移动到合适位置。</p>
-<p>直接导入svg格式会出现字母异常，因此导入png然后矢量化处理是更好的方式，可以使用<span class="exturl" data-url="aHR0cHM6Ly9sYXRleGxpdmUuY29tLw==">LaTeX公式编辑器<i class="fa fa-external-link-alt"></i></span>在线生成png格式的公式或希腊字母。</p>
-<p>参考：<span class="exturl" data-url="aHR0cHM6Ly90ZXguc3RhY2tleGNoYW5nZS5jb20vcXVlc3Rpb25zLzkwMDE3L2hvdy1kby1pLWdldC1tYXRoZW1hdGljYWwtZm9udHMtdG8taWxsdXN0cmF0b3I=">How do I get mathematical fonts to Illustrator?<i class="fa fa-external-link-alt"></i></span></p>
-<p>Steps in detail (<em>When I was writing my dissertation on string theory I encountered the same issue. I managed to develop a pipeline which seems to work quite well</em>):</p>
-<ol>
-<li>Draw your graphs/images in Illustrator.</li>
-<li>Use <span class="exturl" data-url="aHR0cDovL2xhdGV4MnBuZy5jb20v">http://latex2png.com/<i class="fa fa-external-link-alt"></i></span>. Type your latex equation in there, then preview at 2000 dpi.</li>
-<li>Save the image, then load into Illustrator. Alternatively, you can speed things up by using a screencapture software (e.g. ShareX) so you can skip the image saving+loading process.</li>
-<li>When in Illustrator, select your imported equation image and choose Object –&gt; Image Trace –&gt; Make and Expand. It is very important to obtain a high dpi image for this step to work favorably.</li>
-<li>Your equation should now be a vector graphic.</li>
-<li>Select your new vector graphic equation and choose Object –&gt; Ungroup. This will separate the white spaces in your equation from the black content that you need.</li>
-<li>Select the white spaces and delete them.</li>
-<li>You now have a fully editable equation looking exactly like it does in Latex. You can scale/adjust and colour to your requirements.</li>
-</ol>
-<h3 id="方法二：从-PowerPoint-中直接拷贝"><a href="#方法二：从-PowerPoint-中直接拷贝" class="headerlink" title="方法二：从 PowerPoint 中直接拷贝"></a>方法二：从 PowerPoint 中直接拷贝</h3><p>在 PowerPoint 中键入公式，选中，直接拷贝到 Adobe Illustrator 中。</p>
-<h2 id="布尔运算"><a href="#布尔运算" class="headerlink" title="布尔运算"></a>布尔运算</h2><p>打开软件，新建文件，选择“<strong>窗口</strong>”在“<strong>路径查找器</strong>”前打勾，这是做布尔运算的工具，之后选择两个需要做布尔运算的图形，在路径查找器中选择合适的操作即可。</p>
-<h2 id="学习资料"><a href="#学习资料" class="headerlink" title="学习资料"></a>学习资料</h2><ol>
-<li><span class="exturl" data-url="aHR0cHM6Ly9oZWxweC5hZG9iZS5jb20vc3VwcG9ydC9pbGx1c3RyYXRvci5odG1s">Adobe Illustrator Learn &amp; Support<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXB4NDExczd6YS8=">AI教程，新手入门系列，bilibili<i class="fa fa-external-link-alt"></i></span></li>
-<li>Adobe公司, 牛国庆. Adobe Illustrator CC经典教程[M]. 人民邮电出版社, 2014.</li>
-</ol>
-<h1 id="PhotoShop"><a href="#PhotoShop" class="headerlink" title="PhotoShop"></a>PhotoShop</h1><h2 id="修改特定图片的分辨率和DPI"><a href="#修改特定图片的分辨率和DPI" class="headerlink" title="修改特定图片的分辨率和DPI"></a>修改特定图片的分辨率和DPI</h2><ol>
-<li>将图片拖入Photoshop；</li>
-<li>“图像” $\rightarrow$ “图像大小” $\rightarrow$ 调整宽度、高度与分辨率为目标值；</li>
-<li>“文件” $\rightarrow$ “存储”，保存为指定格式和大小，即可；</li>
-</ol>
-<p><em>备注：Adobe Illustrator与 Photoshop 的主要区别在于，Illustrator 基于矢量作图，而 Photoshop 基于像素点作图，因此在科研中 Illustrator 更常用。</em></p>
-]]></content>
-      <categories>
-        <category>Tool</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -1309,111 +1258,16 @@
       </tags>
   </entry>
   <entry>
-    <title>粟耀莹·《从加州理工到高盛银行》</title>
-    <url>/posts/1f972e30/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>原文：<span class="exturl" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC90b3BpYy8xMDU0OTAyLw==">粟耀莹  从加州理工到高盛银行<i class="fa fa-external-link-alt"></i></span> </p>
-<p>粟耀莹的母亲是洪冬桂，台湾立法委员；父亲是粟明德，白崇禧义子，曾任蒋经国秘书；粟家与白家世交。</p>
-<span id="more"></span>
-
-<blockquote>
-<p>“我从来没有想要教书或作研究，我去加州理工，这个在世界上诺贝尔奖得主密度最大的地方，是为了接受其熏陶，以悟出如何得到诺贝尔奖的道理，并对我当年的偶象Feynman费因曼(著名的物理诺贝尔奖得主，著有Surely You’re Joking，Mr.Feynman 一书)生前待过最久的地方，进行模拜。“</p>
-</blockquote>
-<p>因为研究生课程免修考试通过，因此粟有时间多浏览物理领域的前沿内容（也曾经拜访叶乃裳教授），之后经过多方了解，认为物理与生物交叉的方向前景广阔，值得研究。但因为自己之前没有生物基础，所以就必须去生物系选修相关的课程，最初受到冷眼旁观，但是之后自己取得了很好的成绩，逐步得到各种人的赞赏。在科学之外，她发现还有一个宽广而多彩的世界，商业是一个足可与科学抗衡的行业。 </p>
+    <title>Japanese art of Kintsugi</title>
+    <url>/posts/bb49c41d/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Kintsugi is the Japanese art of putting broken pottery pieces back together with gold — built on the idea that in embracing flaws and imperfections, you can create an even stronger, more beautiful piece of art. </p>
 ]]></content>
       <categories>
-        <category>Comment</category>
+        <category>Principle</category>
       </categories>
       <tags>
-        <tag>Comment</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Brain Game | Challenge your Mind</title>
-    <url>/posts/e76f6c15/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="一句话拯救一百人"><a href="#一句话拯救一百人" class="headerlink" title="一句话拯救一百人"></a>一句话拯救一百人</h1><blockquote>
-<p>参考：<span class="exturl" data-url="aHR0cHM6Ly9lZC50ZWQuY29tL2xlc3NvbnMvdGhlLWZhbW91c2x5LWRpZmZpY3VsdC1ncmVlbi1leWVkLWxvZ2ljLXB1enpsZS1hbGV4LWdlbmRsZXI=">Can you solve the famously difficult green-eyed logic puzzle? - Alex Gendler<i class="fa fa-external-link-alt"></i></span> </p>
-</blockquote>
-<p>想象在一个岛上一个疯狂的独裁者囚禁了100个完美的逻辑家，他们没办法逃离，除了<strong>一个奇怪的规则</strong>，在晚上任何囚犯都可以请求警卫放他走，若他有<strong>绿眼睛</strong>，他就会被释放，若不是，他就会被扔进火山口，实际上，那一百个逻辑家都有绿眼睛，但他们从出生起就住在那儿，而且独裁者确保他们不会知道自己眼睛什么颜色，那儿也没有反光表面，所有水都装在不透明的容器里，而且最重要的是他们不能互相交流，尽管他们每天早上点人数时都能看到彼此，不仅如此，他们都知道，若没有绝对的把握会成功，没人会尝试离开。</p>
-<p>在人权组织的压力下，那个独裁者勉强允许你访问那个岛，并且和犯人说话时要遵从以下条件：</p>
-<ol>
-<li><p>你只可陈述一个声明</p>
-</li>
-<li><p>你不能告诉他们新的信息</p>
-</li>
-</ol>
-<p>你说什么才能帮助这些犯人获得自由而不激怒这位独裁者呢？</p>
-<p>经过深思熟虑……</p>
-<span id="more"></span>
-
-<details>
-<summary>你告诉人群：</summary>
-<font color='red'>
-你们当中至少有一个人有绿眼睛。
-    </font>
-</details>
-
-<p>独裁者持有怀疑的态度，但还是告诉自己你的言论不会改变任何事情。</p>
-<p>你离开了，岛上的生活依然照旧，但在你访问后的第一百天早上所有的犯人都不见了。</p>
-<p>每一个人都在前天晚上要求离开，所以你是如何智胜独裁者的？</p>
-<details>
-<summary>解析</summary>
-<font color='red'>
-<p>意识到犯人的数量不固定也许能帮到你，我们来把这个问题简化一下。</p>
-<p>假设只有两个犯人，小红和小明，彼此都能看到对方的绿眼睛，他们心里清楚 也许只有对方有绿眼睛。</p>
-<p>所以第一天，谁也没轻举妄动。但当他们第二天早上又看到对方时，他们得到了新的信息。小红意识到如果小明看到了一个“非绿眼睛”的人在他旁边，他就知道自己拥有绿眼睛，第一天就会离开，小明也同一时间想到了同样的事情，两个人都在等这个事实，告诉她或他的眼睛一定是绿色的，之后的那天早上，他俩都走了。</p>
-<p>现在想象第三个犯人，小红小明和小刚各看到两个绿眼睛的人，但不确定另外两人是不是也看到了，一个或者两个绿眼睛的人，他们第一天也和之前一样等着，到了第二天，他们还是不确定，小刚想：如果我没有绿眼睛，小红和小明只是看着彼此，那他们第二天早上就会都走了，但当他第三天早上看到另外两人时，他意识到那两人肯定也在观察他，小红和小明在想同样的事情，然后他们三人在第三天晚上都走了。</p>
-<p>用这种归纳性推理，我们可以看出这种模式会一直重复，不论犯人的数量多少，关键点是公识的概念，来自哲学家David Lewis的创造，新知识不在你的陈述里，而在于你的声明同时陈述给了所有人，现在呢，每个犯人除了知道他们中至少一个有绿眼睛，也知道其他人都在观察记录，他们能看到的所有绿眼睛的人，而且所有人都知道每个人都是这么想的，每个犯人不知道的是，他们自己是不是别人观察记录的，绿眼睛的人中的一员，直到和犯人数量同等的夜数过去了才能确定，当然啦，你也可以让犯人早98天离开这岛，告诉他们至少99个人有绿眼睛，但当疯狂独裁者在的时候，你最好做出明智的选择。</p>
-</font>
-</details>
-
-<h1 id="通往天堂的门"><a href="#通往天堂的门" class="headerlink" title="通往天堂的门"></a>通往天堂的门</h1><p>Question：如果有一天，你醒来却发现自己在一间陌生的房间里，房间里有两个门，各自有两个守卫，一个通向极乐世界，另外一个通向地狱，而两个守卫一个只会说真话，一个一会说假话。现在你只能问他们其中一个人一个问题（你并不知道谁会说真话谁会说假话），你要怎么问才会知道哪个门是通往哪的。</p>
-<details>
-<summary>Answer</summary>
-<font color='red'>
-<p>A1：说谎话的人后面是地狱之门吗？</p>
-<p>A2：假如我问另外一个守卫通往地狱的门在哪里，他会指哪道门？</p>
-    </font>
-</details>
-
-<h1 id="海盗分宝石"><a href="#海盗分宝石" class="headerlink" title="海盗分宝石"></a>海盗分宝石</h1><p>五个海盗抢到了100颗宝石，每一颗都一样大小和价值连城。他们决定这么分：抽签决定自己的号码（1、2、3、4、5）。</p>
-<p>首先，由1号提出分配方案，然后大家表决，当且仅当超过半数的人同意时，按照他的方案进行分配，否则将被扔进大海喂鲨鱼。</p>
-<p>如果1号死后，再由2号提出分配方案，然后剩下的4人进行表决，当且仅当超过半数的人同意时，按照他的方案进行分配，否则将被扔入大海喂鲨鱼。依此类推。</p>
-<p>条件：每个海盗都是很聪明的人，都能很理智地做出判断，从而做出选择。</p>
-<p>问题：第一个海盗提出怎样的分配方案才能使自己的收益最大化？</p>
-<details>
-<summary>解答</summary>
-<font color='red'>
-<p>1. 假设1、2、3、号死掉了，那么只剩下4号和5号，这时候无论4号怎么分，哪怕给5号100颗宝石，5号都不一定同意（因为4号死了，所有宝石都归他，他仍然可以获得100个），所以4号必定得让3号活下来才能保证自己的生命，且不管3号怎么分，4号都会同意；</p>
-<p>2. 假设1、2号死了,3号来分的话,他肯定分自己100个,4号和5号都0个,因为3号自己肯定同意,4号也必须同意,就有大于50%的选票。所以3号必定是希望2号死掉的，这样他才能保证自己利益最大化。所以无论2号提出什么，3号都会反对。</p>
-<p>3. 再来推2号。假设1号死了，3号必定反对他，那么2号只能贿赂4号和5号。前面说过，3号分的话，4、5号只有0个。那么2号只要给他们1人1个,4号和5号就都得同意。所以2号会这么分:98、0、1、1。所以在这种情况下，除非1号愿意给自己99颗以上的宝石，否则2号一定会反对1号。</p>
-<p>4. 再来推1号。他不会收买2号,那起码要给2号99个才行,他肯定会收买3号,因为给3号1个，3号就会同意1号的分法,3号要是不同意,1号死了2号分的话,3号只能得到0个。此时，1号只要再收买4号和5号中任何一人就行了，给这个人两个,他就会同意（否则只能得到1个或0个，或者死亡）。 所以，1号的分配方案为:97、0、1、2、0 或97、0、1、0、2。</p>
-    </font>
-</details>
-
-<h1 id="蒙提霍尔问题"><a href="#蒙提霍尔问题" class="headerlink" title="蒙提霍尔问题"></a>蒙提霍尔问题</h1><img data-src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monty_open_door.svg/1920px-Monty_open_door.svg.png' width='40%'>
-
-<p>这个游戏的玩法是：</p>
-<p>参赛者会看见三扇关闭了的门，其中一扇的后面有一辆汽车或者是奖品，选中后面有车的那扇门就可以赢得该汽车或奖品，而另外两扇门后面则各藏有一只山羊。</p>
-<p>当参赛者选定了一扇门，但未去开启它的时候，知道门后情形的节目主持人会开启剩下两扇门的其中一扇，露出其中一只山羊。</p>
-<p>主持人其后会问参赛者要不要换另一扇仍然关上的门。</p>
-<p>问题是：换另一扇门会否增加参赛者赢得汽车的概率？</p>
-<p><font color='red'>如果严格按照上述的条件的话，答案是会。换门的话，赢得汽车的概率是2/3。</font></p>
-<p>这条问题亦被叫做蒙提霍尔悖论：虽然该问题的答案在逻辑上并不自相矛盾，但十分违反直觉。这问题曾引起一阵热烈的讨论。</p>
-<h1 id="数字华容道"><a href="#数字华容道" class="headerlink" title="数字华容道"></a>数字华容道</h1><p>数字华容道有解的前提：</p>
-<ol>
-<li><font color='red'>若格子列数为奇数，则逆序数必须为偶数；</font></li>
-<li><font color='red'>若格子列数为偶数，且逆序数为偶数，则当前空格所在行数与初始空格所在行数的差为偶数；</font></li>
-<li><font color='red'>若格子列数为偶数，且逆序数为奇数，则当前空格所在行数与初始空格所在行数的差为奇数。</font></li>
-</ol>
-]]></content>
-      <categories>
-        <category>Game</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-        <tag>锻炼</tag>
-        <tag>Brain</tag>
-        <tag>Funny</tag>
+        <tag>Principle</tag>
+        <tag>Career</tag>
       </tags>
   </entry>
   <entry>
@@ -1608,28 +1462,149 @@
       </tags>
   </entry>
   <entry>
-    <title>About Consulting Industry</title>
-    <url>/posts/82164401/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/consulting%20industry%20pic1.jpg?raw=true' width='80%'>
-
-<p><em><strong>What kind of people is not suitable for consulting industry? (<span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9EZnZydC0zSUF4VQ==">Mika Kim’s YouTube channel<i class="fa fa-external-link-alt"></i></span>)</strong></em></p>
+    <title>Adobe Software</title>
+    <url>/posts/cf829b6f/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Adobe-Illustrator"><a href="#Adobe-Illustrator" class="headerlink" title="Adobe Illustrator"></a>Adobe Illustrator</h1><h2 id="编辑数学公式和希腊字母"><a href="#编辑数学公式和希腊字母" class="headerlink" title="编辑数学公式和希腊字母"></a>编辑数学公式和希腊字母</h2><h3 id="方法一：导入-svg-格式的公式图片"><a href="#方法一：导入-svg-格式的公式图片" class="headerlink" title="方法一：导入 svg 格式的公式图片"></a>方法一：导入 svg 格式的公式图片</h3><p>生成数学公式或希腊字母的图片格式（最好是 <code>png</code> 格式）→将图片导入到软件中→使用图像描摹功能（对象→图像描摹→建立并扩展）将图片矢量化→取消矢量图像编组，删除白色背景→重新编组，移动到合适位置。</p>
+<p>直接导入svg格式会出现字母异常，因此导入png然后矢量化处理是更好的方式，可以使用<span class="exturl" data-url="aHR0cHM6Ly9sYXRleGxpdmUuY29tLw==">LaTeX公式编辑器<i class="fa fa-external-link-alt"></i></span>在线生成png格式的公式或希腊字母。</p>
+<p>参考：<span class="exturl" data-url="aHR0cHM6Ly90ZXguc3RhY2tleGNoYW5nZS5jb20vcXVlc3Rpb25zLzkwMDE3L2hvdy1kby1pLWdldC1tYXRoZW1hdGljYWwtZm9udHMtdG8taWxsdXN0cmF0b3I=">How do I get mathematical fonts to Illustrator?<i class="fa fa-external-link-alt"></i></span></p>
+<p>Steps in detail (<em>When I was writing my dissertation on string theory I encountered the same issue. I managed to develop a pipeline which seems to work quite well</em>):</p>
+<ol>
+<li>Draw your graphs/images in Illustrator.</li>
+<li>Use <span class="exturl" data-url="aHR0cDovL2xhdGV4MnBuZy5jb20v">http://latex2png.com/<i class="fa fa-external-link-alt"></i></span>. Type your latex equation in there, then preview at 2000 dpi.</li>
+<li>Save the image, then load into Illustrator. Alternatively, you can speed things up by using a screencapture software (e.g. ShareX) so you can skip the image saving+loading process.</li>
+<li>When in Illustrator, select your imported equation image and choose Object –&gt; Image Trace –&gt; Make and Expand. It is very important to obtain a high dpi image for this step to work favorably.</li>
+<li>Your equation should now be a vector graphic.</li>
+<li>Select your new vector graphic equation and choose Object –&gt; Ungroup. This will separate the white spaces in your equation from the black content that you need.</li>
+<li>Select the white spaces and delete them.</li>
+<li>You now have a fully editable equation looking exactly like it does in Latex. You can scale/adjust and colour to your requirements.</li>
+</ol>
+<h3 id="方法二：从-PowerPoint-中直接拷贝"><a href="#方法二：从-PowerPoint-中直接拷贝" class="headerlink" title="方法二：从 PowerPoint 中直接拷贝"></a>方法二：从 PowerPoint 中直接拷贝</h3><p>在 PowerPoint 中键入公式，选中，直接拷贝到 Adobe Illustrator 中。</p>
+<h2 id="布尔运算"><a href="#布尔运算" class="headerlink" title="布尔运算"></a>布尔运算</h2><p>打开软件，新建文件，选择“<strong>窗口</strong>”在“<strong>路径查找器</strong>”前打勾，这是做布尔运算的工具，之后选择两个需要做布尔运算的图形，在路径查找器中选择合适的操作即可。</p>
+<h2 id="学习资料"><a href="#学习资料" class="headerlink" title="学习资料"></a>学习资料</h2><ol>
+<li><span class="exturl" data-url="aHR0cHM6Ly9oZWxweC5hZG9iZS5jb20vc3VwcG9ydC9pbGx1c3RyYXRvci5odG1s">Adobe Illustrator Learn &amp; Support<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXB4NDExczd6YS8=">AI教程，新手入门系列，bilibili<i class="fa fa-external-link-alt"></i></span></li>
+<li>Adobe公司, 牛国庆. Adobe Illustrator CC经典教程[M]. 人民邮电出版社, 2014.</li>
+</ol>
+<h1 id="PhotoShop"><a href="#PhotoShop" class="headerlink" title="PhotoShop"></a>PhotoShop</h1><h2 id="修改特定图片的分辨率和DPI"><a href="#修改特定图片的分辨率和DPI" class="headerlink" title="修改特定图片的分辨率和DPI"></a>修改特定图片的分辨率和DPI</h2><ol>
+<li>将图片拖入Photoshop；</li>
+<li>“图像” $\rightarrow$ “图像大小” $\rightarrow$ 调整宽度、高度与分辨率为目标值；</li>
+<li>“文件” $\rightarrow$ “存储”，保存为指定格式和大小，即可；</li>
+</ol>
+<p><em>备注：Adobe Illustrator与 Photoshop 的主要区别在于，Illustrator 基于矢量作图，而 Photoshop 基于像素点作图，因此在科研中 Illustrator 更常用。</em></p>
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Brain Game | Challenge your Mind</title>
+    <url>/posts/e76f6c15/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="一句话拯救一百人"><a href="#一句话拯救一百人" class="headerlink" title="一句话拯救一百人"></a>一句话拯救一百人</h1><blockquote>
+<p>参考：<span class="exturl" data-url="aHR0cHM6Ly9lZC50ZWQuY29tL2xlc3NvbnMvdGhlLWZhbW91c2x5LWRpZmZpY3VsdC1ncmVlbi1leWVkLWxvZ2ljLXB1enpsZS1hbGV4LWdlbmRsZXI=">Can you solve the famously difficult green-eyed logic puzzle? - Alex Gendler<i class="fa fa-external-link-alt"></i></span> </p>
+</blockquote>
+<p>想象在一个岛上一个疯狂的独裁者囚禁了100个完美的逻辑家，他们没办法逃离，除了<strong>一个奇怪的规则</strong>，在晚上任何囚犯都可以请求警卫放他走，若他有<strong>绿眼睛</strong>，他就会被释放，若不是，他就会被扔进火山口，实际上，那一百个逻辑家都有绿眼睛，但他们从出生起就住在那儿，而且独裁者确保他们不会知道自己眼睛什么颜色，那儿也没有反光表面，所有水都装在不透明的容器里，而且最重要的是他们不能互相交流，尽管他们每天早上点人数时都能看到彼此，不仅如此，他们都知道，若没有绝对的把握会成功，没人会尝试离开。</p>
+<p>在人权组织的压力下，那个独裁者勉强允许你访问那个岛，并且和犯人说话时要遵从以下条件：</p>
+<ol>
+<li><p>你只可陈述一个声明</p>
+</li>
+<li><p>你不能告诉他们新的信息</p>
+</li>
+</ol>
+<p>你说什么才能帮助这些犯人获得自由而不激怒这位独裁者呢？</p>
+<p>经过深思熟虑……</p>
 <span id="more"></span>
 
+<details>
+<summary>你告诉人群：</summary>
+<font color='red'>
+你们当中至少有一个人有绿眼睛。
+    </font>
+</details>
+
+<p>独裁者持有怀疑的态度，但还是告诉自己你的言论不会改变任何事情。</p>
+<p>你离开了，岛上的生活依然照旧，但在你访问后的第一百天早上所有的犯人都不见了。</p>
+<p>每一个人都在前天晚上要求离开，所以你是如何智胜独裁者的？</p>
+<details>
+<summary>解析</summary>
+<font color='red'>
+<p>意识到犯人的数量不固定也许能帮到你，我们来把这个问题简化一下。</p>
+<p>假设只有两个犯人，小红和小明，彼此都能看到对方的绿眼睛，他们心里清楚 也许只有对方有绿眼睛。</p>
+<p>所以第一天，谁也没轻举妄动。但当他们第二天早上又看到对方时，他们得到了新的信息。小红意识到如果小明看到了一个“非绿眼睛”的人在他旁边，他就知道自己拥有绿眼睛，第一天就会离开，小明也同一时间想到了同样的事情，两个人都在等这个事实，告诉她或他的眼睛一定是绿色的，之后的那天早上，他俩都走了。</p>
+<p>现在想象第三个犯人，小红小明和小刚各看到两个绿眼睛的人，但不确定另外两人是不是也看到了，一个或者两个绿眼睛的人，他们第一天也和之前一样等着，到了第二天，他们还是不确定，小刚想：如果我没有绿眼睛，小红和小明只是看着彼此，那他们第二天早上就会都走了，但当他第三天早上看到另外两人时，他意识到那两人肯定也在观察他，小红和小明在想同样的事情，然后他们三人在第三天晚上都走了。</p>
+<p>用这种归纳性推理，我们可以看出这种模式会一直重复，不论犯人的数量多少，关键点是公识的概念，来自哲学家David Lewis的创造，新知识不在你的陈述里，而在于你的声明同时陈述给了所有人，现在呢，每个犯人除了知道他们中至少一个有绿眼睛，也知道其他人都在观察记录，他们能看到的所有绿眼睛的人，而且所有人都知道每个人都是这么想的，每个犯人不知道的是，他们自己是不是别人观察记录的，绿眼睛的人中的一员，直到和犯人数量同等的夜数过去了才能确定，当然啦，你也可以让犯人早98天离开这岛，告诉他们至少99个人有绿眼睛，但当疯狂独裁者在的时候，你最好做出明智的选择。</p>
+</font>
+</details>
+
+<h1 id="通往天堂的门"><a href="#通往天堂的门" class="headerlink" title="通往天堂的门"></a>通往天堂的门</h1><p>Question：如果有一天，你醒来却发现自己在一间陌生的房间里，房间里有两个门，各自有两个守卫，一个通向极乐世界，另外一个通向地狱，而两个守卫一个只会说真话，一个一会说假话。现在你只能问他们其中一个人一个问题（你并不知道谁会说真话谁会说假话），你要怎么问才会知道哪个门是通往哪的。</p>
+<details>
+<summary>Answer</summary>
+<font color='red'>
+<p>A1：说谎话的人后面是地狱之门吗？</p>
+<p>A2：假如我问另外一个守卫通往地狱的门在哪里，他会指哪道门？</p>
+    </font>
+</details>
+
+<h1 id="海盗分宝石"><a href="#海盗分宝石" class="headerlink" title="海盗分宝石"></a>海盗分宝石</h1><p>五个海盗抢到了100颗宝石，每一颗都一样大小和价值连城。他们决定这么分：抽签决定自己的号码（1、2、3、4、5）。</p>
+<p>首先，由1号提出分配方案，然后大家表决，当且仅当超过半数的人同意时，按照他的方案进行分配，否则将被扔进大海喂鲨鱼。</p>
+<p>如果1号死后，再由2号提出分配方案，然后剩下的4人进行表决，当且仅当超过半数的人同意时，按照他的方案进行分配，否则将被扔入大海喂鲨鱼。依此类推。</p>
+<p>条件：每个海盗都是很聪明的人，都能很理智地做出判断，从而做出选择。</p>
+<p>问题：第一个海盗提出怎样的分配方案才能使自己的收益最大化？</p>
+<details>
+<summary>解答</summary>
+<font color='red'>
+<p>1. 假设1、2、3、号死掉了，那么只剩下4号和5号，这时候无论4号怎么分，哪怕给5号100颗宝石，5号都不一定同意（因为4号死了，所有宝石都归他，他仍然可以获得100个），所以4号必定得让3号活下来才能保证自己的生命，且不管3号怎么分，4号都会同意；</p>
+<p>2. 假设1、2号死了,3号来分的话,他肯定分自己100个,4号和5号都0个,因为3号自己肯定同意,4号也必须同意,就有大于50%的选票。所以3号必定是希望2号死掉的，这样他才能保证自己利益最大化。所以无论2号提出什么，3号都会反对。</p>
+<p>3. 再来推2号。假设1号死了，3号必定反对他，那么2号只能贿赂4号和5号。前面说过，3号分的话，4、5号只有0个。那么2号只要给他们1人1个,4号和5号就都得同意。所以2号会这么分:98、0、1、1。所以在这种情况下，除非1号愿意给自己99颗以上的宝石，否则2号一定会反对1号。</p>
+<p>4. 再来推1号。他不会收买2号,那起码要给2号99个才行,他肯定会收买3号,因为给3号1个，3号就会同意1号的分法,3号要是不同意,1号死了2号分的话,3号只能得到0个。此时，1号只要再收买4号和5号中任何一人就行了，给这个人两个,他就会同意（否则只能得到1个或0个，或者死亡）。 所以，1号的分配方案为:97、0、1、2、0 或97、0、1、0、2。</p>
+    </font>
+</details>
+
+<h1 id="蒙提霍尔问题"><a href="#蒙提霍尔问题" class="headerlink" title="蒙提霍尔问题"></a>蒙提霍尔问题</h1><img data-src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monty_open_door.svg/1920px-Monty_open_door.svg.png' width='40%'>
+
+<p>这个游戏的玩法是：</p>
+<p>参赛者会看见三扇关闭了的门，其中一扇的后面有一辆汽车或者是奖品，选中后面有车的那扇门就可以赢得该汽车或奖品，而另外两扇门后面则各藏有一只山羊。</p>
+<p>当参赛者选定了一扇门，但未去开启它的时候，知道门后情形的节目主持人会开启剩下两扇门的其中一扇，露出其中一只山羊。</p>
+<p>主持人其后会问参赛者要不要换另一扇仍然关上的门。</p>
+<p>问题是：换另一扇门会否增加参赛者赢得汽车的概率？</p>
+<p><font color='red'>如果严格按照上述的条件的话，答案是会。换门的话，赢得汽车的概率是2/3。</font></p>
+<p>这条问题亦被叫做蒙提霍尔悖论：虽然该问题的答案在逻辑上并不自相矛盾，但十分违反直觉。这问题曾引起一阵热烈的讨论。</p>
+<h1 id="数字华容道"><a href="#数字华容道" class="headerlink" title="数字华容道"></a>数字华容道</h1><p>数字华容道有解的前提：</p>
 <ol>
-<li>Not good at working with different people</li>
-<li>Don’t like change and competition </li>
-<li>Want a work life balance? Of course, you don’t have work life balance </li>
-<li>Say yes to every task.</li>
-<li>You hate writing. You will need to write a lot.</li>
+<li><font color='red'>若格子列数为奇数，则逆序数必须为偶数；</font></li>
+<li><font color='red'>若格子列数为偶数，且逆序数为偶数，则当前空格所在行数与初始空格所在行数的差为偶数；</font></li>
+<li><font color='red'>若格子列数为偶数，且逆序数为奇数，则当前空格所在行数与初始空格所在行数的差为奇数。</font></li>
 </ol>
 ]]></content>
       <categories>
-        <category>Business</category>
+        <category>Game</category>
       </categories>
       <tags>
-        <tag>Management</tag>
-        <tag>Career</tag>
-        <tag>Job Hunting</tag>
+        <tag>Skill</tag>
+        <tag>锻炼</tag>
+        <tag>Brain</tag>
+        <tag>Funny</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>粟耀莹·《从加州理工到高盛银行》</title>
+    <url>/posts/1f972e30/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>原文：<span class="exturl" data-url="aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9ncm91cC90b3BpYy8xMDU0OTAyLw==">粟耀莹  从加州理工到高盛银行<i class="fa fa-external-link-alt"></i></span> </p>
+<p>粟耀莹的母亲是洪冬桂，台湾立法委员；父亲是粟明德，白崇禧义子，曾任蒋经国秘书；粟家与白家世交。</p>
+<span id="more"></span>
+
+<blockquote>
+<p>“我从来没有想要教书或作研究，我去加州理工，这个在世界上诺贝尔奖得主密度最大的地方，是为了接受其熏陶，以悟出如何得到诺贝尔奖的道理，并对我当年的偶象Feynman费因曼(著名的物理诺贝尔奖得主，著有Surely You’re Joking，Mr.Feynman 一书)生前待过最久的地方，进行模拜。“</p>
+</blockquote>
+<p>因为研究生课程免修考试通过，因此粟有时间多浏览物理领域的前沿内容（也曾经拜访叶乃裳教授），之后经过多方了解，认为物理与生物交叉的方向前景广阔，值得研究。但因为自己之前没有生物基础，所以就必须去生物系选修相关的课程，最初受到冷眼旁观，但是之后自己取得了很好的成绩，逐步得到各种人的赞赏。在科学之外，她发现还有一个宽广而多彩的世界，商业是一个足可与科学抗衡的行业。 </p>
+]]></content>
+      <categories>
+        <category>Comment</category>
+      </categories>
+      <tags>
+        <tag>Comment</tag>
       </tags>
   </entry>
   <entry>
@@ -1679,25 +1654,28 @@
       </tags>
   </entry>
   <entry>
-    <title>Edward O. Thorp</title>
-    <url>/posts/66089607/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-03-edward-o-thorp.jpg?raw=true' width='68%'>
+    <title>About Consulting Industry</title>
+    <url>/posts/82164401/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/consulting%20industry%20pic1.jpg?raw=true' width='80%'>
 
-<p><em><strong>How to beat the Market:</strong></em></p>
+<p><em><strong>What kind of people is not suitable for consulting industry? (<span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9EZnZydC0zSUF4VQ==">Mika Kim’s YouTube channel<i class="fa fa-external-link-alt"></i></span>)</strong></em></p>
+<span id="more"></span>
+
 <ol>
-<li>get the information asap;</li>
-<li>be an extraordinary rational investor, rely on logic and analysis;</li>
-<li>find the best analysis method;</li>
-<li>Identify opportunities and seize them；</li>
+<li>Not good at working with different people</li>
+<li>Don’t like change and competition </li>
+<li>Want a work life balance? Of course, you don’t have work life balance </li>
+<li>Say yes to every task.</li>
+<li>You hate writing. You will need to write a lot.</li>
 </ol>
 ]]></content>
       <categories>
-        <category>Celebrity</category>
+        <category>Business</category>
       </categories>
       <tags>
-        <tag>Finance</tag>
-        <tag>History</tag>
-        <tag>Math</tag>
+        <tag>Management</tag>
+        <tag>Career</tag>
+        <tag>Job Hunting</tag>
       </tags>
   </entry>
   <entry>
@@ -1760,30 +1738,6 @@
       </tags>
   </entry>
   <entry>
-    <title>About Richard Feynman</title>
-    <url>/posts/94eb740c/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-04-feynman.jpg?raw=true' width='80%'>
-
-<span id="more"></span>
-
-<p>5 Productivity <em>FEYNMAN-strategies</em>:</p>
-<ul>
-<li>Stop trying to know-it-all.</li>
-<li>Don’t worry about what others are thinking.</li>
-<li>Don’t think about what you want to be, but what you want to do.</li>
-<li>Have a sense of humor and talk honestly.</li>
-<li>Teach others what you know.</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Celebrity</category>
-      </categories>
-      <tags>
-        <tag>Scientist</tag>
-        <tag>History</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>如何区分数据科学、机器学习、人工智能？</title>
     <url>/posts/421a5bc1/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>David Robinson 在其博客<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="http://varianceexplained.org/r/ds-ml-ai/">[1]</span></a></sup>中给出一种区分方法：</p>
@@ -1817,6 +1771,52 @@
         <tag>Artificial Intelligence</tag>
         <tag>Machine Learning</tag>
         <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Edward O. Thorp</title>
+    <url>/posts/66089607/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-03-edward-o-thorp.jpg?raw=true' width='68%'>
+
+<p><em><strong>How to beat the Market:</strong></em></p>
+<ol>
+<li>get the information asap;</li>
+<li>be an extraordinary rational investor, rely on logic and analysis;</li>
+<li>find the best analysis method;</li>
+<li>Identify opportunities and seize them；</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Celebrity</category>
+      </categories>
+      <tags>
+        <tag>Finance</tag>
+        <tag>History</tag>
+        <tag>Math</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>About Richard Feynman</title>
+    <url>/posts/94eb740c/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-04-feynman.jpg?raw=true' width='80%'>
+
+<span id="more"></span>
+
+<p>5 Productivity <em>FEYNMAN-strategies</em>:</p>
+<ul>
+<li>Stop trying to know-it-all.</li>
+<li>Don’t worry about what others are thinking.</li>
+<li>Don’t think about what you want to be, but what you want to do.</li>
+<li>Have a sense of humor and talk honestly.</li>
+<li>Teach others what you know.</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Celebrity</category>
+      </categories>
+      <tags>
+        <tag>Scientist</tag>
+        <tag>History</tag>
       </tags>
   </entry>
   <entry>
@@ -2144,6 +2144,28 @@
       </tags>
   </entry>
   <entry>
+    <title>iZOTOPE Rx Tutorial</title>
+    <url>/posts/72a91e7a/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="分离背景音与人声"><a href="#分离背景音与人声" class="headerlink" title="分离背景音与人声"></a>分离背景音与人声</h1><ol>
+<li><p>将需要提取出人声的素材拖入软件；</p>
+</li>
+<li><p>找到右侧控制面板中的【<em>Music Rebalance</em>】；</p>
+</li>
+<li><p>在出现的界面中，调整<em>voice</em>，其他三项<em>bass</em>，<em>percussion</em>，<em>other</em>调到最低，<em>sensitivity</em>保持不变；</p>
+</li>
+<li><p>点击<em>preview</em>预览，符合要求后，点击<em>render</em>导出；</p>
+</li>
+</ol>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Html Tutorial</title>
     <url>/posts/22f164dc/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Hyperlink"><a href="#Hyperlink" class="headerlink" title="Hyperlink"></a>Hyperlink</h1><p>Syntex:</p>
@@ -2167,28 +2189,6 @@
       </tags>
   </entry>
   <entry>
-    <title>iZOTOPE Rx Tutorial</title>
-    <url>/posts/72a91e7a/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="分离背景音与人声"><a href="#分离背景音与人声" class="headerlink" title="分离背景音与人声"></a>分离背景音与人声</h1><ol>
-<li><p>将需要提取出人声的素材拖入软件；</p>
-</li>
-<li><p>找到右侧控制面板中的【<em>Music Rebalance</em>】；</p>
-</li>
-<li><p>在出现的界面中，调整<em>voice</em>，其他三项<em>bass</em>，<em>percussion</em>，<em>other</em>调到最低，<em>sensitivity</em>保持不变；</p>
-</li>
-<li><p>点击<em>preview</em>预览，符合要求后，点击<em>render</em>导出；</p>
-</li>
-</ol>
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>Tool</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>金光咒</title>
     <url>/posts/3d5c968c/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>神咒曰：<br><strong>天地玄宗，万炁本根，广修万善，证吾神通，三界内外，唯道独尊，身有金光，护映吾身，视之不见，听之不闻，包罗天地，养育群生，受持一遍，身有光明。三界侍卫，五帝司迎，万神朝礼，役使雷霆，鬼妖丧胆，精怪亡形。内有霹雳，雷神隐鸣，通慧交彻，五炁腾腾，金光速现，覆护真人。</strong> </p>
@@ -2206,27 +2206,6 @@
       </categories>
       <tags>
         <tag>道教</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Job Hunting Tips</title>
-    <url>/posts/31b5cd/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="求职网站"><a href="#求职网站" class="headerlink" title="求职网站"></a>求职网站</h2><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw==">LinkedIn<i class="fa fa-external-link-alt"></i></span> </li>
-<li>BOSS 直聘</li>
-</ul>
-<span id="more"></span>
-
-<h2 id="Salary"><a href="#Salary" class="headerlink" title="Salary"></a>Salary</h2><ul>
-<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9PamFLN25tQ1lDbw==">如何談薪水 Like A Pro<i class="fa fa-external-link-alt"></i></span> </li>
-</ul>
-<p>未完待续…</p>
-]]></content>
-      <categories>
-        <category>Experience</category>
-      </categories>
-      <tags>
-        <tag>Job Hunting</tag>
       </tags>
   </entry>
   <entry>
@@ -2339,28 +2318,24 @@
       </tags>
   </entry>
   <entry>
-    <title>Linux OS Tutorials</title>
-    <url>/posts/df7c1428/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="如何获得管理员权限"><a href="#如何获得管理员权限" class="headerlink" title="如何获得管理员权限"></a>如何获得管理员权限</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">sudo su root</span><br></pre></td></tr></table></figure>
-
-<h1 id="如何安装软件"><a href="#如何安装软件" class="headerlink" title="如何安装软件"></a>如何安装软件</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">yum install xxxx -y    <span class="comment"># xxxx为软件名</span></span><br></pre></td></tr></table></figure>
-
+    <title>Job Hunting Tips</title>
+    <url>/posts/31b5cd/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="求职网站"><a href="#求职网站" class="headerlink" title="求职网站"></a>求职网站</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw==">LinkedIn<i class="fa fa-external-link-alt"></i></span> </li>
+<li>BOSS 直聘</li>
+</ul>
 <span id="more"></span>
 
-<h1 id="查看软件版本"><a href="#查看软件版本" class="headerlink" title="查看软件版本"></a>查看软件版本</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">xxxx -V    <span class="comment"># xxxx为软件名</span></span><br></pre></td></tr></table></figure>
-
-<h1 id="Linux如何修改SSH登录密码"><a href="#Linux如何修改SSH登录密码" class="headerlink" title="Linux如何修改SSH登录密码"></a>Linux如何修改SSH登录密码</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 登陆SSH控制台，然后输入下面指令：</span></span><br><span class="line">passwd user    <span class="comment"># 注：这里的user是你的SSH用户名，比如passwd root</span></span><br><span class="line"><span class="comment"># 输入密码</span></span><br></pre></td></tr></table></figure>
-
-<h1 id="防火墙管理"><a href="#防火墙管理" class="headerlink" title="防火墙管理"></a>防火墙管理</h1><p><span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTE4NDYyNTcvYXJ0aWNsZS9kZXRhaWxzLzU0NzA3ODY0">Centos防火墙设置与端口开放的方法<i class="fa fa-external-link-alt"></i></span> </p>
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9kZDY2M2NiNGFmZmE=">CentOS 7 开放/关闭端口，关闭防火墙<i class="fa fa-external-link-alt"></i></span> </p>
-<h1 id="网站"><a href="#网站" class="headerlink" title="网站"></a>网站</h1><p><span class="exturl" data-url="aHR0cHM6Ly9teS5vc2NoaW5hLm5ldC9odXNreWRvZy9ibG9nLzE1MDEzNzg=">在centOs 上搭建nginx来部署静态页面网站<i class="fa fa-external-link-alt"></i></span> </p>
-<p><span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0pla2luX0tFL2FydGljbGUvZGV0YWlscy84NzMxMjYyMw==">网站部署详细流程（包括域名，服务器的配置等）<i class="fa fa-external-link-alt"></i></span></p>
+<h2 id="Salary"><a href="#Salary" class="headerlink" title="Salary"></a>Salary</h2><ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9PamFLN25tQ1lDbw==">如何談薪水 Like A Pro<i class="fa fa-external-link-alt"></i></span> </li>
+</ul>
+<p>未完待续…</p>
 ]]></content>
       <categories>
-        <category>Tool</category>
+        <category>Experience</category>
       </categories>
       <tags>
-        <tag>OS</tag>
+        <tag>Job Hunting</tag>
       </tags>
   </entry>
   <entry>
@@ -2448,6 +2423,31 @@
       </categories>
       <tags>
         <tag>Resource</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Linux OS Tutorials</title>
+    <url>/posts/df7c1428/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="如何获得管理员权限"><a href="#如何获得管理员权限" class="headerlink" title="如何获得管理员权限"></a>如何获得管理员权限</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">sudo su root</span><br></pre></td></tr></table></figure>
+
+<h1 id="如何安装软件"><a href="#如何安装软件" class="headerlink" title="如何安装软件"></a>如何安装软件</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">yum install xxxx -y    <span class="comment"># xxxx为软件名</span></span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<h1 id="查看软件版本"><a href="#查看软件版本" class="headerlink" title="查看软件版本"></a>查看软件版本</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">xxxx -V    <span class="comment"># xxxx为软件名</span></span><br></pre></td></tr></table></figure>
+
+<h1 id="Linux如何修改SSH登录密码"><a href="#Linux如何修改SSH登录密码" class="headerlink" title="Linux如何修改SSH登录密码"></a>Linux如何修改SSH登录密码</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 登陆SSH控制台，然后输入下面指令：</span></span><br><span class="line">passwd user    <span class="comment"># 注：这里的user是你的SSH用户名，比如passwd root</span></span><br><span class="line"><span class="comment"># 输入密码</span></span><br></pre></td></tr></table></figure>
+
+<h1 id="防火墙管理"><a href="#防火墙管理" class="headerlink" title="防火墙管理"></a>防火墙管理</h1><p><span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTE4NDYyNTcvYXJ0aWNsZS9kZXRhaWxzLzU0NzA3ODY0">Centos防火墙设置与端口开放的方法<i class="fa fa-external-link-alt"></i></span> </p>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9kZDY2M2NiNGFmZmE=">CentOS 7 开放/关闭端口，关闭防火墙<i class="fa fa-external-link-alt"></i></span> </p>
+<h1 id="网站"><a href="#网站" class="headerlink" title="网站"></a>网站</h1><p><span class="exturl" data-url="aHR0cHM6Ly9teS5vc2NoaW5hLm5ldC9odXNreWRvZy9ibG9nLzE1MDEzNzg=">在centOs 上搭建nginx来部署静态页面网站<i class="fa fa-external-link-alt"></i></span> </p>
+<p><span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0pla2luX0tFL2FydGljbGUvZGV0YWlscy84NzMxMjYyMw==">网站部署详细流程（包括域名，服务器的配置等）<i class="fa fa-external-link-alt"></i></span></p>
+]]></content>
+      <categories>
+        <category>Tool</category>
+      </categories>
+      <tags>
+        <tag>OS</tag>
       </tags>
   </entry>
   <entry>
@@ -2711,6 +2711,78 @@ Hello world.
       </tags>
   </entry>
   <entry>
+    <title>The 9 most effective ways to achieve PhD success | Max Lempriere | Share</title>
+    <url>/posts/49b9e729/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cudGhlcGhkcHJvb2ZyZWFkZXJzLmNvbS93cml0aW5nLzktdGlwcy10by1oZWxwLXlvdS1hY2hpZXZlLXBoZC1zdWNjZXNzLw==">The 9 most effective ways to achieve PhD success<i class="fa fa-external-link-alt"></i></span></p>
+</blockquote>
+<blockquote>
+<p>Writing a PhD is physically, intellectually and emotionally daunting. You may spend each day doubting yourself, not sure if you’re making the right choices and unsure whether you’ve got what it takes. During my life, I’ve helped thousands of PhD students like you. I want to share with you the nine most effective ways of achieving PhD success.  </p>
+<p>They should give you some fresh insight into what it means to be a PhD student and what it takes to achieve PhD success. They will also make you think differently about the way you work. Some you may be familiar with, but others may be new. As with everything, keep an open mind and ask yourself whether a particular tip would be useful in the context of your own research and way of working.</p>
+</blockquote>
+<span id="more"></span>
+
+<h1 id="Stop-with-the-perfectionism"><a href="#Stop-with-the-perfectionism" class="headerlink" title="Stop with the perfectionism"></a>Stop with the perfectionism</h1><p>Your first drafts are probably going to be awful, and your final drafts will still have things that you could improve. In short, your thesis will never be perfect. </p>
+<p>However, just because your PhD isn’t perfect, that doesn’t mean it’s a failure. </p>
+<p> You may try and convince yourself otherwise, but a few mistakes here and there or a research design flaw or two aren’t the end of the world. If you’re a perfectionist like I am, you probably know the struggle of trying to make sure you’ve made everything as good as it possibly can be, often at great cost. You also know the panic that sets in when you realise you’ve made a mistake. </p>
+<p>You’ll recognize how the importance of that mistake escalates. In your eyes, it isn’t just a mistake. It’s the end of the world. When you spot yourself falling into this trap, remind yourself that you’re only human, the person reading your thesis is human, and you’re not expected to execute everything perfectly all of the time. </p>
+<p>In short: give yourself a break. </p>
+<h1 id="Ask-‘So-what-’"><a href="#Ask-‘So-what-’" class="headerlink" title="Ask, ‘So what?’"></a>Ask, ‘So what?’</h1><p>I proofread a lot of PhDs and I coach a lot of PhD students. When I do, I find myself asking one question over and over again: ‘So what?’</p>
+<p>When you are writing about, say, particular design decisions, or a specific theoretical concept, ask yourself ‘so what?’ That way, you go beyond merely discussing a particular phenomenon, method, or whatever, and instead tell the reader why such a discussion is important and why it is relevant in the context of your thesis.</p>
+<p>That’s because, in your thesis, everything should be rooted in your research questions, research aims and research objectives. By asking ‘so what’ you are showing what those roots look like and, in doing so, being explicit about why a particular discussion is worth having and telling the reader why they should care you are having it. </p>
+<p>For example, if you are talking about a particular method, by asking ‘so what’ you tell the reader why that method is appropriate given your questions/aims/objectives, what benefits or drawbacks it will bring, and how it will bolster your study. If you fail to ask ‘so what’, you’re just describing a method and the reader is left wondering – you guessed it – ‘so what?’ </p>
+<h1 id="Be-critical"><a href="#Be-critical" class="headerlink" title="Be critical"></a>Be critical</h1><p>Critical engagement with the literature is key when conducting a PhD. It isn’t just enough to summarize existing research, you need to pick holes in it and critique it. You need to say what’s good and bad about it, why it is relevant, what could be improved, and more. I’ve written an extensive guide on how to be critical in your literature review, so if this is something you struggle with, you should check it out. </p>
+<p>Beyond this, you need to be critical of your own writing. When you read back through drafts of your text, you should ask the same questions of your words: what works, what doesn’t, what is relevant, what could be improved, and so on. </p>
+<p>What separates draft chapters from passable, finished ones is the level of critical engagement. This has two implications. First, you won’t succeed unless you’re thinking and writing critically. Second, your first drafts won’t be as critical as they need to be and that’s fine. That’ll come as you revise the draft and you start to critically engage with your own writing. </p>
+<h1 id="Stay-organized-as-you-write"><a href="#Stay-organized-as-you-write" class="headerlink" title="Stay organized as you write"></a>Stay organized as you write</h1><p>Learn how to stay organized and productive. Your thesis is going to run into several hundred pages, so staying on top of its organization and layout is key. </p>
+<p>The easiest way to easily navigate through your text and to see what’s what is using the document map feature in Word. By effectively using the headings style pane, you can create a scrollable and clickable document map. It’s great for showing you the heading structure and allowing you to easily click your way through the text. For more info on how to create these, click here. </p>
+<p>A bonus of using the headings pane to correctly label and format all your titles, headings and subheadings, is that you can create a table of contents with just one click of the button. This will be your best friend in the run-up to submission. For more info on how to create a table of contents, click here. </p>
+<p>Another thing that you’re not going to have time to do before submission is manually compile your bibliography. For the love of all that’s holy, use referencing software. My preference is Zotero, because it’s free, simple to use, cloud-based and integrates with Word. It might take you a while to add all your references the first time you use it, but because you can then add the references in the text as you write, compiling your reference list is as easy as telling Zotero what referencing style you need and pressing one button. </p>
+<h1 id="Accept-criticism"><a href="#Accept-criticism" class="headerlink" title="Accept criticism"></a>Accept criticism</h1><p>If there’s one thing that perfectionists can’t handle it is criticism. Ring a bell? It does for me. </p>
+<p>Let me give you an example. I like to think that I’m a pretty great proofreader and PhD-coach. My feedback and reviews are, on the whole, glowing. But sometimes I get a bad one when someone isn’t happy.</p>
+<p>Now, the rational part of my brain tells me that I tried my hardest and that one negative review out of hundreds isn’t the end of the world, however disappointing. The perfectionist side tells me that my business is doomed. The imposter syndrome kicks in. ‘They’ve found me out!’ it screams. I panic, think about that one review all day and give it far more space and energy that it deserves. </p>
+<p>You may be the same when it comes to your PhD. Most of the PhD students I interact with tend to have perfectionist tendencies — some more than others. </p>
+<p>When you get feedback on your work, or when you are at conferences or other public speaking events, you sometimes have the same response to negativity. It can feel like the end of the world, and it can feel like your entire PhD journey is in vain. </p>
+<p>Sometimes this can be a good thing. Your worry and attention to detail can mean that you fix problems faster than most and that you’re more careful to avoid them in the first place. But it can also be detrimental. Much like me giving too much space and energy to that one review, you may find that negative feedback and critique can become more significant than it actually is. </p>
+<p>Step one in overcoming this is recognizing if and when it’s happening. Ask yourself if you’re putting too much focus on critique. Once you’ve begun to foster greater awareness, you can start to shift your perspective from one of ‘I’m doomed’ to one of ‘Okay, what can I learn from this?’</p>
+<p>Above all though, recognize your humanity and give yourself a break. We all make mistakes.  </p>
+<h1 id="Don’t-marry-your-thesis"><a href="#Don’t-marry-your-thesis" class="headerlink" title="Don’t marry your thesis"></a>Don’t marry your thesis</h1><p>Most PhD students feel that to succeed, they need to marry their thesis. Recognize this? Do you feel like you have to devote your entire life to it, pushing away other things that are important for a balanced life (like, say, friends, partners or hobbies)?</p>
+<p>Instead of marrying your thesis, treat it like a cruel mistress. See it as this part of your life that is doing its best to ruin you and to make your life as difficult as possible but that you can keep on the periphery as an addendum to an otherwise balanced, fulfilled life. </p>
+<p>What does that mean in practice? It means showing up when you have to and letting it do its best to ruin you. But – and this is the crucial bit – it also means stepping away from it regularly, having clear PhD/life boundaries, not taking things too personally, and realizing that your PhD is just one part of your life, not all of it. </p>
+<h1 id="Take-some-time-off"><a href="#Take-some-time-off" class="headerlink" title="Take some time off"></a>Take some time off</h1><p>We can kid ourselves and pretend every day is going to be a good one, or that we’re going to wake up with a spring in our step. But life (and your PhD) doesn’t work like that.   </p>
+<p>You’re going to have days where you feel rubbish, or you don’t want to get out of bed. You’ll wake up with no confidence, or crippled with self-doubt, left wondering what the point of it all is, or why you even started a PhD in the first place. It’s at times like this that you need to embrace the power of taking a day off.</p>
+<p>If you teach, find cover. If you work in a lab, let your supervisor know you’re sick. If you have a chapter to finish, it’ll still be there when you come back.</p>
+<p>Remember, just because you haven’t got physical symptoms doesn’t mean you don’t need some you-time, or to curl up on the sofa in front of the TV.</p>
+<p>The benefits will be great. By recognizing your low mood, recharging your batteries and taking time out to care for your own wellbeing you can avoid bigger problems in the long run and come back to your PhD the next day in a more positive frame of mind. The alternative is that you fight through, fail to recognize that part of being human is having off-days, and then create bigger problems as you find your performance lacking and your stress levels rising.</p>
+<h1 id="Recognize-unfairness"><a href="#Recognize-unfairness" class="headerlink" title="Recognize unfairness"></a>Recognize unfairness</h1><p>Even when you do have off days, or when the world is conspiring against you, don’t fall into the trap of thinking that ‘life is unfair’.</p>
+<p>If you ever find yourself saying those words to yourself, ask yourself whether you are doing so because you assume that life should be fair, or because you think it will be fair if only x, y or z changed.</p>
+<p>The truth is that life is unfair. The same is true of your PhD. Things won’t go according to plan, good work will get overlooked, more competent people will get promoted, and you will be treated unfairly.</p>
+<p>It’s not right, nor is it rational, but it’s reality.</p>
+<p>If you go through your PhD program assuming that life is fair, you will be disappointed as you confront the environment around you. I don’t intend to be defeatist. Instead by shifting your assumption about the world and your program – and thus assuming that it is, in fact, unfair – you better prepare yourself for those instances in which things don’t go according to plan or you do get treated badly.</p>
+<p>The alternative is kidding yourself that things should go right and then getting thrown off balance when they inevitably don’t.</p>
+<p>Building up this resilience is key to deflecting a lot of the irrational, nonsensical behaviors and outcomes you encounter on your PhD journey. Without it, you’ll be disheartened.</p>
+<h1 id="Be-mindful"><a href="#Be-mindful" class="headerlink" title="Be mindful"></a>Be mindful</h1><p>I want you to imagine you’re holding a small red pillow. If I were to ask you to pick a pen up off the floor without dropping the pillow, you’d be able to do it. Sure, it’d be a bit cumbersome, but you’d manage.</p>
+<p>Now imagine that I added one blue pillow on top of your red pillow. Picking that pen up is getting a bit more difficult now, isn’t it?</p>
+<p>Gradually, I add one blue pillow after another. As I do, you start to disappear behind a tower of pillows. Picking that pen up without dropping the pillows is now impossible.</p>
+<p>Now imagine that the red pillow represents a problem you’re having with your PhD. Perhaps it’s a problem with an experiment, or an issue you’re having planning a chapter. Whatever it is, it’s an objective issue you’re currently having.</p>
+<p>Much like the pen and the red pillow, even though you’ve got that problem on your mind, you can still go about your day to day life largely unencumbered.</p>
+<p>The blue pillows represent our brain’s capacity to worry, stress, ruminate, catastrophize and do all the other things it does to turn a small problem into a nightmare. Over time, you start to add blue pillows. You start to worry about whether you’re an imposter, or the perfectionist in you starts to convince you that you’re a failure. You start to worry about whether you’re going to complete the work or even why you bothered to start in the first place.</p>
+<p>Much like with the blue pillows, as you add these problems one by one, you start to feel their weight and you can’t perform basic functions. You notice you’re crippled with stress, anxiety or worry.</p>
+<p>But you have a choice. Sure, the problem – the red pillow – is real so you can’t really change that. However, you can change how you respond and you can choose not to add the blue pillows. Catch yourself when you’re adding those pillows and stop yourself doing it.</p>
+<p>That’s the art of mindfulness. It’s the art of choosing how you respond to the world around you and it’s a great way to manage common PhD stresses and anxieties.</p>
+<p>Practicing mindfulness in this way sounds straightforward, but it’s an art and it takes practice. A good place to start is a guide I’ve recently published on The PhD Knowledge Base that talks about the science of mindfulness for PhD students.</p>
+<h1 id="Wrapping-up"><a href="#Wrapping-up" class="headerlink" title="Wrapping up"></a>Wrapping up</h1><p>No advice is ever going to get away from the fact that doing a PhD is hard and that, to succeed, you need as much guts, resilience and fighting power as you do brains. But it is my hope that these nine tips for achieving PhD success will help you think differently about the journey you are on, and cause you to reflect on your own experience and your own way of doing things.</p>
+<p>Keep your head down, be kind to yourself and put the hours in. You’ll get there in the end.</p>
+]]></content>
+      <categories>
+        <category>Research</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+        <tag>Scientist</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Python Tutorial</title>
     <url>/posts/9dac317c/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="function"><a href="#function" class="headerlink" title="function"></a>function</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">function_name</span>(<span class="params">input1, input2, ...</span>):</span></span><br><span class="line">    function content</span><br><span class="line">    <span class="keyword">return</span> output1, output2, ...</span><br><span class="line"></span><br><span class="line">function_name()</span><br></pre></td></tr></table></figure>
@@ -2816,78 +2888,6 @@ Hello world.
       <tags>
         <tag>Skill</tag>
         <tag>Python</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>The 9 most effective ways to achieve PhD success | Max Lempriere | Share</title>
-    <url>/posts/49b9e729/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cudGhlcGhkcHJvb2ZyZWFkZXJzLmNvbS93cml0aW5nLzktdGlwcy10by1oZWxwLXlvdS1hY2hpZXZlLXBoZC1zdWNjZXNzLw==">The 9 most effective ways to achieve PhD success<i class="fa fa-external-link-alt"></i></span></p>
-</blockquote>
-<blockquote>
-<p>Writing a PhD is physically, intellectually and emotionally daunting. You may spend each day doubting yourself, not sure if you’re making the right choices and unsure whether you’ve got what it takes. During my life, I’ve helped thousands of PhD students like you. I want to share with you the nine most effective ways of achieving PhD success.  </p>
-<p>They should give you some fresh insight into what it means to be a PhD student and what it takes to achieve PhD success. They will also make you think differently about the way you work. Some you may be familiar with, but others may be new. As with everything, keep an open mind and ask yourself whether a particular tip would be useful in the context of your own research and way of working.</p>
-</blockquote>
-<span id="more"></span>
-
-<h1 id="Stop-with-the-perfectionism"><a href="#Stop-with-the-perfectionism" class="headerlink" title="Stop with the perfectionism"></a>Stop with the perfectionism</h1><p>Your first drafts are probably going to be awful, and your final drafts will still have things that you could improve. In short, your thesis will never be perfect. </p>
-<p>However, just because your PhD isn’t perfect, that doesn’t mean it’s a failure. </p>
-<p> You may try and convince yourself otherwise, but a few mistakes here and there or a research design flaw or two aren’t the end of the world. If you’re a perfectionist like I am, you probably know the struggle of trying to make sure you’ve made everything as good as it possibly can be, often at great cost. You also know the panic that sets in when you realise you’ve made a mistake. </p>
-<p>You’ll recognize how the importance of that mistake escalates. In your eyes, it isn’t just a mistake. It’s the end of the world. When you spot yourself falling into this trap, remind yourself that you’re only human, the person reading your thesis is human, and you’re not expected to execute everything perfectly all of the time. </p>
-<p>In short: give yourself a break. </p>
-<h1 id="Ask-‘So-what-’"><a href="#Ask-‘So-what-’" class="headerlink" title="Ask, ‘So what?’"></a>Ask, ‘So what?’</h1><p>I proofread a lot of PhDs and I coach a lot of PhD students. When I do, I find myself asking one question over and over again: ‘So what?’</p>
-<p>When you are writing about, say, particular design decisions, or a specific theoretical concept, ask yourself ‘so what?’ That way, you go beyond merely discussing a particular phenomenon, method, or whatever, and instead tell the reader why such a discussion is important and why it is relevant in the context of your thesis.</p>
-<p>That’s because, in your thesis, everything should be rooted in your research questions, research aims and research objectives. By asking ‘so what’ you are showing what those roots look like and, in doing so, being explicit about why a particular discussion is worth having and telling the reader why they should care you are having it. </p>
-<p>For example, if you are talking about a particular method, by asking ‘so what’ you tell the reader why that method is appropriate given your questions/aims/objectives, what benefits or drawbacks it will bring, and how it will bolster your study. If you fail to ask ‘so what’, you’re just describing a method and the reader is left wondering – you guessed it – ‘so what?’ </p>
-<h1 id="Be-critical"><a href="#Be-critical" class="headerlink" title="Be critical"></a>Be critical</h1><p>Critical engagement with the literature is key when conducting a PhD. It isn’t just enough to summarize existing research, you need to pick holes in it and critique it. You need to say what’s good and bad about it, why it is relevant, what could be improved, and more. I’ve written an extensive guide on how to be critical in your literature review, so if this is something you struggle with, you should check it out. </p>
-<p>Beyond this, you need to be critical of your own writing. When you read back through drafts of your text, you should ask the same questions of your words: what works, what doesn’t, what is relevant, what could be improved, and so on. </p>
-<p>What separates draft chapters from passable, finished ones is the level of critical engagement. This has two implications. First, you won’t succeed unless you’re thinking and writing critically. Second, your first drafts won’t be as critical as they need to be and that’s fine. That’ll come as you revise the draft and you start to critically engage with your own writing. </p>
-<h1 id="Stay-organized-as-you-write"><a href="#Stay-organized-as-you-write" class="headerlink" title="Stay organized as you write"></a>Stay organized as you write</h1><p>Learn how to stay organized and productive. Your thesis is going to run into several hundred pages, so staying on top of its organization and layout is key. </p>
-<p>The easiest way to easily navigate through your text and to see what’s what is using the document map feature in Word. By effectively using the headings style pane, you can create a scrollable and clickable document map. It’s great for showing you the heading structure and allowing you to easily click your way through the text. For more info on how to create these, click here. </p>
-<p>A bonus of using the headings pane to correctly label and format all your titles, headings and subheadings, is that you can create a table of contents with just one click of the button. This will be your best friend in the run-up to submission. For more info on how to create a table of contents, click here. </p>
-<p>Another thing that you’re not going to have time to do before submission is manually compile your bibliography. For the love of all that’s holy, use referencing software. My preference is Zotero, because it’s free, simple to use, cloud-based and integrates with Word. It might take you a while to add all your references the first time you use it, but because you can then add the references in the text as you write, compiling your reference list is as easy as telling Zotero what referencing style you need and pressing one button. </p>
-<h1 id="Accept-criticism"><a href="#Accept-criticism" class="headerlink" title="Accept criticism"></a>Accept criticism</h1><p>If there’s one thing that perfectionists can’t handle it is criticism. Ring a bell? It does for me. </p>
-<p>Let me give you an example. I like to think that I’m a pretty great proofreader and PhD-coach. My feedback and reviews are, on the whole, glowing. But sometimes I get a bad one when someone isn’t happy.</p>
-<p>Now, the rational part of my brain tells me that I tried my hardest and that one negative review out of hundreds isn’t the end of the world, however disappointing. The perfectionist side tells me that my business is doomed. The imposter syndrome kicks in. ‘They’ve found me out!’ it screams. I panic, think about that one review all day and give it far more space and energy that it deserves. </p>
-<p>You may be the same when it comes to your PhD. Most of the PhD students I interact with tend to have perfectionist tendencies — some more than others. </p>
-<p>When you get feedback on your work, or when you are at conferences or other public speaking events, you sometimes have the same response to negativity. It can feel like the end of the world, and it can feel like your entire PhD journey is in vain. </p>
-<p>Sometimes this can be a good thing. Your worry and attention to detail can mean that you fix problems faster than most and that you’re more careful to avoid them in the first place. But it can also be detrimental. Much like me giving too much space and energy to that one review, you may find that negative feedback and critique can become more significant than it actually is. </p>
-<p>Step one in overcoming this is recognizing if and when it’s happening. Ask yourself if you’re putting too much focus on critique. Once you’ve begun to foster greater awareness, you can start to shift your perspective from one of ‘I’m doomed’ to one of ‘Okay, what can I learn from this?’</p>
-<p>Above all though, recognize your humanity and give yourself a break. We all make mistakes.  </p>
-<h1 id="Don’t-marry-your-thesis"><a href="#Don’t-marry-your-thesis" class="headerlink" title="Don’t marry your thesis"></a>Don’t marry your thesis</h1><p>Most PhD students feel that to succeed, they need to marry their thesis. Recognize this? Do you feel like you have to devote your entire life to it, pushing away other things that are important for a balanced life (like, say, friends, partners or hobbies)?</p>
-<p>Instead of marrying your thesis, treat it like a cruel mistress. See it as this part of your life that is doing its best to ruin you and to make your life as difficult as possible but that you can keep on the periphery as an addendum to an otherwise balanced, fulfilled life. </p>
-<p>What does that mean in practice? It means showing up when you have to and letting it do its best to ruin you. But – and this is the crucial bit – it also means stepping away from it regularly, having clear PhD/life boundaries, not taking things too personally, and realizing that your PhD is just one part of your life, not all of it. </p>
-<h1 id="Take-some-time-off"><a href="#Take-some-time-off" class="headerlink" title="Take some time off"></a>Take some time off</h1><p>We can kid ourselves and pretend every day is going to be a good one, or that we’re going to wake up with a spring in our step. But life (and your PhD) doesn’t work like that.   </p>
-<p>You’re going to have days where you feel rubbish, or you don’t want to get out of bed. You’ll wake up with no confidence, or crippled with self-doubt, left wondering what the point of it all is, or why you even started a PhD in the first place. It’s at times like this that you need to embrace the power of taking a day off.</p>
-<p>If you teach, find cover. If you work in a lab, let your supervisor know you’re sick. If you have a chapter to finish, it’ll still be there when you come back.</p>
-<p>Remember, just because you haven’t got physical symptoms doesn’t mean you don’t need some you-time, or to curl up on the sofa in front of the TV.</p>
-<p>The benefits will be great. By recognizing your low mood, recharging your batteries and taking time out to care for your own wellbeing you can avoid bigger problems in the long run and come back to your PhD the next day in a more positive frame of mind. The alternative is that you fight through, fail to recognize that part of being human is having off-days, and then create bigger problems as you find your performance lacking and your stress levels rising.</p>
-<h1 id="Recognize-unfairness"><a href="#Recognize-unfairness" class="headerlink" title="Recognize unfairness"></a>Recognize unfairness</h1><p>Even when you do have off days, or when the world is conspiring against you, don’t fall into the trap of thinking that ‘life is unfair’.</p>
-<p>If you ever find yourself saying those words to yourself, ask yourself whether you are doing so because you assume that life should be fair, or because you think it will be fair if only x, y or z changed.</p>
-<p>The truth is that life is unfair. The same is true of your PhD. Things won’t go according to plan, good work will get overlooked, more competent people will get promoted, and you will be treated unfairly.</p>
-<p>It’s not right, nor is it rational, but it’s reality.</p>
-<p>If you go through your PhD program assuming that life is fair, you will be disappointed as you confront the environment around you. I don’t intend to be defeatist. Instead by shifting your assumption about the world and your program – and thus assuming that it is, in fact, unfair – you better prepare yourself for those instances in which things don’t go according to plan or you do get treated badly.</p>
-<p>The alternative is kidding yourself that things should go right and then getting thrown off balance when they inevitably don’t.</p>
-<p>Building up this resilience is key to deflecting a lot of the irrational, nonsensical behaviors and outcomes you encounter on your PhD journey. Without it, you’ll be disheartened.</p>
-<h1 id="Be-mindful"><a href="#Be-mindful" class="headerlink" title="Be mindful"></a>Be mindful</h1><p>I want you to imagine you’re holding a small red pillow. If I were to ask you to pick a pen up off the floor without dropping the pillow, you’d be able to do it. Sure, it’d be a bit cumbersome, but you’d manage.</p>
-<p>Now imagine that I added one blue pillow on top of your red pillow. Picking that pen up is getting a bit more difficult now, isn’t it?</p>
-<p>Gradually, I add one blue pillow after another. As I do, you start to disappear behind a tower of pillows. Picking that pen up without dropping the pillows is now impossible.</p>
-<p>Now imagine that the red pillow represents a problem you’re having with your PhD. Perhaps it’s a problem with an experiment, or an issue you’re having planning a chapter. Whatever it is, it’s an objective issue you’re currently having.</p>
-<p>Much like the pen and the red pillow, even though you’ve got that problem on your mind, you can still go about your day to day life largely unencumbered.</p>
-<p>The blue pillows represent our brain’s capacity to worry, stress, ruminate, catastrophize and do all the other things it does to turn a small problem into a nightmare. Over time, you start to add blue pillows. You start to worry about whether you’re an imposter, or the perfectionist in you starts to convince you that you’re a failure. You start to worry about whether you’re going to complete the work or even why you bothered to start in the first place.</p>
-<p>Much like with the blue pillows, as you add these problems one by one, you start to feel their weight and you can’t perform basic functions. You notice you’re crippled with stress, anxiety or worry.</p>
-<p>But you have a choice. Sure, the problem – the red pillow – is real so you can’t really change that. However, you can change how you respond and you can choose not to add the blue pillows. Catch yourself when you’re adding those pillows and stop yourself doing it.</p>
-<p>That’s the art of mindfulness. It’s the art of choosing how you respond to the world around you and it’s a great way to manage common PhD stresses and anxieties.</p>
-<p>Practicing mindfulness in this way sounds straightforward, but it’s an art and it takes practice. A good place to start is a guide I’ve recently published on The PhD Knowledge Base that talks about the science of mindfulness for PhD students.</p>
-<h1 id="Wrapping-up"><a href="#Wrapping-up" class="headerlink" title="Wrapping up"></a>Wrapping up</h1><p>No advice is ever going to get away from the fact that doing a PhD is hard and that, to succeed, you need as much guts, resilience and fighting power as you do brains. But it is my hope that these nine tips for achieving PhD success will help you think differently about the journey you are on, and cause you to reflect on your own experience and your own way of doing things.</p>
-<p>Keep your head down, be kind to yourself and put the hours in. You’ll get there in the end.</p>
-]]></content>
-      <categories>
-        <category>Research</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-        <tag>Scientist</tag>
       </tags>
   </entry>
   <entry>
@@ -3216,6 +3216,75 @@ Hello world.
       </tags>
   </entry>
   <entry>
+    <title>What It Takes | S. A. Schwarzman</title>
+    <url>/posts/edb01621/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://i.loli.net/2021/06/04/EcefrZsFYPNUzvR.jpg' width='80%'>
+
+<p>本书中最后一部分给出了类似Ray Dalio在《原则》一书中给出的原则。摘要如下，这部分可以看作是本书想要传达理念的概括性总结，书中讲述的各种故事，是为了说明一下的道理。然而诚然，我们知道了很多道理，依然过不好这一生，所以，just do it.</p>
+<span id="more"></span>
+
+<p><strong>25 RULES FOR WORK AND LIFE</strong> </p>
+<ol>
+<li><p>It’s as easy to do something big as it is to do something small, so reach for a fantasy worthy of your pursuit, with rewards commensurate to your effort.</p>
+</li>
+<li><p>The best executives are made, not born. They never stop learning. Study the people and organizations in your life that have had enormous success. They offer a free course from the real world to help you improve.</p>
+</li>
+<li><p>Write or call the people you admire, and ask for advice or a meeting. You never know who will be willing to meet with you. You may end up learning something important or form a connection you can leverage for the rest of your life. Meeting people early in life creates an unusual bond.</p>
+</li>
+<li><p>There is nothing more interesting to people than their own problems. Think about what others are dealing with, and try to come up with ideas to help them. Almost anyone, however senior or important, is receptive to new ideas provided they are thoughtful.</p>
+</li>
+<li><p>Every business is a closed, integrated system with a set of distinct but interrelated parts. Great managers understand how each part works on its own and in relation to all thethe others.</p>
+</li>
+<li><p>Information is the most important asset in business. The more you know, the more perspectives you have, and the more likely you are to spot patterns and anomalies before your competition. So always be open to new inputs, whether they are people, experiences, or knowledge.</p>
+</li>
+<li><p>When you’re young, only take a job that provides you with a steep learning curve and strong training. First jobs are foundational. Don’t take a job just because it seems prestigious.</p>
+</li>
+<li><p>When presenting yourself, remember that impressions matter. The whole picture has to be right. Others will be watching for all sorts of clues and cues that tell who you are. Be on time. Be authentic. Be prepared.</p>
+</li>
+<li><p>No one person, however smart, can solve every problem. But an army of smart people talking openly with one another will.</p>
+</li>
+<li><p>People in a tough spot often focus on their own problems, when the answer usually lies in fixing someone else’s.</p>
+</li>
+<li><p>Believe in something greater than yourself and your personal needs. It can be your company, your country, or a duty for service. Any challenge you tackle that is inspired by your beliefs and core values will be worth it, regardless of whether you succeed or fail.</p>
+</li>
+<li><p>Never deviate from your sense of right and wrong. Your integrity must be unquestionable. It is easy to do what’s right when you don’t have to write a check or suffer any consequences. It’s harder when you have to give something up. Always do what you say you will, and never mislead anyone for your own advantage.</p>
+</li>
+<li><p>Be bold. Successful entrepreneurs, managers, and individuals have the confidence and courage to act when the moment seems right. They accept risk when others are cautious and take action when everyone else is frozen, but they do so smartly. This trait is the mark of a leader.</p>
+</li>
+<li><p>Never get complacent. Nothing is forever. Whether it is an individual or a business, your competition will defeat you if you are not constantly seeking ways to reinvent and improve yourself. Organizations, especially, are more fragile than you think.</p>
+</li>
+<li><p>Sales rarely get made on the first pitch. Just because you believe in something doesn’t mean everyone else will. You need to be able to sell your vision with conviction over and over again. Most people don’t like change, so you need to be able to convince them why they should accept it. Don’t be afraid to ask for what you want.</p>
+</li>
+<li><p>If you see a huge, transformative opportunity, don’t worry that no one else is pursuing it. You might be seeing something others don’t. The harder the problem is, the more limited the competition, and the greater the reward for whomever can solve it.</p>
+</li>
+<li><p>Success comes down to rare moments of opportunity. Be open, alert, and ready to seize them. Gather the right people and resources; then commit. If you’re not prepared to apply that kind of effort, either the opportunity isn’t as compelling as you think or you are not the right person to pursue it.</p>
+</li>
+<li><p>Time wounds all deals, sometimes even fatally. Often the longer you wait, the more surprises await you. In tough negotiations especially, keep everyone at the table long enough to reach an agreement.</p>
+</li>
+<li><p>Don’t lose money!!! Objectively assess the risks of every opportunity.</p>
+</li>
+<li><p>Make decisions when you are ready, not under pressure. Others will always push you to make a decision for their own purposes, internal politics, or some other external need. But you can almost always say, “I need a little more time to think about this. I’ll get back to you.” This tactic is very effective at defusing even the most difficult and uncomfortable situations.</p>
+</li>
+<li><p>Worrying is an active, liberating activity. If channeled appropriately, it allows you to articulate the downside in any situation and drives you to take action to avoid it.</p>
+</li>
+<li><p>Failure is the best teacher in an organization. Talk about failures openly and objectively. Analyze what went wrong. You will learn new rules for decision making and organizational behavior. If evaluated well, failures have the potential to change the course of any organization and make it more successful in the future.</p>
+</li>
+<li><p>Hire 10s whenever you can. They are proactive about sensing problems, designing solutions, and taking a business in new directions. They also attract and hire other 10s. You can always build something around a 10.</p>
+</li>
+<li><p>Be there for the people you know to be good, even when everyone else is walking away. Anyone can end up in a tough situation. A random act of kindness in someone’s time of need can change the course of a life and createan unexpected friendship or loyalty.</p>
+</li>
+<li><p>Everyone has dreams. Do what you can to help others achieve theirs.</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Celebrity</category>
+      </categories>
+      <tags>
+        <tag>Finance</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Win10 OS Tutorials</title>
     <url>/posts/3e6fcc87/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Word"><a href="#Word" class="headerlink" title="Word"></a>Word</h1><p>当在Word中插入页眉的时候，经常会在页眉下方出现一条横线，可以选中页眉区，进入编辑模式，Ctrl+Shift+N快捷键，清除页眉原有格式，然后重新编辑页眉格式即可。</p>
@@ -3406,87 +3475,38 @@ Hello world.
       </tags>
   </entry>
   <entry>
-    <title>What It Takes | S. A. Schwarzman</title>
-    <url>/posts/edb01621/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><img data-src='https://i.loli.net/2021/06/04/EcefrZsFYPNUzvR.jpg' width='80%'>
-
-<p>本书中最后一部分给出了类似Ray Dalio在《原则》一书中给出的原则。摘要如下，这部分可以看作是本书想要传达理念的概括性总结，书中讲述的各种故事，是为了说明一下的道理。然而诚然，我们知道了很多道理，依然过不好这一生，所以，just do it.</p>
+    <title>文献管理软件：Zotero</title>
+    <url>/posts/69297f5/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>可以用来管理文献的工具有很多,比如 Mendeley, EndNote, NoteExpress 等。但是，经过相当长一段时间的摸索，我发现最好用的还是 Zotero。</p>
+<p>Zotero至少有如下优点：</p>
+<ol>
+<li>开源，更新活跃</li>
+<li>丰富的插件</li>
+<li>强大的检索功能</li>
+<li>支持多级文件夹</li>
+</ol>
 <span id="more"></span>
 
-<p><strong>25 RULES FOR WORK AND LIFE</strong> </p>
-<ol>
-<li><p>It’s as easy to do something big as it is to do something small, so reach for a fantasy worthy of your pursuit, with rewards commensurate to your effort.</p>
-</li>
-<li><p>The best executives are made, not born. They never stop learning. Study the people and organizations in your life that have had enormous success. They offer a free course from the real world to help you improve.</p>
-</li>
-<li><p>Write or call the people you admire, and ask for advice or a meeting. You never know who will be willing to meet with you. You may end up learning something important or form a connection you can leverage for the rest of your life. Meeting people early in life creates an unusual bond.</p>
-</li>
-<li><p>There is nothing more interesting to people than their own problems. Think about what others are dealing with, and try to come up with ideas to help them. Almost anyone, however senior or important, is receptive to new ideas provided they are thoughtful.</p>
-</li>
-<li><p>Every business is a closed, integrated system with a set of distinct but interrelated parts. Great managers understand how each part works on its own and in relation to all thethe others.</p>
-</li>
-<li><p>Information is the most important asset in business. The more you know, the more perspectives you have, and the more likely you are to spot patterns and anomalies before your competition. So always be open to new inputs, whether they are people, experiences, or knowledge.</p>
-</li>
-<li><p>When you’re young, only take a job that provides you with a steep learning curve and strong training. First jobs are foundational. Don’t take a job just because it seems prestigious.</p>
-</li>
-<li><p>When presenting yourself, remember that impressions matter. The whole picture has to be right. Others will be watching for all sorts of clues and cues that tell who you are. Be on time. Be authentic. Be prepared.</p>
-</li>
-<li><p>No one person, however smart, can solve every problem. But an army of smart people talking openly with one another will.</p>
-</li>
-<li><p>People in a tough spot often focus on their own problems, when the answer usually lies in fixing someone else’s.</p>
-</li>
-<li><p>Believe in something greater than yourself and your personal needs. It can be your company, your country, or a duty for service. Any challenge you tackle that is inspired by your beliefs and core values will be worth it, regardless of whether you succeed or fail.</p>
-</li>
-<li><p>Never deviate from your sense of right and wrong. Your integrity must be unquestionable. It is easy to do what’s right when you don’t have to write a check or suffer any consequences. It’s harder when you have to give something up. Always do what you say you will, and never mislead anyone for your own advantage.</p>
-</li>
-<li><p>Be bold. Successful entrepreneurs, managers, and individuals have the confidence and courage to act when the moment seems right. They accept risk when others are cautious and take action when everyone else is frozen, but they do so smartly. This trait is the mark of a leader.</p>
-</li>
-<li><p>Never get complacent. Nothing is forever. Whether it is an individual or a business, your competition will defeat you if you are not constantly seeking ways to reinvent and improve yourself. Organizations, especially, are more fragile than you think.</p>
-</li>
-<li><p>Sales rarely get made on the first pitch. Just because you believe in something doesn’t mean everyone else will. You need to be able to sell your vision with conviction over and over again. Most people don’t like change, so you need to be able to convince them why they should accept it. Don’t be afraid to ask for what you want.</p>
-</li>
-<li><p>If you see a huge, transformative opportunity, don’t worry that no one else is pursuing it. You might be seeing something others don’t. The harder the problem is, the more limited the competition, and the greater the reward for whomever can solve it.</p>
-</li>
-<li><p>Success comes down to rare moments of opportunity. Be open, alert, and ready to seize them. Gather the right people and resources; then commit. If you’re not prepared to apply that kind of effort, either the opportunity isn’t as compelling as you think or you are not the right person to pursue it.</p>
-</li>
-<li><p>Time wounds all deals, sometimes even fatally. Often the longer you wait, the more surprises await you. In tough negotiations especially, keep everyone at the table long enough to reach an agreement.</p>
-</li>
-<li><p>Don’t lose money!!! Objectively assess the risks of every opportunity.</p>
-</li>
-<li><p>Make decisions when you are ready, not under pressure. Others will always push you to make a decision for their own purposes, internal politics, or some other external need. But you can almost always say, “I need a little more time to think about this. I’ll get back to you.” This tactic is very effective at defusing even the most difficult and uncomfortable situations.</p>
-</li>
-<li><p>Worrying is an active, liberating activity. If channeled appropriately, it allows you to articulate the downside in any situation and drives you to take action to avoid it.</p>
-</li>
-<li><p>Failure is the best teacher in an organization. Talk about failures openly and objectively. Analyze what went wrong. You will learn new rules for decision making and organizational behavior. If evaluated well, failures have the potential to change the course of any organization and make it more successful in the future.</p>
-</li>
-<li><p>Hire 10s whenever you can. They are proactive about sensing problems, designing solutions, and taking a business in new directions. They also attract and hire other 10s. You can always build something around a 10.</p>
-</li>
-<li><p>Be there for the people you know to be good, even when everyone else is walking away. Anyone can end up in a tough situation. A random act of kindness in someone’s time of need can change the course of a life and createan unexpected friendship or loyalty.</p>
-</li>
-<li><p>Everyone has dreams. Do what you can to help others achieve theirs.</p>
-</li>
-</ol>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cuem90ZXJvLm9yZy9zdXBwb3J0L2tiL2tleWJvYXJkX3Nob3J0Y3V0cw==">Zotero 5.0 Keyboard Shortcuts<i class="fa fa-external-link-alt"></i></span> </p>
+<h1 id="Plugin"><a href="#Plugin" class="headerlink" title="Plugin"></a>Plugin</h1><ul>
+<li><span class="exturl" data-url="aHR0cDovL3pvdGZpbGUuY29tLw==">ZotFile<i class="fa fa-external-link-alt"></i></span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9yZXRvcnF1ZS5yZS96b3Rlcm8tYmV0dGVyLWJpYnRleC8=">Better BibTeX<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+<h1 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h1><ul>
+<li><em><strong>How can I see what collections my item is in?</strong></em></li>
+</ul>
+<p>To see all the collections an item is in, select the item and then hold down the Option key (macOS), Control key (Windows), or Alt key (Linux). This will highlight all collections that contain the selected item. [<span class="exturl" data-url="aHR0cHM6Ly93d3cuem90ZXJvLm9yZy9zdXBwb3J0L2tiL2NvbGxlY3Rpb25zX2NvbnRhaW5pbmdfYW5faXRlbQ==">source<i class="fa fa-external-link-alt"></i></span>]</p>
+<ul>
+<li><em><strong>How can I move an item to another collection?</strong></em></li>
+</ul>
+<p>To move items between collections, hold down Cmd (Mac) or Shift (Windows/Linux) when dragging items to the new collection.</p>
 ]]></content>
       <categories>
-        <category>Celebrity</category>
+        <category>Tool</category>
       </categories>
       <tags>
-        <tag>Finance</tag>
+        <tag>Scientist</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>增广贤文</title>
-    <url>/posts/d41c0df3/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
-<p>《增广贤文》又名《昔时贤文》、《古今贤文》。书名最早见之于明代万历年间的戏曲《牡丹亭》，据此可推知此书最迟写成于万历年间。后经明、清两代文人不断增补，才成现在这个模样，称《增广昔时贤文》，通称《增广贤文》。作者未见任何书载，只知清同治年间儒生周希陶曾进行过重订。</p>
-</blockquote>
-<span id="more"></span>
-
-<p>昔时贤文，诲汝谆谆，集韵增广，多见多闻。<br>观今宜鉴古，无古不成今。<br>知己知彼，将心比心。<br>酒逢知己饮，诗向会人吟。<br>相识满天下，知心能几人。<br>相逢好似初相识，到老终无怨恨心。<br>近水知鱼性，近山识鸟音。<br>易涨易退山溪水，易反易覆小人心。<br>运去金成铁，时来铁似金，读书须用意，一字值千金。<br>逢人且说三分话，未可全抛一片心。<br>有意栽花花不发，无心插柳柳成阴。<br>画虎画皮难画骨，知人知面不知心。<br>钱财如粪土，仁义值千金。<br>流水下滩非有意，白云出岫本无心。<br>当时若不登高望，谁信东流海洋深。<br>路遥知马力，事久见人心。<br>两人一般心，无钱堪买金，一人一般心，有钱难买针。<br>相见易得好，久住难为人。<br>马行无力皆因瘦，人不风流只为贫。<br>饶人不是痴汉，痴汉不会饶人。<br>是亲不是亲，非亲却是亲。<br>美不美，乡中水，亲不亲，故乡人。<br>莺花犹怕春光老，岂可教人枉度春。<br>相逢不饮空归去，洞口桃花也笑人。<br>红粉佳人休使老，风流浪子莫教贫。<br>在家不会迎宾客，出外方知少主人。<br>黄芩无假，阿魏无真。<br>客来主不顾，应恐是痴人。<br>贫居闹市无人问，富在深山有远亲。<br>谁人背后无人说，哪个人前不说人。<br>有钱道真语，无钱语不真。<br>不信但看筵中酒，杯杯先劝有钱人。<br>闹里有钱，静处安身。<br>来如风雨，去似微尘。<br>长江后浪推前浪，世上新人赶旧人。<br>近水楼台先得月，向阳花木早逢春。<br>莫道君行早，更有早行人。<br>莫信直中直，须防仁不仁。<br>山中有直树，世上无直人。<br>自恨枝无叶，莫怨太阳偏。<br>大家都是命，半点不由人。<br>一年之计在于春，一日之计在于晨，一家之计在于和，一生之计在于勤。<br>责人之心责己，恕己之心恕人。<br>守口如瓶，防意如城。<br>宁可人负我，切莫我负人。<br>再三须慎意，第一莫欺心。<br>虎生犹可近，人熟不堪亲。<br>来说是非者，便是是非人。<br>远水难救近火，远亲不如近邻。<br>有茶有酒多兄弟，急难何曾见一人。<br>人情似纸张张薄，世事如棋局局新。<br>山中也有千年树，世上难逢百岁人。<br>力微休负重，言轻莫劝人。<br>无钱休入众，遭难莫寻亲。<br>平生莫作皱眉事，世上应无切齿人。<br>士者国之宝，儒为席上珍。<br>若要断酒法，醒眼看醉人。<br>求人须求大丈夫，济人须济急时无。<br>渴时一滴如甘露，醉后添杯不如无。<br>久住令人贱，频来亲也疏。<br>酒中不语真君子，财上分明大丈夫。<br>出家如初，成佛有馀。<br>积金千两，不如明解经书。<br>养子不教如养驴，养女不教如养猪。<br>有田不耕仓廪虚，有书不读子孙愚。<br>仓廪虚兮岁月乏，子孙愚兮礼义疏。<br>听君一席话，胜读十年书。<br>人不通今古，马牛如襟裾。<br>茫茫四海人无数，哪个男儿是丈夫。<br>白酒酿成缘好客，黄金散尽为收书。<br>救人一命，胜造七级浮屠。<br>城门失火，殃及池鱼。<br>庭前生瑞草，好事不如无。<br>欲求生富贵，须下死工夫。<br>百年成之不足，一旦败之有馀。<br>人心似铁，官法如炉。<br>善化不足，恶化有馀。<br>水太清则无鱼，人至察则无徒。<br>知者减半，省者全无。<br>在家由父，出家从夫。<br>痴人畏妇，贤女敬夫。<br>是非终日有，不听自然无。<br>宁可正而不足，不可邪而有馀。<br>宁可信其有，不可信其无。<br>竹篱茅舍风光好，道院僧堂终不如。<br>命里有时终须有，命里无时莫强求。<br>道院迎仙客，书堂隐相儒。<br>庭栽栖凤竹，池养化龙鱼。<br>结交须胜己，似我不如无。<br>但看三五日，相见不如初。<br>人情似水分高下，世事如云任卷舒。<br>会说说都是，不会说无礼。<br>磨刀恨不利，刀利伤人指。<br>求财恨不得，财多害自己。<br>知足常足，终身不辱。<br>知止常止，终身不耻。<br>有福伤财，无福伤己。<br>差之毫厘，失之千里。<br>若登高必自卑，若涉远必自迩。<br>三思而行，再思可矣。<br>使口不如自走，求人不如求己。<br>小时是兄弟，长大各乡里。<br>妒财莫妒食，怨生莫怨死。<br>人见白头嗔，我见白头喜。<br>多少少年亡，不到白头死。<br>墙有缝，壁有耳。<br>好事不出门，恶事传千里。<br>贼是小人，知过君子。<br>君子固穷，小人穷斯滥也。<br>贫穷自在，富贵多忧。<br>不以我为德，反以我为仇。<br>宁向直中取，不可曲中求。<br>人无远虑，必有近忧。<br>知我者谓我心忧，不知我者谓我何求。<br>晴天不肯去，只待雨淋头。<br>成事莫说，覆水难收。<br>是非只为多开口，烦恼皆因强出头。<br>忍得一时之气，免得百日之忧。<br>近来学得乌龟法，得缩头时且缩头。<br>惧法朝朝乐，欺公日日忧。<br>人生一世，草生一春。<br>黑发不知勤学早，白首方悔读书迟。<br>月到十五光明少，人到中年万事休。<br>儿孙自有儿孙福，莫为儿孙作马牛。<br>人生不满百，常怀千岁忧。<br>今朝有酒今朝醉，明日愁来明日忧。<br>路逢险处难回避，事到头来不自由。<br>药能医假病，酒不解真愁。<br>人贫不语，水平不流。<br>一家有女百家求，一马不行百马忧。<br>有花方酌酒，无月不登楼。<br>三杯通大道，一醉解千愁。<br>深山毕竟藏猛虎，大海终须纳细流。<br>惜花须检点，爱月不梳头。<br>大抵选他肌骨好，不擦红粉也风流。<br>受恩深处宜先退，得意浓时便可休。<br>莫待是非来入耳，从前恩爱反为仇。<br>留得五湖明月在，不愁无处下金钩。<br>休别有鱼处，莫恋浅滩头。<br>去时终须去，再三留不住。<br>忍一句，息一怒，饶一着，退一步。<br>三十不豪，四十不富，五十将来寻死路。<br>生不论魂，死不认尸。<br>父母恩深终有别，夫妻义重也分离。<br>人生似鸟同林宿，大限来时各自飞。<br>人善被人欺，马善被人骑。<br>人无横财不富，马无野草不肥。<br>人恶人怕天不怕，人善人欺天不欺。<br>善恶到头终有报，只争来早与来迟。<br>黄河尚有澄清日，岂可人无得运时。<br>得宠思辱，安居虑危。<br>念念有如临敌日，心心常似过桥时。<br>英雄行险道，富贵似花枝。<br>人情莫道春光好，只怕秋来有冷时。<br>送君千里，终须一别。<br>但将冷眼看螃蟹，看你横行到几时。<br>见事莫说，问事不知。<br>闲事休管，无事早归。<br>假缎染就真红色，也被旁人说是非。<br>善事可作，恶事莫为。<br>许人一物，千金不移。<br>龙生龙子，虎生豹儿。<br>龙游浅水遭虾戏，虎落平阳被犬欺。<br>一举首登龙虎榜，十年身到凤凰池。<br>十年窗下无人问，一举成名天下知。<br>酒债寻常行处有，人生七十古来稀。<br>养儿待老，积谷防饥。<br>鸡豚狗彘之畜，无失其时。<br>数家之口，可以无饥矣。<br>常将有日思无日，莫把无时当有时。<br>时来风送滕王阁，运去雷轰荐福碑。<br>入门休问荣枯事，观看容颜便得知。<br>官清书吏瘦，神灵庙祝肥。<br>息却雷霆之怒，罢却虎狼之威。<br>饶人算人之本，输人算人之机。<br>好言难得，恶语易施。<br>一言既出，驷马难追。<br>道吾好者是吾贼，道吾恶者是吾师。<br>路逢侠客须呈剑，不是才人莫献诗。<br>三人同行，必有我师，择其善者而从之，其不善者而改之。<br>少壮不努力，老大徒悲伤。<br>人有善愿，天必佑之。<br>莫饮卯时酒，昏昏醉到酉。<br>莫骂酉时妻，一夜受孤凄。<br>种麻得麻，种豆得豆。<br>天眼恢恢，疏而不漏。<br>见官莫向前，做客莫在后。<br>宁添一斗，莫添一口。<br>螳螂捕蝉，岂知黄雀在后。<br>不求金玉重重贵，但愿儿孙个个贤。<br>一日夫妻，百世姻缘。<br>百世修来同船渡，千世修来共枕眠。<br>杀人一万，自损三千。<br>伤人一语，利如刀割。<br>枯木逢春犹再发，人无两度再少年。<br>未晚先投宿，鸡鸣早看天。<br>将相胸前堪走马，公候肚里好撑船。<br>富人思来年，穷人思眼前。<br>世上若要人情好，赊去物件莫取钱。<br>死生有命，富贵在天。<br>击石原有火，不击乃无烟。<br>为学始知道，不学亦徒然。<br>莫笑他人老，终须还到老。<br>但能依本分，终须无烦恼。<br>君子爱财，取之有道。<br>贞妇爱色，纳之以礼。<br>善有善报，恶有恶报。<br>不是不报，日子不到。<br>人而无信，不知其可也。<br>一人道好，千人传实。<br>凡事要好，须问三老。<br>若争小可，便失大道。<br>年年防饥，夜夜防盗。<br>学者如禾如稻，不学者如蒿如草。<br>遇饮酒时须饮酒，得高歌处且高歌。<br>因风吹火，用力不多。<br>不因渔父引，怎得见波涛。<br>无求到处人情好，不饮从他酒价高。<br>知事少时烦恼少，识人多处是非多。<br>入山不怕伤人虎，只怕人情两面刀。<br>强中更有强中手，恶人须用恶人磨。<br>会使不在家豪富，风流不用着衣多。<br>光阴似箭，日月如梭。<br>天时不如地利，地利不如人和。<br>黄金未为贵，安乐值钱多。<br>世上万般皆下品，思量唯有读书高。<br>世间好语书说尽，天下名山僧占多。<br>为善最乐，为恶难逃。<br>羊有跪乳之恩，鸦有反哺之义。<br>你急他未急，人闲心不闲。<br>隐恶扬善，执其两端。<br>妻贤夫祸少，子孝父心宽。<br>既坠釜甑，反顾无益。<br>翻覆之水，收之实难。<br>人生知足何时足，人老偷闲且是闲。<br>但有绿杨堪系马，处处有路透长安。<br>见者易，学者难。<br>莫将容易得，便作等闲看。<br>用心计较般般错，退步思量事事难。<br>道路各别，养家一般。<br>从俭入奢易，从奢入俭难。<br>知音说与知音听，不是知音莫与弹。<br>点石化为金，人心犹未足。<br>信了肚，卖了屋。<br>他人观花，不涉你目。<br>他人碌碌，不涉你足。<br>谁人不爱子孙贤，谁人不爱千钟粟。<br>莫把真心空计较，五行不是这题目。<br>与人不和，劝人养鹅。<br>与人不睦，劝人架屋。<br>但行好事，莫问前程。<br>河狭水急，人急计生。<br>明知山有虎，莫向虎山行。<br>路不行不到，事不为不成。<br>人不劝不善，钟不打不鸣。<br>无钱方断酒，临老始看经。<br>点塔七层，不如暗处一灯。<br>万事劝人休瞒昧，举头三尺有神明。<br>但存方寸土，留与子孙耕。<br>灭却心头火，剔起佛前灯。<br>惺惺常不足，懵懵作公卿。<br>众星朗朗，不如孤月独明。<br>兄弟相害，不如自生。<br>合理可作，小利莫争。<br>牡丹花好空入目，枣花虽小结实成。<br>欺老莫欺小，欺人心不明。<br>随分耕锄收地利，他时饱满谢苍天。<br>得忍且忍，得耐且耐。<br>不忍不耐，小事成大。<br>相论逞英雄，家计渐渐退。<br>贤妇令夫贵，恶妇令夫败。<br>一人有庆，兆民咸赖。<br>人老心未老，人穷志莫穷。<br>人无千日好，花无百日红。<br>杀人可恕，情理难容。<br>乍富不知新受用，乍贫难改旧家风。<br>座上客常满，樽中酒不空。<br>屋漏更遭连年雨，行船又遇打头风。<br>笋因落箨方成竹，鱼为奔波始化龙。<br>记得少年骑竹马，看看又是白头翁。<br>礼义生于富足，盗贼出于贫穷。<br>天上众星皆拱北，世间无水不朝东。<br>君子安贫，达人知命。<br>忠言逆耳利于行，良药苦口利于病。<br>顺天者存，逆天者亡。<br>人为财死，鸟为食亡。<br>夫妻相合好，琴瑟与笙簧。<br>有儿贫不久，无子富不长。<br>善必寿老，恶必早亡。<br>爽口食多偏作药，快心事过恐生殃。<br>富贵定要安本分，贫穷不必枉思量。<br>画水无风空作浪，绣花虽好不闻香。<br>贪他一斗米，失却半年粮。<br>争他一脚豚，反失一肘羊。<br>龙归晚洞云犹湿，麝过春山草木香。<br>平生只会量人短，何不回头把自量。<br>见善如不及，见恶如探汤。<br>人贫志短，马瘦毛长。<br>自家心里急，他人未知忙。<br>贫无达士将金赠，病有高人说药方。<br>触来莫与说，事过心清凉。<br>秋至满山多秀色，春来无处不花香。<br>凡人不可貌相，海水不可斗量。<br>清清之水，为土所妨。<br>济济之士，为酒所伤。<br>蒿草之下，或有兰香。<br>茅茨之屋，或有侯王。<br>无限朱门生饿殍，几多白屋出卿相。<br>醉后乾坤大，壶中日月长。<br>万事皆已定，浮生空白茫。<br>千里送毫毛，礼轻仁义重。<br>一人传虚，百人传实。<br>世事明如镜，前程暗似漆。<br>光阴黄金难买，一世如驹过隙。<br>良田万顷，日食一升。<br>大厦千间，夜眠八尺。<br>千经万典，孝义为先。<br>一字入公门，九牛拖不出。<br>衙门八字开，有理无钱莫进来。<br>富从升合起，贫因不算来。<br>家中无才子，官从何处来。<br>万事不由人计较，一生都是命安排。<br>急行慢行，前程只有多少路。<br>人间私语，天闻若雷。<br>暗室亏心，神目如电。<br>一毫之恶，劝人莫作。<br>一毫之善，与人方便。<br>欺人是祸，饶人是福。<br>天眼恢恢，报应甚速。<br>圣贤言语，神钦鬼伏。<br>人各有心，心各有见。<br>口说不如身逢，耳闻不如目见。<br>养军千日，用在一朝。<br>国清才子贵，家富小儿骄。<br>利刀割体痕易合，恶语伤人恨不消。<br>公道世间唯白发，贵人头上不曾饶。<br>有钱堪出众，无衣懒出门。<br>为官须作相，及第必争先。<br>苗从地发，树向枝分。<br>父子和而家不退，兄弟和而家不分。<br>官有正条，民有和约。<br>闲时不烧香，急时抱佛脚。<br>幸生太平无事日，恐逢年老不多时。<br>国乱思良将，家贫思贤妻。<br>池塘积水须防旱，田地勤耕足养家。<br>根深不怕风摇动，树正无愁月影斜。<br>奉劝君子，各宜守己。<br>只此呈示，万无一失。</p>
-]]></content>
-      <categories>
-        <category>Article</category>
-      </categories>
   </entry>
   <entry>
     <title>学术上的老人与海 | 张五常 | Share</title>
@@ -3523,6 +3543,20 @@ Hello world.
 ]]></content>
   </entry>
   <entry>
+    <title>增广贤文</title>
+    <url>/posts/d41c0df3/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>《增广贤文》又名《昔时贤文》、《古今贤文》。书名最早见之于明代万历年间的戏曲《牡丹亭》，据此可推知此书最迟写成于万历年间。后经明、清两代文人不断增补，才成现在这个模样，称《增广昔时贤文》，通称《增广贤文》。作者未见任何书载，只知清同治年间儒生周希陶曾进行过重订。</p>
+</blockquote>
+<span id="more"></span>
+
+<p>昔时贤文，诲汝谆谆，集韵增广，多见多闻。<br>观今宜鉴古，无古不成今。<br>知己知彼，将心比心。<br>酒逢知己饮，诗向会人吟。<br>相识满天下，知心能几人。<br>相逢好似初相识，到老终无怨恨心。<br>近水知鱼性，近山识鸟音。<br>易涨易退山溪水，易反易覆小人心。<br>运去金成铁，时来铁似金，读书须用意，一字值千金。<br>逢人且说三分话，未可全抛一片心。<br>有意栽花花不发，无心插柳柳成阴。<br>画虎画皮难画骨，知人知面不知心。<br>钱财如粪土，仁义值千金。<br>流水下滩非有意，白云出岫本无心。<br>当时若不登高望，谁信东流海洋深。<br>路遥知马力，事久见人心。<br>两人一般心，无钱堪买金，一人一般心，有钱难买针。<br>相见易得好，久住难为人。<br>马行无力皆因瘦，人不风流只为贫。<br>饶人不是痴汉，痴汉不会饶人。<br>是亲不是亲，非亲却是亲。<br>美不美，乡中水，亲不亲，故乡人。<br>莺花犹怕春光老，岂可教人枉度春。<br>相逢不饮空归去，洞口桃花也笑人。<br>红粉佳人休使老，风流浪子莫教贫。<br>在家不会迎宾客，出外方知少主人。<br>黄芩无假，阿魏无真。<br>客来主不顾，应恐是痴人。<br>贫居闹市无人问，富在深山有远亲。<br>谁人背后无人说，哪个人前不说人。<br>有钱道真语，无钱语不真。<br>不信但看筵中酒，杯杯先劝有钱人。<br>闹里有钱，静处安身。<br>来如风雨，去似微尘。<br>长江后浪推前浪，世上新人赶旧人。<br>近水楼台先得月，向阳花木早逢春。<br>莫道君行早，更有早行人。<br>莫信直中直，须防仁不仁。<br>山中有直树，世上无直人。<br>自恨枝无叶，莫怨太阳偏。<br>大家都是命，半点不由人。<br>一年之计在于春，一日之计在于晨，一家之计在于和，一生之计在于勤。<br>责人之心责己，恕己之心恕人。<br>守口如瓶，防意如城。<br>宁可人负我，切莫我负人。<br>再三须慎意，第一莫欺心。<br>虎生犹可近，人熟不堪亲。<br>来说是非者，便是是非人。<br>远水难救近火，远亲不如近邻。<br>有茶有酒多兄弟，急难何曾见一人。<br>人情似纸张张薄，世事如棋局局新。<br>山中也有千年树，世上难逢百岁人。<br>力微休负重，言轻莫劝人。<br>无钱休入众，遭难莫寻亲。<br>平生莫作皱眉事，世上应无切齿人。<br>士者国之宝，儒为席上珍。<br>若要断酒法，醒眼看醉人。<br>求人须求大丈夫，济人须济急时无。<br>渴时一滴如甘露，醉后添杯不如无。<br>久住令人贱，频来亲也疏。<br>酒中不语真君子，财上分明大丈夫。<br>出家如初，成佛有馀。<br>积金千两，不如明解经书。<br>养子不教如养驴，养女不教如养猪。<br>有田不耕仓廪虚，有书不读子孙愚。<br>仓廪虚兮岁月乏，子孙愚兮礼义疏。<br>听君一席话，胜读十年书。<br>人不通今古，马牛如襟裾。<br>茫茫四海人无数，哪个男儿是丈夫。<br>白酒酿成缘好客，黄金散尽为收书。<br>救人一命，胜造七级浮屠。<br>城门失火，殃及池鱼。<br>庭前生瑞草，好事不如无。<br>欲求生富贵，须下死工夫。<br>百年成之不足，一旦败之有馀。<br>人心似铁，官法如炉。<br>善化不足，恶化有馀。<br>水太清则无鱼，人至察则无徒。<br>知者减半，省者全无。<br>在家由父，出家从夫。<br>痴人畏妇，贤女敬夫。<br>是非终日有，不听自然无。<br>宁可正而不足，不可邪而有馀。<br>宁可信其有，不可信其无。<br>竹篱茅舍风光好，道院僧堂终不如。<br>命里有时终须有，命里无时莫强求。<br>道院迎仙客，书堂隐相儒。<br>庭栽栖凤竹，池养化龙鱼。<br>结交须胜己，似我不如无。<br>但看三五日，相见不如初。<br>人情似水分高下，世事如云任卷舒。<br>会说说都是，不会说无礼。<br>磨刀恨不利，刀利伤人指。<br>求财恨不得，财多害自己。<br>知足常足，终身不辱。<br>知止常止，终身不耻。<br>有福伤财，无福伤己。<br>差之毫厘，失之千里。<br>若登高必自卑，若涉远必自迩。<br>三思而行，再思可矣。<br>使口不如自走，求人不如求己。<br>小时是兄弟，长大各乡里。<br>妒财莫妒食，怨生莫怨死。<br>人见白头嗔，我见白头喜。<br>多少少年亡，不到白头死。<br>墙有缝，壁有耳。<br>好事不出门，恶事传千里。<br>贼是小人，知过君子。<br>君子固穷，小人穷斯滥也。<br>贫穷自在，富贵多忧。<br>不以我为德，反以我为仇。<br>宁向直中取，不可曲中求。<br>人无远虑，必有近忧。<br>知我者谓我心忧，不知我者谓我何求。<br>晴天不肯去，只待雨淋头。<br>成事莫说，覆水难收。<br>是非只为多开口，烦恼皆因强出头。<br>忍得一时之气，免得百日之忧。<br>近来学得乌龟法，得缩头时且缩头。<br>惧法朝朝乐，欺公日日忧。<br>人生一世，草生一春。<br>黑发不知勤学早，白首方悔读书迟。<br>月到十五光明少，人到中年万事休。<br>儿孙自有儿孙福，莫为儿孙作马牛。<br>人生不满百，常怀千岁忧。<br>今朝有酒今朝醉，明日愁来明日忧。<br>路逢险处难回避，事到头来不自由。<br>药能医假病，酒不解真愁。<br>人贫不语，水平不流。<br>一家有女百家求，一马不行百马忧。<br>有花方酌酒，无月不登楼。<br>三杯通大道，一醉解千愁。<br>深山毕竟藏猛虎，大海终须纳细流。<br>惜花须检点，爱月不梳头。<br>大抵选他肌骨好，不擦红粉也风流。<br>受恩深处宜先退，得意浓时便可休。<br>莫待是非来入耳，从前恩爱反为仇。<br>留得五湖明月在，不愁无处下金钩。<br>休别有鱼处，莫恋浅滩头。<br>去时终须去，再三留不住。<br>忍一句，息一怒，饶一着，退一步。<br>三十不豪，四十不富，五十将来寻死路。<br>生不论魂，死不认尸。<br>父母恩深终有别，夫妻义重也分离。<br>人生似鸟同林宿，大限来时各自飞。<br>人善被人欺，马善被人骑。<br>人无横财不富，马无野草不肥。<br>人恶人怕天不怕，人善人欺天不欺。<br>善恶到头终有报，只争来早与来迟。<br>黄河尚有澄清日，岂可人无得运时。<br>得宠思辱，安居虑危。<br>念念有如临敌日，心心常似过桥时。<br>英雄行险道，富贵似花枝。<br>人情莫道春光好，只怕秋来有冷时。<br>送君千里，终须一别。<br>但将冷眼看螃蟹，看你横行到几时。<br>见事莫说，问事不知。<br>闲事休管，无事早归。<br>假缎染就真红色，也被旁人说是非。<br>善事可作，恶事莫为。<br>许人一物，千金不移。<br>龙生龙子，虎生豹儿。<br>龙游浅水遭虾戏，虎落平阳被犬欺。<br>一举首登龙虎榜，十年身到凤凰池。<br>十年窗下无人问，一举成名天下知。<br>酒债寻常行处有，人生七十古来稀。<br>养儿待老，积谷防饥。<br>鸡豚狗彘之畜，无失其时。<br>数家之口，可以无饥矣。<br>常将有日思无日，莫把无时当有时。<br>时来风送滕王阁，运去雷轰荐福碑。<br>入门休问荣枯事，观看容颜便得知。<br>官清书吏瘦，神灵庙祝肥。<br>息却雷霆之怒，罢却虎狼之威。<br>饶人算人之本，输人算人之机。<br>好言难得，恶语易施。<br>一言既出，驷马难追。<br>道吾好者是吾贼，道吾恶者是吾师。<br>路逢侠客须呈剑，不是才人莫献诗。<br>三人同行，必有我师，择其善者而从之，其不善者而改之。<br>少壮不努力，老大徒悲伤。<br>人有善愿，天必佑之。<br>莫饮卯时酒，昏昏醉到酉。<br>莫骂酉时妻，一夜受孤凄。<br>种麻得麻，种豆得豆。<br>天眼恢恢，疏而不漏。<br>见官莫向前，做客莫在后。<br>宁添一斗，莫添一口。<br>螳螂捕蝉，岂知黄雀在后。<br>不求金玉重重贵，但愿儿孙个个贤。<br>一日夫妻，百世姻缘。<br>百世修来同船渡，千世修来共枕眠。<br>杀人一万，自损三千。<br>伤人一语，利如刀割。<br>枯木逢春犹再发，人无两度再少年。<br>未晚先投宿，鸡鸣早看天。<br>将相胸前堪走马，公候肚里好撑船。<br>富人思来年，穷人思眼前。<br>世上若要人情好，赊去物件莫取钱。<br>死生有命，富贵在天。<br>击石原有火，不击乃无烟。<br>为学始知道，不学亦徒然。<br>莫笑他人老，终须还到老。<br>但能依本分，终须无烦恼。<br>君子爱财，取之有道。<br>贞妇爱色，纳之以礼。<br>善有善报，恶有恶报。<br>不是不报，日子不到。<br>人而无信，不知其可也。<br>一人道好，千人传实。<br>凡事要好，须问三老。<br>若争小可，便失大道。<br>年年防饥，夜夜防盗。<br>学者如禾如稻，不学者如蒿如草。<br>遇饮酒时须饮酒，得高歌处且高歌。<br>因风吹火，用力不多。<br>不因渔父引，怎得见波涛。<br>无求到处人情好，不饮从他酒价高。<br>知事少时烦恼少，识人多处是非多。<br>入山不怕伤人虎，只怕人情两面刀。<br>强中更有强中手，恶人须用恶人磨。<br>会使不在家豪富，风流不用着衣多。<br>光阴似箭，日月如梭。<br>天时不如地利，地利不如人和。<br>黄金未为贵，安乐值钱多。<br>世上万般皆下品，思量唯有读书高。<br>世间好语书说尽，天下名山僧占多。<br>为善最乐，为恶难逃。<br>羊有跪乳之恩，鸦有反哺之义。<br>你急他未急，人闲心不闲。<br>隐恶扬善，执其两端。<br>妻贤夫祸少，子孝父心宽。<br>既坠釜甑，反顾无益。<br>翻覆之水，收之实难。<br>人生知足何时足，人老偷闲且是闲。<br>但有绿杨堪系马，处处有路透长安。<br>见者易，学者难。<br>莫将容易得，便作等闲看。<br>用心计较般般错，退步思量事事难。<br>道路各别，养家一般。<br>从俭入奢易，从奢入俭难。<br>知音说与知音听，不是知音莫与弹。<br>点石化为金，人心犹未足。<br>信了肚，卖了屋。<br>他人观花，不涉你目。<br>他人碌碌，不涉你足。<br>谁人不爱子孙贤，谁人不爱千钟粟。<br>莫把真心空计较，五行不是这题目。<br>与人不和，劝人养鹅。<br>与人不睦，劝人架屋。<br>但行好事，莫问前程。<br>河狭水急，人急计生。<br>明知山有虎，莫向虎山行。<br>路不行不到，事不为不成。<br>人不劝不善，钟不打不鸣。<br>无钱方断酒，临老始看经。<br>点塔七层，不如暗处一灯。<br>万事劝人休瞒昧，举头三尺有神明。<br>但存方寸土，留与子孙耕。<br>灭却心头火，剔起佛前灯。<br>惺惺常不足，懵懵作公卿。<br>众星朗朗，不如孤月独明。<br>兄弟相害，不如自生。<br>合理可作，小利莫争。<br>牡丹花好空入目，枣花虽小结实成。<br>欺老莫欺小，欺人心不明。<br>随分耕锄收地利，他时饱满谢苍天。<br>得忍且忍，得耐且耐。<br>不忍不耐，小事成大。<br>相论逞英雄，家计渐渐退。<br>贤妇令夫贵，恶妇令夫败。<br>一人有庆，兆民咸赖。<br>人老心未老，人穷志莫穷。<br>人无千日好，花无百日红。<br>杀人可恕，情理难容。<br>乍富不知新受用，乍贫难改旧家风。<br>座上客常满，樽中酒不空。<br>屋漏更遭连年雨，行船又遇打头风。<br>笋因落箨方成竹，鱼为奔波始化龙。<br>记得少年骑竹马，看看又是白头翁。<br>礼义生于富足，盗贼出于贫穷。<br>天上众星皆拱北，世间无水不朝东。<br>君子安贫，达人知命。<br>忠言逆耳利于行，良药苦口利于病。<br>顺天者存，逆天者亡。<br>人为财死，鸟为食亡。<br>夫妻相合好，琴瑟与笙簧。<br>有儿贫不久，无子富不长。<br>善必寿老，恶必早亡。<br>爽口食多偏作药，快心事过恐生殃。<br>富贵定要安本分，贫穷不必枉思量。<br>画水无风空作浪，绣花虽好不闻香。<br>贪他一斗米，失却半年粮。<br>争他一脚豚，反失一肘羊。<br>龙归晚洞云犹湿，麝过春山草木香。<br>平生只会量人短，何不回头把自量。<br>见善如不及，见恶如探汤。<br>人贫志短，马瘦毛长。<br>自家心里急，他人未知忙。<br>贫无达士将金赠，病有高人说药方。<br>触来莫与说，事过心清凉。<br>秋至满山多秀色，春来无处不花香。<br>凡人不可貌相，海水不可斗量。<br>清清之水，为土所妨。<br>济济之士，为酒所伤。<br>蒿草之下，或有兰香。<br>茅茨之屋，或有侯王。<br>无限朱门生饿殍，几多白屋出卿相。<br>醉后乾坤大，壶中日月长。<br>万事皆已定，浮生空白茫。<br>千里送毫毛，礼轻仁义重。<br>一人传虚，百人传实。<br>世事明如镜，前程暗似漆。<br>光阴黄金难买，一世如驹过隙。<br>良田万顷，日食一升。<br>大厦千间，夜眠八尺。<br>千经万典，孝义为先。<br>一字入公门，九牛拖不出。<br>衙门八字开，有理无钱莫进来。<br>富从升合起，贫因不算来。<br>家中无才子，官从何处来。<br>万事不由人计较，一生都是命安排。<br>急行慢行，前程只有多少路。<br>人间私语，天闻若雷。<br>暗室亏心，神目如电。<br>一毫之恶，劝人莫作。<br>一毫之善，与人方便。<br>欺人是祸，饶人是福。<br>天眼恢恢，报应甚速。<br>圣贤言语，神钦鬼伏。<br>人各有心，心各有见。<br>口说不如身逢，耳闻不如目见。<br>养军千日，用在一朝。<br>国清才子贵，家富小儿骄。<br>利刀割体痕易合，恶语伤人恨不消。<br>公道世间唯白发，贵人头上不曾饶。<br>有钱堪出众，无衣懒出门。<br>为官须作相，及第必争先。<br>苗从地发，树向枝分。<br>父子和而家不退，兄弟和而家不分。<br>官有正条，民有和约。<br>闲时不烧香，急时抱佛脚。<br>幸生太平无事日，恐逢年老不多时。<br>国乱思良将，家贫思贤妻。<br>池塘积水须防旱，田地勤耕足养家。<br>根深不怕风摇动，树正无愁月影斜。<br>奉劝君子，各宜守己。<br>只此呈示，万无一失。</p>
+]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
+  </entry>
+  <entry>
     <title>与科研中的挫败感和谐共处</title>
     <url>/posts/7e24545e/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="心态上"><a href="#心态上" class="headerlink" title="心态上"></a>心态上</h1><ol>
@@ -3543,40 +3577,6 @@ Hello world.
       <categories>
         <category>Research</category>
       </categories>
-  </entry>
-  <entry>
-    <title>文献管理软件：Zotero</title>
-    <url>/posts/69297f5/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>可以用来管理文献的工具有很多,比如 Mendeley, EndNote, NoteExpress 等。但是，经过相当长一段时间的摸索，我发现最好用的还是 Zotero。</p>
-<p>Zotero至少有如下优点：</p>
-<ol>
-<li>开源，更新活跃</li>
-<li>丰富的插件</li>
-<li>强大的检索功能</li>
-<li>支持多级文件夹</li>
-</ol>
-<span id="more"></span>
-
-<p><span class="exturl" data-url="aHR0cHM6Ly93d3cuem90ZXJvLm9yZy9zdXBwb3J0L2tiL2tleWJvYXJkX3Nob3J0Y3V0cw==">Zotero 5.0 Keyboard Shortcuts<i class="fa fa-external-link-alt"></i></span> </p>
-<h1 id="Plugin"><a href="#Plugin" class="headerlink" title="Plugin"></a>Plugin</h1><ul>
-<li><span class="exturl" data-url="aHR0cDovL3pvdGZpbGUuY29tLw==">ZotFile<i class="fa fa-external-link-alt"></i></span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly9yZXRvcnF1ZS5yZS96b3Rlcm8tYmV0dGVyLWJpYnRleC8=">Better BibTeX<i class="fa fa-external-link-alt"></i></span></li>
-</ul>
-<h1 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h1><ul>
-<li><em><strong>How can I see what collections my item is in?</strong></em></li>
-</ul>
-<p>To see all the collections an item is in, select the item and then hold down the Option key (macOS), Control key (Windows), or Alt key (Linux). This will highlight all collections that contain the selected item. [<span class="exturl" data-url="aHR0cHM6Ly93d3cuem90ZXJvLm9yZy9zdXBwb3J0L2tiL2NvbGxlY3Rpb25zX2NvbnRhaW5pbmdfYW5faXRlbQ==">source<i class="fa fa-external-link-alt"></i></span>]</p>
-<ul>
-<li><em><strong>How can I move an item to another collection?</strong></em></li>
-</ul>
-<p>To move items between collections, hold down Cmd (Mac) or Shift (Windows/Linux) when dragging items to the new collection.</p>
-]]></content>
-      <categories>
-        <category>Tool</category>
-      </categories>
-      <tags>
-        <tag>Scientist</tag>
-      </tags>
   </entry>
   <entry>
     <title>【转载】你真的懂得如何学习吗？</title>
@@ -3615,6 +3615,26 @@ Hello world.
       </tags>
   </entry>
   <entry>
+    <title>完美主义 Perfectionism</title>
+    <url>/posts/56d5708d/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>偶然看到一句话,”莽撞地开始，拙劣地完成，也好过因为心怀完美主义而迟迟不动手去做”。这句话所描述地观点无可厚非，但随之而来一个问题，“什么是完美主义”？</p>
+<span id="more"></span>
+
+<p>Wikipedia对完美主义的定义是：Perfectionism, in psychology, is a broad personality style characterized by a person’s concern with striving for flawlessness and perfection and is accompanied by <strong>critical self-evaluations and concerns regarding others’ evaluations</strong>. Perfectionism drives people to be concerned with achieving <strong>unattainable ideals or unrealistic goals</strong>, often leading to many forms of adjustment problems such as depression, anxiety, OCD, low self-esteem, suicidal thoughts and tendencies and a host of other psychological, physical, relationship, and achievement problems in children, adolescents, and adults, although perfectionist sights can reduce stress, anxiety, and panic.</p>
+<p>完美主义来自于掩盖自己的自卑。</p>
+<h1 id="延伸阅读"><a href="#延伸阅读" class="headerlink" title="延伸阅读"></a>延伸阅读</h1><ol>
+<li>刘文兴,车玉洁,王海江,孙奥.职场完美主义：研究述评与展望[J].珞珈管理评论,2021(04):89-108.</li>
+</ol>
+]]></content>
+      <categories>
+        <category>心理学</category>
+      </categories>
+      <tags>
+        <tag>心理</tag>
+        <tag>性格</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>张志顺八部金刚功</title>
     <url>/posts/c879afe2/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
@@ -3631,26 +3651,6 @@ Hello world.
       </categories>
       <tags>
         <tag>锻炼</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>完美主义 Perfectionism</title>
-    <url>/posts/56d5708d/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>偶然看到一句话,”莽撞地开始，拙劣地完成，也好过因为心怀完美主义而迟迟不动手去做”。这句话所描述地观点无可厚非，但随之而来一个问题，“什么是完美主义”？</p>
-<span id="more"></span>
-
-<p>Wikipedia对完美主义的定义是：Perfectionism, in psychology, is a broad personality style characterized by a person’s concern with striving for flawlessness and perfection and is accompanied by <strong>critical self-evaluations and concerns regarding others’ evaluations</strong>. Perfectionism drives people to be concerned with achieving <strong>unattainable ideals or unrealistic goals</strong>, often leading to many forms of adjustment problems such as depression, anxiety, OCD, low self-esteem, suicidal thoughts and tendencies and a host of other psychological, physical, relationship, and achievement problems in children, adolescents, and adults, although perfectionist sights can reduce stress, anxiety, and panic.</p>
-<p>完美主义来自于掩盖自己的自卑。</p>
-<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ol>
-<li>刘文兴,车玉洁,王海江,孙奥.职场完美主义：研究述评与展望[J].珞珈管理评论,2021(04):89-108.</li>
-</ol>
-]]></content>
-      <categories>
-        <category>心理学</category>
-      </categories>
-      <tags>
-        <tag>心理</tag>
-        <tag>性格</tag>
       </tags>
   </entry>
   <entry>
