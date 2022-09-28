@@ -16,9 +16,8 @@
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha256-AbA177XfpSnFEvgpYu1jMygiLabzPCJCRIBtR5jGc0k=" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"lichuang.me","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.13.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":false,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}}</script><script src="/js/config.js"></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"lichuang.me","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.13.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":true,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":false,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
 
 
@@ -71,6 +70,7 @@
 
   <div class="site-nav-right">
     <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
     </div>
   </div>
 </div>
@@ -79,11 +79,37 @@
 
 <nav class="site-nav">
   <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags<span class="badge">45</span></a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories<span class="badge">23</span></a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">78</span></a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
   </ul>
 </nav>
 
 
 
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
 
 </div>
         
@@ -240,9 +266,9 @@
 <p>大多数人在痛苦时不愿反思，而一旦痛苦消失，他们的注意力就会转移，所以他们难以通过反思得到教益。如果你在痛苦时就能好好反思（这个要求也许太高），这非常好。如果你能够记得在痛苦消失后进行反思，这也很有价值。</p>
 <p>你面临的挑战将会考验你，强化你。如果你没有经历过失败，就说明你没有努力突破极限，而如果你不努力突破极限，你就不能最大限度地挖掘自己的潜能。努力突破极限有时失败有时成功，但总能带来益处。虽然这种做法不一定适合所有人，但假如适合你，那将会是一种美妙的体验，令人沉迷。生活不可避免地会带给你这样的考验，而你愿不愿意不断去尝试，取决于你自己。</p>
 <p>如果你选择在这条常常很痛苦的个人进化之路上拼搏，你将自然而然地不断“更上一层楼”。当你越过包围你的事物，到达了更高一层的境界，你就会发现，其实那些事物并没有你近看时所以为的那么重要。生活中的大多数东西都不过是“同类情况的重演”。你的层次越高，就能更加有效地应对现实，塑造符合你目标的结果。而曾经看起来无比复杂的东西，也会变得简单。</p>
-<img src='https://github.com/lichuang52001/oss/blob/master/uPic/2020-10-30-progress.png?raw=true' width="50%">
+<img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2020-10-30-progress.png?raw=true' width="50%">
 
-<img src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-16-mistakes.png?raw=true' width="50%">
+<img data-src='https://github.com/lichuang52001/oss/blob/master/uPic/2021-06-16-mistakes.png?raw=true' width="50%">
 
 <hr>
 <p>不管你的特性是什么，总是有很多条道路适合你，所以不要固守一条道路。如果某条特定的路走不通，你只需要找到另一条适合自己特性的路。</p>
@@ -254,9 +280,9 @@
 <li>不要让痛苦妨碍进步。 </li>
 <li>不要把不好的结果归咎于任何人，从自己身上找原因。</li>
 </ol>
-<img src='https://mmbiz.qpic.cn/mmbiz_png/QWVkSicmpIpniaichFFtOcSsANO0YBpNZn4SItmWLVnaoZslAJzM4AXHHe3S9v1pqoObQoGHgfkzugVXCI1icJ6eiag/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1' width="50%">
+<img data-src='https://mmbiz.qpic.cn/mmbiz_png/QWVkSicmpIpniaichFFtOcSsANO0YBpNZn4SItmWLVnaoZslAJzM4AXHHe3S9v1pqoObQoGHgfkzugVXCI1icJ6eiag/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1' width="50%">
 
-<img src='https://mmbiz.qpic.cn/mmbiz_png/QWVkSicmpIpmjmlJYBBDrPYgISkic3yP410vquzD1okLB16U0UKys3YJ1th9icOUst4fMrMPRthAUib7td79IIskQw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1' width="50%">
+<img data-src='https://mmbiz.qpic.cn/mmbiz_png/QWVkSicmpIpmjmlJYBBDrPYgISkic3yP410vquzD1okLB16U0UKys3YJ1th9icOUst4fMrMPRthAUib7td79IIskQw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1' width="50%">
 
     </div>
 
@@ -313,15 +339,16 @@
 
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/medium-zoom/1.0.6/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js" integrity="sha256-mOFREFhqmHeQbXpK2lp4nA3qooVgACfh88fpJftLBbc=" crossorigin="anonymous"></script>
 <script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/next-boot.js"></script>
 
   
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.0/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
 
 
 
-  <script src="/js/third-party/fancybox.js"></script>
 
 
   

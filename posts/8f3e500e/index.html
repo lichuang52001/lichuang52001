@@ -16,9 +16,8 @@
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha256-AbA177XfpSnFEvgpYu1jMygiLabzPCJCRIBtR5jGc0k=" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"lichuang.me","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.13.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":false,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}}</script><script src="/js/config.js"></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"lichuang.me","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.13.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":true,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":false,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
 
 
@@ -71,6 +70,7 @@
 
   <div class="site-nav-right">
     <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
     </div>
   </div>
 </div>
@@ -79,11 +79,37 @@
 
 <nav class="site-nav">
   <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags<span class="badge">45</span></a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories<span class="badge">23</span></a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">78</span></a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
   </ul>
 </nav>
 
 
 
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
 
 </div>
         
@@ -246,7 +272,7 @@
 <p>学术上梦寐以求的巨鱼，追寻了三十多年，当初是幻想，今天仍在幻想。生命本来就是这样的吧。海明威的《老人与海》可不是胡乱写出来的。</p>
 <hr>
 <p>张五常教授简介</p>
-<img src='https://5b0988e595225.cdn.sohucs.com/images/20190430/986912fc52664a40bef60eafc2d36f13.jpeg' width='50%'>
+<img data-src='https://5b0988e595225.cdn.sohucs.com/images/20190430/986912fc52664a40bef60eafc2d36f13.jpeg' width='50%'>
 
 <p>张五常，世界著名经济学家，新制度经济学的创始人之一，在交易费用和合约理论研究等方面有卓越贡献。一九三五年十二月一日生于香港。五九年入读美国洛杉矶加州大学经济系，师从现代产权经济学创始人阿尔钦(Armen Alchian)，八年后获博士学位。一九六五至八二年，先后在美国加州长堤大学、芝加哥大学及华盛顿大学任教，六六年得加州最佳教授奖，六七年得芝加哥大学政治经济学奖。一九七六至八二年间，曾分别兼任美国电讯及标准石油公司顾问。一九八二年返港任香港大学经济学讲座教授，后创立经济金融学院并出任院长，至二○○○年退休。在港大任教期间，同时担任香港高级程度会考经济科主考，前后主导香港高考的价格理论三十年。一九九一年，诺贝尔奖颁奖前夕，在瑞典斯德哥尔摩代表经济学获奖人罗纳德‧科斯(Ronald H. Coase)讲话。一九九七年任哈伯格周年荣誉讲座 (Annual Arnold C. Harberger Distinguished Lecture)首位讲者，同年出任美国西方经济学会(Western Economic Association)会长。自一九七九年起至今，张五常教授长期亲身跟进中国经济发展。</p>
 <p>张五常教授著作甚多。求学时凭《佃农理论》(The Theory of Share Tenancy)在经济学界崭露头角。返港后，以中文下笔，在报章写下一系列专栏文章，影响遍及华文世界，后结集成《卖桔者言》、《中国的前途》、《再论中国》等畅销作品。二○○一至○二年出版三卷本《经济解释》(二○一○年起至今在修订中)，二○○五年出版学术文集《张五常英语论文选》(Economic Explanation: Selected Papers of Steven N.S. Cheung)，二者被认为是集张五常平生学术功力之大成、并具有深远影响的经济学经典著作。二○○八年为科斯写小书《中国的经济制度》，以县际竞争解释中国经济奇蹟，大获好评。在经济学，张教授的兴趣只限于解释世事，他少用数学，喜欢赤手空拳，凭自己改进了的基础价格理论纵横天下。经济学以外，张教授在摄影、书法、收藏及散文均开天闢地，自成一家。</p>
@@ -303,15 +329,16 @@
 
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/medium-zoom/1.0.6/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js" integrity="sha256-mOFREFhqmHeQbXpK2lp4nA3qooVgACfh88fpJftLBbc=" crossorigin="anonymous"></script>
 <script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/next-boot.js"></script>
 
   
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.0/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
 
 
 
-  <script src="/js/third-party/fancybox.js"></script>
 
 
   
